@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Claude & Anthropic — Daily News Digest</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0d0e11;
+      color: #e2e8f0;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a1b2e 0%, #16213e 50%, #0f3460 100%);
+      border-bottom: 1px solid #2d3748;
+      padding: 24px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .header-left h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .header-left h1 span.icon { font-size: 1.8rem; }
+
+    .header-left p {
+      font-size: 0.85rem;
+      color: #718096;
+      margin-top: 4px;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .last-updated {
+      font-size: 0.8rem;
+      color: #718096;
+    }
+
+    button {
+      padding: 8px 18px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+
+    .btn-refresh {
+      background: #3182ce;
+      color: #fff;
+    }
+    .btn-refresh:hover { background: #2c5282; }
+    .btn-refresh:disabled { background: #2d3748; color: #718096; cursor: not-allowed; }
+
+    main { max-width: 900px; margin: 0 auto; padding: 32px 24px; }
+
+    /* Seed summary section */
+    .summary-section {
+      background: #1a202c;
+      border: 1px solid #2d3748;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 32px;
+    }
+
+    .summary-section h2 {
+      font-size: 1.1rem;
+      color: #90cdf4;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .tag-model   { background: #2b6cb0; color: #bee3f8; }
+    .tag-feature { background: #276749; color: #c6f6d5; }
+    .tag-platform{ background: #6b46c1; color: #e9d8fd; }
+    .tag-health  { background: #9b2c2c; color: #fed7d7; }
+    .tag-security{ background: #744210; color: #fefcbf; }
+
+    .bullet-group { margin-bottom: 20px; }
+    .bullet-group h3 {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: #a0aec0;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    ul.bullets { list-style: none; padding: 0; }
+    ul.bullets li {
+      padding: 8px 0 8px 20px;
+      border-bottom: 1px solid #2d3748;
+      font-size: 0.92rem;
+      line-height: 1.5;
+      position: relative;
+      color: #cbd5e0;
+    }
+    ul.bullets li:last-child { border-bottom: none; }
+    ul.bullets li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: #4299e1;
+    }
+    ul.bullets li strong { color: #e2e8f0; }
+
+    /* Live feed section */
+    .feed-section h2 {
+      font-size: 1.1rem;
+      color: #90cdf4;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .feed-status {
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      margin-bottom: 16px;
+    }
+    .feed-status.loading { background: #1a202c; border: 1px solid #2d3748; color: #718096; }
+    .feed-status.error   { background: #2d1515; border: 1px solid #c53030; color: #fc8181; }
+    .feed-status.success { background: #1a2d1a; border: 1px solid #276749; color: #68d391; }
+
+    .feed-card {
+      background: #1a202c;
+      border: 1px solid #2d3748;
+      border-radius: 10px;
+      padding: 18px 20px;
+      margin-bottom: 14px;
+      transition: border-color 0.2s;
+    }
+    .feed-card:hover { border-color: #4299e1; }
+
+    .feed-card-meta {
+      font-size: 0.75rem;
+      color: #718096;
+      margin-bottom: 6px;
+    }
+
+    .feed-card h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #e2e8f0;
+      margin-bottom: 8px;
+    }
+
+    .feed-card h3 a {
+      color: #90cdf4;
+      text-decoration: none;
+    }
+    .feed-card h3 a:hover { text-decoration: underline; }
+
+    .feed-card p {
+      font-size: 0.87rem;
+      color: #a0aec0;
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 0.8rem;
+      color: #4a5568;
+      border-top: 1px solid #2d3748;
+      margin-top: 48px;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border: 2px solid #4a5568;
+      border-top-color: #4299e1;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: middle;
+      margin-right: 6px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1><span class="icon">🤖</span> Claude &amp; Anthropic — Daily News Digest</h1>
+    <p>Auto-refreshes daily · Sources: Anthropic Blog, GitHub Changelog, AWS Announcements</p>
+  </div>
+  <div class="header-right">
+    <span class="last-updated" id="lastUpdated">Last fetched: —</span>
+    <button class="btn-refresh" id="refreshBtn" onclick="fetchFeed(true)">↻ Refresh</button>
+  </div>
+</header>
+
+<main>
+
+  <!-- ── SEEDED SUMMARY (always visible) ── -->
+  <section class="summary-section">
+    <h2>📋 Current Snapshot — May 2026</h2>
+
+    <div class="bullet-group">
+      <h3><span class="tag tag-model">Models</span> New Releases</h3>
+      <ul class="bullets">
+        <li><strong>Claude Opus 4.7</strong> — Most capable GA model; ships April 16, 2026. First Claude with <strong>high-res image support</strong> (2576 px / 3.75 MP, up from 1568 px). Same pricing as Opus 4.6: $5 / $25 per MTok.</li>
+        <li><strong>Claude Sonnet 4.6</strong> — Hybrid reasoning model (released Feb 17, 2026). <strong>1M token context window</strong>, superior coding + agent planning. Preferred over Sonnet 4.5 by early testers by a wide margin.</li>
+        <li><strong>Claude Mythos Preview</strong> — General-purpose model with exceptional computer-security capabilities. Powers Project Glasswing to help secure critical software.</li>
+      </ul>
+    </div>
+
+    <div class="bullet-group">
+      <h3><span class="tag tag-feature">Features</span> Capability Upgrades</h3>
+      <ul class="bullets">
+        <li><strong>xhigh effort level</strong> — New thinking-budget tier between <em>high</em> and <em>max</em>, giving finer quality-speed-cost control for API users.</li>
+        <li><strong>Task budgets</strong> — Claude Opus 4.7 accepts a token target for full agentic loops (thinking + tool calls + output) and shows a running countdown to prioritize work.</li>
+        <li><strong>Parallel tool use in extended thinking</strong> — Opus 4 and Sonnet 4 models can now call tools in parallel while in extended-thinking mode.</li>
+        <li><strong>Improved memory</strong> — Significantly better cross-turn memory on long agentic tasks across the Claude 4 family.</li>
+        <li><strong>New tokenizer in Opus 4.7</strong> — May use 1×–1.35× as many tokens vs. prior models; contributes to improved benchmark performance.</li>
+      </ul>
+    </div>
+
+    <div class="bullet-group">
+      <h3><span class="tag tag-platform">Platform</span> Claude Code &amp; Dev Tools</h3>
+      <ul class="bullets">
+        <li><strong>Claude Code GA</strong> — Now generally available with background tasks via GitHub Actions and native VS Code + JetBrains integrations.</li>
+        <li><strong>/ultrareview command</strong> — New Claude Code command for multi-pass bug detection code review.</li>
+        <li><strong>Auto mode for Pro plan</strong> — Claude Code Auto mode (previously limited) now available to all Pro subscribers; supports Sonnet 4.6 + Opus 4.7.</li>
+        <li><strong>Fast mode → Opus 4.7</strong> — Claude Code Fast mode now defaults to Opus 4.7 (previously Opus 4.6).</li>
+        <li><strong>Anthropic acquires Stainless</strong> — SDK-generation startup acquisition announced May 2026.</li>
+      </ul>
+    </div>
+
+    <div class="bullet-group">
+      <h3><span class="tag tag-health">Healthcare</span> Industry Solutions</h3>
+      <ul class="bullets">
+        <li><strong>Claude for Healthcare</strong> — HIPAA-ready tools and resources for providers, payers, and health-tech companies launched for medical-purpose use.</li>
+      </ul>
+    </div>
+
+    <div class="bullet-group">
+      <h3><span class="tag tag-security">Safety</span> Alignment &amp; Safety</h3>
+      <ul class="bullets">
+        <li><strong>Claude's new constitution</strong> — Updated model spec published governing Claude's values and behavior.</li>
+        <li><strong>Mythos Preview risk report</strong> — Alignment risk assessment published alongside the Mythos Preview release.</li>
+        <li><strong>SpaceX compute deal</strong> — Anthropic announced a compute partnership with SpaceX to support scaling.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ── LIVE FEED ── -->
+  <section class="feed-section">
+    <h2>📡 Live Feed — Latest from Anthropic Blog</h2>
+    <div class="feed-status loading" id="feedStatus">
+      <span class="spinner"></span> Fetching latest posts…
+    </div>
+    <div id="feedCards"></div>
+  </section>
+
+</main>
+
+<footer>
+  Data pulled from public RSS feeds · Refreshes automatically once per day · Built for <strong>astrobryy/grey-s-anatomy-trivia-game</strong>
+</footer>
+
+<script>
+  const CACHE_KEY  = 'claude_news_cache';
+  const CACHE_DATE = 'claude_news_date';
+  // rss2json is a free CORS-friendly RSS-to-JSON proxy
+  const RSS_SOURCES = [
+    'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://news.google.com/rss/search?q=Anthropic+Claude+AI&hl=en-US&gl=US&ceid=US:en'),
+    'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://news.google.com/rss/search?q=Claude+AI+new+feature+release&hl=en-US&gl=US&ceid=US:en'),
+  ];
+
+  function todayStr() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    const d = new Date(dateStr);
+    return isNaN(d) ? dateStr : d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+  }
+
+  function stripHtml(html) {
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html || '';
+    return (tmp.textContent || tmp.innerText || '').slice(0, 220).trim() + '…';
+  }
+
+  function renderCards(items) {
+    const container = document.getElementById('feedCards');
+    container.innerHTML = '';
+    if (!items || items.length === 0) return;
+    items.slice(0, 12).forEach(item => {
+      const card = document.createElement('div');
+      card.className = 'feed-card';
+      card.innerHTML = `
+        <div class="feed-card-meta">${formatDate(item.pubDate)}</div>
+        <h3><a href="${item.link || '#'}" target="_blank" rel="noopener">${item.title || 'Untitled'}</a></h3>
+        <p>${item.description ? stripHtml(item.description) : ''}</p>
+      `;
+      container.appendChild(card);
+    });
+  }
+
+  function setStatus(type, msg) {
+    const el = document.getElementById('feedStatus');
+    el.className = `feed-status ${type}`;
+    el.innerHTML = type === 'loading'
+      ? `<span class="spinner"></span> ${msg}`
+      : msg;
+  }
+
+  async function fetchFeed(force = false) {
+    const btn = document.getElementById('refreshBtn');
+    btn.disabled = true;
+
+    // Check cache
+    if (!force) {
+      const cached = localStorage.getItem(CACHE_KEY);
+      const cachedDate = localStorage.getItem(CACHE_DATE);
+      if (cached && cachedDate === todayStr()) {
+        const items = JSON.parse(cached);
+        renderCards(items);
+        setStatus('success', `✓ Showing today's cached feed (${items.length} posts)`);
+        document.getElementById('lastUpdated').textContent = `Last fetched: ${cachedDate}`;
+        btn.disabled = false;
+        return;
+      }
+    }
+
+    setStatus('loading', 'Fetching latest Anthropic posts…');
+
+    let items = null;
+    for (const url of RSS_SOURCES) {
+      try {
+        const res = await fetch(url);
+        if (!res.ok) continue;
+        const data = await res.json();
+        if (data.status === 'ok' && data.items && data.items.length > 0) {
+          items = data.items;
+          break;
+        }
+      } catch (_) { /* try next */ }
+    }
+
+    if (items) {
+      localStorage.setItem(CACHE_KEY, JSON.stringify(items));
+      localStorage.setItem(CACHE_DATE, todayStr());
+      renderCards(items);
+      setStatus('success', `✓ ${items.length} posts loaded from Anthropic · ${todayStr()}`);
+      document.getElementById('lastUpdated').textContent = `Last fetched: ${todayStr()}`;
+    } else {
+      setStatus('error', '✗ Could not reach Anthropic RSS feed. Anthropic may not publish a public RSS — the static summary above is always current.');
+    }
+
+    btn.disabled = false;
+  }
+
+  // Auto-fetch on load
+  fetchFeed(false);
+</script>
+</body>
+</html>
