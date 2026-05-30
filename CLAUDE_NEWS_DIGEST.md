@@ -1,69 +1,169 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-05-29 11:21 UTC  
+> **Generated:** 2026-05-30 09:51 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [Anthropic Soars to $965 Billion Valuation, Overtaking OpenAI in AI Funding Race - inc.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1pYYmw0VFM4RFQ0cUVZd20taEUxX3NLRUxjQ29jWUU2MXRiVGZIa2ZGZEc0M0VUbDZDOVI5MklyS051VXRmcDVHMEdfSDFRWFY0akU5cEpMYUJfODUzbjJQYWY4RVdtY0JRTzM5aWpNTTk2blE1bDNWTi1fVGdkSE9fVVlBVlJpOUljV3VEYUlHZnVLcUJhTVlzWE93R0ZpRTZ5WDRmblFsTlRiVUhlUFo3RmFqZlNEWlVhTjMtR3BLMEU?oc=5)
+### [Anthropic Releases Claude Opus 4.8 With Effort Controls and Dynamic Workflows for Claude Code - gHacks](https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2VrWjZzay0yNXBLTmdkbnZBTGR4Q0ZnYzdOd3BwYTBaNXFUdENoMnJqa0hUWDRFTHdmSzFGRGo0TTJWX2hWWFJGTTZ1OWtUMU1rekI2dkI3YW9wRTRPZDlQZXVXajVHbEtZajY4WVM3QWZraVVqZS1lQnNuNE5VNXJ4NGgybWRtdFFzcGRGXzlDUHJXZ09RdUxDSlp2UUZJaVRTSWNvUlNWRWJJU19EQnNHOThaOTc4VER2bzhHNXE5dm1qNy1v?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+Anthropic Releases Claude Opus 4.8 With Effort Controls and Dynamic Workflows for Claude Code&nbsp;&nbsp;gHacks
+
+### [Anthropic surpasses OpenAI to become world’s most valuable AI startup - Qazinform](https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3c3ek5Ob25KbTY3YUE5V0w3eHpRLUNsU3dnZHN2OXg1QUdVNDMtNEVWNWFTQ3ZwQm9lNXFxNlNyeHZwMXUwMnJrQm9Nekl5MVJPTF9seTZzZ00taHRGWTRmWjBXUXpaTDlmZXpXTHpLWTJXRlhLdGVyQ3hQSUZMNkYzTmh6SWhYWGZORHBPN2s4YmFjWjg5clo4VdIBmwFBVV95cUxNNVFVRVVfTzIyb1VmSG51amg1dlNQeENfem9RckEtd0RseTh1djhJX2JuY1dGVFFCX3k4MmcyaTFWVEhHTzZ6MTJQekFkSExlblRZT3R1aGlXOFJaQmVyZ1ZnN3lfTFY2ZDJNUkJoT0psYzVIZmljNzREZnJjWnk0TElVc2Zzd3JUdVp5cXhCMTY0WmhxS09VdENTYw?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+Anthropic surpasses OpenAI to become world’s most valuable AI startup&nbsp;&nbsp;Qazinform
+
+### [Anthropic Says New Claude Opus 4.8 Catches 4 Times More Of Its Errors - Yellow.com](https://news.google.com/rss/articles/CBMiakFVX3lxTFBlUlZIc1JVWWRnYTdLcFhYRkkyNTBoQVNiYlBHUThWUW1xVlYzcnJxcjF4RWVjdVh1cmZhRExHYUpBOTU5S25pNkZRSVNXTjFBajZSRUhNUDR1MUR1SHFzRHlFQlJQRkRneFE?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+Anthropic Says New Claude Opus 4.8 Catches 4 Times More Of Its Errors&nbsp;&nbsp;Yellow.com
+
+### [AI: Anthropic Opus 4.8 out, Microsoft's Github Copilot re-build, Google's AGI Timelines & More. AI-RTZ #1102. - AI: Reset to Zero](https://news.google.com/rss/articles/CBMifEFVX3lxTE4yT29jZkRkSXdJREFMdV9mS3VSQ1NsOUhNNlRfQnExM1RFdG5OaGFSVDg5aklhWW9lbDRKRmoxSEs5a3dmbThRVkNHWFIxS1pNVEhndkVZY2Y0aDNlTUF1a1hfaDZSdHpRYVZuM3lBUFFIUlZGNXBTNE9kUk4?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+AI: Anthropic Opus 4.8 out, Microsoft's Github Copilot re-build, Google's AGI Timelines & More. AI-RTZ #1102.&nbsp;&nbsp;AI: Reset to Zero
+
+### [Anthropic Releases Claude Opus 4.8 With Faster, Higher-Effort Modes - Let's Data Science](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEF2c3NvT2F2MEkyVXFlckFDdlYwSkp5dTlmUEN3QnlMRURDeVFTZXlHNWNTNmNfYTRvSmMtS0RCSTlsek5nOXB6cXJSVlZIUW9ub2tCWFd3b3BVSGRVNXk2MUJlVHdxWklnd1JZM2ZUU1dDUEdyNWRPODEtWnJjR2dvaUZUandCQ2VXbFhWOFJEc1JLZkVpcHBvS2F6dVlycEdZ?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+Anthropic Releases Claude Opus 4.8 With Faster, Higher-Effort Modes&nbsp;&nbsp;Let's Data Science
+
+### [Amidst Codex's Strong Performance... Anthropic Releases Claude Opus 4.8 Just 42 Days Later - Inven Global](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEUzX00zLTM0QVM1LUs5cWNIRFRmOG5uUUFqWkFaQmF4R0I5bzNMSHJYZ0hTSzdmRUNFU2dTclVfbHZnZHhKWWM0bkwzbTh4QTNFY2hqY1BLTklHMU9WNVVKSFNHSGFaWDZEZE1qQnBLQlpURlRtYTcxamdUaENWOU9wLXdKbE5ULVFteFJJZF9XTkFETF9oTlJHcGZUVE9ESHdqS2F1MjFoUG9ucW8yZjJJdWtqVUNHSllTb2JkamRWTzlvMmJF?oc=5)
+*May 30, 2026 · Google News – Anthropic Claude*
+
+Amidst Codex's Strong Performance... Anthropic Releases Claude Opus 4.8 Just 42 Days Later&nbsp;&nbsp;Inven Global
+
+### [Anthropic becomes most valuable AI firm after $65bn funding round - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWZDMlhiWjQ2MERWd0xqaXlRdEV3UHR4U3BqLTk2Zm5jMzA0NEszRC1VbU5KNzhiZ0dtOF9waURYTmtSWFJRRXZEOHh4cVotMnpXZEpnWW5yLUlVNDlPcFJjS3Z5Q1o1YTJ5T1JyTmJLbzVPR3Rub2F6eW1XVElVTVNJWTFya1U4cWs5VVJoZXRoaWFIUVNEb1FfNVp0My1Ud295N2hB?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
-Anthropic Soars to $965 Billion Valuation, Overtaking OpenAI in AI Funding Race&nbsp;&nbsp;inc.com
+Anthropic becomes most valuable AI firm after $65bn funding round&nbsp;&nbsp;Yahoo Finance
 
-### [Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How - BeInCrypto](https://news.google.com/rss/articles/CBMiakFVX3lxTE01RzhQNkJGRWI4LURCTENtN2JReU4wRDlkRy1qRmRpVExJN2FqeGlKYkRkVk9iUmtpd0hQbC11cVk5U1BLMFE2MGZlNEdYWXU2eU1UNmI0d0lhaTNvakdJblNtMk9WYWtvRHc?oc=5)
+### [Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global](https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
-Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How&nbsp;&nbsp;BeInCrypto
+Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model&nbsp;&nbsp;KED Global
+
+### [The New Claude Opus 4.8 Just Dropped — It Was Trained to Be More 'Honest' and Stop 'Jumping to Conclusions' - entrepreneur.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG44UFVQU2o4RXdNLUpmS05KS09vVllYeUl6MkV1VzhVZmZ5YUZLVC1JYlRqTkNEMXRrV2FNVEZic2Q2LVJLQUtTOWQ1SjVaSXNuZ0pDcTdYTC15c0JCRFZjbmhhUUx6X3NRZTdVem5wT1VqcjdJNDNwbG9idm0tWTc5M0QxQWd2SEVqeEV4c3ptNWhwVWQxWDFxMnJRcG9XeVJMVFRmZGphOEhZRU52YXJR?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+The New Claude Opus 4.8 Just Dropped — It Was Trained to Be More 'Honest' and Stop 'Jumping to Conclusions'&nbsp;&nbsp;entrepreneur.com
+
+### [Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know. - Investor's Business Daily](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzVtZGtuN3d3OVlxWFprajQ4YlUxamtlbUVXd3Q4dTltN25VMjY4V09hU3Z0N3FZYW1Fc2otOHEyTXZ3UEloOUJZWnpQQ25QYU85cWU2bnNFZU84VDRHMU84NmxSdDFQRHo4V05uVWhjNmlpcWhHWDFXUzRwb3dfQ1dGUUVKT1ZuTmp1VTdTRWFTU1dxLUNiUFhSemNLbVV1UEp3MnNUbzdqdw?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic Leapfrogs OpenAI In Valuation. But Here's One Thing To Know.&nbsp;&nbsp;Investor's Business Daily
+
+### [Anthropic’s Guarded Mythos Model Is Headed For Wider Release - Forbes](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUtDMmFiMmFTcWJoNG5WN3Bmc0x2X1RTNzVOUkVsSnVPS3R3TzktREZkUDAyWW1yTS1RSUtLUVBqbTdOTW5RQ051eWFldUFJeUhZejhhQ0k0S1lTZ3pMT1hCZ1dPcWlsekRxQTN3YkNiUHJSel9zcjVkMVZucFNMZ0ZwcmVyaFE1REhMQTdfbElSUXJJdHdqa3lXVzJjbElrekp2cUNxZXEzVFN2bHlhWExlZw?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s Guarded Mythos Model Is Headed For Wider Release&nbsp;&nbsp;Forbes
+
+### [Anthropic Soars to a $965-Billion Valuation, Overtaking OpenAI in the AI Funding Race - inc.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1pYYmw0VFM4RFQ0cUVZd20taEUxX3NLRUxjQ29jWUU2MXRiVGZIa2ZGZEc0M0VUbDZDOVI5MklyS051VXRmcDVHMEdfSDFRWFY0akU5cEpMYUJfODUzbjJQYWY4RVdtY0JRTzM5aWpNTTk2blE1bDNWTi1fVGdkSE9fVVlBVlJpOUljV3VEYUlHZnVLcUJhTVlzWE93R0ZpRTZ5WDRmblFsTlRiVUhlUFo3RmFqZlNEWlVhTjMtR3BLMEU?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic Soars to a $965-Billion Valuation, Overtaking OpenAI in the AI Funding Race&nbsp;&nbsp;inc.com
+
+### [The Hidden $500M AI Disaster No Tech Giant Wants To Admit - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1E1Sk5kM0FEMHg4c1FnZk1GR0RxcXg1MjRHWC1td01ZYktkQlJIUk5PYlRDc0FQc3VweEpDa3BmQ3pXeVR2VVExc0E5bGRVVWpfWnZQdlVOMFE3S05tY20zUVNYcWxfRHE0Q1JvZGtpckI3SGhENkk4T1dpQm5Mdk9TS1VhV0gtaGtvaEFDRllNSWl1empfSUJHRQ?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+The Hidden $500M AI Disaster No Tech Giant Wants To Admit&nbsp;&nbsp;Yahoo Finance
+
+### [Anthropic Bests OpenAI in Valuation Race, Hitting $965B - Morningstar](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEtVVFE2bDRveHIybDNrZWFkNzZjbDRrUU9WT0VDZkkyeGhKbGdDVWpDV016TGJlQmw5dlZzZUREa0JOeG40Z0hnSWxtRXFjMERqTnBoQjI4OVJFZWJtQ0ZvZWFrRVJIQ3Nmemk5QTRqdS1KYUlETWQ1bzR3NmJVU2ttNjh0SFFyNkd4aWhn?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic Bests OpenAI in Valuation Race, Hitting $965B&nbsp;&nbsp;Morningstar
+
+### [Anthropic drops new Claude model as OpenAI IPO race heats up - thestreet.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0h6RTlkc3ZYdUk0SGJENTI2OUdBcHJZV0xSc3Z0Y2t2dFhHblhCa2pPcUNlalFOQkZYSmVnOV95dnJieVVNbmc0cmtuVjRJdmdMWm90ZTk4WXhrdFZxNlRLaXdndmQwNjJJNFVWdGVtX1Y0VGtYYUZibjFYT0syS0h6UlU5eUphZmRyLXhSdFZqajhsY2xKbnlROHNFZw?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic drops new Claude model as OpenAI IPO race heats up&nbsp;&nbsp;thestreet.com
+
+### [Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon - Fortune](https://news.google.com/rss/articles/CBMigwJBVV95cUxOcFEtdXBqZTVzYmttUEV0QkRlRnBVbnRPSEczVVcxWUtIdGxCY3EzQ3F0ZkRZcGJ0X01tblF0T3JoUENiSDhXWW5IcGJnMHpwZDJoT0R4Z3pzWlo1aWZ2VV9fcDJPWHJralVLbVA3d1B6YmlDb1BOOGc1Y2lINUxuV213QWZMNUtES0E4am1DNFN0X0x5RUQwTmF3dkt4aWRCbURBQTRmOXloQXFzVlllMzFlVDRUaGxkRXd6djdtZkJlRmNHbnpwYlAtemYtVndEU2lhVHVwVlJ1czRVNzNoX3YtSXppOG16SEd6ZzVvTkROMFFxcGUwT3owNG5TNmdnWkk4?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon&nbsp;&nbsp;Fortune
+
+### [Anthropic releases Claude Opus 4.8, hints Mythos is coming - qz.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVWtpZnRrcEsxTlpqeklPZmxSNUlZdHJOMzhqV0JHUFJUdXYwazd4ek4tUVNSRi1ZSUp5d3lIekdZUDFZcVBVYWVhOEN0dmRXT0VQYTMtWVJMMTZFU0NyU0JOYTdwdkdGaUxCV2x1Yw?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic releases Claude Opus 4.8, hints Mythos is coming&nbsp;&nbsp;qz.com
+
+### [Anthropic overtakes OpenAI to become world's most valuable AI company - Mashable](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHlVcWp1VmwwY0VOTDJqRm45Ymo0Qy1ZYzQweElNOUtTOTh1LWpJTVJVb2NBRFpMTXBjcTZXR01TRFAyNzJ2dHlCa0RDMld2aGJVaHR5ZWJ1TnVUUEJONGZyel9WZUdqWjZ5VjYwWkJ5eGpkM2JoYjk5WVFxQ0V4dGdDSU41M2RT?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic overtakes OpenAI to become world's most valuable AI company&nbsp;&nbsp;Mashable
+
+### [The company spent $500 million on Anthropic's AI model Claude in a single month due to a lack of spending lim - Mezha](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yMll0Q0gxM2pzRS1EWEV1SHVhNlM2RWVVMTZZUWR2aFFTSkVGQlRUbXEyR01MQ245MlBNSUxGTUppN0ZtSml4QV9iZWpfOEs4TDdkREwwdGlGQktSbXNOUXhISHVUOGVE0gFuQVVfeXFMUHptRkwwNGJucG1HMHhaVDBBdlhubUlFWVVQRm1GVXhublZmZHBEZW1fdXBQR0pUMFlwQmNYUlZwc3BhenhycWJ1NVpJdGVTSWZRbjNsSHRBNzRvb2JvWi1jV0RwT0dCbGF6N0Z4R1E?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+The company spent $500 million on Anthropic's AI model Claude in a single month due to a lack of spending lim&nbsp;&nbsp;Mezha
+
+### [Anthropic launches Claude Opus 4.8 with stronger coding performance - The American Bazaar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0ItdDRhdG9HZ0tDelJ3YUtRN2I5Z0tSRlVza3A0VW5yMDJ1U2xRMUlYODFHUjIwcUp0ODhnaDZ2c2VuN0F1SnBwdW1OdEpkVDJaR2xwN3dqWkdwaHNiZVBrTTVBRUNhTXZtVUZqMmZnN21zaUpmb0dlcXRsbFRSZVAtNEktb1RYWldvaTgwdktLRFJRTWl1bGhoanhuSFlybUVSZkhKUzJ6Y2c?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches Claude Opus 4.8 with stronger coding performance&nbsp;&nbsp;The American Bazaar
+
+### [Fujitsu's Dual AI Deal: Claude for Defence & ChatGPT for Ops - Cyber Magazine](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGp1VEt6bTBBU1pTZzdsZU52a2g0X2RTaTZmR0lKOUpSOU9ZbE91XzZJcTZ4LWJ2NTdBYjVKX0xKblBFSDZOeVU3c01xUmJqT3FEOW5zeTZvSXlfUmxIbUFoWktCcDlXWXVFWmotX2hkUDQtUkI4T2J5cEFRT3dyMGpPVDZ4V01lYl8yWkx2Y0Y?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Fujitsu's Dual AI Deal: Claude for Defence & ChatGPT for Ops&nbsp;&nbsp;Cyber Magazine
+
+### [TRON enables asset movement via Claude AI interface with Symbiosis integration - Crypto Briefing](https://news.google.com/rss/articles/CBMickFVX3lxTFBzeGxqZC1RbFUyS2hYTG9xYURjNENGYWcxbVZHTXFWWHN4SmNKa1NQeF8zdnVITnZ0bGNJN09mWEhiZ1k1eDdhXzV4SU92LVprMFhEYm1YbUpjbzJkdFJFNEQyUXRWM21aaHRyaXMzX0t0UQ?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+TRON enables asset movement via Claude AI interface with Symbiosis integration&nbsp;&nbsp;Crypto Briefing
+
+### [Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI&nbsp;&nbsp;Yahoo Finance
+
+### [The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVMdnBMem1lN0JjcGN6XzZTSG9jQjljZnFRcS1US29WNXhGVUhWaG1zVHhmdU9ydWRmMTgxM3dlMlVUWGFTR1o3V1p0RHVEWEI4Y2JLeGQ3V3RURndJTGtKWEk3V1V1ajRoRVhhSzVYdkEtbWdEaTZmeERqN1VLQXlxOA?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+The $900 Billion Giant: How Anthropic Got So Big, So Fast&nbsp;&nbsp;The New York Times
+
+### [Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7 - Technology Org](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnVZZDRHa0ZEUzlJNGNMcS01NzA3U25HeFVkaklKbDV0UWJzeHFyUi1vQlAtNDJNUmpQYWdVQWVkZS1xc0xyTjZaZ2hQODNSRzBicU5aVUdnYnpQcnFKeVFuaktfZ1RmLVc1SDR3VWdrbk5IVm1tVjhNSzhfenlxZUEwNjZGN1ZnUEE?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic Releases Claude Opus 4.8 With Dynamic Workflows, Just 41 Days After Opus 4.7&nbsp;&nbsp;Technology Org
+
+### [Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXR1M1VnRWg1dDZRYnR1bkFsRFBDWUpQTTRvalJ4MnhCOXg3NGJGd1Y0UzJvYzFaOThwaXVPZng4aUwtVzVxTmlIZmtDaFhnSU9qVTE4Tmp3bkc4bnVPYXcwdXVuZVBYX01RcXU3aFdtX01jZXhiU2ViajF4Xzk1WFBnRHY2d3Z1dG5weXVVYmVEbEg3djNocllOLTRJSXpzdHA0UGZCMVg0Zw?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Client Accidentally Burns $500 Million on Claude AI in One Month: Here’s How&nbsp;&nbsp;Yahoo Finance
 
 ### [Anthropic releases Claude Opus 4.8 - AI News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNybmJkWXhJX2FCQVpwVjdmRGduY2ZCeEsyWFpCMXRvQWhhZUZmSnl0bnhPTkVJY1pSQ2w3UTR5S0J4cGZXN2VGcHJscy1URm9zMzdlbEltd3NrWWRFcEFSSXFWOFZkSXVfRm1uZ1V4OVloaUZNMFdzY1kwNFZ2dk1nNThXZHpqeWZPeEtSVm1qZHM?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
 Anthropic releases Claude Opus 4.8&nbsp;&nbsp;AI News
 
-### [Anthropic valuation nears $1tn after record AI funding round - The European Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY?oc=5)
+### [Claude maker Anthropic valued at nearly $1tn after record AI funding round - The European Magazine](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRYd1VIbl9fQ0V2MmhqZEg4X0U3alkycGMtakVadkJBcmFNaWxtc3Zwc2xPbERMV2FXNTZjVncyd2JydWoyQ0NFTC02X3BLM21yeVgzMjRVdGNvSmtLRHBJWldFc2Zwd292T09VQVFpX1dRR19FLXRBTUV6Qzh4bG5yNF9qRXNZVENFd1pwUWU2WEVaeGdJUDE4OHZsZTRtdnF4VWtKeFowWl9jTWNVMDRCbnY?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
-Anthropic valuation nears $1tn after record AI funding round&nbsp;&nbsp;The European Magazine
-
-### [Anthropic launches dynamic workflows for Claude Code - TestingCatalog AI News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlZLNGxUX0ZqMHNKdnhCaWcwUk5VX3ZXU2Z5cGRRYlJfLThCQ1JsTzhtaEM0Qzk3eXdpUmZOLWFESkNOTUMwZGNFY3pqd3A2QjRGcXdOMEpuMUlmZ2k1akFHa20yemxtRUhCNEJxbG9RQnlpUENHeWRLbHhyR2lsRURoWUlmQmR0NlBVTQ?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches dynamic workflows for Claude Code&nbsp;&nbsp;TestingCatalog AI News
+Claude maker Anthropic valued at nearly $1tn after record AI funding round&nbsp;&nbsp;The European Magazine
 
 ### [Anthropic launches Claude Opus 4.8 and new effort selector - TestingCatalog AI News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0ZVaFpxYlhRSXpZRzgzbHZDX0F6U29odWw1dnBhZVlkanh0S3VibUlKQmhJQm5UWEY2VUE1LU4xMlpYT0l2dDlPUWQtQU9tUlloQTRieGN2TnRYMXVRNnFVT01NcHMxaXhjSTctUFdMSkNMS1B2U0lvYjJwMlpydVpYVE9hUTZkSHlPZy13Z3MzTHNZ?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
+*May 29, 2026 · Google News – Claude features*
 
 Anthropic launches Claude Opus 4.8 and new effort selector&nbsp;&nbsp;TestingCatalog AI News
 
-### [😺 Claude Opus 4.8 got safer today - The Neuron](https://news.google.com/rss/articles/CBMickFVX3lxTE15ZFNSWGJjVGxUaHdZaVNSMXI3QU9zcGFISWJKeGlDTDFNcm5vVnpZdTVURnZaN2ZzQ29JdTRqX3JTb29fOTNJaWZBQUxHREl2OVBhNjdJMGd6UTQ3NE91WFBOSWJ4SXpZS1pBeHF2TTJaZw?oc=5)
+### [The AI Boom Has Entered Its 'Wait, Is This Worth It?' Era - Derek Thompson | Substack](https://news.google.com/rss/articles/CBMicEFVX3lxTE5pbnFnM2pCVk8xSUI3YVYyWFBiTUZLTTc4bmh4MnNjV3pYdkR3Qlc5Ml8zNjMyV2lmejhNZ191RTJoaURZQmxXTTI2TlN6MnZQSEhjcUc3TGFvM1ZONlJIRWxaTlNNZUwxb2YxdW9OeVU?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
-😺 Claude Opus 4.8 got safer today&nbsp;&nbsp;The Neuron
+The AI Boom Has Entered Its 'Wait, Is This Worth It?' Era&nbsp;&nbsp;Derek Thompson | Substack
+
+### [Anthropic overtakes OpenAI as the most valuable AI startup - Axios](https://news.google.com/rss/articles/CBMickFVX3lxTE1PUnJYZ1V2cDA4MFFqTlFlOVdfZUFIb1JUeWZKc0d4Tm1GWWhBRlJtTXZIN0hkb3BLYkIzRmxCZFJIUE5Yak9PZDdvNE00VFhoWU1UZVMxbkdtVXFBS05SQmV4TVdpOGxaaUd3V0p6WTRuQQ?oc=5)
+*May 29, 2026 · Google News – Anthropic Claude*
+
+Anthropic overtakes OpenAI as the most valuable AI startup&nbsp;&nbsp;Axios
 
 ### [Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees - Tom's Hardware](https://news.google.com/rss/articles/CBMioAJBVV95cUxQV0hVVlFtTXYwNEY2RzkxeXhzYmppWGRUX2MxRVpSSENkTWdqT0dPdkw2bGJpTExyb2hmc2NpekMycF91SnBiaGYzb256dm11QkxSeExqS3E3YkpBUERxMElsbGU1WjRRM3V2QWNwQmpDYW1LeGtha21VU2Y3RHlNeGliSmdJZ2dabUpXdjliSmd0WklfLUlwMmpyTTVBeDJicWs1Nl9kZFZ5Zmp5WnVkZlkwQ3o2bkVXbTAyclNyVTlqX2VrU2hjRWxSY1JRdzROQWNYQ2Y1alEyZzItVEppLWJGVlhPejZjeE1Vc0hMa216QjNtUkFLR01NOWpYdkZucjAydlVWWVZkVWxkVG5rdFI3bWgtdElZcU42QnRIZDA?oc=5)
 *May 29, 2026 · Google News – Anthropic Claude*
 
 Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees&nbsp;&nbsp;Tom's Hardware
-
-### [Anthropic Unveils Dynamic Workflows for Claude Code - ForkLog](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hkRVFtNkJsTGxNcXRNdTRJaS01eDBaeVMzOGdvaGNRYnJodGxIbER3OF9Ca0FCRjkwRkRDNHloR20yZkdDQlcxRmJxQk5oSEludjdUdUZ0LXZucEdWYnpVQzEyalFPdHBwbEtWZVVuRzloYW5mdnJvY3M2OGQzVA?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic Unveils Dynamic Workflows for Claude Code&nbsp;&nbsp;ForkLog
-
-### [How Netskope’s Claude Integration At Netskope (NTSK) Has Changed Its Investment Story - Yahoo Finance Australia](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRW5XR29FV3NNQV9zc09ISnliNVk3NmQtRS16ZEZQSGZhVFBtdENMNWs4QllrcEdsOWhFOGZ1VU9xcF9lNzZtZUpXZXlyZ2hEeU9KTTJ2LUdJQWlqQi1MQk9xOTFoY0FNbVkycVRpOFl5cnVfT3lLajZvejhVd3BvX1c1U2NNbHhhd2ZUb2JaN3dHN2o2?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-How Netskope’s Claude Integration At Netskope (NTSK) Has Changed Its Investment Story&nbsp;&nbsp;Yahoo Finance Australia
-
-### [Anthropic just eclipsed OpenAI - The Rundown AI](https://news.google.com/rss/articles/CBMiakFVX3lxTE1UN1hzbGE5OTZ0R05xV2RsVFp2X095WElJMXNURURkcVZhT3BpTFdUS2YzeEdsdzZxY0JKbnI4ZXZ0eF9jSWpQODg5Wm96eklYTGtCWEhidHJqRDRXOVEzaU5jYmtmb21ocGc?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic just eclipsed OpenAI&nbsp;&nbsp;The Rundown AI
-
-### [Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges - Inquirer.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVndNYThUeVJOeHZoVEFpckF0OGF5aVZQelhnOXFLc1lMQXlueU1FWU5ucC1HQkZscmpsRXlsbmtiVHNrNFR2cks2RXVVZ19odW51NTVPZVhvT1hpb0FycnVVaXJseEx2YnBwOGNyMk82V3pSWGFzS09Fd2hRTzJtcFJybEFjUEhOcVc4LWQyZzFveWszc0E0eHNlcUlWdUptdm50bWhwNA?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges&nbsp;&nbsp;Inquirer.com
 
 ### [Claude Opus 4.8 Launches With Better Coding and AI Accuracy - SQ Magazine](https://news.google.com/rss/articles/CBMieEFVX3lxTE15d3Z5M0RuclpxVmhrZkdZOGVmS3kycExxT2VmX0l6bktEelRqZkI2STY1dVpSdlpRYkdUeUluSERCWWk4anhjMU5HQkhjMll5bmFJWW03RGlmTzF4YkNtcnRid3QzMEVuaTljdnBRLXhpd0NCRFJEdw?oc=5)
 *May 29, 2026 · Google News – Claude features*
@@ -75,25 +175,10 @@ Claude Opus 4.8 Launches With Better Coding and AI Accuracy&nbsp;&nbsp;SQ Magazi
 
 Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers&nbsp;&nbsp;Help Net Security
 
-### [Anthropic launches Opus 4.8 as "too risky" Mythos AI used by Amazon, Microsoft, and Apple goes public - Cybernews](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wQ1o0ZXpJQXFxbEpkeFFCZmY3Z0dPazJ6UHlvQVJ4T1ljQWFWY3JKYTdEQXlueFdTUG4tQnNwMlNXdnlVNE9mMlM2VTRWTlVZejBTdDBNWlA5cUJLNkViUHRleWFDOFMxZjN5eElMdFlNMk5haDNiNUtQOA?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches Opus 4.8 as "too risky" Mythos AI used by Amazon, Microsoft, and Apple goes public&nbsp;&nbsp;Cybernews
-
 ### [Anthropic’s most powerful Mythos-class AI model could soon reach all users - WION](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUZXWjhnMmoyUXFRLVFDY3NfWGdjUmRYeEFJSTBkUDY2QXFfdWdOdGFISDZFU0Npb2dOUVRmOVktUlJqQUt0Q2pvaTZWRVpwZHJsYnRHUjBzQVNDMWxpRV9ZY3Q5TmtmXzBsMWtHRXpYQzNmcEJhYjQ3Z0tGZjNOQnZLOHNsT3F2WlpockRzMDJ4M2xGaG5idUtPRk53ZmFCd01HREN0UklpMkc3QnVORXRLUjZ0VFpHbFBsTVJOYXHSAcYBQVVfeXFMT1RpenVvX0h4ZDU1SEk4WWF4al9YblpUUUU0NGUwREVuZndDNDMtbTlZZ1JxTzNUNEVNV1d3VW4wOHBhenpTMm9ockZGeDlfTmJCQnQ2dVpHdFNVTlRCWEozOHRzeWRDUk1JcHVlRUlfRjFyajhXVmR6dmZ0MFpJamoyQmZ5cE5CLUVrX2xBV3d4c1l0M1VYdFM3Smp0LVpHaUtkNFI4Q21zM2Q3MGx1dHJVc2piX2VCNllfREg4VG92NDJodXln?oc=5)
 *May 29, 2026 · Google News – Anthropic news*
 
 Anthropic’s most powerful Mythos-class AI model could soon reach all users&nbsp;&nbsp;WION
-
-### [Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global](https://news.google.com/rss/articles/CBMif0FVX3lxTE93aExISU5kYkdtQUpKbl9OZnhSQ1gyZmdaMUlWWHNlYjdiVXR1U0hLdC1EZUF4OEo2UmZFdVluM3NiUkJ1UzZSMUVTa1J5YW1ZME44akkxSWlmZDdwRkdFNlFaay0xWHFsTFJtdmdBNWgzN295OGFuZjlLclRCbVk?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model&nbsp;&nbsp;KED Global
-
-### [Anthropic upgrades Claude AI with Opus 4.8: What's new in flagship model - Business Standard](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUy1uc1h5TkdINldrelFzZ0x5N1M0Y1kzZDB0UHlMeG9uWG1TMjV0SzhHTnNZYU5LNWRrbXRFOEZ5Q3lBTFJfWFpnaXVhcjNjSnl1YVhWeXNsRWV6UDBjdGxRdy1jeFpGbWZDNGVsRVVLcjVhQzhxN2xiaDNlUkhqN3hDbG5BQXNteU4wQndtdTRwX2ZYZGpGbGFHT3Ntc21ZcldoRUFPR3NmdFRSSFdVaVoxVVpLeF95djBCelNXY2VvY3Uyd0M0TU10dnJqOGdqY25LMzczTzZuZ0lpTVRB0gHkAUFVX3lxTE9BTV9vQlJlTU5iWlhCWUR1WlFxYjBoUU5ieW92Rmo5cWJFQ3NhQWhyd2pnOVZsTkFwbnlXUHJZZk1OTUplUU9scnppYl9TdnZraXhBVHdfVEtySm9JU081UnhLNVY1cmlYN0VlYmhsOUlCMUJRclhsd2JJSS1RRV9UdHhiQ1JfU1djMDd5aGZmZGhXcGZIYUtIeDJyOWlWYXVHNW9IeU5qSGl0VXJuYzJnakk0VS1VWTZ1NzM4TXROaGw3ekhOV0Izd0FDVmxiR2NxUE5aUzFORjdKZllmRERVbXNsLQ?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic upgrades Claude AI with Opus 4.8: What's new in flagship model&nbsp;&nbsp;Business Standard
 
 ### [Anthropic rolls out Claude Opus 4.8 with improved reasoning and coding performance - FoneArena.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1F3Nll3enRJY0dRdmZCSmlyUm1ZdlpqY0s4M1Jxazl6bm91bVpTTWw1Z29jWHBJV0lsZ291VVVPRGRKb3NvbFpyNUJnNWZlTm1fazMwUEZndzVtek5nVGpndktDNGlmT3A3eEVkd2NNb2JIWXNkNUJVcGNYaEVUZ0Fsa9IBiAFBVV95cUxOSlhnNGtTSWtlMmwzZUdIczhDYWJ1ekxrd3U1X0g5R3E4SVJ5emNXLUoxM0tvYzAwbUNKMW5sOW5OU1lTWjR5Y1VGQ3ZRLTVIaG1ONjVSUzhJai1XNnFhR2pnQnpUUTJlRGRlNG9UVWcwMWUwVlotV2ZmdGJyeGFBeUlySWM0QWRr?oc=5)
 *May 29, 2026 · Google News – Anthropic news*
@@ -104,11 +189,6 @@ Anthropic rolls out Claude Opus 4.8 with improved reasoning and coding performan
 *May 29, 2026 · Google News – Anthropic Claude*
 
 Anthropic soars to $965bn valuation, leapfrogging OpenAI&nbsp;&nbsp;Al Jazeera
-
-### [Anthropic Launches Claude Opus 4.8 With New Agentic Features and Improvements - Tech Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNC1iaW9pcW9nc0J2M1JyMld0NWs0dXRIYV9DdjhpU0MyaGpVNzBYNWFuYmhaV3ZXWXdCQXVJT1dCQUs2U3BXNGl0ejlCcXR2T3RsT1VrTFMwb2ozMGhRMUxXaGlDdThlZUtkZDBwa1AwVHdDa0tUSUFNTEs3WjQwd3RjamVkOU1FSTktV0gyOEk5SV9fWDJ0a3VqVXUwZlVkZ1d6TEU2bWNwMXNnbGxXMXVZMlVCT1BoVGlaOFFqVQ?oc=5)
-*May 29, 2026 · Google News – Anthropic Claude*
-
-Anthropic Launches Claude Opus 4.8 With New Agentic Features and Improvements&nbsp;&nbsp;Tech Times
 
 ### [Claude Opus 4.8 launched with better coding, reasoning, and AI tools - YugaTech](https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2xOZEl1VEdIT042T3hSR1dBSmtYX1h0akhEU00tUFU1c21aT0pRREZqdU1uSXFfRmtvOWVUQkEwZnd6cEw5YUhPUjg2eEsyazlTczc3Z3NhLUhSVFBSbUpha0lTN1pjc21QZTJJVGhQbWxpZlhob0twSWZ6U2lBWUUwaG44WVNMQjgzeDZzUnlCMV9TTG5FR2dlQQ?oc=5)
 *May 29, 2026 · Google News – Claude features*
@@ -125,20 +205,15 @@ Client loses $500M on Claude due to uncapped AI usage&nbsp;&nbsp;Crypto Briefing
 
 Anthropic confirms Claude Mythos-class models will roll out to the public&nbsp;&nbsp;BleepingComputer
 
-### [Anthropic valued at close to a trillion dollars in new funding round - France 24](https://news.google.com/rss/articles/CBMitwFBVV95cUxOakFmSnFIa1BxWHJnTTQxeEh0VjhCOC1WbmRvbXU5Y1RHUXN1ckZQLWhJODIxWnJIQmRJZXV0MTlTNFpBMGVKWklwVWtrZ3BiWVR5aHFGby1SVThJYmJyZms0eFlNS3VoWlJCMUQ4T29CYzFHVVF3R0xqR0VwZW85NE5XYnp1dk5DZjlLSHZqNzdMaVljcXoyS3ZuVktodUh5NWZ4MmduYmpIdVRTU1kwZ2FtNEJPWmM?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic valued at close to a trillion dollars in new funding round&nbsp;&nbsp;France 24
-
 ### [As Anthropic launches Claude Opus 4.8, it raises $65B in new funding - SiliconANGLE](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUUwdjM3dlF6MTdQdGdMcDltMVBxTmUtYllKc2wwX1U5VGxVanBoSG9EeDQ4M0d6amlzMkxtOXVUc3NkTWRCTWVrZF9fNlJLNklsSFJKejFPSUZkRkJSTzEwNEhQdDFlT3ExRThGU3NEaHFiZkRSX2xUMjh2YTZ6X0wwV0xyUEtpNHJUNGZtTlRWeHJHdDFiOXFB?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
 As Anthropic launches Claude Opus 4.8, it raises $65B in new funding&nbsp;&nbsp;SiliconANGLE
 
-### [Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents - MarkTechPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV3l0eDNuRTdLY0dTVEFBOUlENXFrQWVBR2NvbzF3MmM4LTZidEd5eG9EdVBqSUlfRzhQQkVjNEJRNm1lamJwVnJGWWg4NFhCc2d3RkxucUF3azlzSkczUUFnVktsamNieVJNcFNSWEExbE5rRUd1UldBNTNuSmQ3RDdBaHpWdDQ0dmhRVEJTWmFJUEpQVnNSSHVrQVFSRm1VZDc0NDltQXBsTS1FbDU4Nmx0QWFuYkFuSWhWem9Gc19fTENhOXNMNkt5dG5vVFkxM0dYbDJIUEZzWU1oa3JCaUd0akgyRC11NEQ4R3lyNFZncEkx?oc=5)
+### [Introducing Claude Opus 4.8 - Anthropic](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
-Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents&nbsp;&nbsp;MarkTechPost
+Introducing Claude Opus 4.8&nbsp;&nbsp;AnthropicAnthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up&nbsp;&nbsp;Yahoo FinanceClaude Opus 4.8 is now available on AWS | Amazon Web Services&nbsp;&nbsp;Amazon Web Services (AWS)
 
 ### [Anthropic says Claude Opus 4.8 is more honest and better at coding - Interesting Engineering](https://news.google.com/rss/articles/CBMingFBVV95cUxQakc1SHd2UTFOTWQ2ZlhBRUlITVMtdklvTlNPbFYzc2xHVEdqb195OUtlTlRjRzl3aGgwWENkbnBEay03S09TdkNpRjhrcHBYRlJmZEs5MVVtTk43RlZWd2Q4dEdrZVNlVm5RdC1WSjlvSlByR0pUZDgzTUF5TUFmcjc1V2VGaU80Nl96S2dQLW15U2toNkFGckNWcjdjUQ?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -150,10 +225,10 @@ Anthropic says Claude Opus 4.8 is more honest and better at coding&nbsp;&nbsp;In
 
 Anthropic ships Claude Opus 4.8 as a "modest but tangible improvement" that tops GPT-5.5 in most benchmarks&nbsp;&nbsp;the-decoder.com
 
-### [Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise - Decrypt](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlJEemtTb0hzUTZ6SWZPQlN5MEZJN3hGSWtwam81R0VxMHlSVkNrUUNtZ0FGU0lKRndDZmZFODVtaXVrMUt1V3lSeVZscVYxY3k1ZHNzcDdneDYyYTMyX2tsOE15enl6UFVyTlZHVS1wSUxRSGNKeFVHY25jVkYxLWtpUWVCQ1JaWE55ZzQtcGI0UVFPWFFRVVNn0gGiAUFVX3lxTE8tRUlRaWFQMmZvcmZsb2VEVzQtUDZKZ0pib1B2cWZLRWxrU3RoMVVLemRnOV9wcTZKcURmU1hSVXo3R01MV2ZYbWlFN0RzT3ozTWtkVkROa0VWWUZBUVNuYzVJRUw5VG1TeW5YZEtiS3lLQlhaalVxcXQwOG1JaDk2ZloxOTFlX3RXTGN1OXFHVElHb3B4NlEzTnBZQlZJSm0tUQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
+### [Apollo Shops $36 Billion Debt Deal to Buy Google Chips for Anthropic - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3hEMFBxb3MwT210SW9FYS0xR1Q3dEtGcHZta1B3cWdXZklObmtZSEh1VjNIOXhrRnA2bjVRWTRmYnFmS2lRWTFnVFBBRkhlMmxqLWc5RzNmYl9wQ0pVVWtEUjJWbzdaSE9TVmtxNGNLZVFlQlFZNm9ObzdXaEVtMUN1dklOZVZjUHBzanRCa0NjelBxSnlicFUwMTFaUlgtSHV6dnNwZmV1X0tLTFJBTmg0bWNad05uRXc?oc=5)
+*May 28, 2026 · Google News – Anthropic news*
 
-Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise&nbsp;&nbsp;Decrypt
+Apollo Shops $36 Billion Debt Deal to Buy Google Chips for Anthropic&nbsp;&nbsp;Bloomberg.com
 
 ### [Anthropic Debuts Claude Opus 4.8, Teases Upcoming Launch of ‘Mythos-Class Models’ - Gizmodo](https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVBSODN4RU52MEtnREk3d3BQbzFGMTZqbXl6VFp5VndjRVp6VUZGU2ZOdDFld2wtSHZ5WHJBR0RUc28zNzlDWVIyVGx1TS1PRnJWblhsdi1va3ZpSjhXV19XaU5iTkp3UWp1SVBZNktaaDltcEhHXzdWNFZncWtxUjlCOGpRZ0tiNXl5SVZ1dllOUllJSWpnR1VaRGl0MHhyc1JZWndNc0RjRHI4TkE?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -200,35 +275,25 @@ Anthropic vaults to a $965 billion valuation with new funding as Claude demand s
 
 Claude Opus 4.8: Anthropic makes a more 'honest' AI&nbsp;&nbsp;Mashable SEA
 
-### [Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal - Legal Reader](https://news.google.com/rss/articles/CBMitwFBVV95cUxORk1HMkhiQldUSXFiR0ktYWkycGtxelY5a1RSRVY4NkFpTGh2c0hxTHNTMURPRWk2UTVnUnQzejRCZFI1el83VVZqcUFvR3BLLUpfQUNjNEZIaElZdk9QXzd2cnhvZzVKaFMxR05fV25pX3RoNURtZzJ6Z1dVTkZLUWRXLW52YmhOeThsak5jS2lRdHI5bDNFWDhNNjFoSkVpeHFBcmp0aVNvaE1ROWNTX1dULW5HVlk?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal&nbsp;&nbsp;Legal Reader
-
 ### [Anthropic’s Most Powerful—and Controversial—AI Model Is Officially Nearing Public Release - Android Headlines](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVFIWFhzZ2xEei10ci1CalhQdldackt5YWlZSG1jV1Q4SjQ3cWpzcVFpX3dfRk9nZFQ5WXBxUUVjcnZqdzVhdW4tWDR5MjI4aDl4cjVQdDc0Qm9Yd0tvR2R0S2JBS0JRa1p3RFowWGcyMTBsbUVCOXNIUjltcF9sR3VDaktCMVdnbUpocm1KQTNfbVZtM0Q4VWlmbGYxRTFzWlYzTWZhVnJiWmc?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
+*May 28, 2026 · Google News – Anthropic news*
 
 Anthropic’s Most Powerful—and Controversial—AI Model Is Officially Nearing Public Release&nbsp;&nbsp;Android Headlines
-
-### [Anthropic launches new Claude Opus 4.8 model as it overtakes OpenAI in valuation - Yahoo Tech](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanl1NEtYNVMxeHFKbGdTZ3haRmcwQld2cUxzYzZuS3VQRXNNRUktdUZOeGNEcnRvT0NDdWZQRTg3Y3MxWnZPSmlJcUxNOGdVMmFEUklaUUNySmlfbC1ERkJQX3lra3hKRlVSN3I1dUxOZ3BUZ2JyWENXREFIcFNQNGZMVmVkYmhiT0k2QmJMUmVZZUZKYlRUdjQteU9TcjFrN2tfU3NZb29XSnNmRG9CcUdRN2xVRUllOWEtS3ZIcHdZaWpXVlJ5MHBLdjNJX1JU?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches new Claude Opus 4.8 model as it overtakes OpenAI in valuation&nbsp;&nbsp;Yahoo Tech
 
 ### [Claude Opus 4.8 is learning to say AI’s three hardest words: “I don’t know” - PCWorld](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWNGUHYtaTQ2VHlvRmlGNFBUdTZqM20yNDZtV1Y5VzJoX08zVWQzNkJWMHR1U3FzS0JzaXhqUFZ2UGlmQk10emhoSnhKMUVQbzJGZmF2anRQcDItaFNQR2p5d3c5czhYN0V5SGdLX0hhUmNDMlp5Mk5JNlRtNWtvT044LTNPUWt5Uk9oS19TTFRURFFBRi1jb08zdjdBT3JqV0dZX205VGQ0QkhWTmFmRg?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Claude Opus 4.8 is learning to say AI’s three hardest words: “I don’t know”&nbsp;&nbsp;PCWorld
 
-### [Anthropic Valuation Nears $1 Trillion With Mythos Release Weeks Away - Barron's](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzFlb2pHb1R5WnJELXhPLXg0RFVYNHdOSElHZERIUXlsaHFLc0J0UC1ua0pPYlBfVExqWkN4Y2w3NXRSanhTRVhuU0xwbGxRdWpja3o4aUFBNUc0RWZqaFNrdTNLSXdYWlE1ZldKWGw5dFgxcG9NeXVTNFpTQjZoR2c4ZXFSdmM?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic Valuation Nears $1 Trillion With Mythos Release Weeks Away&nbsp;&nbsp;Barron's
-
 ### [Anthropic unveils Claude Opus 4.8 with new effort controls, updated pricing, and enhanced AI capabilities - Firstpost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX0xBaXVUY19raTFwMFRlR2pKOF9XZkhvYm9GSXdtWTMxQTU3THBrREM2NDk3N0tYeXFQRnBjcGNXX050SzJBakJIb1hqaTVBeDhNalhXdktmMks5czhlWmY1bklKV09mTzV1Z3VsWmVzSkk1Q0N4eUowcUt1c3E1b1U5YkZNa2M1X3NqeW5oSzZlaWpwM0dLRUdMcUJNMEdXWUdWWUJGTGxtZzhYVE16eWdfaXJqUVNyMTRJQXhFRFRsdUZ5LUJvcFdsUERmLWlDUVpBS2pPQnJCeG5HcjZvbWNB0gHnAUFVX3lxTFBOLThXYTEwcUZSd0l3ZVU0cHFrRlYyM0psNWkyNzYtSEF1Q1JnU0hpNHhqQmVtWEczRmEwcF9Dd2E3ekh5dnc1a0dSZ2RIRTlIcUlPdHRPaFFvRXNDa3N6R0hDbHFoVlpBa3M1SXZEUmlEb0NSd0JjUHluY3h3RlJCT2o3MjJ3Yzh1djA5RFVzQnBzS01Ldk9uc3RLTXpLX3pJT1AyYmc3WG1kbFZEdFJaU01HMlJKZ01BWjQ0Mm92NFpWaVVQMjY0anZIQzVGNnpWUGVHVW4xMXBRNFlYSWNUX2RjRmt6QQ?oc=5)
 *May 28, 2026 · Google News – Anthropic news*
 
 Anthropic unveils Claude Opus 4.8 with new effort controls, updated pricing, and enhanced AI capabilities&nbsp;&nbsp;Firstpost
+
+### [Anthropic releases new model, Opus 4.8 - Axios](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWS04UW10TmJCWGpvY3QxVHY5YVFSSXg2OHpBVXFyX08tWjQxa19kN25Vc1ZNU2xfQldKM3J0MWJCUGF0TTFHdlRFalJ1S1lXRE4xMWhpNXF0aUNBUTFzLS1FLUhVRjBvdWpiYVBxZw?oc=5)
+*May 28, 2026 · Google News – Anthropic Claude*
+
+Anthropic releases new model, Opus 4.8&nbsp;&nbsp;Axios
 
 ### [Anthropic Drops Claude Opus 4.8 to Reclaim the Generative AI Coding Crown - Android Headlines](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1VYekI2dHBPbWpKZkV3empNSEZiU05lQTZXSVlzWjljbUlKWU9DbFRfMmF5dEpSUFByX2pTNC04VEZEbDhfb3BOTFZxXy1ZN2FEWjA3M1B5VEdLaWdvUEUyR3RIZUdMdzVyQVVvYi1udWNvUkduTjBxU3I3S1FVZkZlWko4SFVSUUI5UWpGOW95ZC03MGdHRnRxMA?oc=5)
 *May 28, 2026 · Google News – Anthropic news*
@@ -250,70 +315,30 @@ Anthropic releases Claude Opus 4.8&nbsp;&nbsp;SD Times
 
 Anthropic Says Its Latest Claude Model Is the ‘Most Honest’ Yet&nbsp;&nbsp;inc.com
 
-### [Anthropic surpasses OpenAI as most valuable AI startup after raising $65B (ANTHRO:Private) - Seeking Alpha](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQjRkUWkyMndQeFEzOC0taU4zQ3h6dXl3SFFFZDZJaXlpeF9jMXZHdGY2ZGJxVG94bGY0REdaaDJ6Tk1CTVA4bkpIdWlPeTdMTlA1a01BWmQ3ZkpzVUR6WWo1Y21ORUExMy1ZTUo3OTZKeU1JTkk0ckxxSXlTcFFTd2lYVVZQQlRUcENvemt3UWJoRW1PV3dKV3YwN2R0QmNKX3Y3Qld0cG5qWDlQa2tN?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic surpasses OpenAI as most valuable AI startup after raising $65B (ANTHRO:Private)&nbsp;&nbsp;Seeking Alpha
-
 ### [I set up Claude Code the way Anthropic showed at Code w/ Claude, and it'll change your workflow - XDA](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3pDSXU3b0lNeFpUdDNWZ0NqU0lORHlTTjNlX3VNdVo1WUVPTG83SGJDSzhPYU83MUVSeWdUcXRsQVgzWl9yd0pFNkxES2todW5BZXI0S3FhV3QzMkpzSFZRSTBPYkdtLWlaZWVTbTFteWF2Umo4UW0zVWk4RXhWVFdaeDVkSmZrRTctTkE5aW9XdjJ1b3dGbkpibUlUUWVLU2VtVTFPSUFVcDk0OEtwTzZ3WG5kSHhja2E1OWpadFlQdw?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
 I set up Claude Code the way Anthropic showed at Code w/ Claude, and it'll change your workflow&nbsp;&nbsp;XDA
-
-### [Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model - Business Insider](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXRZcVpiZVlxYV8taFN1a3B0VF9vTmZia1dyRUh1Zk9VdVcwcExBbGNta0dwNnI2SlF0Qm45MHc4QWhWNzNRZDBzYkU3Q1VDblFYSjlPazJUX1ZFWG1IbHNiNEJuNGRvUGFtWDlFQXZnWGZxSE9jeWcwODZqaFZJMHhBeUJFNnk2M2twWi12V3V0XzNtNm9nSzFnZlhhT29IRnNZ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model&nbsp;&nbsp;Business Insider
-
-### [Anthropic releases Claude Opus 4.8, hints Mythos is coming - qz.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVWtpZnRrcEsxTlpqeklPZmxSNUlZdHJOMzhqV0JHUFJUdXYwazd4ek4tUVNSRi1ZSUp5d3lIekdZUDFZcVBVYWVhOEN0dmRXT0VQYTMtWVJMMTZFU0NyU0JOYTdwdkdGaUxCV2x1Yw?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic releases Claude Opus 4.8, hints Mythos is coming&nbsp;&nbsp;qz.com
-
-### [Claude Opus 4.8 launches today with agentic improvements, new features - 9to5Google](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzQwVG9MWVozU3lRY2JjMGVXbVRORDdOV3lsRDJFeUZwVzREWjhWUGUzdjVoaHBCOFZ4dTlqSGJubG13YmhXVUNhUUdsZEZMdmdIdjBNT3oxNk4xdmVrUmdaSVo2WTJhdzJya3FxV3RaeUw3OG1VTktWRDVHZERPeGFBYlVJWm5rOElheTFPY1FWb3hZWW5ldE9YSVR1cTRfTEVMdTRJVQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Claude Opus 4.8 launches today with agentic improvements, new features&nbsp;&nbsp;9to5Google
 
 ### [Anthropic Races to Fix Opus 4.7 With Lightning-Fast 4.8 Update - Gadget Review](https://news.google.com/rss/articles/CBMilgFBVV95cUxQS25ralZaclhJY0liUlJqanZkeTc0VHFITHV3Z0h4YWREdXk1NU9IbXJmTjFIZjdMRW5yYU1XeHItX3RsUWpEa08yS1VOVXI0ZlNDdVVTampQZTRUSXBQNkZfMzhhVXVDaWNFLURRa3RKUEthMUxRcU9qQlFFcjRMRFNkdGVGWkswRW9JcFduM2VmTlY4OXc?oc=5)
 *May 28, 2026 · Google News – Anthropic news*
 
 Anthropic Races to Fix Opus 4.7 With Lightning-Fast 4.8 Update&nbsp;&nbsp;Gadget Review
 
-### [Anthropic raises $65 billion, nears $1T valuation ahead of IPO - TechCrunch](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFJZbFFxa0ZvbjBzTzhhbm9jMnVPYTFJdW1JdjU4NE5qblhSVTJrQkxna0lneXo1T1IxZnE2UFd6dm82VDFpcW1HaWEwcVJDaUJtUGJHZWg4UDBUd0otWDNFbzVhbWFuQ3kzbm5odjNBeGw0YkFhMDhEcllVcDR4dXhnMmJ6MFhPZGt5YW1VNkZzWXNlbkJWcldn?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic raises $65 billion, nears $1T valuation ahead of IPO&nbsp;&nbsp;TechCrunch
-
-### [Anthropic raises $65 billion at a $965 billion valuation, releases a more “honest” Claude Opus 4.8 - Sherwood News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPb01hbFhua0lyUHdkZlFWSWxFcGUwUkNzenkwc0s3WTFPOE9telQzZ0tqOTB4Nl9wbVktR1V2OHl1TEh2VXlpeDNmTlFsc2tkZnlZbG8wX1ZLdVpsZFNFaXE3TWtLb2gxaFlkb3B2U2tVNy1tcURKSmlVWFMxaDJPUFRLRlc4aUJqT0M5T3RTRFBMRHRRcnlETGsxaHFuWWxZSFNJSVg0NVNjZU1IYUNEYzhoX2RrRXA0bl9heDFn?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic raises $65 billion at a $965 billion valuation, releases a more “honest” Claude Opus 4.8&nbsp;&nbsp;Sherwood News
-
 ### [Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price - Decrypt](https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpSYVdtZUFPQ2oxY0FfUk9NUDF3RjZBNlR0c3BXdlh2Zl9VVVpIaHRaRTJsbE4wMVFfV2V5Z2R3ZFozVmViMGRDaVU3TWpYQ0k1d3BVdWg2b2xwbWxxdzBfRGEtaDdWZTlPTmw0cGRkOFE4eENxM3JkTllNbWduQVdUNjhPNURnS3ROYWUxQm5ieXRZa1NrOVNR0gGiAUFVX3lxTE1ub0N3N3pIZi1Dd1dRZTVYWkJHbnJPYXRTek10aV9aM0NXLXB1RklmNVFKR3BCeVNhMjZmMmxGNnFsLTlNT1c0Z2VXcWtPUU42Y1NiTkJoTnVlbXRzV2dZRUxfNkhEQ3dMYldjdnpUN0lUYkJTWGMzZjZtcFMxQTUtQkJKa0oxTXpXYzNyRV9WRjVXLWY0M1pVeEFKYUY1U3ZNdw?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price&nbsp;&nbsp;Decrypt
 
-### [Anthropic Is Now Worth Almost $1 Trillion—More Than OpenAI - Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZWUnotR1JSc1hzdVRGeE1pSWFwYTc4SjFlX1dlNF9CN1hHdUhEV1pva0pRSWpqb1NTeGJhUWxRSUtEZF9iM1RidnM1bjIwTDZkdjRCdUVUdGI2S28wYXM1Ukd4bEdJTXlWQWpacFkyamdOeUxDTU5xZmhVX0NiR2tfaFZxd182d2hEc0ZjU1lWSkROYjlLdnEzSThqRWJLTThwRjNiNDdDWV9SaVlqV2lpbE9vZw?oc=5)
+### [Anthropic Is Now Worth More Than OpenAI—Exceeds $900 Billion Valuation - Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZWUnotR1JSc1hzdVRGeE1pSWFwYTc4SjFlX1dlNF9CN1hHdUhEV1pva0pRSWpqb1NTeGJhUWxRSUtEZF9iM1RidnM1bjIwTDZkdjRCdUVUdGI2S28wYXM1Ukd4bEdJTXlWQWpacFkyamdOeUxDTU5xZmhVX0NiR2tfaFZxd182d2hEc0ZjU1lWSkROYjlLdnEzSThqRWJLTThwRjNiNDdDWV9SaVlqV2lpbE9vZw?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
-Anthropic Is Now Worth Almost $1 Trillion—More Than OpenAI&nbsp;&nbsp;Forbes
+Anthropic Is Now Worth More Than OpenAI—Exceeds $900 Billion Valuation&nbsp;&nbsp;Forbes
 
 ### [Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round&nbsp;&nbsp;CNBC
-
-### [Anthropic overtakes OpenAI as the most valuable AI startup - Axios](https://news.google.com/rss/articles/CBMickFVX3lxTE1PUnJYZ1V2cDA4MFFqTlFlOVdfZUFIb1JUeWZKc0d4Tm1GWWhBRlJtTXZIN0hkb3BLYkIzRmxCZFJIUE5Yak9PZDdvNE00VFhoWU1UZVMxbkdtVXFBS05SQmV4TVdpOGxaaUd3V0p6WTRuQQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic overtakes OpenAI as the most valuable AI startup&nbsp;&nbsp;Axios
-
-### [Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms - Decrypt](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFZGcjhwVk5lVXZTQmd3QXVKdEhCbEdkS1IzSU84dFlKdW9ncnBNLUxJSWFKekZnR0xtWk9faFRCc0IzdERUbmNEOWlyRHljQlpZZmtZNjZLMjdSc1NYQW9oN05ZR1dTcVVVNXU3X2Rkc29nX0xNVjIzaWVuV1M1cDhnWUFycmZRN3NyZm5fWnl0dzNvTFRnSzVlSdIBowFBVV95cUxNSVVCWTBDTmVoNlBKRE5NTmFMNjE3aUJqZHV1NFlBeDFmXzlNd0ZlNEp2aUwtdEdiTXVrZ0RUTjh4VGdncHM0SjNxSS1GX2F2UzR4VVp0LVZYODh3SFVPYUI0ZzhOWEFqZFF3ZW1Pdk4yeERPY24zV1Fxa3Z2U2J3U1EwQkYzcU56dUV3ZXMwVnZ3TGJ3MUdiMWFCOTdxZmdMcVJr?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms&nbsp;&nbsp;Decrypt
 
 ### [Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment - VentureBeat](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSW1BSVljRF9SdTE5NU1YVHMyRUV1VmpFdUdtS2dMU18yMUJZNTZnc0FCR2o3dVd3Qi1QZmktcGlXbnotcVNvVFBXRlB2UFkweTZzR0pjbm9qZ041akNTZDhWa0ZfQmJDZi1SUE13NjVUU2lqMFhPU0NVbndYOW9wVWE4WVpPdFZEOEtSZElkNW5feFRUOUd1cG9OM3NwNTgxdzIzdHBNR0VSSEZRZzhLY3V2bDhDOTlMZGRlaG5KVUJ2QXRCc1E?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -324,11 +349,6 @@ Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos le
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation&nbsp;&nbsp;Financial Times
-
-### [Anthropic launches Claude Opus 4.8 with better coding and lower fast mode pricing - Neowin](https://news.google.com/rss/articles/CBMirgFBVV95cUxObXRoTV9Mb183dXhGMWI3am0wMk1EM0pZdjU3OGljbHZhaHZmSldoc200V1B1ZUdtWGFBQUZaYm5kSGFjRE1ncWk1cEFsMUpmMi1pbTNvcTd4ejEzTUlhZEIxOWZIa1dBM1BMOGZzX1hieVdvUzVyNTh4by1XVFRMQXByZXR1OXJqcHY3ZzJoOU5lNEFjQ2xPd0lhMW9aY3JELVpmcnVtR19qTGV6d3c?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches Claude Opus 4.8 with better coding and lower fast mode pricing&nbsp;&nbsp;Neowin
 
 ### [Anthropic raises $65B in Series H funding at $965B post-money valuation - Anthropic](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbzhQTWUzSGozVXNfbDYxWWUzTFBZZlpldmQyeDBnSExRdHVMSkJyVVV4OHdlNmx3LVBFcHVXTmJ0ck9TclZvVVlPRnpoZVhW?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -345,20 +365,10 @@ ChatGPT—The Fastest-Growing App Ever—Is Losing Downloads As Claude Surges&nb
 
 Anthropic Customers Creeped Out by Its Newest Models&nbsp;&nbsp;Futurism
 
-### [Anthropic unveils new, more powerful Claude model - San Francisco Examiner](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVcyejRjUlRhcWxhcUZQd256LWZlN3pvd2lrSTlObzI1blQ4MkFaYlc3bWNKMVdNNjJuc3A5YklmV0xna3ZCcks2TG1VbFBpb3FTQ3FCdkxOekVaZjBsaHY2YjE3TmE5NU9TbGJYM09QNm5PYVdUMlFXOHFILW81SzQyLXhPNC1MQW43WmZWMGpvUHZlNTl3aHlCSnpSczFqYmNRVDNGdkdlVVlmNjFST2hteTNuUHlWMXhMSDZlQUZVVUE?oc=5)
+### [Claude Says It Cares About Privacy, But I Still Suggest Checking These 6 Settings - PCMag](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHJ0SUJNVXBOU1VlSVo4ZVQySWJ3cXRjSktrN0hiQ18yMWVjaHIxZU9pMUh0OHBrYU02QzJmcjBzbndaa0VqZ3RJSzVZMWlmTnFmekhpZG1BUDN0bC0wZ2NSamZEb3VRODJvZWZLRDZrSkVXMWxxMmlUdzh2MDY2QWVOOWQwa1FKdnVJdTRCWHVDb0ZY?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
 
-Anthropic unveils new, more powerful Claude model&nbsp;&nbsp;San Francisco Examiner
-
-### [Anthropic releases Claude Opus 4.8, hints Mythos is coming - Yahoo Tech](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaldRRHpHd093OU5yLTYxaVFKLU9xMlpWWFpSYndOODZFS2xFeGtPR3BlLU5ZcGZaVEVTb0Nka0RwMFhQUV9ZZmYyemp3SUtXQ19LYXI4dWwwbXh5cnZTUzdPSzREZ2xGaTVjYS1KNUlmQ3JkbnhoR2VFNmhnUV9zNXFFTHB4NGhEbVVfN0dtTklaNk0?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic releases Claude Opus 4.8, hints Mythos is coming&nbsp;&nbsp;Yahoo Tech
-
-### [Claude Opus 4.8 is now available on AWS - Amazon Web Services (AWS)](https://news.google.com/rss/articles/CBMijwFBVV95cUxORDctNzFXM1FDSHlUa3Ywdk9sVDB4V0tvMmVwamtxUzJfZGlyaXF2eThaT3B2ZWhuUzQ1LUlQZEpTWDZzTVlZdGZlOW5CdE1wNjRRZWRaYldWRHBpWEtUc2ZXM1dmRlpoT3djblB2Q2xaVTY5ekliNUh3N1RCM1l2MTd5Z29TaWdVanAxenpvcw?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Claude Opus 4.8 is now available on AWS&nbsp;&nbsp;Amazon Web Services (AWS)
+Claude Says It Cares About Privacy, But I Still Suggest Checking These 6 Settings&nbsp;&nbsp;PCMag
 
 ### [Anthropic Debuts Claude Opus 4.8 - StartupHub.ai](https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3JHcGg0NV9QdEhvV0gwT2dCUURlU19tNDRvYndiS3pheVJCYTQ1bEp4QlhQcHpqaW9POTIzYVFucm5neGtucGZkZjdXNTdhSDBHejdSMzNFa2JiZzdXUEU1NEF5MEpHRE54eEdlR21FQTA4eDREYThhZ213VFFtVGlNM0g0a0tiRG9Xc0V4bjByV3pmYU5NNlc4QQ?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -370,13 +380,8 @@ Anthropic Debuts Claude Opus 4.8&nbsp;&nbsp;StartupHub.ai
 
 Anthropic releases Claude Opus 4.8, promising a more honest model&nbsp;&nbsp;Techzine Global
 
-### [Anthropic releases new model, Opus 4.8 - Axios](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWS04UW10TmJCWGpvY3QxVHY5YVFSSXg2OHpBVXFyX08tWjQxa19kN25Vc1ZNU2xfQldKM3J0MWJCUGF0TTFHdlRFalJ1S1lXRE4xMWhpNXF0aUNBUTFzLS1FLUhVRjBvdWpiYVBxZw?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic releases new model, Opus 4.8&nbsp;&nbsp;Axios
-
 ### [Anthropic rolls out Claude Opus 4.8 and teases broader Mythos release in coming weeks - Crypto Briefing](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUV0RFTDB3cXpsN1ZwZHkxbWZsemxmUGgzaFp6UlBma09IRVQxZ0I3UUN3ZTVTOEtUQ2xnT1JuSGxJdUtiWXJuSFBVU2Z2dmRUUXFORWx1X01teWtvdkJ0WQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
+*May 28, 2026 · Google News – Claude features*
 
 Anthropic rolls out Claude Opus 4.8 and teases broader Mythos release in coming weeks&nbsp;&nbsp;Crypto Briefing
 
@@ -394,11 +399,6 @@ Anthropic upgrades Claude with new Opus 4.8 model, details here&nbsp;&nbsp;9to5M
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Anthropic unveils new Claude Opus 4.8 model (ANTHRO:Private)&nbsp;&nbsp;Seeking Alpha
-
-### [Anthropic’s Claude Opus 4.8: what we actually know vs. what’s being claimed - Crypto Briefing](https://news.google.com/rss/articles/CBMicEFVX3lxTE01WVFja0tURWpRU0tISlFOWDE1VjJMb2dQQ21WMC1IdDRLanF1VVpDbFQ3VEV4RnRia0tTdnpyRHNBRmJKakFEbm5NckpubTJKYUVzQk9CY0pHZzlrOUN0U2hhR0s0TVlmZjg0bG5nVk4?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude Opus 4.8: what we actually know vs. what’s being claimed&nbsp;&nbsp;Crypto Briefing
 
 ### [Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9Qc3JhS0VldmwtdTlXUndBYktDTlJuMU5qamh1UllRSzR3d2NlQmtQbVd5c1o2cE1ydVVmTjhZd1A4ZWo5Q2pHU3E0d0hLLVYxX3B4NmpTNEg1T2taNmNzXy1XQUs3MFl4RXFEUnBSZUNVYkFtWDM4U2pBY1Q1RERveXFVQ3Vidl9BTFJnVWdMSjhQNmkzSUxqX2hEUU9abGNGdVg4WQ?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -431,7 +431,7 @@ Claude’s new model is more ‘honest’ when it messes up&nbsp;&nbsp;The Verge
 Claude Opus 4.8 just launched — and Anthropic says it's far less likely to ‘fake’ answers&nbsp;&nbsp;Tom's Guide
 
 ### [Anthropic launches Opus 4.8, with honesty as its killer feature - ZDNET](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFgwVU9hQzgwNUVXZUVqNzdONGlrZW12TVpPbG1tX1kybFRpRUEwZlJob2VaT203bnI5dlN4VzlCMlhiWGk4bDAzTURlVUVGemtNY202bUpYci1felBYelVaYzYzNENMWkttSHhjWElmeVV1ZXdXVzNRNW5vOTNpSFdPV0RSdVRnYXJueHVEeGgyOW1QWnE4bzAxVQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
+*May 28, 2026 · Google News – Claude features*
 
 Anthropic launches Opus 4.8, with honesty as its killer feature&nbsp;&nbsp;ZDNET
 
@@ -439,11 +439,6 @@ Anthropic launches Opus 4.8, with honesty as its killer feature&nbsp;&nbsp;ZDNET
 *May 28, 2026 · Google News – Anthropic Claude*
 
 Claude Opus 4.8 Rolls Out: Anthropic Strikes Back in AI Race&nbsp;&nbsp;BeInCrypto
-
-### [Introducing Claude Opus 4.8 - Anthropic](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5)
-*May 28, 2026 · Google News – Anthropic Claude*
-
-Introducing Claude Opus 4.8&nbsp;&nbsp;AnthropicAnthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up&nbsp;&nbsp;Yahoo FinanceAnthropic Unveils Claude Opus 4.8, a New, More Powerful Model&nbsp;&nbsp;The New York Times
 
 ### [What It Takes to Get a Job at Anthropic - Bloomberg.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSll3NFhTeXBDenF6VU1KOENkM29BWENOclg5ZjNablQ4R1pJZURDdWtEblFTMkpZc2FaZzZQRjNTb0pvRE5pbFBzWGhLMW9HM2FVeVpXZnRyNjhISVBfS3hMOXcxc1NfbzVjb0pOeVZBNm5yc21vS18waWp0d1JwRVFHeTBleGIwRnZGcHgyTlIyYlQzdTBvaG1YdWJwVDdua3pOYmI1TzBRWkl4Wk9JUlFIMy1aLU1h?oc=5)
 *May 28, 2026 · Google News – Anthropic Claude*
@@ -455,15 +450,20 @@ What It Takes to Get a Job at Anthropic&nbsp;&nbsp;Bloomberg.com
 
 Coding agents in the social sciences&nbsp;&nbsp;Anthropic
 
+### [Malicious npm Package Stole Files From Claude AI User Directory via GitHub - The Hacker News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFJyWUlaOW9tTnZQbHNqSTVEX2xvWXduRGFUeTE0aXZOY3BGYjZiYnEwZU9fTkU3aFpmWi1yYzJhTG9EREtfanZGMUZ4RTVOVWhWY0NheWhfcUZhTTJIbE1QZU5xbDVCN0dHcVR4a2s3Sm1YSkVmaUpTbjBLektXQU8zSQ?oc=5)
+*May 27, 2026 · Google News – Anthropic Claude*
+
+Malicious npm Package Stole Files From Claude AI User Directory via GitHub&nbsp;&nbsp;The Hacker News
+
 ### [Man Reveals How Claude Helped Him Trace Ancestral Land In UP: "Excellent Use Of AI" - NDTV](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYk0wWnNpUmJmUnZvY1VaYWUxTUdoTlhaZmRPTHBMaFRFS19xNUN0ZGE5QlpwaUplUmpsS2k2bG41b0JZYjItYjRBUEw2QTZWUGdrMzgxYlFwZmdENTAzd2ZsZEVvQnB5eGdIbUxsY0I0Y3lFUVZEQmpQeUxBb0U4dXhKVUtNbzFibGFxbGtHaWtqa0NGeF9DOXM1NXh3NXA1YW5nUl90LWwzT25NWEc0akJieWpDTnR5Z3MwM3dNalEyTHV1TVZNa9IB0AFBVV95cUxNUDNRNktlOVd5Vzg5eWNOWXhzUDFNNWx1Q0xrUnEyMTB0UnVoVDhNRGhjVVlmUno0RXIxWkNJRGtRTGM1M1duR3p4ZWlEX3A1ODIyWVB4bjVBTHZ2TUt0UndyaDlpY3FtbVFjaVZublNSYlAxLWhpd1VtZlZWRjdBXzdoeG1za2ctSjlXU2E0c2RpeEJsYlhoS2JZOHJRN0ZCSkJ3ZTEzc3pLSG9JdEVzZDVkemlmWlA4RXZfVVpLSVpqWWFlNll3TkE0Mi04STUx?oc=5)
 *May 27, 2026 · Google News – Anthropic Claude*
 
 Man Reveals How Claude Helped Him Trace Ancestral Land In UP: "Excellent Use Of AI"&nbsp;&nbsp;NDTV
 
-### [Anthropic’s new Claude model sparks cyber fears: ‘We are not ready for what’s coming’ - ynetnews](https://news.google.com/rss/articles/CBMibEFVX3lxTE52YXUzeWlnTUdERko0S25XOFVfejV5UnBLcWJWRnRhX0JYaVhtcGtxOVF3bkZJRWs1YkIwWDZDSWVfZ3RBc2d3V2hvTTA3dk5fU2FaWlhBbG1RakZoNElXUTdRQkZ2anZPMkZoQg?oc=5)
+### [Anthropic Cofounder Travels to Vatican, Tells Pope They're Finding "Unsettling" Things Inside AI Models - Futurism](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlp2RVhMXzY5Tm9UdEsxMHFRaFMwWXBWT3I1b1JWTFAydi1pTVNMN0JBMUhfdWhsaTVVUkVieEhIaUF6aDlSZDZrUWp4OFlmTzZQaWtQTHVzNTd3alJkeGpjQk1kSFo4dTUtNm50R1U5MGtzd2lVVHpDWW1UMFdVdU5rR0hEeGhaMzBudGNQNkI3UQ?oc=5)
 *May 27, 2026 · Google News – Anthropic Claude*
 
-Anthropic’s new Claude model sparks cyber fears: ‘We are not ready for what’s coming’&nbsp;&nbsp;ynetnews
+Anthropic Cofounder Travels to Vatican, Tells Pope They're Finding "Unsettling" Things Inside AI Models&nbsp;&nbsp;Futurism
 
 ### [Analysis Of Anthropic Claude System-Prompt Instruction That Shapes The Handling Of AI Mental Health Chats - Forbes](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPODFyLTNXZERqaHVWbzZEVi1FYUMwM1JOelF5MDVuSFRBN3ZiVU92UEcxOElyRDlIOWhXS3E3bFdScV81SF8ycEUzTjlZS0RkS2hpSVFwQzYyZ3lvUmJKSElyNTFtUUMwd1EyNEV2aXlUUndHQ05vckd0RFZuUDZkZmhBT3FyODBCLXdVUF9tcFk1Z3lXbG1QMDFPZVg1dlJ6T01JTmdEZXlGT1NOSmVJZlZaYjU0cEtiMHZ4WEhPdk1RX0pZMTM0LUJZSlpoLTFaMGJpSm1UXzFFWGpualhGbFF4N0dHZGtHclJBT3hR?oc=5)
 *May 27, 2026 · Google News – Anthropic Claude*
@@ -495,11 +495,6 @@ Claude Code's creator on the end of the software engineer&nbsp;&nbsp;Platformer
 
 Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening&nbsp;&nbsp;Anthropic
 
-### [Anthropic asks religious thinkers to help shape Claude as pope warns about AI - Scientific American](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalBxVWVVOUtFS0tobHRYekxHMFRRcmdYbEUzMTRJVGxmV0ItMnMxS3hYcGRKQXJvU3RhQlZ0SWxzc2hJdVBHN2M5OFVtQmdhZWZuZ3JnUjdWVlVncnRLZXdQWWd0QkNkWmdYS3N0V1hXcFBLcmtnWDdZY2FmSWxMZ0tpYzBpaEhDdDJMVWlDZkg4VHo0bEhucGV5dy04T2d2X0lrSjRsakJjeHNyMjdYOWgxN1d6RkF5OUJDM3VR?oc=5)
-*May 26, 2026 · Google News – Anthropic Claude*
-
-Anthropic asks religious thinkers to help shape Claude as pope warns about AI&nbsp;&nbsp;Scientific American
-
 ### [Anthropic Update Underscores Power of AI Flaw Finder Mythos - AI Business](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhxdXcwdUtoTUEwbTRwRWhEOFJOZGlsOUtLVGNTcld2RTBiVE9LeXMwWkR3MldER2g5ZTlMdDBuWlZlbFZmNUJlZXVhUHp4WEx2bDVCalplZlF0c1BDck85YjhIMGQxQUlDblFKYWtCbGd4YlE5ZUpJVXQxRUZYeVVpdUNuUkR0ek93cEQxUGhlM0F1OVVuTw?oc=5)
 *May 26, 2026 · Google News – Anthropic news*
 
@@ -514,11 +509,6 @@ Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical "Magnific
 *May 25, 2026 · Google News – Anthropic Claude*
 
 How we contain Claude across products&nbsp;&nbsp;Anthropic
-
-### [Project Glasswing: An initial update - Anthropic](https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5)
-*May 22, 2026 · Google News – Anthropic Claude*
-
-Project Glasswing: An initial update&nbsp;&nbsp;Anthropic
 
 ---
 
