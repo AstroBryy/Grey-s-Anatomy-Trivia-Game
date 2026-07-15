@@ -1,74 +1,279 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-07-14 09:48 UTC  
+> **Generated:** 2026-07-15 09:52 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [Anthropic Claude AI: Rupee Pricing for India Market Push - Rediff MoneyWiz](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3RyVm93Wl9qMXcxaHNlTWpmaGxmQUQ0Vy1DUEVsR1diWGltSmtQN3RRYkNKMjMxRDdXYVFPRGdyc2w4QThQTTVsVFEzaUt1ajlGYnc5TG5RQ2E0OEdQdXFkNG0xVURWSlFZWmFnTlFkZllfdUkzQnVKWHZ4RjV0UWtEV253c0tjRDZNd0p4MUEwdzhRZXUwOV9jaTN6XzBjWEdyZ3ZhX2o1RDDSAbABQVVfeXFMUHZMWThDTWx5ZldUR0NuWmZMZ2tQbUxhN1NPdS1Zbll0ZlF6bUNHM2tLMUo1ZFJ5Q1RpUmNjaDl4Z2NkbEdQa2ZxWHYzcXFrRjJOMm4xajJ4RWhtMVY2S0x1eEFhX3pqUGZneG0zUWM4WnZrU0VOei0yOGhtbmYwMEpEZjRIWjczem81aWw3Z1B5OUZtVmE0QXozcDFqTGQzbjNNdlBfSGdNRUFmemlwYjc?oc=5)
+### [Claude Gives Softer Feedback in Hindi Than in English: Anthropic Research Confirms the Gap - Tech Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGw3ZnVSV3RUQjRsZWowMHlpMkdQdWgydUpGT1ZYVTVOZWxtek4wdzRLSjQwallZWmpCQVQ5S0wxdXM2c1VWczNJUC0tODh3VXZobE9KOEo5T0VZT2otSU5VUmdKaFdMbkVQME1WNktWWDRWRFFPLU9jZUItUWI0UFdJRmp0RmdJU3hBby0zRENBMDdmN3Z3bXVLalVfS09qUkcyVmhrWVpCTGlUcS1ueXppRHBwZjRvel9uN2ZnYzZscms1TFcyZw?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Claude Gives Softer Feedback in Hindi Than in English: Anthropic Research Confirms the Gap&nbsp;&nbsp;Tech Times
+
+### [Anthropic brings Claude for Teachers with support for K-12 educators: Here's what all it offers - Moneycontrol.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS09zU25ySXRqSnlyWHRGakNqdGw4aHRUQnNxX2luSE4wODdJLWtaM0VUQmRxYXZwanZraDNMcmFmYlU3Q25RbjBLWk0zeVBIdFRsbURrVmkza21rb001QXg4ZTgzNFdldTJ4LXFFYW51cEFUZFZ6aEs3SEk2RnpxUjdmbGhhUEdPNW16djRlM3pxcTZSVGNzYkNHRFZaNlRlcjdKdTBSYVJuTTUtU3luUXB2M2dLOVIxaWhiRmg1WngwejFxS0YyRFowVjlGbm1GNlVLNTdHamY1OWJ0ZkJoN3RsZVhVRTVVX2YtVtIB8gFBVV95cUxPRWgzaXViZV9kMndOV1JmWG1UWkhISHB6REhzTU5GbUhzZHVCcjBjY0Y3MFE0WDFqNjZveFJmelZ0cEsxY2ZLdWdJeG91cTBKYkhTNE1oeFpjZFRraUxIZjVRVUpGWlV4QXZfYlU0aWZ3TG8yRXJ2OGNFeHBhWEo4UkY5NElJcEgzYVB5NTNaSHdnTEQ4SzNpcEdIeTUwQkFyWHE5QVlRdHFoYm42NHJCV2lQSlFJd0pzc1JUamdUdUxWbEtJY3FXb25aWWttSTVXT0pwQlVYTk4zdG5BRDczOUtqMHN0RzlIcE9Bb3pUTjE1Zw?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic brings Claude for Teachers with support for K-12 educators: Here's what all it offers&nbsp;&nbsp;Moneycontrol.com
+
+### [Anthropic official says stopping AI usage is 'the wrong' response to AI cost concerns - Business Insider](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcEQ4NWJwdjJNXzRHcWh0QUljQkFzRW0wdjBlREFCTVU1TzlpV28zSFdmVmE3SmZDdDFiY3MwaXhHbzBodFRxWHpJcXllUFN1RWRaMHp6WXBkUVVxeDZ6N1I1dUtaNW1vTjQzUjNrVlp6LXlwTXRMaWp6ZU5wOFFIOQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic official says stopping AI usage is 'the wrong' response to AI cost concerns&nbsp;&nbsp;Business Insider
+
+### [Anthropic launches Claude for Teachers: Features, privacy and eligibility - Storyboard18](https://news.google.com/rss/articles/CBMixgFBVV95cUxQS2d0ZWpWZEE2QVV1UnNpYlAwSzhIaHladi1BcFJzNmRibzc3bm5SQ3kxTW4xdXJjbk9mZ0g3NWFqWThCaHpGSG9FY2RDQmlDTmlsSW0xTXFjWnFnZV9sZklsdFpXUFpkTDFmSXNFTVBTNmZYeXYzNWdxM2hQMzEyOUEwZ0NrY05Edkl1cmtBeHVxem5vTUpWVEY2U2ZELU80NjFHMlZOZnVtd1cwanNfM1JNU1VURV9BNU9hX0ZzWGw1SUd4YmfSAcsBQVVfeXFMTzh3MWtVMWloMUhORi1NMWJZdm1PTlRBQnZ0enRhaWZpX2RXcHlOV1RPWk9ockJEZEpmeHR6MVgyck5IVWltTVpBZDRwN3JreXY3Y3ZGeXpJbUpmSjNEdHdESWhpSm1YQVBoTmk0RFcta29Day15RHV1eTR2dEdWMGxQMHZWMkdTcXZEOWJyeHRHOFlBRkhCZzBqVDZPR1RpdkRTTzg5X3FFZ09zaFNtdElrbWFEejF3c0lwMkhILTdTVG5CYjVOVlo0eXc?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches Claude for Teachers: Features, privacy and eligibility&nbsp;&nbsp;Storyboard18
+
+### [Anthropic commits $10 million CAD to Canadian AI research - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMingFBVV95cUxNSFd5bjlQTjU0Rk9yZDNEZGtURjdlSkUyTk1jYUpEMVlnSWd6YllpM0w3OEVtWXNpUHdyRUlXdVhucmREQ0txVENpTVpJOWgwQ1E5M1FKampKSFczTHBNZXNfOVpyQU03M3Y2ZWd4UzdKZ0RPN0N0Zy1naWdTeDNscVBtRmZ3LVEyczB1akk0ZTRDNThRVlhyQTdWMmJ6Zw?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic commits $10 million CAD to Canadian AI research&nbsp;&nbsp;EdTech Innovation Hub
+
+### [Anthropic launches Claude for teachers, offers premium AI access free for a year - connectedtoindia.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNU5oSzRYLXo2Z2RNa0tBZEdVVzRhNG1IMVdKbHpldGRrNWZYS3hnemFwUDJVTVBORnhGMmlNb1BaNk9LQ3Y4b2xWaG4wSlhUalJHU01Lc1lEUnM0QWNmdi1VMFRGalBGMHgtVlliTmQ2NllPMU5CVjB1NFBxdWM4NklTelEtc2FqZmFFQWRpbVVFYTBrMVhVdm1aN1M3VHN6ckNGSjhEQWhFTXE0czViRGR6UQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches Claude for teachers, offers premium AI access free for a year&nbsp;&nbsp;connectedtoindia.com
+
+### [Once again we are told AI may be conscious – I study consciousness, and I have my doubts | Anil Seth - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHdLaGJmaV9lWTBKZEJZTU8wTnp2Ry1tbVlVNUZFX1NXV2dJaVhCOVJqNDBYUHlJVURBcllUY1RkUUw2c2dTck5MZGpUMWx5VmItSENvSGlxR1hlajc4TEFUbW9XYlA5TS1kZkktRXZWaW5BN0hSNlJuOXR6bXBkTjVqaWZ3WG5XS004M0szcDZIX05zYzNjZFZIQQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Once again we are told AI may be conscious – I study consciousness, and I have my doubts | Anil Seth&nbsp;&nbsp;The Guardian
+
+### [Claude Code’s Hidden Logic Exposes the Anthropic–Alibaba Rivalry - Technology Org](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHAtUkRIZnVUdWZUQXRwdUpBMXNtYVctOV9BbXl2NmdYTk5xLXlfVC1VejdWMFZhanNWNGRuU09WeFBYdVlEcENaWW4xY2Z5bldRNk9uRDNpb0FndlJyWjlrSkdQTTVyZUFXOGREak8ta0docDFpcG9CZTJPaEp5djZuODdiVDExcU90RHNzSHFvbzhxSkEyNS1fN3dQYjE0by1IaQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Claude Code’s Hidden Logic Exposes the Anthropic–Alibaba Rivalry&nbsp;&nbsp;Technology Org
+
+### [Anthropic launches free Claude for Teachers AI tool in US: What’s include, who are eligible and other det - The Times of India](https://news.google.com/rss/articles/CBMimAJBVV95cUxPTFI4ZG5faWRadWsxUEloLTJLYlhEa0pYOV9IaVRrRUQ3VmhWSzNzWjJVZ0VzVG56d1J6WGJNRjNIeWQwaG43NGhaNTRPYU9ySmc5UTN3VHkwbzVQcXJnUVl6VktNUlhCTEJCYTVFVlJoTkFmWUl1emFUejdmU2RHQjlZQTdJendTWlA0YThmejZGNFcwLU9vQmJacEJnQzZrVW5udEFuMWtJbFYxSjBiWlBzSV9KUEpVVnFHMjlQY1NHczE5d3h0U2ZLZUpoM0V1ZEpZV3V6NG9zNWpXeDZTblFzcEp2cEQ2c21nN1hJeUhuS1JtSncyTF96N0Uya2xWOGlteGQwYVpqeDVSQWlObmlvbGF1OHhn0gGeAkFVX3lxTE5rU3dZV1JubUNZOExBaEY2eFFrZ1hUV1U5Wk54aWFnOGF5OTFBNmxaQVlXNmdPb0ZPTmV4SU9GRHlHRkNJczBZZ1piNW1aeDRGbjQ2YktLX0NpNDhiYkxhUGp5YjdobHFvOVVJdS1WeGhFQ1pnT19qSjNPcGY0VExwWVhPQWpfUEFaZEdrbHdRdVRFNDVQSmlnUUZKU0VxZm1uVUVsZWhSNlRJUE5ud1lnWVEtQjRUTlRoR2piZUIxaDVFMXR4QjFGS1l6WlpfajhFdjdBakRwenhUWDktYmRGRGVNaXN3Rzh2S3VZMGpfREVpU0luU0JFUndFWnBSNC04YjFyWEROWmpXSTJ3WWV2SGtON3pfU2h4S081dVE?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches free Claude for Teachers AI tool in US: What’s include, who are eligible and other det&nbsp;&nbsp;The Times of India
+
+### [Anthropic Launches Free Claude AI For Teachers; Here's Who Is Eligible - NDTV](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhGcFEtcFZuMnlkS2tQMzA3ZFpSbEhwVHRUdTdDeXNfRFhCMzNKZGVOTDBSWUhWbzBJWU0xckdLZGtDQmNQQk41dHBkLWJlYThBOThXRFFfdndtczBRVElscndfZ196RzktTUVGTm50cG9sd25FcDV6OWl4Z0RSbF8weEhNdE1IOFhMQWJ6LWMxNkthcVpXRjFCRGhfWWtQcDJXZXU1NUF5VC1z0gG0AUFVX3lxTE9UTm5iRnJhenAwaGFaLTN1WXhSTHk0bUJNUElQZnZneGd3UFdsU0QwVl8xRi0ybi1nY0Z4THJMLXFESWgxX01mTUZUZWt2T3JybXBGekJDXzdXcjhHVFJjYThsdG85MFZTLTN6akc5TGdmZkdaa2lSNVRYSWtNNXI4MVlsanNKYklFX3lVUGdreU53LV9tZjM1R2ZWR192OXBtVng2YzFDdmRrT0ljSk5fdjlUMQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic Launches Free Claude AI For Teachers; Here's Who Is Eligible&nbsp;&nbsp;NDTV
+
+### [Anthropic Reveals That Claude Models Exhibit Distinct 'Personalities' Based on Version and Language - KuCoin](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjhWejR2N3dOVGl1S1lFVjNGenBGYVl0TTZFS0hHYWtWTEdQWWQ3SkhDR3ItOVFkWUxaWnh6aFVNbzBNMmRFcjV6a1lYYjhCT1RNR0Z6NTdsZmdNVlctZGRCTVB4V3phMWprZUZQZ1FYSWpNc0dYTnVDTjI1RUduU01Rb3I3Q2ZueHhadDBjcWpsT3I3d3NRRFJKRE9qNUVYbXUtVkdxNGVvMks2VHJtNnRMUkw4QnFxLTFDeUozN24?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic Reveals That Claude Models Exhibit Distinct 'Personalities' Based on Version and Language&nbsp;&nbsp;KuCoin
+
+### [Tech Matters: Claude’s new pricing could change how we pay for AI - Standard-Examiner](https://news.google.com/rss/articles/CBMixgFBVV95cUxNanhKMWNkNjZnMUVaV1E3QkRlY3U0SFVSUG03T2lWaFNkbURaVHdMS0o4TGItc1NvUHVFUnJQSHFhQkhfMzNVMXJWVjBVaDB6X29BUy1yeTdiUXpnWGV5V2RxVlJyRzM4SHhwLWd0YnBmbDBZck9rVE9FakkwUlhJNmdrQmN4cGZtZExnSUhubGZ2ZVZPUVFhR1pCMEhtbTJpVG1hUFNpa0NRdjllcWIxZXVOdXo1VWczMWJrRHVWdHVrVklxUmc?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Tech Matters: Claude’s new pricing could change how we pay for AI&nbsp;&nbsp;Standard-Examiner
+
+### [News alert: Tego AI finds Anthropic’s integration of Claude and Slack can trigger unauthorized actions - Security Boulevard](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWpuS1VLUVpXZld0blJHeWNYOUV6dmFHNTZMckRyM0t0VF9RSEtOR2lxZU56RWdQY1o5aGJyQ0dqbHRZLWlTYjR0YkYtRGdBN2k3VENlNEZrblpRYVllQmFGNVhpdGFqc0hvYnVVZTJWM3NRM3RrVFJoMGZ1TS03eGc1bUs1NlBESm44QTlybDdUUDEwdGd5Sko1dXg3dDlMd2Y1TlBrVVRhOXBhLXRjZTZ4Umw1M09mM3MxdDRONXgzaXZGNzZqZTdoVmhQRmJwV1k2RmhR?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+News alert: Tego AI finds Anthropic’s integration of Claude and Slack can trigger unauthorized actions&nbsp;&nbsp;Security Boulevard
+
+### [Anthropic Introduces Rupee-Based Pricing for Claude AI in India - Siliconindia](https://news.google.com/rss/articles/CBMixAFBVV95cUxONW5KanNBR1VOcFNsaDd2MWN1VDd1Z3BfMk9nMG94bDdMVDdpQ1YzRGhPMHhMYXJpNHVxMEl5Z3k0d0V5M3ctazYzZW9TdVJBckxueFY1UEQwRWhTVVY0MnRROWhrYkxoeFYyV3NzQ19SU0psYmlyOEFMdTRNOFY0RjIyemtzb1FrR3F0VU9iRDZSQW4walNubnNMYmNsbloxSzVaRmgzakZmZ1ExS2pwd2NManNOQ3NYRXBISnM2TWllc2F4?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic Introduces Rupee-Based Pricing for Claude AI in India&nbsp;&nbsp;Siliconindia
+
+### [Early Verdicts on Claude Science: Faster Workflows, But Gaps Remain - the-scientist.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHVDRlJlZXB4TkNqeUU0QXc0S0R4bFZVRjd2ZVdzUHJ3UGVkWnFFTFJDZm42RXlVMVpxWUEwVzRsTWdEWFB0R044NV9oZjUtZm94ZU5GWFREVWpxOW5sWTR1R2FzWFZsemhCdmFTWkFNWVhjT2dqQUZ5UlV0WmhGblNMSnJqQ2s0eC15NjNpbHlMcE9YLUM0cWJYY0dZMXZheXN3?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Early Verdicts on Claude Science: Faster Workflows, But Gaps Remain&nbsp;&nbsp;the-scientist.com
+
+### [Is AI safe in schools? Anthropic’s ‘Claude for Teachers’ shakes up the classroom - Modern Ghana](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQT1FSLWdkODViaF9MVUl1VUY2SENlSG83UVY2aFZjdzJKZVd3ZTZYa1phUk1kUWVUTVZSbm0yYVM1TTNxeGMtdy0wNnpzN1J0cEhLZ1FKX2hlVzR6dXMw0gFcQVVfeXFMTXVxWnU3VUdPalZkU0tJTFo0LWc0V2l3alpzOE1yWm9INVFGVk9vTkxuX1ZQZGh3dzJSemRBM2VYMDVBMEgwd3VDQ2Mzb2NGMWtuNDluaTNIam5haWQ?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Is AI safe in schools? Anthropic’s ‘Claude for Teachers’ shakes up the classroom&nbsp;&nbsp;Modern Ghana
+
+### [Is AI safe in schools? Anthropic’s ‘Claude for Teachers’ shakes up the classroom - Central Oregon Daily](https://news.google.com/rss/articles/CBMiigJBVV95cUxOUUlKUUc4MEFfX3o0NWtvd3NlUWhkbk9LaEdOcTdJS3BsRFRLMGtrZkJqbEZvNnVXaHdXdnZUSzUwVzN1TU9SRDNMNnRkQzVFaTZYQkZvZGpfUWJXMHIwZWprdFNNSDRwOVotTGJ3cDU5TDAzZXpicUlCZlZpUUliR0ZNQU1qbk9VeXF1T05QS2ZKcEJ4UTBIMkJUSGk0YXNFWExocllFSVhwc185UzlKRklSQUNfWFVrUk1Sek15VnFhLVowQWRTdGwxaXBrSkRxZXliQ1dneDczZ1FkcmVDbUdVQVZmdlJDN19CWHZ6cllCSVY4enpuTE5VMXEwd0U5TUc3WmNPek4tdw?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Is AI safe in schools? Anthropic’s ‘Claude for Teachers’ shakes up the classroom&nbsp;&nbsp;Central Oregon Daily
+
+### [Claude Values Differ by Language: Anthropic Study Maps Warmth, Rigor Gaps - Tech Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHJHcXV1THc4amxxUUlGWFpCcjlqMXNwU0RvQk9lLWNKOXZ4V1NJY2NXUF9uZ3lNN25FbkExVHN6d3ZNWnJGc2lLckdNYVI0SWxJQ2xmci1PeVlLMl9GUnJhZ3JOU1Nnc0dwcVJaVTZCN1lYMzNGS0J2RUhBWFVfZHZjR1NzTUYzQzVfcndLazlGa0V4U2hXUFlRRmUtTlZsc2RmR25IeWVJdGUtcjhmUkYtbFY2WlZRd2J2cjB1QWk?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Claude Values Differ by Language: Anthropic Study Maps Warmth, Rigor Gaps&nbsp;&nbsp;Tech Times
+
+### [Anthropic launches "Claude for Teachers," giving educators a year of free access to AI tools - CBS News](https://news.google.com/rss/articles/CBMieEFVX3lxTFBSVWdvOW1mRVpuX1VGalZqY2N6bVNvU0ZCSFczbExMbGM5SktaRUpkWXNQaUxwUjhZcEgzXzZJcUhhbnZWZGxCMEFFWU02QXRiN1pwSDhsaUNOSy1EcVRxMEZvenlQTnZ2X2ZFZk9LeTZCWmQ1R2tSMA?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches "Claude for Teachers," giving educators a year of free access to AI tools&nbsp;&nbsp;CBS News
+
+### [Claude Fable 5 security bypassed using ‘/btw’ command in Claude Code - Crypto Briefing](https://news.google.com/rss/articles/CBMiekFVX3lxTE5tTVV2bHZBS1prRFZUc1hXclUtODdCZVZmNm84OHRESWR2QktjNTFuNjQ5dzZzYmNnZms4MDRMTmxrZEc0TVVpcjBYUE54MTlJMXlSY181Z0xrRldMNG1UZGFhZU9OS0JISWtWSUdyaUFZUXZJd1luTmJR?oc=5)
+*Jul 15, 2026 · Google News – Anthropic Claude*
+
+Claude Fable 5 security bypassed using ‘/btw’ command in Claude Code&nbsp;&nbsp;Crypto Briefing
+
+### [Anthropic launches free Claude for Teachers - The Hill](https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZ0hrSDhsTHprNnhsc0tGSDd4aGpUQ095bmhWRHp6eTlrdmVzRHdtT1RqRUxOb1lXVmhMZlNDSG5sdUlKakR6b3hWQ1RvWDVmYlpvbUNKV3NEai1zX2FWdTdPenY1SkNFenJLbHpGQlU5NTZzT2lPclZHc1pWd9IBgwFBVV95cUxPVGg3MUxmUWp1TG5xbzZyN2VQVEZtT1p6MmNhR0lOdjNvN1N2NUh3dDlfSkdYaXAwWVoxTS0weWNOTlVNWERYdkdhdnlZWkt3LVRBQ0txc3FmaWdSNERqSmxWRjNWTnF4R05LWmdaZng4aTFXXzhyeE9FWkRBM0NIdC0xdw?oc=5)
 *Jul 14, 2026 · Google News – Anthropic Claude*
 
-Anthropic Claude AI: Rupee Pricing for India Market Push&nbsp;&nbsp;Rediff MoneyWiz
+Anthropic launches free Claude for Teachers&nbsp;&nbsp;The Hill
+
+### [Anthropic Launches Free Claude for Teachers, Sending Stride Shares Down 5.6% - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1MX09qZFp4QzBZRGQtMGtnMGR4MUdkd0lUZVA3aElURXk4S0xUaXRaWU80d3ZFYkt4X1ZRLUQ1Zm40M2l1eXpianRpTkhQcWZSWUNnVzNpdWhIWENpSXVOUVpfakNydGJHQ2lxczVnWEtTXzNRTmc?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Launches Free Claude for Teachers, Sending Stride Shares Down 5.6%&nbsp;&nbsp;finance.biggo.com
+
+### [AI isn't neutral: Anthropic study reveals language-based biases - Ynetnews](https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcUlsYTc4NTNyc3Axd3UyTmZSdTlMdlB3cU5oVmhZb1lmWngtZ1ZKMEJCWFlGa21JQ3o1bHJFNS1ycnBoaXhjSEoxSTI0NERXaE96ZEQ0Y1d2di03eGViYllpckFqcHRpcFktXw?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+AI isn't neutral: Anthropic study reveals language-based biases&nbsp;&nbsp;Ynetnews
+
+### [Stride Stock Falls After Anthropic Announces Claude for Teachers - Barron's](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMV8tc29zQnVpU2dYRGpuVGhvcmQ5cUZCREVoa1MwSWdYdGdHYmg5X3A2enpiLTJGWmJmYU5Nc1pkRS1hSEYwSEhrUlpQUEhjQzItNjhqdUwtWW4ySWVJUHhUUG9Ta2VNaGZDazNIT3FtSXNDb2F0bUdRbTNXZ2FBNXpWaE9qcU11WkNF?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Stride Stock Falls After Anthropic Announces Claude for Teachers&nbsp;&nbsp;Barron's
+
+### [Anthropic Introduces Local Pricing for Claude AI in India - India News Network](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcG1PS2hDU0Z5YmxxeVN1N2FlUU5zekZDbUJXS3ZyTDZvOVJsYnJCaHR6WGFrZmZGRnFHUjhrMkliVDVPeHRIbWFPa0xiT1JKbzJINGdRQXd2MlVYUnFzLUdqRjQ4N05Zbnk1dlVrVUV4WVdmdUNacWMzdVBSbXczZ0FBQm5LOEZ6OFFzbjNrSmlKZTJHdkNPWVNrQQ?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Introduces Local Pricing for Claude AI in India&nbsp;&nbsp;India News Network
+
+### [UK banks' lack of Mythos access a wake-up call, says government AI adviser - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNajBkX2d6N2xnSkpBc3R6WEtxdVh6MnpmbTVtYlJObEJsRjFCZ1B2MDB6Y1BicU42VnFTd0FMeVdOOVNZU1lRTkZ4bDFQSUozX1RyVnotczJiNEhybWgyZ0I4RF9IeDhxbDRDNmtuUGthdnI2bGkzSDJySkFwdi1yX1c5WTJvR1N0SkJaVmdqUm93X1RxdnF0N3VHUkVBTUstX3lZTWJoQ1BrdTRwdGlzcXcwamc2Q3B2NG1nVg?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+UK banks' lack of Mythos access a wake-up call, says government AI adviser&nbsp;&nbsp;Reuters
+
+### [New Anthropic Ad Implies AI Could Kill Us All - Futurism](https://news.google.com/rss/articles/CBMifEFVX3lxTE9JYm1WWFZYeEw3NE93UmdtZDVxRFVHcEpuaTBidW5BZlBEUjdmTlpRQWxWQ0Q2UlB6dUlvbG0zUUd2MmpJdk96dUhrY1JRWXJybWRwc1NfbkhTZnNaUWV0aG8wWTJyc0pfcTZaWXJ6RjB4czExaXJPcE9xRjg?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+New Anthropic Ad Implies AI Could Kill Us All&nbsp;&nbsp;Futurism
+
+### [Anthropic Gives Verified K-12 Teachers Free Claude Access - SQ Magazine](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIQjJ0Y3EtTVlONWdhd0tDdWdPUEY5RjZQTHZQaGZ3WkYtWVZ2Ul95S0c3ekFWZ0FhVzU3OThaSXJ3RXJteUcxcnZZc3Rkem5KRndfM3djSko?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Gives Verified K-12 Teachers Free Claude Access&nbsp;&nbsp;SQ Magazine
+
+### [If you want Claude to speak nicely to you, try Hindi or Arabic - The Register](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkxmNTFVU09nOVZzSWYzM0hvYW1MZ2M3LURCXzJCbXlhaEdwS1RyRDc3YlFUbUZQLTdwaG5fa0w2UVBZcTZyNnFIN0Rya01KMWV2VTZUX1BHb2xxOHl3RVRUOUlibFIwS2RvZVZwbUJJbng5Z3hvcUFVTTktYl9IbGZndDlJdC1pVUVkUEZHYTZub1BEMGwwOG9xal9hNXdDWENSRGc3ZXFkbk0xaE9XTC1wZ3czb3hmUXc?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+If you want Claude to speak nicely to you, try Hindi or Arabic&nbsp;&nbsp;The Register
+
+### [Anthropic pushes deeper into healthcare with Optum tie-up, UST integration - Fierce Healthcare](https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2FCbGtPRjM4V3JaWHpLeGc2Q0Q0M0pmQzNXdnFnQVFCVVVjMTZvMkxlcTgtNkh6Y3llZEcydDRvSWVsaHB1bEtuLUlzWWxMLTV5TVc4bGpvcENSUDNHZmdyRTlDdWdOeFY1THM3RXNFZ3RUVl9LMWozSzVoNjRSdWZkM2pZcmhFdEpxVVZSWlpZS3VoVnpjWjR6bTFkQzQ?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic pushes deeper into healthcare with Optum tie-up, UST integration&nbsp;&nbsp;Fierce Healthcare
+
+### [Claude Code Origin Story: How a Forgotten CLI Became the Fastest Enterprise Software Ever - Tech Times](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk5ibm5Fa3diQ0lFQV9sU01ieDhudmNELWxGZ01yN2UwSi0yYUJYejEyejhSc21YWnV1d09VTkZIcFluWmotX0FTbVFfQjg0Vlhod0R4Qjd0c1hzMVl4Y3JqaWUyaEc5SHk3cE1kQVpRQ2VDQ2wyM3JFakl1YTlyaWxKNnBrY2FWclBCU2IwVTFuU1habjhBV3VmckxMSnlhcjZzcWl3MF8xeGo1WnptZ1VLdnVlY3UyLXZ4M05ieWx5SlNIMlNiLTE4TUFMVC1OT0N3?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Claude Code Origin Story: How a Forgotten CLI Became the Fastest Enterprise Software Ever&nbsp;&nbsp;Tech Times
+
+### [Anthropic Takes Claude Into Classrooms as AI Race Expands Beyond Students - Benzinga](https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0FQMHJSSGZIb0t3ZDZfaENfeFdfVlRoanpfQm5HbXYzQ2gxdEd4SW1oTUpKc3JLR1RWMHJLTUV0dnpuSFF6dVliSklmQkRQLUo0d1RMMkhsRFhXR2NVT0RXMjJJLU5SMDI3Tjh6MldaakttcHF6VURwd19VbXZtb0h6QW1IU2VMV0JoV0hTQXQwbFVnamZMUA?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Takes Claude Into Classrooms as AI Race Expands Beyond Students&nbsp;&nbsp;Benzinga
+
+### [Anthropic commits $10 million to Canadian institutions for AI research - BetaKit](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWU1fYnpzdlZHRTBZcnNCSnVyUnc2VkFPSUQtNVlqaDdQd1Z2Nnp2NUI2RldlQ1JmZ0ZTZEJkaktHWG5kV3I1MEV0eGVmZjRrOVNONHpsNXlObmJveGc3dmx1bjgwQWM3Mzl6MWUtd2JiWE9JZ2o0VXdiUDhBeld2VDRIRUlqd2lXRmFuSG9ROUhEaU1s?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic commits $10 million to Canadian institutions for AI research&nbsp;&nbsp;BetaKit
+
+### [Anthropic reportedly planning Claude Opus 5 launch this week in direct challenge to OpenAI's GPT-5.6 - Crypto Briefing](https://news.google.com/rss/articles/CBMidEFVX3lxTFB2cm0tQzNfdVd1d0ZHa0l3bjV1cGt6ZTlkNVlVTVVKdWxjWTZVV0J6YmlLWG1tcHFfWXF1RkYzUFdpdnZFbElZNXYtY0ZQcFJ2YlA0Z0NCeVk3dklhaHZBemluTDRUVHB4OE1wdVJKaHQtU09q?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic reportedly planning Claude Opus 5 launch this week in direct challenge to OpenAI's GPT-5.6&nbsp;&nbsp;Crypto Briefing
+
+### [Advertising isn’t the answer to Anthropic’s hard questions - Fast Company](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUw2cXJSOE1qREVldy1neWlhcTNQLWU1cmRXSWJ3T01ubmR0MWkyQ0pGWm0tVDJvcW9maW91WThUVmd0VTJxcDYwb1B5ZVdjYm1SUGhHQkRHNFFjeEw2cEpqdFRJUl9xOVprUWJYcUt6dDVPQVY5U3V5TEt4ZmhsMUxMbnBXelFEUlY5NUlUR3JwVG40anJQOQ?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Advertising isn’t the answer to Anthropic’s hard questions&nbsp;&nbsp;Fast Company
+
+### [ETIH - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlRWVmVseUQ3VkhHalpBSWpNQk1XOGljRFgxMTVINDd0bVZBcDhmRmItUTJWQnJ0OFBFM0lKLUZQR3BfUHhlOVFNbng0RGl0d2ptUEFOV29CUVp3XzdzQlE0THdDTXNGMmdITUNhYUd2bF9VcEhLUEhfWVJEUXA0ZGlVbzZTM0pQSVE0cXhFOEZIRmxmemFhdEJfLTJacUppQjA2bg?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+ETIH&nbsp;&nbsp;EdTech Innovation Hub
+
+### [LTTS Teams Up With Anthropic To Drive 'Engineering Intelligence' Using Claude AI - NDTV Profit](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOTg3UXhIMUd3T05fU19ra1ZtWXUwSHlnN3IwekZVX1hsa0dRSFRpR0RUQTdpeFg1QzFYYkFMWjdnVUhFRkc2UjVOODNlaEgzbmpOZDZfVE1TVFZZX2sxendxUXlwVmZ6dklDRDBvdXYxUTg5REpta1pNMFhBUEs3blRkUS1rUlRfSWV3a3RmTnpJVGpSNzNYczM4NFpZZDJHcl91ZGpVa2s1MmtramNvYnBZMnB4QVF6NFdOekV4ekJ5TmfSAcsBQVVfeXFMTlNZMFhxN1pnSWZxVFNDT041allqNC01RF84MnoyUHFWVlQ4T1lTRzJna3FKRnk3cEpEN1FpcWsyZ2hxNlJiazJ3bzR5TDVoaURoRk9TZl8wQjBmaFhVaWNBZ294bEJwSF9PbEZERDR0eklwZVk3RllSS3pOX2JaLXEwbkg5LUxmZU5EeENtcWppbnVnbkVsalh4aUd5bWpuZWRiOFpCM0VPM3lYLWNJRlVVYkdoWUh2QkxTeE9RZlh0OFdrcVp6Vm0tVFU?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+LTTS Teams Up With Anthropic To Drive 'Engineering Intelligence' Using Claude AI&nbsp;&nbsp;NDTV Profit
+
+### [Anthropic Backs Canadian AI Research With C$10M Across Eight Institutions - Yahoo Tech](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3Rzb0JIQl9qWVVLYzhweENObHMyMFIxaFk4WHFSVU4tX2RGNGdNTTVCZTR1dFl1Tm5YTDJCVjExRmRvNUpycmNVX3YxOGZkeUt3dVF1YkdUY2lCSE95elBpSTlpaGRHdXp1ZkJwam9Dek1GWXVSNjZldllob25aYzg1YjZqd2tRVlZJT0hvV19kQ2NGdXFkXw?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Backs Canadian AI Research With C$10M Across Eight Institutions&nbsp;&nbsp;Yahoo Tech
+
+### [Doceree Launches Generative AI Connectors, Bringing Clinical Intelligence to ChatGPT and Claude - Yahoo Finance UK](https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0RpeHZaeWZPVTFJLVJUZlZuZ3J1VHhzSDNGUlMweFViV19HME02SHRMU1dLQ3d0SVJOamR5NWtLdVJyR1Njb0NjUWV6TDNJZ1NBN0JyUG1ja1F5aHdpTERLanVJWGxkNGVNZG5LQXF4dTJqMk82QTB0aGVGNGVpOU1wcjdPVDN2ZUlGdnNMNnZhTzl4?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Doceree Launches Generative AI Connectors, Bringing Clinical Intelligence to ChatGPT and Claude&nbsp;&nbsp;Yahoo Finance UK
+
+### [Anthropic launches Claude for Teachers, offering free AI access to K-12 educators across the US - Crypto Briefing](https://news.google.com/rss/articles/CBMidEFVX3lxTFBkaWtBLUlHc21wWWFpVFE3MHZidnZ3aDY0bnVUdVZiQjdmaW5JUHVkNW9SbmZENzZuZWdJcWZpSlRMcDZYWHhuc3lFWTEtT2V1MDlpMldUNVJjX0R1amxEMW1qb1NFUU1hMW1GTkdMb0tSaFh1?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic launches Claude for Teachers, offering free AI access to K-12 educators across the US&nbsp;&nbsp;Crypto Briefing
+
+### [L&T Technology Services Partners with Anthropic to Deliver AI-Powered Engineering Intelligence for Products and Manufacturing - Business Wire](https://news.google.com/rss/articles/CBMijgJBVV95cUxNRmVNSVA1TzRza2UtRjk5SVNmeWtlb0NUcFl6S3pqRUtTQmNWLTVCZmJiZUxpOW9TQWdxRnM3WnJ3RFVZNS02UWdDRkpjcEJzN1NyaF9heWNTY2NCem5TV0RjZ2RCOTdJSWhjTEJIbEs3dzFZLXozZWFsWk1GUjhaenFNN281bk00bUhnN2VyRGlvaG0xTTNKNjl5Z3NSbkttT2RsMkZ2M2NSWXp1ZzFNdGtFWmYxdGl4dFh0ck5HOTJkWGJOel9TT0kyVzQyanpHc0sxbjlidm1EbEhmUjNPZEp2aUtabF9GdlhUTkhMeGVaM0VnT2k4bXFmdzduZl9EN3UwdHB1Qy04dzNFVVE?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+L&T Technology Services Partners with Anthropic to Deliver AI-Powered Engineering Intelligence for Products and Manufacturing&nbsp;&nbsp;Business Wire
+
+### [Anthropic is giving teachers free access to premium Claude features, details here - 9to5Mac](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk9UdVdjQmxCU0dsWEZfWndpN3d5YnBWa1RiVDl3b2x6R3U3czJ6SkR1anFRM2xxVEFmVVRpTE51LUd6OWFYTnc2OFJZYjFubDh5MWxuWFBVb3Q2WExQaTdiVVhUOS1jSlZKMnlZZHpUejRWdkdkckJXeFVnMy1tNWFBNjlHbjFRZktkSDkya0Jqc2J0Mko2OHVsQWtEVGlHZWFGZFNKQVZTOXVIbmdXdldB?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic is giving teachers free access to premium Claude features, details here&nbsp;&nbsp;9to5Mac
+
+### [Introducing Claude for Teachers - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Introducing Claude for Teachers&nbsp;&nbsp;Anthropic
+
+### [Another contender just joined the arms race over AI in schools - Chalkbeat](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVNCUzQtQlYtSTctLXNIUjAzRERaODhqcEplcFNkTTdxalZ3VUhhaFZzUFpYYUpoTDRZcGxjTzdNVXNENktfa1hRcENPQjZ2Qlo4V2NwMjA1Vnh1YVE4bU9sRTlwbUtLQkg1d1BjNk00cFpHSWNuMjJRSTk2MG5BLVdkTmtaZklNUW1FRmNvSmhqak5hOXB3aDBnZE5EUUR1YUY2ZlpBMVRTY1dpOWFwRkwzOG0?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Another contender just joined the arms race over AI in schools&nbsp;&nbsp;Chalkbeat
+
+### [Anthropic Launches AI For Teachers - Forbes](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjdKcVVISHRzQTBpLW8tRVNjUlA3aERYZWh6c2ZIV3pTZlR3dHlSMFRxdFI5MzVCR1NIdzUwVnVsR0VmV054RjBPTEFaaU84ZE9fVzdXRUZZUGxGNXNFUDhMMEpEUlJCSGRJTUtCWXpfbWRxeXdxSzZvVXJKblY5MXdSZ2plbzRHMk9uMTQtR21vc0g5?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Launches AI For Teachers&nbsp;&nbsp;Forbes
+
+### [Anthropic Launches Claude AI India Pricing: What Changes For Users? - Brut](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTNaSEx1YTFJUEpfUHdlMV9yS1VSS3h4MGxuOTZIZnptVEFmZ2JqY1Z4OEVYU0hvUm85b3RJVG5qd2RLOTJSd0pXLXlLRUh1R0NZd2kxM2xSMmRfdHJ1U3JYM29GTF9jaGNXVmhpaGhQWkFpZ3JNNG9pMUNKbzlKMzBuZ0pKd3UzY1J0Y3Y2WWJXdVM3VXNyUVRHanpWOV9Zblk1MHZzcVRLdWVEQnc1Q2VzeDdNMTMxd3ZTWGs2NA?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic Launches Claude AI India Pricing: What Changes For Users?&nbsp;&nbsp;Brut
+
+### [Anthropic says Claude changes its personality across languages and models - TweakTown](https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2wwM0tkdDJFNS1wZ2xZYnRCY25vcnl6aENHMWFvZVhEN3dONU82dHlSUUFVTmljZjJLMm9lbGUtM081WElXUnpDWUJNWDJYaEpnNjViYXU5dUhETm54ODBuQkVwaG1XdzF0NWpoejF6MXRPVTZEOGFRemdBbFFiSTUxaURnTVhLclFSNFFyOWNHRUkzLTktYUNrODJEcjhPZWgzdjlnRHFfR20xNGdzU0NScTdCTlRZaEVYdV9TMA?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Anthropic says Claude changes its personality across languages and models&nbsp;&nbsp;TweakTown
+
+### [Claude responds to users in different ways depending on the model and the language used - Mezha](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUhrbk9TYk9xN0RsM293WUdITC0tanhIRk0zQjNUaW02QkY1ZEVWOUJReU9kS21UQXAtTk9CN3NGUmw2Snd4MXlNeHdQZll4OFFYLVVadnJJTmZTNkNBS3BmQWtGRXAtQVBlZG9HMl9qV2RCNlduTGpEaHc2RTRUT0lsZ1gyNUFOWWs5ejAweEo0WUQtdjlydFluRk5rTmVtcm0yME1NRdIBrAFBVV95cUxPZ01aMFRTaUxKUFh5SHkzUms1XzU2RzBVQmh3QXhVcS1yRGlkeGRJRElmSzhyQVg3azR1TGVmX1RBUmJwWnZaN0hGQUFpVWZ0ZHFkUzZhcjgxQVIwLWhFbFRwSXFZVDU0TXAyS0JnQmVpb1JkRUp2MHo3bWRJNU81RkRKblFmbmpsc29UTlRMZ0wtaUxDRXdIc2FLNUpkV3BnRHpubTRaNnFjN1Bx?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Claude responds to users in different ways depending on the model and the language used&nbsp;&nbsp;Mezha
+
+### [The Download: Claude’s inner workings, and the future of world models - MIT Technology Review](https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+The Download: Claude’s inner workings, and the future of world models&nbsp;&nbsp;MIT Technology Review
+
+### [Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers - the-decoder.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DMXl1dmZPcGtTQW5wQ2F4TUxianBxWjNOcXBEdjZrTnlUT0tQY3VCMUlJaVZ6eFlncVZWdld0VmEyRXFJS3JvVDBvcXNNbi1tbDBUODdmdw?oc=5)
+*Jul 14, 2026 · Google News – Anthropic Claude*
+
+Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers&nbsp;&nbsp;the-decoder.com
 
 ### [ETIH - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMingFBVV95cUxQNFdyN2otSTAwX2kxNUV3ZF9YTmNRWXl3cTlMZUZheUlWRXNWYzVMZXpOMjltZFBpLXV1Nkh4VkN3d3lyR2l1S0I3bEVCLU1Edi1RN3dBYWhZTkNIQjRaV3RQLXVKOXphbFN1RXVOWmdsZEstMXFyUjlpbGozRTRWSEtSWVNlUEg1ZVd4Q2hmZ3BBRU1EVm51X1VaeUdWZw?oc=5)
 *Jul 14, 2026 · Google News – Anthropic news*
 
 ETIH&nbsp;&nbsp;EdTech Innovation Hub
 
-### [Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0E5ekZaYWg4dGREWVI0bl9qU1c1MjRrWnEyb3JQX25ySVBxUE9HanpFZ24zTExlZlN1RDFweTZEejJ5R3hMaGFXTGttNnYyZDhYX0ZYc1lUZ2txUVZYd2FIeFhJLVBXZFQxWUpnRF93d09aYnIxMmJFel9KczhtZWx0SGlCd05IWEVWTFRISWZlQlFwOHdSdFRDdHgxNnBfRGdmd3FRMVZrSjdXWEg3UlJOQkE1cmptcHZZNXV1THAzd0pzOGR5dGpIU25ZZGxfWUdsOEJNVnBxejhEV0lPblREZi1tUlRDSWxaV0h4UmVIM2xld1BXVNIB_gFBVV95cUxOWVZpNjlyVHZnVFU2WVo4b2Z6RFBZMDJkcXcxUnFuVVhkTlVpZ2duQy0yRFpJM0RQdTFaaG9adnFqR1hYNW9XZTJfYWk3UWtLc1lzekVYOG9HSHUyemtQT0pRcVlnclJ4alpoQnpnWGJ2X3pEcWtNNV9tSWFpakJLdjI3RTl4dkE4WGRfc09UcnRUX25CamcwTlpHdHpQX2ZnTG5vVi1LbmlHdm10VTFyanRFdFZUeGFjZDRDWjFNb251cGNBeFdGSzMyWU80N3cyT1RmTGdmQ3NVVHdDeHY2bE05ekxQakpWZnNiNHlWTFNGQnROdzVMV3ViY2NPUQ?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
+### [Anthropic revises Claude AI pricing in India: Here's why - YourStory.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE9jUFd2SzUyeEhLWEM4cWYtRUM4NGNyS3h3Vk0zLWFfUjNYaWg1ZkFrLVlHLXJobWRUbXpDYkZMZUZtWjNhcVhHWkNtMk9ZemlMdFRoM3RoWmtCOXc0SFdURWtXYXdsUDJ6SjRVbnhFbDF6Xy1XR04zWlVR?oc=5)
+*Jul 14, 2026 · Google News – Anthropic news*
 
-Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services&nbsp;&nbsp;The Economic Times
-
-### [Anthropic reveals why Claude gives different answers in Hindi and English - Firstpost](https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzFFb0hBZ2g1aFJPZ0ZaeV9TWlZycGY3ajRtaExZUHoyYVdsRmMyd0hjWjB0VGxsQ3RPZVpkTERSdkRLZmxnRW5yazV4ektLXy1qS2loREpMZUFQSDNnZFN2MGZ6ZHd4eENpcFFaQzdFcmFYdjljMGJPUTNEeldQeHRDNTNhTzdHQl9JLV9EWWUybzdCeVNuM1RtbW04OWxtZENFSXVadHdGYS16YjZUU2JlMjIyVjNwT0HSAb8BQVVfeXFMTWJkREdzRzM0cW81X0dvWW5mbmlUbzQ5QWhCMW9CV1N1dUdBTnRpZEl5TzRPZHNqZFVXR1FPQUlxSWlKZlp6UU0ybWV1U3FhSnVUd2tmWDF4QlBsLUpmSDV1enNMa3Q3Y1RQZEx2MG1Pb1RzZkRuT011eUpyd0d0ZjA3X05HMVZuZnVxX0N3TmgtZUVwejg5QnBKeDhua1RDeUREMmdrS1QxMmgwdGZKZ1hySUxVeHd4ZUNrT2drNFk?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic reveals why Claude gives different answers in Hindi and English&nbsp;&nbsp;Firstpost
-
-### [Claude AI Gets India Pricing In Rupees: Here's What Pro, Max & Team Plans Cost - Open Magazine](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTVGSEJZaDIzNHlxVWJfdW10dks1Q1Fyd1pwaUkybFBJY3VvTUt3WlA0YVg2WVpNdW82d0lic1ZyVmVRTlZYTWxQU3duTC1WSExtMkljaHpFTlpRcUl3U0F3SkQ1OG5EOFZsTjQtYldUOWNNV2UxaUpRdzdoOEpKbzdNNTRkMHZpNmx1cktBc1V1Q21QcG1ZRjRnc3dFTXpJQS1QWnQzVWZ6bkNTN1E3b1V3?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Claude AI Gets India Pricing In Rupees: Here's What Pro, Max & Team Plans Cost&nbsp;&nbsp;Open Magazine
-
-### [Anthropic Rolls Out INR Pricing for Claude AI Subscriptions - Devdiscourse](https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDl6MVRSR0NxUFZHWk4xSXVMRTNCOF9MdUh5N0JianpPRDB4cFhCWDUtWDVhWXpxbHlkeW9TeEQtUE1JWlI4SjhRLWd4T2VGRl82VnQ0c0o5MFo2Q0lLRTRVdmwzVHZ0WmpVTmU3UzlGN2JRM29pOTJsbXcxbGNkY3Nwc2VaSGQ2aE5WWWZUV2s0dzk2YTRacXdyRFNTdk8xamxPUXZCWTZPVHN0VHE3OHlHWdIBuAFBVV95cUxPZy1PZHRFQUViMlo4Qm1BY1dLMFAzelpKSEprNDBMVFc3NTVhWXpkUFlCUWkyYjZqOHZyTXAxUE5DOC1RbVo5bE9TbXEyMjJaQWQ1QmwzRndOdnM2Wmo0REc1eDBaeGdZSS1MSDdZNUo4Y1BZWTRXc0Y1V1hsR2tzNzgxUHpxZ0dLVUxYdjBNS19taTF5TzA2ZnRnb3NzMnU3YUN1RlRFUUF3dWU5M0FPU1JIZkRCcUh4?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic Rolls Out INR Pricing for Claude AI Subscriptions&nbsp;&nbsp;Devdiscourse
-
-### [Canada government warns country's largest financial institutions and banks on Anthropic's Claude Mythos a - The Times of India](https://news.google.com/rss/articles/CBMizgJBVV95cUxQUmxUNW5seVZHbjNmQXpMUVhFVjVKTV9lbkZpcjY1QlFJaWxfRTRXbF9Eem9lZC0yWTZKMm5abjRTREwxOWpBNjJXTEdtcTB3QjNScldIQTVENzNCaVFuZzU1bWF5aFFLaWxFNmxxX2NwR2RnQzJaazRfOVEzOTdVZ0JEZ2ZLZncwTnFPZGl6Ym02SDhKWXdMZl9FRWxjT1NnRkptVDI2eVNZOGhmRlJ5S1l4M0swS2g2UXAtV2wtRGlaOUE5b1M1UGdxSkV6S0Q4N18zWU5QcGMtN1Iybnc0TFhMd0xieDROMFluN19DZzlxLTFPMTFVSlhVOHJHeWFKVXk3aGRjVGRzVWc3N0dUQldLUEg2UjhhdktvYlJfRUZUWTg3VkhDTlBuM04xRXU3Z3dxMzg2U090bjJyNTVHWS05aS1QTXBmTGt6bVdR0gHTAkFVX3lxTE1mMS1hMk1kZExaQmc0RzJJNHowWTV5Wm1NSC1hNHVwd1l3MUFFNUpkcGtBYVlJTjlzdFdKM1B0YUhXaVpUalhqeFc3NFZQNkNJU21VWms5TWJraTkzdU9odjhuc2xPWjdoVTU1NzNudnlGRDRvNERMNDA0b2NIQzBvRWhTMXdyaWY5QU13SF9RekJOcjF4UXJUNkRCNWlybEh1RmpTbDRPQWtvcU9UNEdJSzd6Tl9STGk0UHdkYXloR21XbExiRkxFaDliS0xYT0NwUWY2TzU2RGRmcnUwZHR1emhudFNPMnF1dGtZWXVMaXBDN016WTFfUXJBR09PbGZ0N3NyNEl4ZER3TGQ2MHJqSjZ2Q1M1dGpzY2dDeF9KNWc5WHpyUm1TbEpvaFJMWDJwazR1aTZXLWloY2E4T1FaVkFFY2JXcEswZlRPc2pmdE85bw?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Canada government warns country's largest financial institutions and banks on Anthropic's Claude Mythos a&nbsp;&nbsp;The Times of India
-
-### [Claude Changes Its Values With Your Language, And Anthropic Cannot Explain Why - Yellow.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56dlh5czBXa0MwVV9jT1JlSURjSkZFVkNhbklkY2lNRkEzcW1LS2NwaFBTTF9sNWUzVUR0cmREZTl1WW1sSmt1YVBzcUlRd0s4MWRDc2RBNDNYZG1MX05lZHJ1WWVMWnc?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Claude Changes Its Values With Your Language, And Anthropic Cannot Explain Why&nbsp;&nbsp;Yellow.com
-
-### [Anthropic’s Claude film uses questions to build trust - ContentGrip](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XMmx6a0F0T1B1LVIyRk1MVExVcHp6QW5GT1pCYXRWUEExMFBFUi1vN2wxZ1o4aWxXWWoycUc3QVdGaGdoSFVid2JBVTZmQlhXdENkVTZfX3h1UWY1R0dhR1BYRldVUQ?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude film uses questions to build trust&nbsp;&nbsp;ContentGrip
+Anthropic revises Claude AI pricing in India: Here's why&nbsp;&nbsp;YourStory.com
 
 ### [Anthropic introduces India pricing for Claude as AI race heats up - The Indian Express](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1E4SXhmdFdRZUlxcTl6ZXBWNmZxQ09uN0h1dHVWbzFMczYyUDJjOUxxbV9UbGozV0d4aUJ1Q2FOaFpRVEY1dlAzV1g5bVdid2JVOXVwWGlIX1dTWkR3d0hCMkZYZ1lZX05MdEptSVJIZHJyczBLWHMxenZ6WUs2ZEI4a0ZJQ3c4T2k0V1d4TE5BYnBqM011djgteTNHMG1kYy1nTFlJM2o5MzRFV3FRejFDX01ISVlsMUI2SlJqdU5jd0ExYXZTcG9OdUNJWU1hRl95UUVMWGJhRDZD0gHjAUFVX3lxTE9Ob0ZSaWtNcG9yTlJtbXlaOFp4cEdjLUhjUU5SUFMzZEdJaVNhUVF4X0hWNFlHMWpDYl92RVdVa3Z2bnNrODRlczF3TEp3Q0hJOW1OOC1GdDRjcU05a0J0REF5TGIya2JuVTN5bDQ4SUMyS1NZTDdWWVB6UTI1SG1aLW9XSGV6WWs5X1VabU5JX2lCVlhMeUFFa1d3TWxNR0EtU0s1XzJsNVJPSkhpbmMxTE9Md0FVVHJqZXo4anhVNW9oT0h3UDEtc05qM0JyMUpjRHV4eVZxZGhPdnRtN2hfMUln?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
+*Jul 14, 2026 · Google News – Anthropic news*
 
 Anthropic introduces India pricing for Claude as AI race heats up&nbsp;&nbsp;The Indian Express
 
-### [Anthropic Launches India Pricing for Claude AI Plans - Deccan Chronicle](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHgtVEs4ZTZ3MU9pUU0zZHlWeGNsM3A0MlJkNkJiZ2FpSTF0VlZKYnJmTWliVlBzTllES094UHhSSGhybE9MeGFzOEFCb3VnX1RyTHVaT2RjR0lMTXdWYWNmS3VkbE5WbGlrX2s0T3AzbGRNUm9GUXdTVDlqYzJLMjVoY2l1Tk1GNERrRUVOanYzVkc4WXhVQ09VbHp6enpMVjlyOUh30gGrAUFVX3lxTE1LMElveTgzZlk2Mm1QRGZSeWx5dmlXRTFyekQ0SVJscEcxYjN2bV9nT2hKUkZzNVhBWC1UR2xPVFVVMEJKUG1qNDlrVEJoVW1OcjV3ZmhTWm8td2J5eDJzNWNlODBma210SlowbHNSNkVHV0FIeHhPQzhmckZUWnQtLTZteUJGMVBYWE5vMy1BbkdaNlZ1MTkxRHE1aDBCWkdLNzB2Y3I3elY2dw?oc=5)
+### [Sam Altman can't stop making fun as Claude maker Anthropic 'goes around America' to ask people 'hard ques - The Times of India](https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZ2RSSVR5MmlFMVVqYUJmMFhfS3Y4LVhrcnZ6bThUUkNZTVg4SU5Wcjl1empmeGVrWFYyMk5PLXBEUzZpR1g2a1dEaVZWYWRpZ0dPTDRyRXloTUJJLVBDN2g4YmNpOGpBaC15c01hQk80RzZkd04wQy02ekZDVlFZZ05PbTNfcjlPYlFKTGswd2lVdWRhQl9zWktYaGZHRm1xWGwwNWhlMU90WHRKMkl2LUhLSG9ORkg2bUlvY0xNb1ZtSTI4NzlRU0VZMkh6VTItT05vVUZ2U0RYUVdKMVJTZ2NGdTNyV1h6bnlkRk5sQzBPVEhXUm1qQmhRYS1SamNUZExEZWdyYzJEbml4N2JxRzBjT05YbEZZRnBUbURhVmtGNG5Wd2NveTNKMHVFVkxvYXlaWjJDTXZPNFhUaGtZONIBxgJBVV95cUxNbUVRdHUtZWpHNi0tN2xoMUZsSW4yakxUTVM0eXR4ck9PS1hkenJoaTFkOWI3Q2Y0QmR6WTBucm8xX2R4NC0xTU9CSkhaQmtTUkpXTXdzVEhJVUdjTjhLeF9zZW8xNURnNjFCcFpLWUFMT1RVRmFRaXBKWFlrejVIQjVTQjItSkhoQ0NmcDRDektyTUFLNFh2SzRaNXY4MExPY1A2bHRFWG05YUNJdjJhemF3Qm1uZnVPeHlQVVR5UXJ0aWRBdGM5ZkZ3ODU3YUlHUkFuZGcycFg0cFZpa1FmSVVWZzY5OTZJa1Vkd0ZPM2UyZEhIU3RsSU02U3ZGU2dkejNpdEtGRFFnM1lMQXBab3Y4TDVEZVk3MDlnelNqeWtBQVREVEVOU3dCc1RYN3lNU1R2ZGU2aDZNY0YyVmVSTE9lVmFudw?oc=5)
 *Jul 14, 2026 · Google News – Anthropic Claude*
 
-Anthropic Launches India Pricing for Claude AI Plans&nbsp;&nbsp;Deccan Chronicle
-
-### [Anthropic launches India pricing for Claude AI Pro and Max plans - BusinessLine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVklaRmtjT0RlTFBkbkpoSGZlanBuWXBHWFcxS1l5eGlXYThTX1E3Q0tPaHRpMExIODBXSkxyQjNMX1JDaE5Da0cyV0Q5dDJKSGd6NmtxZlNON040NWthR29rZENOUVlQXzFDTXpfYWFDM1pzX0F5dEFReTlodElHd0dLNWpIbmtMa29aSEo4bnV3RHRBVXZLbjB3c0FkTmY4ZFJMY2RWTjFYdHl3MUtXczRLSHNTQjhVTVZhVDg5LUo5M3FWLWpXeG9NZ9IB0gFBVV95cUxQRHQtcVNSSVJjWVkxQkNtNHlMMmJwRDhSeDFLV2xxNTlISDlyY3dmcHJwS1hHdjRmMFQ3d2dFSDA3OFRCN0FVYTI1X0FlOEw4VHpqVEtFMkVYYzVOc2RRS2h0ci12OE10dUJVaS1lRDBRd003QmZCcVdRRmZnS2ZOTUJIOE5ZZTVKM1B3cFFEblZZWHVyOGN1WUNDQzdKOER5bEhYcm9yVkJzc1RvRUxOSVQycTRZOGdyb1Y3NExxell4TXpYZkk3N2NOSFhlRWd3WVE?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches India pricing for Claude AI Pro and Max plans&nbsp;&nbsp;BusinessLine
-
-### [Anthropic introduces India pricing for Claude AI subscriptions - Social Samosa](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnFIZElybzFrM1F4NFBIOXlweFVqN2kwalcyTE16Tll6YUpNZVRLcEJlbFZ2YzhFeUZOcTVtZGlQSzJUMENqUEFSeUdJdngwcDJhQmpGck9nMm5OMXlGcFdLSW9feHZjdUYwOXJaTWh6eGg3QWdqUVp1RUc4Rl94ajNFd3RHWmh2S3I0WDFsTWxqbmlXSkd30gGXAUFVX3lxTE1GcUhkSXJvMWszUXg0UEg5eXB4VWo3aTBqVzJMTXpOWXphSk1lVEtwQmVsVnZjOEV5Rk5xNW1kaVBLMlQwQ2pQQVJ5R0l2eDBwMmFCakZyT2cybk4xeUZwV0tJb194dmN1RjA5clpNaHp4aDdBZ2pRWnVFRzhGX3hqM0V3dEdaaHZLcjRYMWxNbGpuaVdKR3c?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic introduces India pricing for Claude AI subscriptions&nbsp;&nbsp;Social Samosa
+Sam Altman can't stop making fun as Claude maker Anthropic 'goes around America' to ask people 'hard ques&nbsp;&nbsp;The Times of India
 
 ### [Anthropic's extravagant tokenizer complicates AI pricing - The Register](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXdlUExWSmo1RGdpMkdkZFVzT283Tkw3MDFnSDloYV9GV2dIaEpybTB0VXB5SmpLOVczNzNiV0piY2c0QW9NaDd5eHJ5bkFTeGFNQ3hQQlc0VmhLLVk4M0VhdlQ2YjBmY0J5c1pSaWtJNGx3elEzM05NZ0FQRG43RTdmUlRzT0c2LVFZMzlaMWpuRUtMR21GQUUxM00tRm5iaHBMcUJHaXhyS1NNS04tWmVB?oc=5)
 *Jul 14, 2026 · Google News – Anthropic Claude*
@@ -80,40 +285,10 @@ Anthropic's extravagant tokenizer complicates AI pricing&nbsp;&nbsp;The Register
 
 Anthropic Starts India Pricing For Claude AI, Pro Plan At Rs 2,000&nbsp;&nbsp;NDTV
 
-### [Anthropic admits Claude has multiple personalities, it is extra warm and friendly with Hindi users - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMzE2SjFwVzRacnQ1QkhPNnd4Q0hYNkRvc3FtSzRwU292RTBXeTRfN2hDQURSbTFCUDNYTFRaX2lQU2VOZXJwcXNURWF2bVpsaFNfWnBjUG1sX3NKOWxwSWMtNEdvSThQeHRndlRVZnBpVm1ScFlSYVRXaVNDQ2ZxZlUtdUJlb0RveG1reHhKZS1fRlF2ZFl3M25uYzhXbUN3OUxqYzRUVXVmM043MVU0cHAyQ0ZidC05MFBwUHpkVWVmLUxUZ1dfMWhCbTRvRVN5MGxpTS0tY0dnY25BRlpYcDlBSlp3ZTB1a2tTSU9jYWxleXVwSnNV0gH8AUFVX3lxTE80T21HSUJhRHlLSGZ4b3RFaEtNWWRjc0owOHA4UUtVTDdxRWZ4NkNmdkZLNnVZaDFLeGlNa1NKM2w3b3Z3T25sRG1jMElnTkFldFNldExDeGF1WnhrOEJpVG1JQ18tWU53UGtxbDJpYXFEbnp4djRycHhKYnNnXzF2Y0k1OW1rTTRHc2ZGdFdWdlBubTVuSUp4cHRQTzBnb0YwUGNfS2ZGcXFhcUZuelpWdDFDWXJJX0VqVHZqNGpYbXhWUnF3alBUdFJCM091VnZlT1NUVkZqVERaZDVKWm9ERUYwS09XbzhoaTh4YXpmbGlwRkJaUHRxSUJPTQ?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic admits Claude has multiple personalities, it is extra warm and friendly with Hindi users&nbsp;&nbsp;India Today
-
-### [What Are the New India-specific Prices for Claude AI? - Analytics India Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnFkSXlDRE5RNUJZQlBXMnVXRFdnYlJ4eTNCSThnWVUyOE8tTmUwbmI3SlZ4alE1N2xyVmNlSEdhUWFINXdVdnJLN244RE1XdFZRNEhJSTNfX0RsMXVjbXV3ZkEwOGdxMmdoVHZDR3VDRUNqQ0RHQ1V6WWJrQThVR08zQXM0ZXM0cGVRSmtWQmpJMlhsTTMzbTB3X0dlYWllRlA0UC1hNHRsMFNablE?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-What Are the New India-specific Prices for Claude AI?&nbsp;&nbsp;Analytics India Magazine
-
-### [Anthropic confirms Claude acts differently depending on your language and which model you pick - Digital Trends](https://news.google.com/rss/articles/CBMi0AFBVV95cUxObXlDSk1JZnVGdHNlLW45dnBqaGNpUTBvSV9KdXM1MS1pUk1XdjU0eWZGSGdhS29NRVFGcGo0TTJsdnNCMjhVYy1mbWZqTGszZlctWGpLbGtCY25aY1dMSWdEX25nTTE0d0RILWtvc3RmT01tMEZXUDNyd1hFeEpiQjFaRGJRMFNSRnByY0J2Q09oZHRIcktpMUwzRjUtT3FwVVNqRUVLMmUwMVRXdWtGX3dBbnBxMHVCRm56RWNWRE9WdFN2NkdZaTZZcF9pdldi?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic confirms Claude acts differently depending on your language and which model you pick&nbsp;&nbsp;Digital Trends
-
-### [Anthropic introduces India pricing for Claude subscription plans: Report - Business Standard](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2loeWNkTTVJajl4LU05WG5IYWJSRkJxd0dPWmpqU2duYnRjelpoajI2VzlaQkhoc2VQdGpsa2lRMlpGb25QYkJURldUVWRSdTRvaUN4ckNldERNWTdxR1h0UGktRlh1LUhOczZ3SG1TcTlFMnA5bVE4SENMOFphb1FVdlNlYWFVbDZOOVBQaksxSzhZZG05OUFySE04OC1xT2NfeWN3ZUdXZ2pfY2NKT25PTmt5djQ0Uk9HVlFiNDVhMFJQeXd6QVZhbFRRVFlBX3ZmVjU0QkrSAd4BQVVfeXFMTzVqcjNFcmlxVjUySDhmYlNFTkJoeEJXaVU4bnlFZEtibDFEV2IwOXdfc1Q3OFpqZGg2U0pJSURIaU1qM1d4a0R4bGU3ZUpfdjFXdzY5TGctNEVFUlFfbU8zM1FUNldpSE1VZWs0a01zVWVlejM2R3Q0bzdDdzBDTW5Cc3FpOUpwdnE4TU5jcVUxdXNSMkR6cVhoRGdWdG1EM1ZUSUJCQmpKazVMdGZ1M1BHVUcyNUxBSkNLTVJBYmFiTGYxNGNCQl9RY19mczlyYmJ0cFgtWWNRSUcyRWRR?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic introduces India pricing for Claude subscription plans: Report&nbsp;&nbsp;Business Standard
-
 ### [Anthropic brings India-specific pricing for Claude AI, Pro plan starts at Rs 2,000 - Firstpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWtNc01zaU53SXBkM2ROcDR6eFRjT2JfeVVnVThCNk5LWjVRanpHM2FXVTl5M3BJRHVZLV9oZ095T1Bodk1iSnhLTVpkZ0ZGVU1VNHh3UDNBdm5yd3dFQVh2eGtJamVKYTVoTXJHQkRmbkZvaE1KaV9pZjBaaUludGhKa2t3aGFXY3BlLUVJYWw1Y3FUOGZIcHZkVlZkYXh5b05fWWZMWHB4SlRKR0NNdmhUNkdUOUZ4OU9zN0JDWUNaY0nSAcgBQVVfeXFMUF9nOE1acWNVME1PRlU1LVpBWjZpelBtTHlFa1ZaME93cGZHZUh1RHYtV2h0Q254cTFXdFFNQ2EzNm9WamtXMWd0c1hsWEZNMnRlQVJ0OWsxeW5Zd2dqUEdpMXhCWlBnV1JCR1I4M0lRbWdQTDVVdzMyZlRzNEVzLXY3T0hYMEtjVF9IQmNiT2lCMzRjNEp5UlpGWnRMR3hSakVuc3h4SWZPZk5ydW1Dc1JPcDRKWGhNUWp5RUpTVTJsUkhVVUVhaVc?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
+*Jul 14, 2026 · Google News – Anthropic news*
 
 Anthropic brings India-specific pricing for Claude AI, Pro plan starts at Rs 2,000&nbsp;&nbsp;Firstpost
-
-### [Anthropic brings rupee pricing for Claude to India; here's how it stacks up against ChatGPT, Gemini and Grok - Fortune India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVERNano5cmFFZGpmTGlZX0xkYmJ5RXp1TUlybTVRYm5ZVllQVnZkdllqU180U01rdkN2bUZ6TTBvY21VT0loQ0hXNXhTU1JVdkhETmxYSGlqWnRVYVd2clpnNzVLb0EyNDd3MzgtZ0R2d1ZOWVd0c1RJNGh6aUFkLXNuaFBhREhjU2o2Z3NDOUtJQ0p1YzNpc0tXVzRmc0dXeWdIc2FaeGJWLVYwd0NRVkI1VnExd3lZeWl2UDd5MGVsYW9yRTBwY0lNUF9zVTZSLTVzMU5rUnY0WVNsTzBURXYxTUNNUkU?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic brings rupee pricing for Claude to India; here's how it stacks up against ChatGPT, Gemini and Grok&nbsp;&nbsp;Fortune India
-
-### [Anthropic starts rolling out rupee pricing for Claude in India: Plans, prices and other details - bestmediainfo.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2dTNHJIajJmcXhCcHJGanhUb1g4X1lWTUVVZGpIaTVFdElCOXhaOWhBZ0ltVnF3TFJUWk5tOXFIRHEzY3Z5ajRHa1B5TWdQQmJXbTRVQUxYQ1FlLTlxdjloVkdUc2NodDh2UHo1YmlVNDMwTGhMYUZqRWZ4QjZzX2dBTGc2bjRSVWtkTERZSVhTV29LU3JoY3ZLZGRyQlZERERsZ3EyT0xIMzh2RGZzQkZ1T3cyUzZlb3M3aHlDbTBhQ2xiUWoyYy1haXNuNVRmN0lvTWZyVFktcXRodmF2REpfQmU0LW5QQkEta9IB7AFBVV95cUxQT2dTNHJIajJmcXhCcHJGanhUb1g4X1lWTUVVZGpIaTVFdElCOXhaOWhBZ0ltVnF3TFJUWk5tOXFIRHEzY3Z5ajRHa1B5TWdQQmJXbTRVQUxYQ1FlLTlxdjloVkdUc2NodDh2UHo1YmlVNDMwTGhMYUZqRWZ4QjZzX2dBTGc2bjRSVWtkTERZSVhTV29LU3JoY3ZLZGRyQlZERERsZ3EyT0xIMzh2RGZzQkZ1T3cyUzZlb3M3aHlDbTBhQ2xiUWoyYy1haXNuNVRmN0lvTWZyVFktcXRodmF2REpfQmU0LW5QQkEtaw?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic starts rolling out rupee pricing for Claude in India: Plans, prices and other details&nbsp;&nbsp;bestmediainfo.com
 
 ### [Anthropic’s Claude AI pricing for India revealed: Here’s how much you have to pay for Claude Pro, Claude - The Times of India](https://news.google.com/rss/articles/CBMiswJBVV95cUxOYVBXcHlocVBWZFN0S2hqX1VJcnFYZ3U5aFdYVlo0ZnFLa0pLZ1FXeXRPVERhZDc2dVo4cWsweUh1LVA0Yk5NTDlMWWpmakpHZE1rVVIwd2F2VXV5MHhzVld3dE5BWWJlUGlYQ3JRcFRtVkUxSnI5NjdFX0h6OWt2UFdyZGQwMEVsVEhZTloySHY4X3Y4OXZxNU93VGdQeHJBSVg5blMzTkM5OGF4RVFxeXBHZm9lOTVvM0lPbUFaaXBDa1J4VzRHR0wwSUpxWlh2WDNOYjRNRzNXVF9fNHBMUW5HbUNWaHlCWWNuUUt0UmVPUk0yNWl3Xzh3UUVZVTJSVG54Nk5MNmFDbXgxTFBqdnpHOU9DQTMzYVYtenJaazlNN1V1dGJyZFBDVE9Ub0laRzBj0gG4AkFVX3lxTFBuSEFBMGJ0Q3l2OWFBaU1SX2s4Z0VkSnRRTDllTlRsMFVDc2U2T0RYOXdMUlBxZ1luZXpqWXIxUmVKRHJXSzJ0WjFhRnBFNUpWTklYVmdYMUdXTjVTU0ZvdlRNT1pRSEthckJvUnJoYnlmQjBDY1RWeEdzTnlZbW1vLUhMYjFJNGRoYjk4MlpsV3oyMDNSTm9pem1uR09JQ0R0czNyS2VpVG15Sk0xUTNfVEhSYlhCY3QxRmw5QUpVTll4b2t1U1l5U2hHSmhOYWlPekxwUEk1LXd2ZFdiaFdPbk9HYnB1NGZGbHJVRDdwTjM0WHNDRnM4QnhXRVkyNVpEOVhGcWZZNXBZcDRvaUNoR3loZjJkdENmalBpZ2RsU1VvMjE4Znp5VXE0UjFXVXNNd1JTTHpvMg?oc=5)
 *Jul 14, 2026 · Google News – Anthropic Claude*
@@ -125,21 +300,6 @@ Anthropic’s Claude AI pricing for India revealed: Here’s how much you have t
 
 Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using&nbsp;&nbsp;Gizmodo
 
-### [Codex surges to 6 million active users, overtaking Claude Code’s 2 million - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE5zWlgtUFl1YUQ4YUQxT0xURUVjWnhkSUgzb1VKcS1iV3VnRFpmam9fNnVHSU5IdUtSRk4yYlM5a2dYOUkzY3U3bHlaNXBnNTZOMWVxRHUxZGY2aEJ4d1RmT1ZuOTJqZlVZN002Z1dBSlBfZC1iSjhnWTMzRQ?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Codex surges to 6 million active users, overtaking Claude Code’s 2 million&nbsp;&nbsp;Crypto Briefing
-
-### [Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared - MarkTechPost](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzFseXVOVVdlSnNtcFhVbnNhOGtSVHFDdDFkb25iZEw1Z2FTTWFzY3JXTXNVVWZVNHJDSjJHcUc4Nk1BYnFzVzhOSjhJeGMtNmp6R2dkMlpwTFJ0Z3ZjY1MyX0hHQ2s1TnRoZjBHbml6LXpTTUZlU1RCc3RxOERtYTJDZmFsczJJOWotelZGSHhGVnF1UlctU09hSHFIVG1uaVRpNG1aT0FKSFlWX0pMM25YSlh1M1ZXY3hMbjY1VVNfbkluYmxtQ3hFWC1mV21aQmJEWVFteXg1MDJDSEdfT1NtLUkzUEdpMU10ZzFGbm9QYTJ2OEZhQS1BYTl0MUE?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared&nbsp;&nbsp;MarkTechPost
-
-### [Anthropic enhances Claude with public sharing and team editing features - Crypto Briefing](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5Q3RwVUZFUXNkSXR3MVY4akFqbUdiRjNJSFMwRkg2NDFaZTdiMHJ0R1ZRbnVGa3NHajdhZFFsV2p4ZW00VTdrVF9OM1lacjlfSjh1QXlYc2RqOFVWLWhjd2NPa3F1WnU2ckpIZTBBVnNHYzA1NEtPZ1U2Z2JfWHc?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic enhances Claude with public sharing and team editing features&nbsp;&nbsp;Crypto Briefing
-
 ### [Anthropic Just Gave Its AI Coding Tool a Built-In Browser—Here’s Why Users Will Love It - inc.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFBRU053WVRiX3NPQ0FBdHJzNUxJMk9xY19CMEJkUFZ3LVk5UjctQm9FM2tlSzAxMHo2WnBBdnJzVjRjWk1RemZGSk9SMDk2TWZLNmt4YkhRTDBhRDFGbjVjM1ViRmVHeVZ5cEc2WlhBNzQ1bmZnNDh3NXZBb0phUzg2UktJUW10ZWNHTHQ4a0xCUVN4NjJsSXNpRVctTHN2NWdkNTFndTRtZldhMXdlY3kyUk5YcTNsdEc1U3h4NGNhLWc?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
@@ -150,11 +310,6 @@ Anthropic Just Gave Its AI Coding Tool a Built-In Browser—Here’s Why Users W
 
 Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause&nbsp;&nbsp;Decrypt
 
-### [Anthropic Measured Claude's Values Across Models and Languages — On Models It No Longer Sells - Brave New Coin](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXplYUctNTZMYzBpdURiSzdEWWlsZFZMd1FNbXVoVWFXa2VTZjNHUFJHV3BWbDJTY2QyX1FhOTJXcHp4T2RQNnNFSDZuYzlJdDk0eVRSZFR5dTk3cW85SXVhVTZxUUVBYmJfLVNsVTRlNkViLWtXekJfdjU1Zjg1cEpUck84WEprRmctUTNiU1BGME0zSWJsMndQdl9xN3ROTUc2QUcwcE12S05QN1FOMWVSSU5TbFp3Q2ZBUVlLa0Q4QQ?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic Measured Claude's Values Across Models and Languages — On Models It No Longer Sells&nbsp;&nbsp;Brave New Coin
-
 ### [Claude's Personality Changes Depending on the Model—And the Language You Speak - Decrypt](https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0xEM29jaFZXdUlOakJLOW1hTnQ5VHQzbXFXdHZOeWVGalV0dDVtaExudWhIUEV5bUZxa0ltcC1KMjVyWTdlVEk4cFpvb052OVhCVFBpRXJ2OHFqQzR5M2d3cXNtQlp3dWRtbVBwY2pqV0d5a0RhZm1QUFBpczdOMDZoY9IBiwFBVV95cUxNNnVaV0pNUktOWjNNS2xVU0RXaU5SVTdkNzcxM0tqQ3ZuVFdmdEF1TGdveHA1VUo2U1NmclowZ21WblZQeEVnb0tkaVdMdl8wMWpYd2tuNkpmVXJsUy1lejhVRUlDVE1TRjlKc0cza1RReHpFS1VfRUNVb2xlWWE3Z0ZPNG84ak9BYzVV?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
@@ -164,21 +319,6 @@ Claude's Personality Changes Depending on the Model—And the Language You Speak
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Anthropic Claude Review: The Most Comprehensive AI Toolset&nbsp;&nbsp;bgr.com
-
-### [Claude AI Values Variation: Insights from Anthropic Models - The Cryptonomist](https://news.google.com/rss/articles/CBMic0FVX3lxTE5wVTI5TGQ2WEoya2pPSjk4UkxLVml1NV94TW43UGNfeWZxV0ZaZEdJYjUwaF9NaVp2ODNEYkhNX2hNTXBwODBoTEQxUnk0YUpwYnM5SVVOYUZ3cmVwUFRaU3RQc3hUaFNFd0Fsdi01ZU9QUDA?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Claude AI Values Variation: Insights from Anthropic Models&nbsp;&nbsp;The Cryptonomist
-
-### [Canadian regulator warns banks about Anthropic's Claude Mythos risks - report (TD:CA:TSX) - Seeking Alpha](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXpIa1NOekt4cEN2VVdVRlZ0ekFxQVVoUnZMRHpFSXdKWFRZQTdrODRMSGJYNVA4OHFtU21Gb1l5TnY4SjRXcHlXYzFET25yQ0hoSkpTVC1LbXl5NTdDS3oyVF9BdEVLdktDVmY3NS1nNG00MXV0WmhDNEpDT1F2dVdjdnp4ZmN2ODBoQVBaTml5VktKRTBoR01LYnFtTmNtckgzMEtETEdlU0pORFZEMGRSS0s?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Canadian regulator warns banks about Anthropic's Claude Mythos risks - report (TD:CA:TSX)&nbsp;&nbsp;Seeking Alpha
-
-### [Anthropic’s Claude Science app is coming for Kendall Square - The Boston Globe](https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1A0dFdtek0xTjB4S0RsNW1jUUxtV0xXQWV0eVVGZHl4YjVqYjVCNDFqUFZzUVRLRTI1VHlJdk5Xc21HMWRHbV8yRm85MndZbk12SDA4N2l2NHcyR2FOR2xzczkyYmROT0dVSVU1dVotZWtjUEt5Y21pUTdCXzBXcU96VkI1SGVPUTNwOWd2RnVlalFLcGtiZ1RQNjQ1NExWM1J6cXhsb0xLS2pZ?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude Science app is coming for Kendall Square&nbsp;&nbsp;The Boston Globe
 
 ### [EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
@@ -195,45 +335,45 @@ Anthropic rolls out rupee pricing for Claude AI in India&nbsp;&nbsp;The Economic
 
 How Claude's values vary by model and language&nbsp;&nbsp;Anthropic
 
-### [Anthropic extends Fable 5 again — and won't talk about what developers found inside Cursor - The New Stack](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yNEJKTG8tWWgxb0czbE9iRW5qYWZDbFJNakN1Ykw0T1JGcklxNUNSbjdKMFZUYmJEYnJDY2lVRGtXWG05SWRSYjhZZWJKTkZFVVR3Y1paSlY3QQ?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic extends Fable 5 again — and won't talk about what developers found inside Cursor&nbsp;&nbsp;The New Stack
-
 ### [Anthropic localizes Claude AI pricing for India, its second-largest market - Crypto Briefing](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWlaSTlYV05OdUhhUVk2VXl1cXlZYmt1YlBXQktiT09CQkt6Q043QzN0ekpLOTQxWEhLOTJqRlkyYlFrLWtrQnluMnVLbmwtRlNmRlBIVHUtc0tYd1MtQklDZGpJVDNicXdFME94RzZEMzRrVU04R3JCbzdIQ09wMlFMb2tUamROSmw0X0FYNXJ3VFdTWjB0bU9pV2F6ZE5HLWdZ?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Anthropic localizes Claude AI pricing for India, its second-largest market&nbsp;&nbsp;Crypto Briefing
+
+### [Anthropic starts localizing Claude pricing for India, its biggest market after the US - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlVkemV5bFI1cG9XZk9vRjF6YlBJU05hSks4Sll6OGlGT3B3NmJzNzE2T3FRY1Y4ZW1qV2IyNENGZXNRd1Y3bE9yUnNCNFEtamhlY1lCOGRtaVlUQklZYm1yWVlDLU9oSERjYzk0T0RQMi02RXlkQlVZMjRUQjRTM0c1bWVJUkFVWjY5TzNoM3Z0WGU1WmFmQnhsRHZfdkZUV3JMcllvTWxvZw?oc=5)
+*Jul 13, 2026 · Google News – Anthropic Claude*
+
+Anthropic starts localizing Claude pricing for India, its biggest market after the US&nbsp;&nbsp;Yahoo Finance
 
 ### [Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmFacXVma1BoV2RmOXgwdFdpdEhlOHphVnVyWk5RRGxJYWpmM0t4d3BpUEpnRGNQbGJSTVZLeWdXdlJEZlV0QXdtRGJxMmR6SzJTN0JSUWdQMWFPemJMbnBjTUNPLThnaVFQTzMtdGQ0NEtoUUNmODdjaHZ1aWpHeWkzeXdfY2VsOWtiVU1WS2NieTQ4Umt5cnZvZl9HOFRLVVpTNXJIdXQtZUo1eGNNWDJIVjY0Z2FSMXZn?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Anthropic starts localizing Claude pricing for India, its biggest market after the US&nbsp;&nbsp;TechCrunch
 
-### [Anthropic technical staff uses Claude to make rack for Framework mainboards - Yahoo Tech](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUZYUzFCUXRVRktkdkFaWTZCNkVrWDROZDQwUWp3VXJJN3h0OF9lQ25QNUlSU3pNYkZ2emZaSDBaWGFVaHZTOEFLZnhvcGVqMm82UHV6RmpZQlVUdkVLaThSMGlOS0tNVXZmWkkyd3R2YzhNMjVMeVJkcWRsYnk4ODZHZ1VQZ3BzNVhtTzJKai0tTmdqY0t1dDV3?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic technical staff uses Claude to make rack for Framework mainboards&nbsp;&nbsp;Yahoo Tech
-
 ### [Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again - Forbes](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXc2RnNtV08tVUtmMmdOUE1DbVVqM1ppYUpKX2YwRmtxZ2gtZU1oN1ZkX0pKVFNSTW5hLWJMaHV5T2I2V1BnZWNsVzd3UW53SXhuZ0V1S0VraXQ5bC0weGZWaDRqbFpwOWZpS1VGWjZSQ3hfT2xwUk9CNlBld1pSZXhVaV9hUDdEd2pCeGFwbTZwUHB0SVZjVk5QUTM3TmR6UlhsTUFFRXhqeG5vRmFHTWZURjVNVmIzUzZTSjlsbkVHV1BVMmJj?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again&nbsp;&nbsp;Forbes
 
-### [Debunking Anthropic's Claude J-lens consciousness, global workspace LLMs, Kyle Fish, Henry Shevlin - Sedona.Biz](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3h6bFhiN3k1SlVrZHMtczg5YzJISW9TckJOMnBEdU1OaC14LThONlhVUjNnZDI4NWF3WlZyMkJVNklFNGEyTEo3SDJnVng3dzVRTnRMQ25sOUNKQ2J3T3pBa1RkMlJ0dGtTZWxIcTNuNU44Z0swQzZ5S0hzekRZTXNuR2x0LW1OMHR1SGl1ODhGSHdqTDFRTlJPU1AtM09veUZsTGxTaWdyajRMUHZjdndoWFA?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
+### [Is India Reconsidering Anthropic, OpenAI Use in Cybersecurity? (Updated) - CXOToday.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlNLUjI4Ry1fRzFIbzFtYlZwbm1GQXhrRTRlTHdsNVluaEdoU2RJNnN6Q2h5TWZDckxQRkFJZVpsRlVpamdQZmFQeEdvangxVnFZUlVrRjNFUlFEbzFBeFRUQ2lnNDVVcXBGWVUzT2Z6UXhaeVo5eTNaUm0tejdMTWh1bUh6Z19vNnBaYUlB?oc=5)
+*Jul 13, 2026 · Google News – Anthropic news*
 
-Debunking Anthropic's Claude J-lens consciousness, global workspace LLMs, Kyle Fish, Henry Shevlin&nbsp;&nbsp;Sedona.Biz
+Is India Reconsidering Anthropic, OpenAI Use in Cybersecurity? (Updated)&nbsp;&nbsp;CXOToday.com
 
-### [Anthropic Extends Claude Fable 5 Access Again Till 19th July - SQ Magazine](https://news.google.com/rss/articles/CBMiakFVX3lxTE14aHdycjh0VERDMW9hYXl0TmVGckVNTmdoT01Tc05YaG9oSkdKaUg0Y3JjZS1pME9DZ21uU0liUGxReFd5YVU2QmVGX3k5ZjNBbXY5RXdKQUxwanlaZXFhV2ZvUFdOM3ZpeWc?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
+### [New Claude Opus 5 Leaks Detail High Reasoning Mode Features - Geeky Gadgets](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VV1QzZUFmTFBIeEZVTXRjRDFGNkdQYVctbXdFMGlPNXhhYjhUVG1fUnVhbk91QU1hWktWamRLdkJfbktwVU1vREd4R1FsMy1Qa2RrX2tsRy1QajR4aFA0?oc=5)
+*Jul 13, 2026 · Google News – Claude features*
 
-Anthropic Extends Claude Fable 5 Access Again Till 19th July&nbsp;&nbsp;SQ Magazine
+New Claude Opus 5 Leaks Detail High Reasoning Mode Features&nbsp;&nbsp;Geeky Gadgets
 
 ### [Anthropic extends free access to Claude Fable 5 again - Seeking Alpha](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzI2LTY4TzJGdlJUSVpONlE2YjR6cVZrcTFBdEtldlVhZXVjVUFiZXRKMmJFM0xCd0hyU1doVVh3UTdrcGk3a3ZKd3RwWXZfSVZmT0JYaEllMDFiVjQ5b042ZzVFMF9oU2pnTk9hdTN5UVh3VE94bEhjeWlJLU8td2U4ZkQzb0lYQ0gza2RHNVIwVXB5Smc?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Anthropic extends free access to Claude Fable 5 again&nbsp;&nbsp;Seeking Alpha
+
+### [Anthropic’s Claude Science app is coming for Kendall Square - The Boston Globe](https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1A0dFdtek0xTjB4S0RsNW1jUUxtV0xXQWV0eVVGZHl4YjVqYjVCNDFqUFZzUVRLRTI1VHlJdk5Xc21HMWRHbV8yRm85MndZbk12SDA4N2l2NHcyR2FOR2xzczkyYmROT0dVSVU1dVotZWtjUEt5Y21pUTdCXzBXcU96VkI1SGVPUTNwOWd2RnVlalFLcGtiZ1RQNjQ1NExWM1J6cXhsb0xLS2pZ?oc=5)
+*Jul 13, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s Claude Science app is coming for Kendall Square&nbsp;&nbsp;The Boston Globe
 
 ### [Cursor builds AI agent 'Sand' to rival Anthropic's Claude Cowork - TweakTown](https://news.google.com/rss/articles/CBMirwFBVV95cUxNU09CamI2RWlHeVFhZHhkcENTeUxHY29SVFhYSm94UGxGajB5QThtdDc4cS1OT1lkSHo1a0tVbTJidTdnYkMwdC1fczUwempZdFRHZG9sc0ZRZDg3UzdEVXdveUZyYUdUU0ZVazlpSzMzdG82bDJhNUpWMmoyUkEzcGRGVEZ2dE9kRnhLdm8zekg3bVFSTnhUOUlBUVdTRmoySkFBTTcyU0xvbklFS2Vn?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
@@ -245,90 +385,25 @@ Cursor builds AI agent 'Sand' to rival Anthropic's Claude Cowork&nbsp;&nbsp;Twea
 
 Anthropic expanding Claude Cowork to mobile and web, details here [U]&nbsp;&nbsp;9to5Mac
 
-### [How China is ripping off cutting-edge AI from Anthropic, OpenAI — and threatening US national security - New York Post](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGFvcEc3bmw4aEl1eGZPc3JIR3JhVThCQXJMdXo3RnM5Q2ZId29JLXJlcnRqd0JIMi1xVFBZS2VNWVFFMExyNXNzdzkyX2phdWo5dHBZaXAtZzBPOTQyYlRuX2VpWFQxS1FkMFBjVDFRV05FTzZEV3VpMHR3LXBjX1A5Z3BoYlZfbnozOXl3bnk1bGk4eVRnS0FNZHhDLUstNnZCMk1fUEVtUjJsam5jWG1VTXRQUURtQnF0Si1sWG85Z2JOVzNTSThVOE9sdkRIQUlEZ3BB?oc=5)
+### [Opinion | What the Fight With Anthropic Reveals About Free Speech in America - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUXJYdDFkLUdfcUNoaWlhZjdmSFEwaFpxSWRBZ3RQeTlZaEtPQndESGduWmk3Z1dHWWFzV3BzMGFqQVE2aUJFSWZEU1NZeXl3VEtmQ3hrem00aDJ1UzVydHlQdkZMMElLT2RBaGxndnc1c0g4TXc?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
-How China is ripping off cutting-edge AI from Anthropic, OpenAI — and threatening US national security&nbsp;&nbsp;New York Post
-
-### [Claude AI pricing in India revealed: Here's how much Pro, Max and Team subscriptions for Anthropic's AI... - Moneycontrol.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZk40N1NpT2I1cnNicWVRN3lGbnc2aUtIZW9PX3RSNFYzcXZhWG1yNjBVanRBVWVZS2NOM0FDZ0RoSU1nX1djYUo4MWEyNDJmbzJpMDRYRnhCRkJReHYzSkdfTXZvZlU2UHVPd2hlS25Tc2E0THZULUtSaUtDY3hseG96LU5mYlU0WUZvelpyUDlqM1B3X1NLcXBwX1F0T3JvNldSLVgwNmYwR0JBLXZ2Z2FiWXNyRkpVc0syZjVQODd3V1U1SDZSYVBhY3VpblNpSmlzOTBUcWlrMGhRVzF4YWdld2dlS0VoTGdseFlkX0RWazRkc2E4akp3NUXSAYICQVVfeXFMUDl1TVFjNWRZMlV3YUNmXzdQOGFfcWY5X0lxTEFDZ201Sk5KSzlEVkJwdGltYkhldm9ndDNLbjVNNnZBV0tjaVl5T2xZa2ttZmQ5ci1xZGlpZjlUbnlpblU4RVNHbktXOE5pSTlrcjZGcm5XTVdEY3FNRHM0NjZVMHhCaWJ1Q05MNGlJeUhhY0Rvb3JKUXo5enkzMFFyODFZS2VOTUY0UE9jdnpXUllnMmcyaldiQ2ZHTmhnSHZhaVlvTXZuYjVxd0NhYXBwQ096WXRGTExmQ2VBR2twd3laTnpmaWNXT0pQNkVYdG40QVZINndiaUczVDJ1XzlJbG9XMFVn?oc=5)
-*Jul 13, 2026 · Google News – Anthropic news*
-
-Claude AI pricing in India revealed: Here's how much Pro, Max and Team subscriptions for Anthropic's AI...&nbsp;&nbsp;Moneycontrol.com
-
-### [LTM, Anthropic partner to accelerate enterprise adoption of Claude AI - ETEnterpriseai.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa2EzNWRtNE13cXZocngwWGo4Z3RJUXY4QXhEUHBKV19qbWduVm41TXhrM3lLd0hzbzVveTRBb0IxTHdEOWZZNjI4TXhycW9zblhuVkRiUXc5NzRyRi14M2lHazJ5bk5NUnp4TjNVV24tZ0hlTTV5RzBWNmRSSGZtQlQ2WkE4a0pOdnRtVUxENVgwb3BrV2JtS05XM2djWDJSdDAydzlMOVJkdWVDODI2SG9PQXc4MU5UWkM3Wnc0Tm55TktPal9mUVVQRmJYcWQ5VHVTVVhoNktET1REZ3F4MzRjVzdHQmVSYUHSAe8BQVVfeXFMTlp2RHZiOExiZnhqVFpUaTM3UGVheTRGZ1lQdXFKU0FmNU1FU0hHcWRjMHVIQWxRRDBDaGhHU0RqX3ZidE13eHIzbWs0b3VTdFJpT2R6SVd0OVlRcEp1SHlHMkFrUV9tQmR5cUE4M3VSTFpuODJjejNCallpZG1EMGVTTlNWNlVfUUplQ2pBOGhFRUlGLUY4VFM3VUc5LVZaNm1vOV9qbl9jVS1uVWFBNTFSZGQ3Ynpjd3NCMGxINE1INEdFOWo3czhodi03Z1lZeFloUDlodThnN3Q5LWVMOG1EUXFhNlJObl9lR3pnSWM?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-LTM, Anthropic partner to accelerate enterprise adoption of Claude AI&nbsp;&nbsp;ETEnterpriseai.com
-
-### [Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves - Forbes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnlHZk5GTWlVYVNBTWJGZUdqbnE1bllJc29UNUFVandHdUhvcEhpNnRKdFdDSVNqOThFS2NTN2gwcFFodG12VTNJNHlJcndZU1EydDhSWmVMSWFXVkc1NGRMWWNnSGdKS2JUaDBDT3pnQzg1SzVOMUx2ay1OODlodU10Yk9zdEFacWFUVTVmak5HYjRKVHRtN21vNXN1T0ItZUpNZzhLYmcxeE0?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Claude Fable 5 Extends To July 19. 7 Days, 7 Power Moves&nbsp;&nbsp;Forbes
-
-### [Anthropic Confirms $16.6M Billing Error as Auditors Find $1.7M in Enterprise Overcharges - Tech Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpncEwwZEpIXzliS3V6ZXVNYzZDYW5HUnpoNm1SWFhxbUIwT00zcjZEd01vOEJWS1RiTTJldWttZ2R5MW1vREw3YWotQXNEbjVVTjFZUFBBN1p1Y3BxZVFXT3NOZHZuMFlzM05md3dWNEVKZVVIdDlXeFlYdWJaVHprV21sWjB6RnZsTjVtQVZTeFhza05HMWdsb3ExeXNDb0VtZmZ0WTFVSG42ZG1NV1I1TjhERG1JbzAwUk9lekJFLWQtNTBSVkFpWGdqQQ?oc=5)
-*Jul 13, 2026 · Google News – Anthropic Claude*
-
-Anthropic Confirms $16.6M Billing Error as Auditors Find $1.7M in Enterprise Overcharges&nbsp;&nbsp;Tech Times
+Opinion | What the Fight With Anthropic Reveals About Free Speech in America&nbsp;&nbsp;The New York Times
 
 ### [Anthropic lets Claude users see how they really use AI over time - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM01pZnE2NUpSa0NGZF9Pbk9oNnc1Wm9keEU5aDlXNkhNM3BfeERrQk85dHk4S3huR3c0OFdCRXRORVBXVzZDUHVRYU5Ka1pURWpIbm1FZkNLT0NDMVByQzNJdUFuSVdzbzVNdWR5TmJfNW5nZVU5MWRjU012d3pvaFZUVFV4RFFTa1NnaFM3eGZKckt6LXFnYndHSnBlcExENWJiMXJoZ0c?oc=5)
 *Jul 13, 2026 · Google News – Anthropic Claude*
 
 Anthropic lets Claude users see how they really use AI over time&nbsp;&nbsp;EdTech Innovation Hub
 
-### [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time - BleepingComputer](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0lsel93dHhiN0d2bXEwZmpDTk50SDZYTGtiX2tYMUUtUHo4TnZOVW9EaWJDMkVmcHdZT1g4V2w1ZDdKcDJjYTdUYUt2aXVJTHNJY3NDQmFCRWpaaVNqbFZUaEczRUFVMWFDUEFWNE5hUF9uYy03em1ETlpTRDc1MFpnVU1xNl9ORE81WTdXT3Q3STJjeTA5NGNtSU1YSmNCNXc4Skt1SUhaR0EtVVBBd1llLS0xRXNGRlFQT0NCdWdTNUc5UXljS1k4X2o0R3JxTTRKdi1pY21TUEx3bEHSAeMBQVVfeXFMTWJiT3RadlJ4blVGTWhPMUc4T01EV3RENWUxZUFvd3lsdW5MbUlHQmNDR1Jrd20tejB3enZoZllUVnZVWmlkUVhCU3VLWTNSTU04SjZrOGNGanJfbjdYSGd2SE44X1dFUHJGaTJ5LXI2OGRzd2NVajhxQzRIMFVOc0YtOVNNMFdJODdidHQwY3VUaFRiQTN0dVJOYkJ1QjNseF9qZFVsbzFsSUludWhBNHg0V2hmSVQ2TUE5cTZGcnF4SGUycmltQ2RIYlJ5azZrS2IwUExqX1cyMWE2WVJNZWVCa3c?oc=5)
-*Jul 12, 2026 · Google News – Anthropic Claude*
-
-Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time&nbsp;&nbsp;BleepingComputer
-
-### [Anthropic Adds Built-In Web Browser to Claude Code Desktop App - MLQ.ai](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzRIc25NUVRFejgxWlp6bU94SVdMX2JMdVl2VXVheUE4TlZYNEdnYlh4YkpMMUhfWkljd1lVa0hsODhzV1RLOTc5QU5nUU84UkFaX0lpZlBHWWhKc2g3dkt5ZXBpdGtUZXdWaGhVY2h0dnRaNTVHX0VIZU8tVHRBNzVpQlNjMUJweTJF?oc=5)
-*Jul 12, 2026 · Google News – Anthropic Claude*
-
-Anthropic Adds Built-In Web Browser to Claude Code Desktop App&nbsp;&nbsp;MLQ.ai
-
-### [Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals - The New Stack](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kVk16UUNiNnJYUlJzdUpDTTJ1R0ItRHhHajlXeFNjdjdjek45TTBsZ2QxSVZaa3BObDhJaDhVYmdfT3gtZ1otbVpuTUwwRG5TbkgzUU9BTmNXeWpKT05UYms0NUhqSUdV?oc=5)
-*Jul 12, 2026 · Google News – Anthropic Claude*
-
-Anthropic's newest enterprise partner is training 20,000 people on Claude — here's the shift it signals&nbsp;&nbsp;The New Stack
-
-### [Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says - the-decoder.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdl9XYWMwRTdUcUJDa3lXQlRqMVhxbU5QSFA2cmFvUVU4U0tEVHE1ODhHQVhrMlFncGdnd29UelZvdHU4YW1GQlRNcXFsUHVRWjY3MkVGT1gyTkFaaFp2MUYxVkNXNXpTSllmOVFnTm5Od2Rsc1JkMTFaVzJ1TTcteWw5QzlibWtfdmNONkd5clMzUWZtaXFRRFItRjFZWHI1WmdpOXl3eTFWZE9SaVg3TW8xMFNkWnp5b1E?oc=5)
-*Jul 12, 2026 · Google News – Anthropic Claude*
-
-Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says&nbsp;&nbsp;the-decoder.com
-
-### [Claude AI Performance Decline: User Complaints of Dumber Responses Addressed by Anthropic – It’s Not the Model That’s Underperforming - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWF91REpXLUNPVUZfOXNISU81c0JYQW1pdG1lZ2hnVEVZOUpSMHI1TXlTUFl3OG1ySlNXTDM3V1hTZXlYeUlUS093czZmRVk4N2xZ?oc=5)
-*Jul 12, 2026 · Google News – Anthropic Claude*
-
-Claude AI Performance Decline: User Complaints of Dumber Responses Addressed by Anthropic – It’s Not the Model That’s Underperforming&nbsp;&nbsp;36Kr
-
 ### [AI for good? Anthropic launches new AI training fellowship - Spectrum News](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGg5bjc0d2o1b21mYmVGLTlyZUotaGk5ZFlvMTFpT1owX216MTlrdG1jV1B4M2dVWl85eHc0dHpsTzhiQVV3cnVWMmRxOFRQdnlZRGlWNUlrdTVBa2drbFY1enhvYzZkM1NCcmZkWktpWEwtUXNrN3JLWW5iZHdMS0F1ekVOLTRrQjhma1BTWTVpS3VwbzFQOUI3UUFKUQ?oc=5)
 *Jul 11, 2026 · Google News – Anthropic Claude*
 
 AI for good? Anthropic launches new AI training fellowship&nbsp;&nbsp;Spectrum News
 
-### [Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style' - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzdjaWhlRlIxazNzdWppcUVBbjNnLTkzd1ItS1plN2h6QTYwUE9kRWRxbEl3eW9VcENST2pxdGhlRjlNd1BqQnU1UHFvVFUwVW9wb0NNdUNHTEdwNC04YmdIN2RiRkJfRFNkWU5YLU0zNWJreW5Rd2JxV3dvWmREVnRaMl8yTDFLdFV2eGtKbHFmRV9hYS10WHZ3?oc=5)
-*Jul 11, 2026 · Google News – Anthropic Claude*
-
-Elon Musk Admits He Was 'Clearly Wrong' About Anthropic— and Promises Not to Weaponize SpaceXAI's Compute Access Against the Claude Maker: 'Not My Style'&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick - Tom's Hardware](https://news.google.com/rss/articles/CBMiygJBVV95cUxNcHM3Y3hDMEJyYmstN19IVHNKUldZTjZFVTh6cFloamhQclJ4R3VYQVdzYUY4ejY1TjBwVkE4NXREV2tvdGRGTVBJMzdoWDBORnRRTzBkSlJrdTNYdUVPRmNUTUM0QzBHYTFkRW5SeTl1M2RrSzRMNmt1U0FjTFhiU0k1eDVsczRmWGhKM1J4c2xYaWNoOTJpdXZ3SFA4MGxaTlZiVzlNbGc2c0E4RHBRdDJERzRoTk1ndkdwSU1MQmZqeGljSXdoZjZVNnhSRWlMMnAyVjhEWm80S0VwNWlXU3hiVHk2U1NxQ0tWZnFFR1NVYUpNZXNGb0pPSmo5UVEyYjY0dWdHNW8yRkhsOElpQkJ2SGVQTDgtOEJ0aTRrcjZVczk5b3kyNHF4NV9nNXh3U3R2cC1Ma3JmZGFUOFU0d1Z4bHhyU2VBUlE?oc=5)
-*Jul 10, 2026 · Google News – Anthropic Claude*
-
-Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick&nbsp;&nbsp;Tom's Hardware
-
 ### [UST is bringing Claude to physical AI - Anthropic](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5)
 *Jul 10, 2026 · Google News – Anthropic Claude*
 
 UST is bringing Claude to physical AI&nbsp;&nbsp;Anthropic
-
-### [Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBLbm9aTGI4dlBYeGpyT2N4c3Zja214TUt2QllUQmswUzJTeXR4aWlsU25ibnJCaVlaZVFuMUtBbjBSQ0JEcjZfMnA1UE94cDBBdlBfbnZFY3RLR1Y0MjJrbVJNNjB6OUwyUTJRWXlYT1gtYTI2eGRDaDd1WThvZFYxaERDOEVYeS1UbU5iS0VjSmhUTExhajBDelFQSjUwdjFJd2ZoOEhkRmRBazZaYnRidzRlLUFEOHfSAb8BQVVfeXFMUFhtUFdVa1lqQk8zdFU3NE5QLTdrY0lFdERFRnRGNmtWMjNSdFhNSTF0M29qQnUweWc0Qm9HVEh3aWtGZUNuLVZHN3FmckxCZDJMYmY2ZC1OR0N0R1ZMcG5RU2tFdFlXYms3aEVyTjN2emh2YUVGUlRQRjh1MzBiMi1SUjlEOGVBUTlhaENnbS1lZXBHS3FvMS15YnFtdFZBa2xjQ3RqeWNCUHpOandrQnI1RjZSd2ZzN0RLXzZodm8?oc=5)
-*Jul 09, 2026 · Google News – Anthropic Claude*
-
-Anthropic found a hidden space where Claude puzzles over concepts&nbsp;&nbsp;MIT Technology Review
-
-### [Inviting hard questions - Anthropic](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeHlpRmsxaGNhVGwxREszVzFIZHh1T05XS0F2c0JrczVmd3hBaWNnMjB0N0xSYTdRd2hxREp2OGF4SEtDemFEanpLZVNlSFRSSThuQVBXMFY?oc=5)
-*Jul 09, 2026 · Google News – Anthropic Claude*
-
-Inviting hard questions&nbsp;&nbsp;Anthropic
 
 ### [Anthropic | History, Controversies, & Claude AI - Encyclopedia Britannica](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5)
 *Jul 09, 2026 · Google News – Anthropic Claude*
@@ -341,7 +416,7 @@ Anthropic | History, Controversies, & Claude AI&nbsp;&nbsp;Encyclopedia Britanni
 Anthropic’s new Claude feature is quietly selling you on AI&nbsp;&nbsp;TechCrunch
 
 ### [Introducing a way to reflect on how you use Claude - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5)
-*Jul 09, 2026 · Google News – Anthropic Claude*
+*Jul 09, 2026 · Google News – Claude features*
 
 Introducing a way to reflect on how you use Claude&nbsp;&nbsp;Anthropic
 
@@ -351,7 +426,7 @@ Introducing a way to reflect on how you use Claude&nbsp;&nbsp;Anthropic
 China finds security vulnerabilities in Anthropic's Claude AI model&nbsp;&nbsp;Fox Business
 
 ### [China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code - WSJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQnhuNTk2eXJ6MFM2WmREY0pSNFN1REdpZXRFVU5FNElsTl9ZNFJ1YjFXQ084M19hN3FXWTFlY2ZDRnFLLWFXZGRybkhSa2hFbUtKRDJJUDR0QlNQcUZVZTVfOWRUUHRGenNleHFfcy1oS0NYVmN6QThLMjFBWF9qMDlwZ1hnNTE0cVAzNm1nNl9sOEVnM1Q0Vkg1WUNDQTlwUGVvWWsxRlVLVFNxS1ctVw?oc=5)
-*Jul 09, 2026 · Google News – Anthropic Claude*
+*Jul 09, 2026 · Google News – Anthropic news*
 
 China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code&nbsp;&nbsp;WSJ
 
@@ -359,31 +434,6 @@ China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code&nb
 *Jul 08, 2026 · Google News – Anthropic Claude*
 
 China issues 'backdoor' security alert over Anthropic's Claude Code&nbsp;&nbsp;Reuters
-
-### [China warns about AI risks with Anthropic's Claude Code - CNBC](https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5)
-*Jul 08, 2026 · Google News – Anthropic Claude*
-
-China warns about AI risks with Anthropic's Claude Code&nbsp;&nbsp;CNBC
-
-### [Anthropic is launching Claude Cowork on mobile and web - The Verge](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDVDSGhCMDRHZHRmVzJkOGI0ZkJwYmd5ZC0xVzJOemJaUk5ZVVNQNmRUVFJMdWdjOThSN2M2ZHE0UzBmSEUzQXdPR0VwTllxTkZ0X1A1bGQ3QkI5QVdlWmhIbjVSRW9hYkhZVnRZdFdrQVdGMmd3dTZ2SC1IekhqeHZCbE9FZXJfbkZ1S1NEN21jaDZRbHhxcw?oc=5)
-*Jul 07, 2026 · Google News – Anthropic Claude*
-
-Anthropic is launching Claude Cowork on mobile and web&nbsp;&nbsp;The Verge
-
-### [Claude Cowork expands to mobile and web - TechCrunch](https://news.google.com/rss/articles/CBMisAFBVV95cUxQOV96bjVubVM2cHRsRXJXS1dXUVRjSV9kdU9WcERZZlFBZ2QtTURtdzdBcUpTSkUtLUNaQWF0cVpvZ21HNmhUOVhscmR0R1dGaVF0dFc0enRHSURUWWVRcHQ5a295R2lXRjNKd0RFU2dBRjZsaGlfVlRaTDFidVBCLWJVT0lQeWpKczVraGxnLUgxR1NYb252UHRjcVFUcktEckdKa2hyNzY1OVkzVTNNYw?oc=5)
-*Jul 07, 2026 · Google News – Anthropic news*
-
-Claude Cowork expands to mobile and web&nbsp;&nbsp;TechCrunch
-
-### [Now You Can Direct Anthropic's Claude Cowork AI From Your Phone - Engadget](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEotWEdUQUFxcGNVU2V5UlF1Tk5zSDdBeDlVeDZGbmtXd1lOaUZKeE1FMF94c0ltNkY3aVNlMUJ5QjluQ2RfUFFQRkVGdHZZQWRIc3dRQWpoaWc4WkZXSjZCWTJZLU5jU2JqQ2xhUVhqSVFCR0w0TDlNM3FQTU1iVFFETi1PSGtkNUZiZ0hNOWFfTkRwbjVVNy1DOA?oc=5)
-*Jul 07, 2026 · Google News – Anthropic news*
-
-Now You Can Direct Anthropic's Claude Cowork AI From Your Phone&nbsp;&nbsp;Engadget
-
-### [Claude Code’s hidden tracker was an “experiment,” says Anthropic - Malwarebytes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODBudnBldGVnY3pFRUhvS09kbC1oQ2FXUzhwT3VJZ2x2YmJSRXcwdjFhVlVsNHh0R3VVWTJUakNaUWpyc29BS1IwWTltR2VobUJtZVdWYnJFTGlDTEh6OHNEcHVCWnNfR1dhLTl2Qk1FNXVISGZhbk9pQUx2NXM5amFQQU9Fd0xxLWZzV0dIaHFzcEd0MS1mdGIzLWNnSGtyaDRIRWxTVDB4OTg?oc=5)
-*Jul 07, 2026 · Google News – Anthropic Claude*
-
-Claude Code’s hidden tracker was an “experiment,” says Anthropic&nbsp;&nbsp;Malwarebytes
 
 ---
 
