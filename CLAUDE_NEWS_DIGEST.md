@@ -1,6 +1,6 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-07-17 09:48 UTC  
+> **Generated:** 2026-07-18 09:16 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## No new posts in the last 7 days
