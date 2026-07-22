@@ -1,114 +1,219 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-07-21 10:17 UTC  
+> **Generated:** 2026-07-22 10:16 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [US judge approves Anthropic’s $1.5 billion copyright settlement - bestmediainfo.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0FNMjVoRHZvY2Vyams3MnZMUHcwUE52dmdtQ1FrcTF6WTJHMnluUkdrVTJYcTllTW5Wc0NIMW1uVElHOFNnaERwNElfWFJNMGhCR1Z0ZTExTGhkLU9NOTR6NWJYc0w4VjNxX1pkN3g1NWV5dHB5c3BSbmFBY3gwam5RMzhXaHdXT0R5UVFJZGlFWU1hWVNzNThPM0ZmQWU4aDNCRTV4NllpSWZRUUJjdElzLUdFUnAtcHFUdTlFUXPSAcABQVVfeXFMTXNBTTI1aER2b2NlcmprNzJ2TFB3MFBOdnZnbUNRa3ExelkyRzJ5blJHa1UyWHE5ZU1uVnNDSDFtblRJRzhTZ2hEcDRJX1hSTTBoQkdWdGUxMUxoZC1PTTk0ejViWHNMOFYzcV9aZDd4NTVleXRweXNwUm5hQWN4MGpuUTM4V2h3V09EeVFRSWRpRVlNYVlTczU4TzNGZkFlOGgzQkU1eDZZaUlmUVFCY3RJcy1HRVJwLXBxVHU5RVFz?oc=5)
+### [Anthropic to support AI tests in FCA's Supercharged Sandbox - Finextra Research](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2xveDVUbUlDZm9kYjE4VmcyazZ0V2JQdFZiMlFqbkcxZXB0MEF1dVJXemV1VmkxRlFFX1NpdzgzR3o3ZUJaemNpaEZwWTNBVDM2U0YxUGg1VFlCR1ljYWpLNzNfWE9McEl5ZDNOb1pXRDBONk1LRFZSeHF2aXBuVWdyZ2pjYmJWSGkxZi1qOXltanRlYzZOaGdfaXZSVldXWGpB?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic to support AI tests in FCA's Supercharged Sandbox&nbsp;&nbsp;Finextra Research
+
+### [Anthropic Adds Screen-recorded Teaching Feature To Claude AI - Dataconomy](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWp6NHM1Q0ZqdmhHWjJZT1FtalQ1R2pnWkhfOExSOUItTTZwT3p4RG9iLVRMbmw4LVk2Y194RTQ2V3hJYWZvajlReWJodkF5YW9JbjJZZkwxWHRqaTc4QjZqaENQaS1ibFhUeFFYN19NOTB5dU1XZXFOelRGWTZqM0llNS04MDJpOXc?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic Adds Screen-recorded Teaching Feature To Claude AI&nbsp;&nbsp;Dataconomy
+
+### [Anthropic’s Claude Can Now Watch A Video And Learn Your Job - Search Engine Journal](https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1FwNURnYWJ6TGRxZFpTOU9xY3B0Umg4NG8wN2o3OWhiOThCc3NQLWRRMVRNUVZtX1oyWFlTYndWZ1ZEMHlzVTdsQ2lFTUlOV0c5N1l2NzdpTGJ1OWxwTUtLekt1dFdJUjJBV2l3c1ZfVkpvZEFIVk5yNGE2X3dPQ0p1US0zMDVwWjcxVS1kXzFpSjNnZ1o1d2l4eTlacnhtejRmNQ?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s Claude Can Now Watch A Video And Learn Your Job&nbsp;&nbsp;Search Engine Journal
+
+### [Why UK’s Bloomsbury stands to gain from Anthropic’s $1.5 billion copyright settlement - The News International](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0dGSXRUQmkwb1lYWFQ0dGxZdGNidVNIQWFWNXhiY2I5emFYZ2U2bGNsbHNnYk5DM2N2Z3Z3LURPZnA4VW1hQkJGVFR2SDFERVRwekhjdWoyY2d3ODVfTHZUVDkwUDBzTGNiNTIwVFRhWlJMMXQyZl91VEQ0TlhDRnkzRDQ4VEJnZ2oyTkdoUnpMeXFIUzVGTzZGamRxbWxZOHh3WHNhaXZwUVlUbV9NMnlxby1yZkNWMUJXeEdkNlA?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Why UK’s Bloomsbury stands to gain from Anthropic’s $1.5 billion copyright settlement&nbsp;&nbsp;The News International
+
+### [US Judge Approves Anthropic’s Record $1.5 Billion AI Copyright Settlement - StratNews Global](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkNiUnd3bTlTdXhmeENLb3dQaGEwdXdDMDNUMWRuUDl6aGZsaHFHVTNyVUhyS0RCREdaY1FYSnI0eVNVRHpXUzJja2VzY1FnLTVXYjh0ZkRxcjRLTVhMX0FENm1zYWZvTGRoMWtGR0ZjckM3MU5lc0JzSWIycExId3FweFRPeG5KQVJiOTBrTVl0LTlTeDBCU2hqVEstc2lCM1hUVGNiaFdkMkNxQld1YQ?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+US Judge Approves Anthropic’s Record $1.5 Billion AI Copyright Settlement&nbsp;&nbsp;StratNews Global
+
+### [$1.5bn piracy settlement approved against AI giant Anthropic - businesscloud.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxPN282aWtNRFB0bEczMWhCU1pjcmNHWWp5UE9qR3lRX28tNENOVGtvMF9PQm1hODFvYVVfMS1HYjNqVFo4S0V2bVFnNGRZbDJJWm9wdGYzd0w4eGJMSU1ndm1sQzBVLXhTbGhqMVlLLU1HdWZhQmVIQzh4X2dxUlpkdXhScnpDcVJuMndXcFFYMWZ1ZVNjR2tlWg?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+$1.5bn piracy settlement approved against AI giant Anthropic&nbsp;&nbsp;businesscloud.co.uk
+
+### [Anthropic Mass-Produces Its Own AI Agents Named Lei Zhang and Xu Xin - 36 Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vU3ZtS2k4TllNSHB4RXJlRnZFM2NYbEwxMGt1QU8zZDlsODZjeXB6RVFELU9MbW51aG9KR2lvTUZkME81YUNXcVZMbU9CZ2NSV0JR?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic Mass-Produces Its Own AI Agents Named Lei Zhang and Xu Xin&nbsp;&nbsp;36 Kr
+
+### [Anthropic-Physical Intelligence Acquisition Rumor Rocks AI Twitter - The Tech Buzz](https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0hUNzdvb2J6dVAySm0zLTFJZVZVRHBVNm5pZW5hSUJib2dNeVhIdllkTUJmYlVETUhQLVJVVlVhNklDM3VhMDFWYXZMMzFGVGV5YTNXQ1JlLUx0Z0tCOUJEeWswR3ZQNThrS1QxQkhqRE84UHNTMG9HR2paRnFFOFUxTW1IMmEwd0FGMjhoZFNrR2R5YXFfb2VHNlFtd1Fn?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic-Physical Intelligence Acquisition Rumor Rocks AI Twitter&nbsp;&nbsp;The Tech Buzz
+
+### [Anthropic's $1.5bn pirated books settlement approved amid new patent suit - AnewZ](https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1NDbkxkVFpHOXBrdVFLUmVSZEJ2MG5oRTVXVTRWNzVMOU5kSlN1VzRIZHZzRGo0dDRiZlc2TjhSLUNxQktxaFVzcklLR21hTy1QOWZYV3EzWmFaejV0RTBnV1JLMmR5RGlpZEhkdU9WYTNFTk12YkduS1BLbWwyNjZucjkxcFNMT2pMczE0dmh5U3M?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic's $1.5bn pirated books settlement approved amid new patent suit&nbsp;&nbsp;AnewZ
+
+### [Why the University of Tennessee is suing Claude AI creator Anthropic - Knoxville News Sentinel](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeS1DVm5kbUlWZk45QV9Nd2gyQ25NN2NqZ1NBbFUwSGNObnJrbHRtVGN3eXh1bU4yZENPVDhGMjFmRzFxM2J6NnlWME9ackJqYTl1M2k4V2RDbXBDZTRLWUF0enIxWnZnNDgyN18zd0NuVmR2bU84VEJzaHQ3UDdjMWhrZGpHbi1aNWxMVW1YaDI4aUtUQTRDQ1RZWERPU0M3V1lNdkgwN1FCdGM4UVRyUGhoQ3ZWVkZkamdfMFF6a0owMklUS0NiV191UzhQaHZMRVp0VTJDTjN2dVd2R2ZRM1lpdWdjTVlyMmQzZDUwSlc1UUJZc0lvRg?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Why the University of Tennessee is suing Claude AI creator Anthropic&nbsp;&nbsp;Knoxville News Sentinel
+
+### [Anthropic wins approval for US$1.5 billion copyright settlement with authors - digitimes](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2p4MUN5ekVKZ0c3d2xwamJXNVppYkV3LWJwVFRKSjNQMkN2VURNQVkwYmw5cjFRaEg1MXVYYlcyVkVwNEJyT0RxclVEd18zM1JrMDliTHVycUJOYXFrR19oc2VMcnVaTFR0TEJGMzVrV3pFc0Z5eFZjWlFYX1BKSEZRX1dKUWN6Vk5icU5qaVA3NHBFX2YyWmRn?oc=5)
+*Jul 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic wins approval for US$1.5 billion copyright settlement with authors&nbsp;&nbsp;digitimes
+
+### [Anthropic, PBC - Encyclopedia Britannica](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5)
 *Jul 21, 2026 · Google News – Anthropic Claude*
 
-US judge approves Anthropic’s $1.5 billion copyright settlement&nbsp;&nbsp;bestmediainfo.com
+Anthropic, PBC&nbsp;&nbsp;Encyclopedia Britannica
 
-### [ChatGPT remains top AI assistant as Gemini, Claude narrow the gap - Storyboard18](https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3F2VUNIeFcyZkdDallnbjBhdU5uQ3RsMHh1NTE1amF0VUV2blEyT1I5dU1vNEQwd2pwWjBuLWVFMVJNNzZsalBQNU8tb0IyWncxM3pSbm1YVjBGazlxS1MzMmFNVU1pTzM0ZGxqNnNuWW9FTDhzeDhZLVRRU1hnZzA0MFZpTFhxZDRwVC1OY3FHd2ZLY0xSYjJkUlrSAaIBQVVfeXFMTXkwUzloZloyYkk2dEx3Ql9BMmxZd0ZBRld5ZTBwVlo1MGU4ektsZW13RFNLM3VTeFNQVlVLWGlJWVVma0VKLUVLMHhKMkZncGFaWmhhcm4tTUtRejdKejkzdm1Gb0xBUmZNRGJXMGl4dVhya2E3QTg2T0lJVGQ3VF9JNFRjc1RsMTFIMGlKa19mSC1MWk1vSmIzcXNLZ3JDN21R?oc=5)
+### [The truth nobody wants to admit: Chinese or not, open models are competitive now - The Register](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakRzQzhISTB3M09DTmlOeE12TkdUNUJUVzdOUUJ1UVJaQmQwNTJlczMwS0NEOXhvSjc1S3hUZlU2d1pRRm9LcThwbld0Z3FGeEQyMlhmd3ZNdWdTMldHVmxBd3AycWh4enk1WGdFWGVRNV9YM01MQTNTSTZSV3BNa1kyX09kbmR0RkVxWG5BY2swOGc2MDVDVVpmODhMTWp1Qm9FT2paYXVpNHJSZ2xTZDdQZmdNTExSVVdINDZNTDJtdGx4T2M2aWdWUmZEX01F?oc=5)
 *Jul 21, 2026 · Google News – Anthropic Claude*
 
-ChatGPT remains top AI assistant as Gemini, Claude narrow the gap&nbsp;&nbsp;Storyboard18
+The truth nobody wants to admit: Chinese or not, open models are competitive now&nbsp;&nbsp;The Register
+
+### [ABC boss says Anthropic wants to pay for decades of content to train its Claude chatbot - SMH.com.au](https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1lfRW9weFZfWWNhLS03dU9RUE1YVGQ3S0R3QTJvMGZqWFphT0NFSFFxTVBQRDF2cGlISjBmWlBLN3hxVlZZZ2lkNHBWZmJqNDVuVEVudDJ1eUdGUUpxUWRMNm5CUjVrZWdxcWdvaHhvdEJMcW55SnFqdWRjZVhzMXd5Q1dQdGZFbE1LdUNOQTl1Sk1TS0l2eE9aSDFLaXE4OUhncGg3cDI2X0Nkb2dvNVlPbWRyRVlJVTJEVTR1N1lSRW5YRURPcFpNTi1HUENnOWROQ2RfRHNLWElmZWV4MEhWbTE?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+ABC boss says Anthropic wants to pay for decades of content to train its Claude chatbot&nbsp;&nbsp;SMH.com.au
+
+### [The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it - CNBC](https://news.google.com/rss/articles/CBMikgFBVV95cUxOejZuVHE3NHBKYnY4N0VFS0U3M3JXd3pQeEJBemUyQ21BRTF6U3Vvc2JWVXdQQkdlUDVPYnN0OUZJRnpUNVh4NkhTUTRNT3NyTlhwaTJ1YmpBcm1PSUF5MUZhNjU0SnlLZ3VwdWR4X1MzalF1UDRjcWszR0daUmVtV01ibDQ1MWxBaVFfTWhJWmVpZ9IBlwFBVV95cUxPSmNOa05qbkpGTjB1YkFBZE5rNEZaMFcteW81SlRldGFvckpHRE0tdVI3RHlEa1FSWDVFSnRNbnNLSTBjQlRJSWpJZTZOSEhwU09lb1paM051X2k3ZzcyWXNPYTRrai1tRHdFSndVbS15MUlVWXNFQWtFZGNwM0ZIUVcxTmdPNUVWY2FrS0RWajJucGpDSk9v?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it&nbsp;&nbsp;CNBC
+
+### [Anthropic sued for infringing neural network technology patents - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic sued for infringing neural network technology patents&nbsp;&nbsp;Reuters
+
+### [Anthropic pays $1.5 billion to settle a copyright case - marketplace.org](https://news.google.com/rss/articles/CBMingFBVV95cUxOUjJ5QU5DbDRaUUlWQ0RhWXdWM3lFNHpxcmY1QllwcDJaWjZaemVlZmU1VGN2YWRRdW5wOFlzcTNJODZwNEp2NWpJanZfaGQ2SzY0U2Z5eWctdTY3Nnh6S3hKYmJtTEE1NUNKTnhuX25kakdrQVAtczdpQzJPblAtZDZoOFRNVjJqR0lCcjZPOWlaX2F1R255OUh6VTBUZw?oc=5)
+*Jul 21, 2026 · Google News – Anthropic news*
+
+Anthropic pays $1.5 billion to settle a copyright case&nbsp;&nbsp;marketplace.org
+
+### [Managed Claude on Google Cloud Shows the Model-Governance War Is Heating Up - ERP Today](https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQjRVcHN5emhqa0NBVURLVktzT3F5eGlRdHU1R0lQWklSZUZLZEhrdTRRUDk1Q2k5SHRQLU5JNHB4aVdQQm5kRlNSWHJ0bTNhY0NOTDB5bFJQY0swTVp4ZzZ6S3NVRTl4MFB2WHZQOGhqMVlWZUV3d2NB?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Managed Claude on Google Cloud Shows the Model-Governance War Is Heating Up&nbsp;&nbsp;ERP Today
+
+### [Anthropic Faces Distillation Hypocrisy Backlash as Claude Claims to Be Alibaba’s Qwen AI - TipRanks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcEVadm95Um5CQ3hTNDE2cDFLVWwxUkZnYkVRaGdNcDZyZU5ZLWFKekZKZG1jblJSY1A0QlpFX2tvUDdqRmpsRHJ3S2taTkJIRVdoelBQZjM0LTRQQXRYb0R1M1YyODZtbV9iYk1ybkQzWFp1cHhuTkdOZzlUSUVxVFhNd01zeFhHc0MxOUU1QzdJaXRhbmZkMzhBVkpFampaWVBJQXZWWXdMZnhlYlVGbVduSklxUDVn?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic Faces Distillation Hypocrisy Backlash as Claude Claims to Be Alibaba’s Qwen AI&nbsp;&nbsp;TipRanks
+
+### [Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - NBC4 WCMH-TV](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGF0TzM0bzVhTktybUZvTDVMNGpkUTBqaFk0YjNDN1pkREprV1Y5TU9HbjRIRGtLYzRyZHVqVTBKdFhIdVk2OW96YmxFYmVaMFZEdlRwS25oM09UU0k5bkJqMURZQnN0eVJmQ0E1bkVyMUFBX0RBdDRvd1FpU2tSeF9Kdk5fUFdUS3ZjWlU0TWVnM1VWdWxEeTgwQXdmNWc1ZmJSVnlpZ2x2bHZ5OXY4aGRsdFRpejhzaFFWZEJNWVBSN0h0TG5fWFBpazhhRmlMQXFETjhTT3NBOEptMXfSAeMBQVVfeXFMUFpCZGxxeW96Yi02YzVFSG1SVElPeGFoY0hvc0JSX1pwV2kyOGR6RXI0OUNqU3NGS3dmNFpBWmQ1dXN3Qll5ZzVhMWpCbXlvU2s5U21XaTBsang1ZXhsWnVNQ2xWSkNfWEN1OW5oRGVnOEpVeE42OXVRMzM1UnFDRHZSRzVDaGVlZzNmYUhkYi1GbndtcV9NaWZJMkxudVRWZ1kyS1JOVFBMcW1mOTB6VVpSQlNrSGw5a2NSM2hPX2d2WDV2N1BjYzJpOHFvNExTV2h3M1ZJQ3RzYVJneXkyX09YMTg?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot&nbsp;&nbsp;NBC4 WCMH-TV
+
+### [Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot&nbsp;&nbsp;AP News
+
+### [Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - Santa Fe New Mexican](https://news.google.com/rss/articles/CBMihgJBVV95cUxOdk0zc3ZBRC1PQkFKbzFLTFczRHV0QTU0dDNZV0M3dmhadUtaVExySUxwNWJBNnJVbS1naWZ0TDUwZEpSdzJtc2JSTUpWM1pPNmRocnBNN0VfN0w3YTJ4Y0RnSWEyUlo5ejlwSG4tci05RVBtS1dOdFhQZmFGYzB6UmlPcGg5OHdnMktmeDVSNTZCWmRuNFN4SWdTcGpGS0RDVk5DUF9lMHZBUERKWkRmZEpoNFA2dnZ4RjcxRnladzdIS1BmX2pPbXpyRDFQZG5OWXpEbzNwUTdTUGQtUnZuNkRZM3BvbGdqTnJmTzdyY3dnVVEyQmFPaTFFcDZFRUJyV2YzX3BB?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot&nbsp;&nbsp;Santa Fe New Mexican
+
+### [Anthropic Hit With Patent Suit Over Claude AI Neural Networks - Bloomberg Law News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnp1TFBkRk9yYjlEeUl2OEt1b2ZHLXpTVU80NVREcTA5M2VsSUdKVTFiV0VjY3ZrWFBLS1FqVm5hZmwyaklPbE5Ebjd3dWMxX3B5MWdBV0w0REQ5STZDaVBiZEFHc1ZFcExYN2VuRmRwSC1UNWNYeWI1c3I2UUxCb1kwa1ZqQnVjbUhsYWtpS0JmOXhSV1NPZm9Ialo0TnM?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic Hit With Patent Suit Over Claude AI Neural Networks&nbsp;&nbsp;Bloomberg Law News
+
+### [Anthropic's $1.5B AI Copyright Deal OK'd - Technology Org](https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkY2a3pBMEwwZFgtcjl2UEJGcXd3U3phZFRaQVNCc3R0YndFU01GNnlKU2I2MzVob1BpSmJIaFJ1RGFmdEFoMG9XSkc1em1RdHpjT3V5cWd4b3pTMUQ2WU5EUHdhT2NBdjJWYV80TjJNQ3RkMjhWT1BFV0RRcTE1NlFWX0d4c3VQZ2FaWG1uU1NtTzg2QlB4dg?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic's $1.5B AI Copyright Deal OK'd&nbsp;&nbsp;Technology Org
+
+### [Anthropic pays $1.5B to authors in Claude AI copyright settlement over pirated books - AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE5faGNkRFRBZjBzT1lYS2otOGVsSjR5cHpfODQ5SjFtbzZZZl9POHVfMmNycXllc002TFVaRW50MmpNMTB2d1pzT3BDb0pBZ2htbE1jRGtPYk91c2dIakQ1bHpjMEpTYmM5R3BzRllieWVBNUxCLXZwMFpOSQ?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic pays $1.5B to authors in Claude AI copyright settlement over pirated books&nbsp;&nbsp;AOL.com
+
+### [Claude Fable 5 Just Ended An 87-Year Math Standoff, And Bitcoin Cares - Yellow.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITzc3Rzc2V05xNU9NRWlhdVc2V3J5cVQyeW9xcVpGQzh0ZGZldTZQS05BN2pWOThmUzZEdXdmRXp0MHNhdVJzNWRnaDFhSnc1dW1HTURydE9jWUh2Vk15Wm5QY0tuZnZT?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Claude Fable 5 Just Ended An 87-Year Math Standoff, And Bitcoin Cares&nbsp;&nbsp;Yellow.com
+
+### [Anthropic's Claude Cowork pushes AI into productivity territory that matters for crypto-adjacent tech bets - Crypto Briefing](https://news.google.com/rss/articles/CBMickFVX3lxTFBiUTdXV3BMMW9LXzk4anVLSlBfSUtjNGowM1dES3ZfbnBfclZGdWNIeGlkRFJOT1oxWkpYNFc3UEp5ZkRBLXFFTjBkVVJsMDREUlpoMlZCalVIcl9IOUw1NmFZYXE0YTBRWlZFOGdUSTBGQQ?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic's Claude Cowork pushes AI into productivity territory that matters for crypto-adjacent tech bets&nbsp;&nbsp;Crypto Briefing
+
+### [Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery - SDxCentral](https://news.google.com/rss/articles/CBMioAFBVV95cUxPQll0bEt1ZlhHdkN4M2xUV3pQcEF4bWJuYkRHem5aRmdOdFBjWjlyeFl1SDhoQlUyc0NmbExrSk5zVTVmRlhybWYwXzhoYjVFUnBSMkx3Yy04d2xCNkNnc1BsY2RDWThyX2lXcmpyVy1mTTBSanJJcnY3aURMMHNpZ2Frbjh6clhFTXQ3VEZsVTFBMEhFSmRGTDl4Nmo0QnRf?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery&nbsp;&nbsp;SDxCentral
+
+### [Is AI Claude christian? - Rome Reports](https://news.google.com/rss/articles/CBMic0FVX3lxTE1IdlVObkJsYlkwbnd5N21wMFRxeUVXUHR6R1lxX1FraV9paDI2YUhrdklkbnoyZ0J2NENMaTg5ZWlmNG9qdkZFckNCVFYwd2kwNFdtVUo3S0FEVzd0WXRyVlRjaVBDZ0VrbWZxUEtXT1NQZDQ?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Is AI Claude christian?&nbsp;&nbsp;Rome Reports
+
+### [Anthropic cracks Claude's black box open. Banks may benefit. - American Banker](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzFkYUJWRmdROVo3MWFyazFDTE80V19NWlR0MDNsU0JpSFVNemJYSnJfRDIzZHNta3M2ZFBuYTRMd3JTWDJHbnczblF4ZEVzZFhPTGxDbzBJYUpmODUta1prenIwT1ktVDlLWUZtOFpIY1BGcnFjQmFOY3hST1NvUTJkQ3NoWVprR3cyVG9KWTh4SFFV?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic cracks Claude's black box open. Banks may benefit.&nbsp;&nbsp;American Banker
+
+### [Anthropic’s $1.5 billion copyright settlement approved by US court in landmark AI case - The American Bazaar](https://news.google.com/rss/articles/CBMirgFBVV95cUxQS09xd3BZdHRvOEFuSk9sV1A3bjRVSDBzRXptcU4zdGh1VkdmRzdYMGtYbFZ0YVI5Ty1Od3V5NTRSbjRkcmZFbl9IcEptV0g5RVJ4R0dvZGI1U2w2OUEzb2RIb3Rtb25idENKMGxTeXdNRUdFLTVLcl9zT21OYy1yVlBDOC1HaFUzWDNQelZBSDEwd0lySFFBV1pseC00SjdFZlEzbVFBdXR5bHhHNFE?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s $1.5 billion copyright settlement approved by US court in landmark AI case&nbsp;&nbsp;The American Bazaar
+
+### [Arkham integrates with Claude for automated memecoin analysis - Crypto Briefing](https://news.google.com/rss/articles/CBMie0FVX3lxTE1rZVZtRDJDRXh0Z0lyUkFnSk9ubzFBX3VRTk1weTAxS0diQnYwbS1WRVdPaVVvd3JoWXRYU1l2b3BjUjI5Unh4WVhTOEp1ZW1BNU5zTmpNdkhtY21iNlAzdTM2Y1dYUFdtLUZ4Y19NU085UXJKRzg3ekZpRQ?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Arkham integrates with Claude for automated memecoin analysis&nbsp;&nbsp;Crypto Briefing
+
+### [Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit — court says training AI on published material is fair use, but startup’s pirated library infringes on authors’ rights - Tom's Hardware](https://news.google.com/rss/articles/CBMitwNBVV95cUxPb0VvX3AycjEtNV91a2JndklUQmVMN2xBME5pRWU2OWMyOUJMZmNlSnFlYjJqRUpFbkRhNUUtZm05VFE0TDdOejVjUHNrNFBiLWdMaUpRVDZtX09tZGZMa2szdWhiRnZVek1pTk1JWW96TjRGOEVCa0phT0NHeVQ2QzJLdlRKbzBva045UkNFMVdHaG13V1ZhVlZaMVFSRTNUX3dGNTllYU9vcWhjLWRyb2J6M1p2SndFdHZreVR0OFNlbjdGMEJkTVM0WE0tVEZ5UXRYa0Z2Y2RjT1lDMWZCY3JZSzVoTG1DSGF3eTQ2Njd5RkM4aG4tbHFVbTU4dkFOU3RzNThvUlRtMURBWThINVBQR21oSXl4NUZPRHd6TlZ2NzdwN0xNVjVfTG85X2NURDF2Z2VVc2JYYVFiQlJqSkFKanJGXzczaEs2LWsycnRkZVQtd0F3bG9mQTU5ZWNRS3hhQ3RFZGRsYUlWZTF3TUt6VGxTOWdSZXlZaFNnaGYxd0JWdkNVTjVmRkpNUWFGR1NlZDdneHd1SVNNYjh1NEFNX3pSeEtCMFFJQUVWQThMQXQ5MkFR?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit — court says training AI on published material is fair use, but startup’s pirated library infringes on authors’ rights&nbsp;&nbsp;Tom's Hardware
+
+### [Why is Claude for Teachers? - Benjamin Riley | Substack](https://news.google.com/rss/articles/CBMifkFVX3lxTE1YejB6dVJOcElDYmZSUzhiSlA2YjVQeWtKLWtUSjIwaDhlNWgtVVFfY3lFcVgtbUhsVm02MlllVHZZWXNYX2hXc2d3SktHYVo5cjRCeGxnaml2T0tmUk10MGxRRXFvb3Bvb2IyWmVzVTNFbXNNQnRBdnlwM3FPZw?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Why is Claude for Teachers?&nbsp;&nbsp;Benjamin Riley | Substack
+
+### [Anthropic AI copyright lawsuit: Update as judge approves massive settlement and payout for authors - Fast Company](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmxUSkt4M2pMdGROV3g4RnRTd0RwMUtGbjh1aVJoNFEyVkRUTk1qbHJkWnJVeVdqek5tZldJY1dtWWRrbEtJY2lDbl9abS1KR1RpOW93aHVQLWFmM0tCeDFTZHdfWHBpbXBVenRTUkh2UzVlSUFyUXo5bFF5Qno1UHRvM3BibUdZM1ZkeWpUWFZPQ3NhNE1KMTNB?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic AI copyright lawsuit: Update as judge approves massive settlement and payout for authors&nbsp;&nbsp;Fast Company
+
+### [Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research - South China Morning Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXJuMjJKb1l6ajJGdjVnMnV3YmppZmtTN2JMRWpuRktyam9NcXg2MkhtbjYwWG1zR0l1SEdmMzU4eDk5MXdZODl3RVlkdU9Jbk5wLV8xbUNKQ2VKdE56d2F3a1Y3NzNROTA1d2N3d1dJVi1kbVZtUVFLZHlJbzRZYnBaTjZjWmQ4Y1hwcWI3bng1N0ZhRlVpZ2RpWG5IVDlZb1dHajNSX0x4dXY4Zy1vV0IwWjBielhCWWYzcTFqX2RZS2Vhc1HSAcYBQVVfeXFMT0NxY1hqdEhNY3NaRGkwX1lOelI2cW5XLVN4TmV2T2U0SXdqY2lJTW5sRFBPaGR0NkpEYV82dnhGZ0ZDWWNWblJFNzRERGdhd003VUdQQ2g4amN2ZXRlTW1hQUhwY0txVVcxeVozTkwtR01iMV9vajFqWFdTWEdiWWVpUHRWX1VxbjllRWxueWZWamNEd2k2OFV4TEhkS3JxazFjdVdkYjZQSkl0ZXpqXzh6eWVVUnZIRHhLc3RKX1o4X0U3RHZ3?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research&nbsp;&nbsp;South China Morning Post
+
+### [Anthropic offers up to $50,000 in AI grants for rare disease research - YourStory.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1aTi1NRktyV3BRV1JSa09zSVVlWVlCVnlpX0NoeEJzU05FYWZyaWl2b0lFeUh1OFYyTUR3aW5lak1VVmhQYnJrYzZ4dGw1ckRhNkRSVVFNQTloMzhJWHdoRXlzMm1hY1ROcmFTZUptVXl0cmxBbGFHWS1uWFc?oc=5)
+*Jul 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic offers up to $50,000 in AI grants for rare disease research&nbsp;&nbsp;YourStory.com
 
 ### [Judge Approves Anthropic's Record-Breaking $1.5 Billion Settlement For AI Copyright Lawsuit - Engadget](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFZveFpoRGhfYUt6WXBKU3R3aFMwanRuV19BeExrUjlmWXJEV2ctSEdSYlRXbUtMX2JOZFFhcE5TZ2xXSXlpWTRvU2wxUTk0T3FpWmJhdy1uT3RQX053T3hvbXZJZlAzZVdJV0VXcXpOcmVnRjhBYXNsODFlWnhMRkgxWmg4ZTBnb2VQdUdpLWNkLTg?oc=5)
 *Jul 21, 2026 · Google News – Anthropic Claude*
 
 Judge Approves Anthropic's Record-Breaking $1.5 Billion Settlement For AI Copyright Lawsuit&nbsp;&nbsp;Engadget
 
-### [A court in the USA has approved a $1.5 billion settlement to resolve a lawsuit against Anthropic, related to the unauthorized use of books for training the chatbot Claude. - Informat.ro](https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmZiMVBzNDdZM3hsMUh2bUVwdl9FaXlfaWdHcmNaajhSWUk0YXJYYll6amFhTmYtaUVxNXlWSnpXbzRuVGtSaGFhMVNMNkNvU2RaZVRHbndZX1VOU2ViVmwyX2o1MlkyMkhnSmh5NV81MkFITWo5TmtxSHlFb2RKYnVBUWJGRVhQaER3aTE3OTVNaGxXeGUzMk5vX3Q0bUFjX0VBTHZYQVFUODhYS3J2R1JhRW9xdw?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-A court in the USA has approved a $1.5 billion settlement to resolve a lawsuit against Anthropic, related to the unauthorized use of books for training the chatbot Claude.&nbsp;&nbsp;Informat.ro
-
-### [Anthropic Settles Copyright Lawsuit for $1.5 Billion, Key IPO Legal Risks Largely Eliminated - TradingKey](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0gwUEx3eVl6b3U4YjJ0TEVUMVluNzlHSk16WTIxcTJtSjBrQlRiNUV6RGNBUGFpS0J3eGNRSDhZVXRUZngtMVk2c3dHQ3VVdE9WOGQ3dzlxS3ZfbnFtOWRkTFoteTEwZ1otaFlPWVlhR1EyR3VZWmJHN0tXMUdyX1pEck9vaFJGSnNWcVlxdEh6RHY2Q2VJTUx4UVZycFNoanZPYUY0OXk0VXY4aDFfZ2xrb1BEYkpQWTNubmFRWkFkUQ?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic Settles Copyright Lawsuit for $1.5 Billion, Key IPO Legal Risks Largely Eliminated&nbsp;&nbsp;TradingKey
-
-### [Anthropic Secures Final Approval for $1.5 Billion AI Copyright Settlement Despite Authors' Objections - Benzinga](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3pGQUVVcGhFNmJmOEZoVnBKSVFpYkxRRXhYMmQxREdoRXktX2o1TlJreWhnakhiMzhmRHdMUXpMX0dRVTRQX0NYczQxZEp4SWItSUFUZi14Wm01cmhBcTVwSGF3cmlscmVhamw2MXR0V0xiVDBmNW9lZWdiWTNveUNsVEsydEZYclo3WUNVYWlXTjVfeUpiMmtnZTVMLWlTZ1RUNVhMdUN0alBSN3hVOUhZamZ3MEQ1bG5BMFNrdHpaNlhyd3hQb1Z0dFljeVNFcUlqYVhNcWRuVkdhT1duMm93clM?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic Secures Final Approval for $1.5 Billion AI Copyright Settlement Despite Authors' Objections&nbsp;&nbsp;Benzinga
-
 ### [Anthropic Can Begin $1.5bn Copyright Payouts after U.S. Judge Approves Landmark Settlement - ITP.net](https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3hsTzFOWDBwOE9ONU50d01VVkRaVWlwV1U3ZUl1UmkwYlRKbnJteDZXQlRHZ2liWEJuMklXV3EydmVwVXBaQmwtZlVFTTdTOUpTUXcwazd5UGlwV080ZmJRSmh1QURMWFhMVDRnVXBySUE2Tm5VX3gxUjNJZElDWUxJSWkxVzRRZmRLbUVPYnR3aGV0MXVlR2dEZVk0NlVtNVNCc1VNdm82SUlXdDgybWQ0YTBMUHkzdlZFOVVDVQ?oc=5)
 *Jul 21, 2026 · Google News – Anthropic Claude*
 
 Anthropic Can Begin $1.5bn Copyright Payouts after U.S. Judge Approves Landmark Settlement&nbsp;&nbsp;ITP.net
-
-### [Anthropic pays record $1.5b to settle US AI copyright suit over pirated books - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTFBNb3hWa3RZdno1NlJVRVg0UlFjRHNBaDJxZXlXamdRUUY0eFBUZW90WTh2RHh0M1pTYmhTRUpnLTNXRkliMnJ6elppT3JMUENvcHBRV25Ld0VaWHEtRVJMQW5aOFZRcUhwc0N5dTQzbEctaldiOXZXSjZR0gGOAUFVX3lxTFBxa2xBd2RLdTNOQkxSemxBN0hGel94SXF6N0VXZExlalRGSGpjdW5peGxzZVJnY3lmemFuMzNzREFQZjdRdmhVZ3gtajRGcWdHNFIzTWFTWkxWQ1NPZmU0QVc2T3JnLUNXelhaXzRVd3BQaU13bVlSRzZ4M2VfdklDSVRUdVR1QzBFdTdzemc?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic pays record $1.5b to settle US AI copyright suit over pirated books - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz
-
-### [Anthropic is paying researchers up to $50,000 in AI credits to find rare diseases - India Today](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHR1VFQ0ZEJSTE56SUpLOVFwMEE0YzE0QV84NDFUSkxVNXVnN1IybXR6eGhDV0JpdXJ2UW16alpJTngxRWNPeEdfWW1idmJDZ0k0UU1XUzNyQ1huUkJQc29NYk9NMjVPTmRjbFBxaEpndG5KT1FkZml5RU94WTN2T3dUOTEteklfMDk0SzEyQzR3T0NLTk0zdGlJcWNTTUg4aF9GbXNiWTFxbEsyemF5NmJDbzVHZ0xBZ1dJVHYxSi1VY09QUmFTdVJjRWJ0RkY0d20xc3JwMF9vQzV3RnQw0gHkAUFVX3lxTFBMNFZqSW1WZ3cwMG5KYnllbkhKVkNNZ3JlWnV5MjhoZTZrSlRjdldqdTNraXdlMElrSTFzMWRGQ2ZLLWgzb0xUYlIzZ0pfVlFhdWNiQi1KQmxZalNIVHpJbGtBTC1ObDFjS1BmTUJYNm16SDJuV01uYjM0S2IxU3RKcG1oOVAtSGxSQi1XWGhDdk9hYTkwbmVoSmZuRS1maUpLRnVCZkhzSnc0bk56bmM0Y19WS05KZjVOaGIzNUtTMnhkMFE5YjJwWS15VS1GQk04a2VtMk13bFJiSGx0OWJETjFfRQ?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic is paying researchers up to $50,000 in AI credits to find rare diseases&nbsp;&nbsp;India Today
-
-### [Anthropic Gets US Court Nod for $1.5 Bn AI Copyright Lawsuit Settlement - outlookbusiness.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQmFqdnZrcUdGS1BZTnJTLVFGZFNFSG0yaHRLeU9OaDNjRVROR29FUktFN0FKVDdtMk5DaVA2WTZtT1RpZHVyUV9XODVvSkRrcHc3LTJoNXNFTmpEUVhiRk9ORExTb09tbVNVdGVGM243SkNoeGkzbEJ3bmhEOHB4VjNRd1IwRVhSZmUyUmpOc2NFNENSM0NaQ055NndpX1o0bENUTVVNdjViXzVkVFA40gG8AUFVX3lxTFBSaUNLQzA3bnEzamJLOEJkb3c0dnZHeWNLbzYxUHB1ejVqN3dfVF90QjEzNHlFTlNGSUJGOUdHVE9JMDlKa1RFWVlsVEM3bkJFZnp6SjdTaU82STBvYktET0EwVUZHWmVoLVIzb0tqY3FxMlhuZnE3RlNnYUV6TWhRdlVJSFpGX0d3cmk0aWM5RFZEdUFyZERlSU5QYmJybEJoNWZ2dnhUMUxqNkdZMWFYU19ac3JYZnJ5Q2ZW?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic Gets US Court Nod for $1.5 Bn AI Copyright Lawsuit Settlement&nbsp;&nbsp;outlookbusiness.com
-
-### [Anthropic researchers report that the AI 'Claude Fable 5' has generated a counterexample that overturns the Jacobian conjecture, a problem that has been unsolved for 87 years. - GIGAZINE](https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3p5WnpJRk9XSjZ1ei1RYjI4bWRMNWs4TmZjTHFTZjFBeFV1eFE4Szg0cW92ZXMwaTkwREFqb2k3aFdDb1lBd2xxa0RGUHpzRExOVkpIaC16cTEwLU1yTzRPRGlnTFgxa09FNEJQaXpOYkJnZUlVTHN0MVNkWGdjUUQxcw?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic researchers report that the AI 'Claude Fable 5' has generated a counterexample that overturns the Jacobian conjecture, a problem that has been unsolved for 87 years.&nbsp;&nbsp;GIGAZINE
-
-### [Claude Fable 5: Anthropic Puts an End to the Access Chaos and Makes the AI Model Firmly Available in the Pricing Plan - Basic Tutorials](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFZVQjBVS256Q1ZPQVp5T3VwQ0FWUFY5SEl6ejEzTDRoczdBN3g5Z1VjZmhzWmUxNmJhSFRZc1lHM09hUjlFUUE2alBna3lxeDZmSy1YNURmNkxKalRHbnpjU244bjBWZU1uWVRQeEp4OGVnVVpnSFdmcWkzaUJvZEM3X0FQTGFIeHBVUzVMb0hVc3FVcUtQNUVFUFVsM0M0YWZpTmhVNlpjd0NoTGVxblpIQm9vLW5KVWFNTWhiSlh4RGkxS0R1cmF5UG0wVzVBdU03cWhHYlBJWk0xRWZyZUQ1UWg?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Claude Fable 5: Anthropic Puts an End to the Access Chaos and Makes the AI Model Firmly Available in the Pricing Plan&nbsp;&nbsp;Basic Tutorials
-
-### [Anthropic to Pay $1.5 Billion Over Unauthorized Book Use for AI Training - Seoul Economic Daily](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUldjcWVpVFdoZng1NU5sWU9hRWcybHJmRXJWdjREdXVBY3BTX0RIVjVZTDI4cWUybDRvaXp5T2Mydm8talAzaUFIbzZxNkdGRTMzUE1nZUtCbEExa3Y5alJIWDNkRlE4dVUxN21LTzljRHVndGFBMjZ3TGRHaWdJc1Jna0Z1UmJNd2psYkhjdlhyMVlBTl8zSGx3SjFueFBlaVZuRnhZdHJldw?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic to Pay $1.5 Billion Over Unauthorized Book Use for AI Training&nbsp;&nbsp;Seoul Economic Daily
 
 ### [Alibaba Bans Claude Code Over 25,000 Fake Accounts [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVGJvTDhuSkFTdXBoRnduRlZyamhxT1Jub1NVRFdUTEZDMzVZdEs0cTBuQkhBeVBRcHlYSUdkVVU3azZvdVo0SXZ0T1hLRWp5OG1vRjFERDM0UEY4VVBvYzdHdXU1MTA2M1E?oc=5)
 *Jul 21, 2026 · Google News – Anthropic Claude*
 
 Alibaba Bans Claude Code Over 25,000 Fake Accounts [2026]&nbsp;&nbsp;tech-insider.org
 
-### [Anthropic’s $1.5 Billion Copyright Deal Clears Court, Reshaping AI’s Legal Landscape - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNnZXSkROdU16al9EU2VUMzh3N29FTVUwRWRUQ3NOXzJKa1pTcWU1Qzg0RG9DSFZ0SjA4RExoNHUtZzNyXzVWSHJsR244LVZSUmlHUXljTzdfcUNQZkJUNDJjUHNyVkdIYkhzV1ZwcEFBdGs1X1E?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s $1.5 Billion Copyright Deal Clears Court, Reshaping AI’s Legal Landscape&nbsp;&nbsp;finance.biggo.com
-
-### [Why AI behaves differently in different languages - The Week](https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZ2g4SmRyNEVDREREVXZjSWJfSEdMaXlXSlZQMW11aFo4ekpka0lUeVR2OWZManh1V1pORGNLWFNWT3BFYk5JZkp1bjNfN3ZYdTZCcW9BM1FHR1dSWHdtR19oVWRzVlJxZHpfWFZBUzBnOTNCM1BnbTdFc0tRV28?oc=5)
-*Jul 21, 2026 · Google News – Anthropic Claude*
-
-Why AI behaves differently in different languages&nbsp;&nbsp;The Week
-
 ### [Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle - New York Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVwTEtkeTNObDBVQldxZkZ0bFhqWmNtYW44aUxqYkdCQm5aUk1qY3RKMWJsRm1OeEFfc2NVQUtfM1hQamljdWh5ZEZuX3lmand1RHZiQkJzb3BPSnlXcVZ2VGFXRGZVYWZmdVB2enh3MGxIZllvQlg0aTc1SXJIeVdMZ0pMLUVsbUNIbVUtOWxPOE0zLXRualFiNlJTQmh1bDExN0ZaYVFfUGhMUXpKRlR0U2M?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
 Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle&nbsp;&nbsp;New York Post
 
-### [US judge approves Anthropic’s $1.5b settlement of copyright lawsuit - Arab News PK](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZX2Z3YjE3VnZCaFROc1hxUDFFRllURTlvSTlnTnU0cE4yM19aODNvQkoyMUNtVlAtWXdXbVVKQ2tyX2sxellST2ZkRFctTVdwRFRnUg?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-US judge approves Anthropic’s $1.5b settlement of copyright lawsuit&nbsp;&nbsp;Arab News PK
-
 ### [US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
 US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit&nbsp;&nbsp;Reuters
-
-### [Video: Anthropic’s New Ad for Claude Is a Mess - The New York Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkVLckJISDF1cTlVSWJHa1JsTGxibVk3T1I4Z24zdE82SV9XMWZvRnpYSXR2QVYwd1hHN1hxUWk2OWhBX042UU5pODdCT2QwcVp5Y09Ua2JEZHVNSnJMZnlBMjM2eVoxWjIyMGNsM01LeE80NllKMEFxS3ZUdVAxNFNoMGJHdTctZ3JNSEUzeFg3WHBYelllb1dPM1dHWjg?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Video: Anthropic’s New Ad for Claude Is a Mess&nbsp;&nbsp;The New York Times
-
-### [Fable will stay in Claude plans, but not for everyone - PCWorld](https://news.google.com/rss/articles/CBMingFBVV95cUxNTTczazQzVk1Wcld3QWd1VERQcFgwZ1hXQks0ZnloZFdXdGI2ZXIzbXpFSkduYjE5RkM4bFZJMC14d2c2WXJCU1I0ZnhaUEwtTDdNWXlhRURWQmg5TjVVa2VuVmdNbXpTNEgwREFYTC13VkRKbzd0dkpfZVV6U3lkQ3JIa2p3VWJrb1VPYVFMbHJMZldIWVNhV3N6UFBfZw?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Fable will stay in Claude plans, but not for everyone&nbsp;&nbsp;PCWorld
 
 ### [Alibaba signals shift in AI coding war with Anthropic - thestreet.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTJONlhBSU1rNWJyajhVQjFNWXViVE05QmRETEduQjRBdVBzckZKdXYtZFdad2FMWVVhTk13cG5WVXJBSDB2c1RkNlBQaVUxcXpucUxxMTlGVDY1NGNrLS0wbzVMOGpMYUVmUTZScHctY1RvR1lSVXZLVHpPU1JCcVk0V0M?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
@@ -119,11 +224,6 @@ Alibaba signals shift in AI coding war with Anthropic&nbsp;&nbsp;thestreet.com
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
 Apply for Anthropic’s AI for Science rare disease research grants&nbsp;&nbsp;Anthropic
-
-### [Anthropic employees worked "literally around the clock" to keep Fable 5 from disappearing - The New Stack](https://news.google.com/rss/articles/CBMibkFVX3lxTE9RM1hrVkk1SVVqM25wbjhxRjM1amVLNWNHX1J4Tlk1dlc3ejM5UkZCdlBnaG9oSTVuN2UyaFFYQ0U5cHV2THNnVWZrbVFaTGt4cFl2LWZ5SGE5QjQ2Yk0xZUFQZ215cEtjR3ktOFF3?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic employees worked "literally around the clock" to keep Fable 5 from disappearing&nbsp;&nbsp;The New Stack
 
 ### [Unpacking Anthropic's 100-day sprint into biopharma: Nobel hires, M&A and major ambition - Endpoints News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl8tT0RXejUtYlg0dkc3YlVoeU5EU2tfZExLVEhUMDYyVXdTa2UxdE9jSl9meE9CZjBfZVEwZFZocUxRRnI5X3hpeEo3TUpIT0U0Y2dFOGlBakVScTd6QjNfVXVYaXk1bHZ0Z1BnNHFiY0ROR3RGZU5QVWIzZGtvN2RXRHRLdWRRdmp0bWpabFpFcV9MejhpOUMwaW1tSFprMGlDLXln?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
@@ -145,55 +245,30 @@ Anthropic donates $1M to Memphis-based CodeCrew for AI instruction&nbsp;&nbsp;WR
 
 ‘This is AI out of control’: Claude disobeyed Anthropic CEO in simulations&nbsp;&nbsp;TBIJ
 
-### [Anthropic launches Claude for Healthcare, signaling AI's expanding push into regulated industries - Crypto Briefing](https://news.google.com/rss/articles/CBMic0FVX3lxTE5mOHk5ZEo3MWxid2dlLXBkVlBXN0lMZ2o5a29uVWZvYkRKVExqSFpJeWRYcHZPRFhXQVEyVWs4Z0JoOW9mdElSMGRRaU9JMUx5M0tUcVVJS2QyaHQ1ejlKTUhZcDhnNlgtQkJjaTVtdGNVWHM?oc=5)
+### [Sophos joins Anthropic's Project Glasswing​ ​ - Sophos](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWQwcUFlc0FiV253LXIyVHZqS1l4SUFfSXF3Vld2X3FWSXZkVDJ3d0E0NjB2WDNSR1UtMEh2WWNodER3dlRQeV96MEV5M0NETFp4RmRfNnk3X2JtNmlqZjJEb3NQc2pJbmlLZzdDV2NOM2FYanFjdk1EVnV3WHNtbQ?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
-Anthropic launches Claude for Healthcare, signaling AI's expanding push into regulated industries&nbsp;&nbsp;Crypto Briefing
-
-### [This NVIDIA‑Backed AI Lab Just Dropped its First Model — Why Anthropic Should Be Worried - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUUhVTjNfclVnSUdsRDA0QnNJLW90Wk9xdDlpLTRyM1RVa0RLWXVNX2dZQTBuTjlYT18zalk1eE04OEFvb2tsOVRSZkRGZlNodXNxUWdGUGVYaGdKWXpTR0xMSkZrQTZvRFRyXzk1cS1pSmlBaXdJQXZDeUtGckhjeDRhbzZsYnN1SFRnLVYyQ2g5dHpXVDk5bUVZMmRlYXJqR0pPR0hRb0w3TVNwa1RJd0s2Snp6US1XcEFpWjIzc3o0eFB1eGZDYWZXQWhkQkdPaXVZNw?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-This NVIDIA‑Backed AI Lab Just Dropped its First Model — Why Anthropic Should Be Worried&nbsp;&nbsp;24/7 Wall St.
-
-### [Anthropic’s context-rich AI coding harness could reshape how smart contracts get built - Crypto Briefing](https://news.google.com/rss/articles/CBMib0FVX3lxTE01ZmY4WVlxMDhaSkRjbTB4eVU5dl9VRWx2c01EWkxkZnRCbGNPOU9wQjFIWlcwTi1kbmxUR2JBVnZiLXFEU1hsdnhqT0NRUXFCZVU5QTFiZHdyN0xMREs2MWl1c1ZVSkJpNDNWRmV4aw?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s context-rich AI coding harness could reshape how smart contracts get built&nbsp;&nbsp;Crypto Briefing
+Sophos joins Anthropic's Project Glasswing​ ​&nbsp;&nbsp;Sophos
 
 ### [Beware of Claude: A Cautionary Tale About AI - WhoWhatWhy](https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXFUV1Ezb1poQktHV3dkNUdKWUZiZlJBblRSUm41TlBvTUJHOW12S2lhWWh1ZUtKanhZMzBFSW53cG5sN1JtZkg3Umpwclp5eGVHd004U1dhQm44djR1SjJ3MTBsbDY3UW94WG1GVU1LanktdjF2V0NjaUE5OTJ5VHc4N19VZzBTejJpU1JFSWliZw?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
 Beware of Claude: A Cautionary Tale About AI&nbsp;&nbsp;WhoWhatWhy
 
-### [Meta weighs up to $10bn AI compute deal with Anthropic - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlFKa0lQZzNHbV9WSEZCODZ5d245LWhvRHJuNDlsZmlRcVZGVndvLXM5UUczUHpJbldTYkU0UjFSWmNwQ1l0Tjl1WUtiaUx5ZWlPUjBZbmloNUx2N2NZZVQ4UXg2MUtxUE9HSnlxTzdNMFYyZDVSVm05b0daWlA2M0dhTUFZNzNRcUpuRUduVDZXX2oxSXc?oc=5)
+### [Anthropic’s Claude Fable 5 finds counterexample to 1939 Jacobian conjecture - ForkLog](https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnJ2S0RsNDBBMElvWVBDRzR4aEVKdmxBSjN0d1V4c2NMdUR2QVlHOFFJaWlXeGV1eF9vVHc5aC1mWFd0M0N6T3BqaUxOdjlQTnVFVEJJY29qSzRzR3VzR251QjN6MVRRbGhoSWJLR1V3MWVsRXdpY0hvZkFFRERCYm1tZzZPdW9aSWUyN1BLRGFtMzczTjVPNFZLQVlnUTg?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
-Meta weighs up to $10bn AI compute deal with Anthropic&nbsp;&nbsp;Yahoo Finance
+Anthropic’s Claude Fable 5 finds counterexample to 1939 Jacobian conjecture&nbsp;&nbsp;ForkLog
 
-### [Anthropic's Claude sends S.Korean user $16.7 mn bill in apparent glitch - KED Global](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DY3pmNVFRRG1qak5RUVNiWnNORmdkME9SQVhlTVo3THZFR01YZ3pHbVBOSHlNcWpCM2ZJUlNKbVpad215c1FzcWhWY0YydVVaTzNWUnlHQy0tVnpwQzlsUGJrM3d3UkpzSlFlcXUzdnk5c2xmQ0U4X2ota1BvcEU?oc=5)
+### [Anthropic tests new placement for Projects on Claude Desktop - TestingCatalog AI News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDZyREZmSHFHRU9IWXl3dS1hX091ZVFJSm9lVTFxdTJlc2ktakVXS1lsRmZJM3FOTy14cXhKSFN1bm51ZHF5bndJWUtpYWZ5UVZrOExaTF83NjNNc3NFcHdWemt4aldnNEFCaGxzUGdEb1JlSmloMWFjSW5BQ3MyTDhVUi1GUFZHX3dHMmVOb3JJNVpWamdN?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
-Anthropic's Claude sends S.Korean user $16.7 mn bill in apparent glitch&nbsp;&nbsp;KED Global
+Anthropic tests new placement for Projects on Claude Desktop&nbsp;&nbsp;TestingCatalog AI News
 
-### [Anthropic's Fable survives the subscription axe - The Rundown AI](https://news.google.com/rss/articles/CBMifkFVX3lxTE90eXFzYUZnZ3hrYzcwVkNTRXFFZDlVdnZQejBqX3M1WmtGSTJvTU1wRDFMVVBNYjFLZS10Uk80aGMxU3N1Q25OREV6Q3B4T3dPbHFXZ2J5RVRDZWNYNUFJQzE5SDc2RnpDSVRxOU16Z0lZdVIyclZJOHMxbHo3Zw?oc=5)
+### [Why the University of Tennessee is suing Claude AI creator Anthropic - Knoxville News Sentinel](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1ExaFFEV0dsSXQyMnhUOG5tdE1yeTdORF9iWkV1VzFudEI5ck5zdVJCV29rVExjWjBoZ1daWDFSTHpkYUdpVjVnR0FsQ0xHb0Q5WFZTeVZzTHNCVGltVG05eTBRZE5zZERzRjhtQ0JxdUw1UHZGQXYxWW94aDNTSFB2VFo3dExiUTdqcEViRE81blhvX2JNS3JkRGlXUzhJejQzTWFrVnFMTzc3VnRNeExXZ25XYk9hcms1U215dWJ6RUQ5d1VUQm9sLU5jcmxJUGlkbzF1ZjA?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
 
-Anthropic's Fable survives the subscription axe&nbsp;&nbsp;The Rundown AI
-
-### [Claude Mythos FAQ: Capabilities, access, competitors, implications - csoonline.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaE10YjdGU2JoM2xVRC02Q3VRQkVOX3ZBVmVMY1hXbTUxNDgwTUZ5OVBMUUdLdWNPcEtfYUZVMS0xaTRYMWFWckU2eUNuZ251VHV2aF9wcU5GNUtReHE3QUlYODdPU2ZTN3pfaDhHWG84Ti1GZV9IMC05QWNrUVNqZHg5OUY2TEExWmZuQURTMi1Tb1duVUpyTW5uVVZfa0RFRnRjQVBPRFpmekxHQlE?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Claude Mythos FAQ: Capabilities, access, competitors, implications&nbsp;&nbsp;csoonline.com
-
-### [Claude Fable 5 Ends Free Access For Pro Subscribers - SQ Magazine](https://news.google.com/rss/articles/CBMiekFVX3lxTE1KcmdVUnZtYmZOanI4UHpUeGpiNU95M1l3SDJUaEJjTHhxWUlYNHBfYW40T2RuTHZZUUw4a2RMck93OTdGQzhqeVBZemk1NXU2cVNYRUY5Z3IxRlJscUk3OVdMVzZlVzcyWTJYbUg2ZkYtNjNQT0FKN29n?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Claude Fable 5 Ends Free Access For Pro Subscribers&nbsp;&nbsp;SQ Magazine
-
-### [Anthropic’s Claude Fable 5 access plans change from July 20: Here’s what’s new - The Indian Express](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnhDak5scm5oXzdwUG5rbi1rYU42TE1CRnlGLVk0SF9YSk1NWGZRLXh0bkZtSnl0YzVNcTBNMjlzNVR0enhEeUtwQnVmdmc0SlFaQlc0TGZQTVFqb2NVNVFNT1pOaWY0M0JrRUJpSC10RDJ5UG9IZVpwOVhCX1EtYjRnTkZBc1dEZVdlQXVmSlFZWnJ0aXpKUXhrQ1U2NlZ5T2VNZWtfSkcyV1FBdWNZVTJLYjdtcnZoRDFzRUtjaWFIUF93VmfSAcwBQVVfeXFMT3gxTVJDT1F2N19ndTcwSWltdXJybG8xNVRLQ25rc1NGZ3lJMW1QZHlBRERYTzlnM0tGVnlkMm1mWlB6QXAzeXdUb0xXOEtjWXdFMnBWcWwzcGRTSk0yVWMzcHJnMmpQejN3cEVOdVBoRS16dTJoaW1xVXFucTZHMTlFRjZVaFViUW12blBNdUd4S0ZxV0Z2TElvMFpKMWpSOTRFMWdlNTBQR00zMEd5V0xMSTlMb0xvZUpJQXg1STNuUWY1TFBOdnZUZ1BS?oc=5)
-*Jul 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude Fable 5 access plans change from July 20: Here’s what’s new&nbsp;&nbsp;The Indian Express
+Why the University of Tennessee is suing Claude AI creator Anthropic&nbsp;&nbsp;Knoxville News Sentinel
 
 ### [Anthropic revamps Claude subscriptions: Here's what's changing for users starting today - Firstpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSS02TVRUZkF6NzloM0J6WENueHZ2M28xQXNlVVNicnpsV2lTSHM0S2RkV21qdFh5Q056UWMwVTU1NXZaODRIbTFSZnY4NTJiSzNGbUhRYlJYSlQ3allqMkE1NVYxZDRhcVkyS1Jhb1hpNEVlR0tBWjV6Sy1QOEE5UkhRdzE1WHdZSTBmcWRwV2lqU1hTdlNkdm8xaHVIbmlkcHc0ZVpUV1lsVWFMQXNFand4Q1RsRHUtRVI3WFk3M1R6bDZnOVNRRNIBzgFBVV95cUxQMVktQkpYV01OVGlOSVB3MWE0N2pJdUhMNkVpVXRmTS1CaVd1SU84UGJKaFRUNFNfYVAxT3Izd3JfY1Y3a0JILTN6MzRYTTNkOXpVeTRXbFdBWTZUQVE1MGRlLXFfRnpHUGlCQ3pNY0w5ZUxwR3hHN0ozeTF3a01Dd2hxSGNfMXMtdUJlaUcxQWV5dnM4NHhRLTZPU3JjZVBiTWxiZDBYTHY0M3Y1eldIRHo5dlBSelRJSVRSRHdfTFpVWmxJM3AteXJoQXprUQ?oc=5)
 *Jul 20, 2026 · Google News – Anthropic Claude*
@@ -205,11 +280,6 @@ Anthropic revamps Claude subscriptions: Here's what's changing for users startin
 
 UST Partners with Anthropic to Deploy Claude AI Across Enterprise Platforms&nbsp;&nbsp;The Fast Mode
 
-### [Claude’s AI assistant could be manipulated through browser extensions - TechRadar](https://news.google.com/rss/articles/CBMixgJBVV95cUxOaENFYVpmVERVZkJacUpfMDU1QjVyc2tIalRjZ3psbi15TEE5d2RSLTB0ay1BdHk3RkUtNG1KLVNPZ2dhbVFwQUo1V3gxbllEM2l3NTJmWjN1UjUzMUw0c0xLLXVPSTZWQTN0VmNYVGtCaGhmaEcycGh1allpdlFOZ3Nha1lrOWdIaU1hSXRwZkpBanlFVXpKM01lN0xHdmM0MDlMV24zcWJwT0tlZE9USFlHcm0tTm1wOHl5UEVGc21KM29oekJMUEVLazZYbHVmR0VoUDZocmdTZV9TSklRTkU4VWlNX2d0T1IycjUxRkZrX2RQLWpkV085TjdmM1drUk13d3BCejBFQWR2ZzNIYlIyX21icVl0SU45VXBYUG5CUjA5X2d3UjNjN2hKLVV6cWlmRmZVZmlrVFp6UEpySFV0VURNUQ?oc=5)
-*Jul 19, 2026 · Google News – Anthropic Claude*
-
-Claude’s AI assistant could be manipulated through browser extensions&nbsp;&nbsp;TechRadar
-
 ### [Anthropic Follows SpaceX Playbook, Claude-Parent Reportedly Pursuing Multibillion-Dollar Credit Lines Ahead of IPO - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmJUYXZDTllxeUtmc1h6aHFQdnE4UEE3eGpLUFM4T2RCMGE3Z3dMSEI3dHZMQ2ZadVJKX25QekdmV3k4TktFazhKUW8tbHVpWVNWUDg2WXB4ZVFwSUJZUzBZWVQ0Y0tnX1VRc2w1a0VNV29UV1MxNzN1cEVuRUlDLW81b1ZaX0doZC0yYXdLcVlpSGFMdldTblRQNXZZMEdsc2FvZTYyRQ?oc=5)
 *Jul 19, 2026 · Google News – Anthropic Claude*
 
@@ -220,60 +290,10 @@ Anthropic Follows SpaceX Playbook, Claude-Parent Reportedly Pursuing Multibillio
 
 Alibaba previews Qwen3.8, claiming its strength trails only Anthropic’s Fable 5&nbsp;&nbsp;South China Morning Post
 
-### [Anthropic merges Chat and Cowork modes into unified Claude interface - Crypto Briefing](https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRG9vbXRSRlRGMjM1dVBwclNuVlBzbUFpcGs0OU1jNWVzeVNoREI4SFg4S1BrS19WQlNXRnpyeW5JVVZQMUlQdDVWVmV1UXE5eVZkNjNITkFDVlhBcy10N2xTYXZlSUw0RkVoVkR4SkU3VURDSWxKZGwxSmhqZw?oc=5)
-*Jul 18, 2026 · Google News – Anthropic news*
-
-Anthropic merges Chat and Cowork modes into unified Claude interface&nbsp;&nbsp;Crypto Briefing
-
-### [Anthropic Localises Claude Pricing for India as AI Demand Surges - Memeburn](https://news.google.com/rss/articles/CBMijwFBVV95cUxORVQ1emd4RUNuZnppUEpjUVFzenVPQjNodldoSmk3OEJYVWtDaGsyVHFvZmExWDNPV2xnWHNiMlJQQThiUGEyMlRCWTNVeUlfOURIU0loSVl5ZVFHaDBkQ0V2R0xhanR3VGZXaFVhNGlsTktJaGpBMV9GN1FFQnEyNUhWWExIMW9ZSi1tWkZYYw?oc=5)
-*Jul 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic Localises Claude Pricing for India as AI Demand Surges&nbsp;&nbsp;Memeburn
-
 ### [Anthropic to add Claude's Fable 5 model to Max, Team Premium plans at 50pc of usage limits - Dawn](https://news.google.com/rss/articles/CBMiSEFVX3lxTE53WFNCTm9NMTRGdzNMMHpQTEJVRTZ6NkJsM2N0Rzc4R0pYYy00Y2VrWGFtNGEwV3BET2ZNQ0pXTnBGMHpxcmFMNw?oc=5)
 *Jul 18, 2026 · Google News – Anthropic news*
 
 Anthropic to add Claude's Fable 5 model to Max, Team Premium plans at 50pc of usage limits&nbsp;&nbsp;Dawn
-
-### [Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing - the-decoder.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmU0X0dGUjFxLXhmdkdfWk83WnMzQlYxcDdPODRvWUVyNzRtWU1lc2pJRFR5RjJYSFpKVlM3Rm9zOG4xelFYeGVkam1raGZacHQxT2VSMFNFRGRNZzZOYmdMTl9ST2Jna0JTbnRKTWhScW1yMWhyd3pNcXpfTmVrT2hJcUR2THgtOHpQMGVhZWhmc3FXSG5BQUpTR01mZVNCZ3JEU2RrSGloQmNaanN1ZUZmc2Z3ek9aM1M5UXdFb3lUYUppbUc0?oc=5)
-*Jul 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing&nbsp;&nbsp;the-decoder.com
-
-### [Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED) - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHhhN0tlTXV6c0R2Z21vdXpRMHl3SFFaM2oyRjVYS1JKd1NTQWFLQXFSd3h3c3Rtd3ZmT2dtbmdUMzA4MU1UX0tzU3d6ZmNmTktjM2VNYnpzNG5oQ0RaQl93VHczVzZVMFRqS3dBMnc4NjlNN3JLWHJtUGtqVXZ0NnBhdmJQeWlwWEZZelpUSUVSWFBKbTZZNEw4MA?oc=5)
-*Jul 18, 2026 · Google News – Anthropic news*
-
-Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic | History, Controversies, & Claude AI | Britannica Money - Encyclopedia Britannica](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5)
-*Jul 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic | History, Controversies, & Claude AI | Britannica Money&nbsp;&nbsp;Encyclopedia Britannica
-
-### [Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal - The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5)
-*Jul 17, 2026 · Google News – Anthropic Claude*
-
-Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal&nbsp;&nbsp;The New York Times
-
-### [Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5)
-*Jul 17, 2026 · Google News – Anthropic Claude*
-
-Chinese AI has leveled up, and brought renewed focus on the open weight model shift&nbsp;&nbsp;CNBC
-
-### [Anthropic is giving teachers free access to premium Claude features, details here - 9to5Mac](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk9UdVdjQmxCU0dsWEZfWndpN3d5YnBWa1RiVDl3b2x6R3U3czJ6SkR1anFRM2xxVEFmVVRpTE51LUd6OWFYTnc2OFJZYjFubDh5MWxuWFBVb3Q2WExQaTdiVVhUOS1jSlZKMnlZZHpUejRWdkdkckJXeFVnMy1tNWFBNjlHbjFRZktkSDkya0Jqc2J0Mko2OHVsQWtEVGlHZWFGZFNKQVZTOXVIbmdXdldB?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Anthropic is giving teachers free access to premium Claude features, details here&nbsp;&nbsp;9to5Mac
-
-### [Introducing Claude for Teachers - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Introducing Claude for Teachers&nbsp;&nbsp;Anthropic
-
-### [Another contender just joined the arms race over AI in schools - Chalkbeat](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVNCUzQtQlYtSTctLXNIUjAzRERaODhqcEplcFNkTTdxalZ3VUhhaFZzUFpYYUpoTDRZcGxjTzdNVXNENktfa1hRcENPQjZ2Qlo4V2NwMjA1Vnh1YVE4bU9sRTlwbUtLQkg1d1BjNk00cFpHSWNuMjJRSTk2MG5BLVdkTmtaZklNUW1FRmNvSmhqak5hOXB3aDBnZE5EUUR1YUY2ZlpBMVRTY1dpOWFwRkwzOG0?oc=5)
-*Jul 14, 2026 · Google News – Anthropic Claude*
-
-Another contender just joined the arms race over AI in schools&nbsp;&nbsp;Chalkbeat
 
 ---
 
