@@ -1,64 +1,124 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-08-07 08:47 UTC  
+> **Generated:** 2026-08-08 08:29 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [Anthropic Updates Claude Fable 5 Biology Safeguards, Expands Access To Health, Lab Queries - NDTV Profit](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3p6dG5hWE5zVjZmdWdlRDhyV1llLXdacGV6UDVwMmVybGFVb3hQbTkydmVRUFZGa2FXR0U4RWN6SHVmejQ3VDltR0VrUGt5eHpCZVBFSEFEd3JRYnhTXzRUYUNERWlZMXBWb0V3WXhkQk9ES2xZR25CcHF0ekhrbjVhOGZMcnZfcVdDRktQS2VqNWRDRG9xNXA4Zkc0RE9LQ3VFdzdQWmVFdUIzOW1EMm84djVkMjh2ZGQ0b2VrM2ZJbmlxbXVPU21VQUJBYkVE0gHYAUFVX3lxTE1vMkZUSzRFTEZxRHU3TkZEbk9BbjJZVzUzWTZqa3cxVWlxMVVxaktXUklfVTQydzNvQ19QZWxSQWE3N1FKbUZnUEhMWmpCakN4cTdjSkd0MkkyY0VpcmFETzFOV1pGZFlIbU1MdTJsazNSNDBsVVF4aC1aU045TU8yWmYwRzhnRmRhTlRwcVA5NUp6NVdrWUpfcnVkWTZpMEtXVWh5SngxYnN4NFk4Z2JyOC1IcUU5dEsycjdmM2R6dDBNUEc0UDBSbGpVVlc3QkJnUmFaTnBXeg?oc=5)
+### [Anthropic's Claude Code now lets AI sessions talk to each other | Feature available on macOS and Linux | Inshorts - Inshorts](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTV4RVd2LWpEQjJuc1pHV3dPMVgxZmxVV1dHeElZSFRMalVFQVRsa1B5ZnU4RkFGampTVlZpNFp1X053bHhLSWRwaXQyc1F3MU5RZWFkRTgtN0tNZk14ZGV4V3ZvY3BDZUktYllaeEdnTkphOVJ5V2lSaE51cEpLZzR0M2QyckdNY2tFRjctZDM1d3Q1MEItTEsxZC1WSkVrRFpjel91RXExZ9IBrwFBVV95cUxPQmpfT2hEX0dmTzJKTC1PalFXMkFBT2lQSU5vRTBFTTJPT0tXMWRxaV96OUNPS0lhZWxzRDdBQnk3Ml81OGNsanNDdzdDdGRYX21KRHF0MXE3RFItMUt4bnNKVm5ZUEtROGRoLVd4VXd0eVF1SURVWkstT29ROEtaYTZPYkx1Ymw5TnZyaS15QXNiMUo0UHF5RG1PY0xPN2g5dUdGS3YzdUR5TXRHZTgw?oc=5)
+*Aug 08, 2026 · Google News – Anthropic Claude*
+
+Anthropic's Claude Code now lets AI sessions talk to each other | Feature available on macOS and Linux | Inshorts&nbsp;&nbsp;Inshorts
+
+### [Anthropic makes Fable 5 better at handling biology queries, cuts false positives by 85% - Moneycontrol.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5mNFZHQ0l1ajJYOUdmclZqVG9vME5uREdMVThfb1NVY3kzYUc0bk1peEdtdXpubnBIcXAySzVCMFBHZGhVTFBtYnh0aGFxWkZDcXZEUmo2X0pXb2FNVUN2eDNJTHFBeTd6STRuMlZRazltVnlibngxcG5xY1NTZzZOaU5wUDRhNWlUU3d1cGVuUEJXYkMzSDhPdVV6d1k4Z3h0RFdSTkZ3UEFvRXBmWkR5b2xKemtJYUtSVDFTek1Ed0dGaDIyMGlpbGFpQmhPb0tyWVhZYjVaWHB4TlBXZNIB5gFBVV95cUxQSkxIMm5fZ2RIUGhjbmNoc09oTUlFeWJvbExHNjhhdUhvQXBWZDhtWUE3OFV3ZlVzVzNPQ3dtdXJTVzF4OUtqZFpMclZzcE96aTRFcm5KYWNPUW5zSmQtSkdYblNQQ1JvYWpxdjV6cTc4UjFWN0x4a192NXNKTEhydVl3dmFUdXlQV19XdXVnRVVsa2Noa0FtWGljaTIyZEl1ZFEtVktzQm1IaFE3WHkta3VCLVJTMU9fVVAzanZsbzVtNm1sbHM0TnRqbFpDQk1PNjA5dlM5TWhod2VFV0lDTF9XeGd0Zw?oc=5)
+*Aug 08, 2026 · Google News – Anthropic news*
+
+Anthropic makes Fable 5 better at handling biology queries, cuts false positives by 85%&nbsp;&nbsp;Moneycontrol.com
+
+### [AI Co. Anthropic Hires Legal Lead For Claude Chatbot - Law360](https://news.google.com/rss/articles/CBMingFBVV95cUxNN3RwLU9UTnpKTlZoQ3R1MFAyUjZhOW5zMlVRNkROcnBnVzFMbGxvZjRfTm9DZm9uWmRNUTc3eXE0a2tNYlBEbTdMWWFSS0toQkxtRGhFMUpORU9pOTZSUnJHMEFFbC1rNWpNc0Vqbmlkd2V5amJIeGs1LXN4WkNmZmpVa3k5Sk50VC1PbTIzZEhiZnpjRVNhTGRVb2twUdIBXkFVX3lxTFByQXlobHp2RWctdXg5QTFDVExUb1pyMlpNUkp6VUxjUklwM3VmNlRpOTRSLWdwV1RIM1hSSnEwVUhGWVlYUVJUM3Qyb0ZzUDVMS1ppdWQzZUZQTmQyVmc?oc=5)
 *Aug 07, 2026 · Google News – Anthropic Claude*
+
+AI Co. Anthropic Hires Legal Lead For Claude Chatbot&nbsp;&nbsp;Law360
+
+### [PSA: Claude Code enabling auto mode as default next week, Anthropic says - 9to5mac.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXV5d0YyUkM0elFOVWJFNWFEV2dwZDFDUmxvZk5rbWFlanlSMGpjc2dLQ2ZGajRsOHhoWjNyd0ZXMVN5ZGl1QjN5blRKV0hIbjhZenFEcGNyVkdIbXNYcjdDMm10NF9iVmVWSkhYUUhsc3hLcV9fOEFoRmJvZVppYzNvYzgtNXIzTjdPTlBoVXI3anh4N2JXRHJXT2gtLXpYMWN5MQ?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+PSA: Claude Code enabling auto mode as default next week, Anthropic says&nbsp;&nbsp;9to5mac.com
+
+### [Anthropic hires Robert Mahari as head of Claude for Legal - Legal IT Insider](https://news.google.com/rss/articles/CBMijwFBVV95cUxQanRTWUFQQnJGTmViMHRjOEFISVpMXzcxQUwzV0hqb0lyYkQ1N0tmNGg5cXljLXZ0dExHWlVNTlI5REd4dU1vLXFIdjFQVXMyS3B6V1Nkb2h3Z29VckZuaUJjQ3ZyLTZxSGpzTFl3NFA0Y0lfck1WRk1sSHh5VzhTcmpHV1FOcUFMUE1lVUp6QQ?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic hires Robert Mahari as head of Claude for Legal&nbsp;&nbsp;Legal IT Insider
+
+### [Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal - Law.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXpwcnUyU2o1dU53LW5WOFh3aFdkQVAtY2dzdG9ZdjNfNEJHVE9oRWxwczc0VDdyUGUtUWNxR3VKeU9rbGFkcFoyd082YzNsU3FJY3Y5NmdYTHZ0dXBsTEFIYjR4dnR3dDVlbnBDRlc1U1lNVk1Eb0h6X3NlUzN6OWFBLXpJUVdMZTd6QTduREU1SkhfZXVNWE1YRHRqWGdPamJncDEwanV1dXdxRVZSXzBKVEEyTGh1dEdwVWNWTzNTcXV0?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic Appoints Legal Tech Founder Robert Mahari as Head of Claude for Legal&nbsp;&nbsp;Law.com
+
+### [Should ICON’s Anthropic AI Collaboration Amid Weaker Q2 Profitability Require Action From ICON (ICLR) Investors? - simplywall.st](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVNtanItQ2NTblJsYzg1Wnpxd3dWZ1hWQVd6Z0ZlSFY1R1l1RF8xbDhQTGtxOTBwSm4yc3FLeUY1RmFWTnFuM2xlY00tSGYtV0dWVzNvMUV2ZzA2cTZUWHJUTUdHOE93b2xuamZQS2Fua0Fyc1k4LVRVb2dYcTg3MERZWC15SHNrNEpNU1h0bVZjNXQxak56ZExiNk5CLXB5X2lRb0VJaVpKYjNzRXI4Q1BMUm9fZzNwb0VZcDI0Vl9mSjFPWlAxaTFtT1VQTVVCczI4M9IB2gFBVV95cUxQc1p1Sy12RTFxY3p4dDJuX0x5YUh3OUVhUHEwR3doRDNEa1FLZXhsWUV1eXEzUHFWLXFzRHNMeEtaQkZJaUo4dVJDTTFRTFo0QnpiTGFOUDkxRk1yVlE1ZW94MjFkN3NtQy00aWg4WGN5TW1XSy1fakx2UFZzUUlxT01xbXVZU2duNzhCOFRNTV80dlNyeHNxb2tWbFRaMF9lOXY5bnAtcmo4Z2JhcmZhdDRkYXZxZGhVWURPUHM1LVB0VlFvNUx5VlhwMVVzVnFCb0thRC15MzRiUQ?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Should ICON’s Anthropic AI Collaboration Amid Weaker Q2 Profitability Require Action From ICON (ICLR) Investors?&nbsp;&nbsp;simplywall.st
+
+### [Anthropic Starts Building In-House Silicon for Claude - egamers.io](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRWtHZ0ZJOUNyTVkwWXI0SXlvc2ZJTFg5THZhMjFHSXNXVzBhTDZwdTNrZ3htUmdGOGRucThVZ2tNRW9Cb1VkSDBHOHYzd3NQdDV1VEp1SXJ3c1ZaNU9DSE00dWhpYzU0d0lWdDlobkk5QUZXSEpZSHpITmNBZw?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic Starts Building In-House Silicon for Claude&nbsp;&nbsp;egamers.io
+
+### [Claude is set to get its own AI chips – Anthropic is already putting together a team of developers - Mezha](https://news.google.com/rss/articles/CBMiY0FVX3lxTE03UnRtYWpyb1h0X2o3bm40bHhvSGFmeVdYRFpJNVNoU0c5NHFUTEJOeXc4QWFBcmw5U3o4Mm5OUi1QQUEteXBrWHg1RUhGbk5sLXhWRnE0Z1VzUXVFS0RkWTF4Z9IBaEFVX3lxTFBBM1UtaWItMVotYWxSMTFPSl83M25NUE9qSktsRUdSZGZiVG1OQkc0SVNsNmQ1RmVfd010U2V1NkYyeF9FbFhPSGc3aDJkVlpweWgyZ08yZHNLWmtibVhVVGhNVkdiNm9q?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Claude is set to get its own AI chips – Anthropic is already putting together a team of developers&nbsp;&nbsp;Mezha
+
+### [Anthropic Significantly Relaxes Safety Guardrails on Top-Tier AI 'Claude Fable 5' for Biology, Cutting Daily-Use Restrictions by 85% - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRUZuTDNqOS1CT29XcGxoZUNUYUVsUThrRU5aS1lZbElDaUpEMlFkTEZfYmEteTZpLV9MWnZTMXJiU2U3UW10MjVqWnhxbXRIQlVfdjJmbWFpTFFFY1FZbjljTHJ2dXdWSmJsTXp1bFJCcHR2cHc?oc=5)
+*Aug 07, 2026 · Google News – Anthropic news*
+
+Anthropic Significantly Relaxes Safety Guardrails on Top-Tier AI 'Claude Fable 5' for Biology, Cutting Daily-Use Restrictions by 85%&nbsp;&nbsp;finance.biggo.com
+
+### [Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - Tom's Hardware](https://news.google.com/rss/articles/CBMirwJBVV95cUxORm5iZ2QzQkJoZFB2UFlObDRTNU11WDVaeDdFbGYtMWoyRmd2VzV3UWppV2g1TWJjdFZZZ0dlZVNaaWk5MmVCZzFSRUNfRXN4ZFY1TFdKWkx2SWJIczNqaTlzQ1JYTmJnT09ST2VrTUhJMS05dE9DUUczVml5ZUxJbjNYZVpoa1BkclR0QkZmMWZlUFpyTWdtUG5HYkNMUHhuNHJaWDF0SDYza2sycGJ6VUFjS1dzMmRaSDdSV1dIVng5X2IxWDl6aFEwQ0hyVDhDNWRFR24tVDFwMEF0OHpSQjRfOEM5aDlLSHNzanNqb1NpWDRCNTVsV0dxSjA1TDhlU29UNFZvRFVjZFYycnRnSkhsaVFXSmxBNnk4MWRCNURNanRkTkt4dEhmV1Jmc0k?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker&nbsp;&nbsp;Tom's Hardware
+
+### [Anthropic is building a chip-design team as Claude demand strains its compute strategy - mlq.ai](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25TU3diY3M4WHN1cURKTHlIbU5PT0xJejhDaTUzR3Q1d1NmOWZraGp6T1ZHeVJPcWphVmFncFFkWG5Ud0R4N1JtbXMwQXJzUUYzSTNrRlFfanhUUE40ZWZUWm10ME1uSVJYR3Z0SVVtWURTR3BybVVGbzBPbGdabFpNYXFPcFU4b1FSOXVTYUdwTkVqQVBUcXFMdE5JOVBjS3p1SlRVWXNaeWM?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic is building a chip-design team as Claude demand strains its compute strategy&nbsp;&nbsp;mlq.ai
+
+### [Anthropic Hires ‘Head of Claude For Legal’ - Artificial Lawyer](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFJQcGJEaHRyUlZTdWxGWWlqelBkZ0gwR3YyNmxxX1NRbU56YXBqVFl6MzNPNElOa0F5eEpDRXFGUThvQk9qbDNQeEZSMjE1ODF2blM3WkdTQnJTNnZhcTIzVFUwM1U4aE1hTjRKNVlKMEhuUTB2Y0Ztbkk1dG90bXd6ZnVPb0Z4ZHI0c253?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic Hires ‘Head of Claude For Legal’&nbsp;&nbsp;Artificial Lawyer
+
+### [Anthropic Builds Custom Chip Team for Claude - Fstoppers](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWllaDlGTGwyOW1zX21VVVNuWlA1U0RHaHVGM2hWc05hc3hoa0lRNktrWjRUbWlpZzJQdzFBZkhHYnBRaENkOVB6dEhzbm8zcDhzMHZmZEpHeUlYamRIS09lQUpvejU2cDNCc0hUUFlGSjJwaGtCaEM5Yi10TzJWaTd2eXJraE9BdkY1cmMwNy1IYl9PYmc3MDBaMUQ?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Anthropic Builds Custom Chip Team for Claude&nbsp;&nbsp;Fstoppers
+
+### [Anthropic Updates Claude Fable 5 Biology Safeguards, Expands Access To Health, Lab Queries - NDTV Profit](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3p6dG5hWE5zVjZmdWdlRDhyV1llLXdacGV6UDVwMmVybGFVb3hQbTkydmVRUFZGa2FXR0U4RWN6SHVmejQ3VDltR0VrUGt5eHpCZVBFSEFEd3JRYnhTXzRUYUNERWlZMXBWb0V3WXhkQk9ES2xZR25CcHF0ekhrbjVhOGZMcnZfcVdDRktQS2VqNWRDRG9xNXA4Zkc0RE9LQ3VFdzdQWmVFdUIzOW1EMm84djVkMjh2ZGQ0b2VrM2ZJbmlxbXVPU21VQUJBYkVE0gHYAUFVX3lxTE1vMkZUSzRFTEZxRHU3TkZEbk9BbjJZVzUzWTZqa3cxVWlxMVVxaktXUklfVTQydzNvQ19QZWxSQWE3N1FKbUZnUEhMWmpCakN4cTdjSkd0MkkyY0VpcmFETzFOV1pGZFlIbU1MdTJsazNSNDBsVVF4aC1aU045TU8yWmYwRzhnRmRhTlRwcVA5NUp6NVdrWUpfcnVkWTZpMEtXVWh5SngxYnN4NFk4Z2JyOC1IcUU5dEsycjdmM2R6dDBNUEc0UDBSbGpVVlc3QkJnUmFaTnBXeg?oc=5)
+*Aug 07, 2026 · Google News – Anthropic news*
 
 Anthropic Updates Claude Fable 5 Biology Safeguards, Expands Access To Health, Lab Queries&nbsp;&nbsp;NDTV Profit
 
-### [When autonomous AI agents go rogue, who pays for the damage? - Ynetnews](https://news.google.com/rss/articles/CBMibEFVX3lxTFBXVlo2YmNMYllLWVNkLU1LQzNIWmVPYUZXVTNxNUxGdndrM29KeGFEd3doaVBVc0stc1JGR2RjeTRsZVdPV1Y4aDhHbFVfbnp6b3hYNzYxaVpTZVRNZUIxZzVnTi1HM0FuYXU5aA?oc=5)
+### [Anthropic Updates Claude Fable 5’s Biology Safeguards to Reduce False Positives - CyberSecurityNews](https://news.google.com/rss/articles/CBMifEFVX3lxTFBzQUZDbE9yTl9zd3JZeE5qY3dSdEtTNUdjalZ5eTFTbUk5Y2xjVVJLNm1nWkV1NFVaeDY4MzE2Z0JKc2JsQjA0S1paN2pTU1RrWW9pLVJHVU5jbUxxRUp1eFMzNktobEZqTm5TN0c5c3ItMTRuaFhuY1l4N0g?oc=5)
+*Aug 07, 2026 · Google News – Anthropic news*
+
+Anthropic Updates Claude Fable 5’s Biology Safeguards to Reduce False Positives&nbsp;&nbsp;CyberSecurityNews
+
+### [After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth - The Times of India](https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5)
 *Aug 07, 2026 · Google News – Anthropic Claude*
 
-When autonomous AI agents go rogue, who pays for the damage?&nbsp;&nbsp;Ynetnews
-
-### [Anthropic builds custom AI chips for Claude - Tech Wire Asia](https://news.google.com/rss/articles/CBMidEFVX3lxTE1vQmFlOUZrNkRCY1V1Wnhxc2h3elJrbzBwODV3OGpKTnRqa21FVGpZQ1lFQWI5WnlwUkNyYXhCVzUteUFqYW8xQTV1UUpFWVM1NUszT2FHcjAxeTdLWFRIT3d4bnQ0a1pWOXlvSEJ2a1lKajc3?oc=5)
-*Aug 07, 2026 · Google News – Anthropic Claude*
-
-Anthropic builds custom AI chips for Claude&nbsp;&nbsp;Tech Wire Asia
+After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth&nbsp;&nbsp;The Times of India
 
 ### [Improving Fable 5's biology safeguards - Anthropic](https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5)
 *Aug 07, 2026 · Google News – Anthropic Claude*
 
 Improving Fable 5's biology safeguards&nbsp;&nbsp;Anthropic
 
+### [Claude Cowork Web & Mobile Launch: 10-Day Build [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbFVNVXJ0WTlRUW1pTGVpeUVReThWTDdmNXVKa3JqQ01YWlZWN2NLVGVqbWxtT2RDTUJOY1hEQnlSMVN2VTF4bjdZOFNndEpkcXpUajJxZVA3WG45Y2RaUGJnSWNLSmMwei1qQWJmc2Z6amM?oc=5)
+*Aug 07, 2026 · Google News – Anthropic Claude*
+
+Claude Cowork Web & Mobile Launch: 10-Day Build [2026]&nbsp;&nbsp;tech-insider.org
+
 ### [Anthropic will design its own hardware to power Claude - Ars Technica](https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1hXb3VvUjdRM0s0U0JMdGEwR2tiNU02RXkyZmd0RFFjZUlGbnBwdnRsQW13YU5Dc1ctM0E4ZlE1alFTYkQzZHlyZ01tQU95aVhVNF9DRjhvbk43cmo5MFJLaFV0RmxQWkx0UG5SM3JLS2hFM2FTSkV6aGxWUlJJak5yZDZRamt0M2VhQlB4Q1RGU3dJRkNmUDN3?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
 Anthropic will design its own hardware to power Claude&nbsp;&nbsp;Ars Technica
 
-### [News | TeraWulf signs Claude AI maker to $19 billion Kentucky data center deal - costar.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjdsS2gtMjVDVW85aXFUQzlXVExZeXpfNC1sYWdhZ1ctejFsajZFcHZjMEFpcVRTWGowc3JpN2FNWkItWHFsaVhGbFEzY1JaeGpSVktKVTlWdnRDOXJUNkFTTWRaZ0lTWGZLS21sUHJ1SzZoamxYQ2Q3ZWVMWUxydWdXV2syQjVPVGlsZ2JBVVFSMjVXRXJDZGNITlBTMDNSb3pzU2RTZW55RHoxODMtbA?oc=5)
+### [News | TeraWulf signs Claude AI maker to $19 billion Kentucky data center deal - CoStar](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjdsS2gtMjVDVW85aXFUQzlXVExZeXpfNC1sYWdhZ1ctejFsajZFcHZjMEFpcVRTWGowc3JpN2FNWkItWHFsaVhGbFEzY1JaeGpSVktKVTlWdnRDOXJUNkFTTWRaZ0lTWGZLS21sUHJ1SzZoamxYQ2Q3ZWVMWUxydWdXV2syQjVPVGlsZ2JBVVFSMjVXRXJDZGNITlBTMDNSb3pzU2RTZW55RHoxODMtbA?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
-News | TeraWulf signs Claude AI maker to $19 billion Kentucky data center deal&nbsp;&nbsp;costar.com
+News | TeraWulf signs Claude AI maker to $19 billion Kentucky data center deal&nbsp;&nbsp;CoStar
 
-### [Anthropic Is Hiring Engineers to Build Its Own AI Chips - TechRepublic](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm80VFF1eHEtd2RTM1BFRThhd2ZDc1lCekc5LVd4cERZNFFmZmFBZHJnNnhlZDlQU1ZDUWJaY09HdVRNZTJSWnVnOXFBYlNtLWhmaFVzLVNDM28zNV9sWk44bmFvWW9POGNVRVM1d0hUS1ZsQ2JPdFpvSXFTbHBmRVNIb1dwRVZidnc?oc=5)
+### [Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue - fortune.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBFSk96bGNMWGYwUkt4eUVKMDNqeWFFZHA3X1dNdFN6bm53amdOSXpjMi1mZno0UndMMlVOWWVVd3E1Wk9IaENQYV9jeTRlN0JuSWprODE5V2JnOXZJNy1LaG1sRlFZOFRValplYWhBU3Q3UQ?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
-Anthropic Is Hiring Engineers to Build Its Own AI Chips&nbsp;&nbsp;TechRepublic
-
-### [Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue - Fortune](https://news.google.com/rss/articles/CBMickFVX3lxTFBFSk96bGNMWGYwUkt4eUVKMDNqeWFFZHA3X1dNdFN6bm53amdOSXpjMi1mZno0UndMMlVOWWVVd3E1Wk9IaENQYV9jeTRlN0JuSWprODE5V2JnOXZJNy1LaG1sRlFZOFRValplYWhBU3Q3UQ?oc=5)
-*Aug 06, 2026 · Google News – Anthropic Claude*
-
-Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue&nbsp;&nbsp;Fortune
+Meta becomes third major AI lab after Anthropic and OpenAI to admit its agents have gone rogue&nbsp;&nbsp;fortune.com
 
 ### [Meta Launches Muse Code to Challenge OpenAI, Anthropic - Mexico Business News](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkQxdDF4S2hBUFZtSUtaR1JWeWt5Y2pzb0ZTTUpFNzNQMl91VDM5OWdoRFRFdGd4QVNLeGdMYldmQVNQZC1zWXhGdi1PeVFVaHBYallxN1pGc1FZWDFxWmZvOXFLa0lfTGdyN3BqY1ViNGRONDdnWUphRENzajE0ejUzZEdIckdUU240ZGxmRWJJQQ?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
 Meta Launches Muse Code to Challenge OpenAI, Anthropic&nbsp;&nbsp;Mexico Business News
-
-### [Meta is launching its first AI coding agent to rival Anthropic and OpenAI - qz.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE8tUGFLamV2UFJQblVLZnU2dHNmSWFvcVhBS3drV0xLTTFubUlGMXp3SW5WUkNSVjdpekE5UHl5bE1jNHo4bWpsTW16VlZQdXpyMDBjVEJBS2tjV1ZrRlVzRGxkMG5GVVdyRDJkUnBXUnNwV196OWVmRQ?oc=5)
-*Aug 06, 2026 · Google News – Anthropic Claude*
-
-Meta is launching its first AI coding agent to rival Anthropic and OpenAI&nbsp;&nbsp;qz.com
-
-### [First OpenAI, now Meta - why do AI hacks keep happening? - bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5)
-*Aug 06, 2026 · Google News – Anthropic Claude*
-
-First OpenAI, now Meta - why do AI hacks keep happening?&nbsp;&nbsp;bbc.com
 
 ### [AWS’ OpenAI And Anthropic Coding Integrations To Drive AI Wins Via Security, Partners Say - crn.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1ZuX3pPeGFFRUU0dENqZGkxVWZGX0wzQ1o3VzF6RzMyTWUwY085WEFjX3VXZUtyWG5WSDA1OUd2SzZtZ1BfaHNOMGYza1JKOTAtVnRNNzhNSkZXcWVaUGg2WGdNZWU2bnctU1R2ZThDd0pXYUgwZTF1bDA3cjVWeEhyczk4RDEzX1h2T3JBVlF0TW0zTW9nY3I3dnBoUW5HTGtQc2FNTHpYbEFnNDdRLUxwd0l1QThrT1N1ZQ?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
@@ -70,45 +130,35 @@ AWS’ OpenAI And Anthropic Coding Integrations To Drive AI Wins Via Security, P
 
 Anthropic Enters The AI Chip Race With In-House Chip Team&nbsp;&nbsp;Forbes
 
-### [AI testing firm Irregular the source of ‘misconfigurations’ that led to Meta, OpenAI, and Anthropic AI incidents - IT Pro](https://news.google.com/rss/articles/CBMihAJBVV95cUxOT3VZT0J2OXMxSmQ1eHgtTTlnbzEzRDB4MVJEVWJBMEpCd1VzeS1nTXFWTDZxNm85blpqTGE0UnN5NjdJR1VEZU0wakZTTm1mTnRaa3p1ME1aRXJtZ1ZUTUc5Rks2cEJILVVZaGRyUFZwYTAtNVlCcWlXcjEzdnlaWVNtU1A0cEtfcnB1SFFieHYwSHJ6bXZhQkZUT2JWMGhBVzUtLTZvS0l2Q05KRlFwRGdDMUFWSW1qRlp3Q0hJY090V1phMXNOMTBZdnhydmM4eDVqZUIwdzZXWHZ5UDdvbG1DbDR4cXVsbmw3dlM5amVGNWFDZG92SHNMRXhXN3VqZlA2NQ?oc=5)
-*Aug 06, 2026 · Google News – Anthropic Claude*
-
-AI testing firm Irregular the source of ‘misconfigurations’ that led to Meta, OpenAI, and Anthropic AI incidents&nbsp;&nbsp;IT Pro
-
 ### [Millennium Partners With Anthropic to Develop AI Risk Analyst - Yahoo Finance](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmwtaDVyajJkSHByZ3VLZUUtbXR5MnAwRWpQaXg1V2g2ZE94Ulo3OGR4RnZ4TG1Jbi1fNU1scDJCT2g2N1pNalgtY1UwNmNJdU1tdFh0cGlWWkpIWnJURjVQZlJxZDU3OWxXV0dQaTdFNXNxTjlqa1hmX213dnZLRnI2LUpMOWRsLXN0ZVFjOXN6aG5VUnBJX2tGVVNLVkZxNV9wS1pZQQ?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
 Millennium Partners With Anthropic to Develop AI Risk Analyst&nbsp;&nbsp;Yahoo Finance
 
-### [Millennium Partners With Anthropic to Develop AI Risk Analyst - bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0VBek1nQnIxb0ZfSUtEdVhXa1NDbmRySHNwOVluQjBCSXJtVTBjVVBIa0VjVVBqNm1oQTE4Vjhha2lhbVdJS2FmNk5mMC10OXJiZXBicWJybVdhTS1rWDU5Q0hTZ2dyZUhBRldiQkxla3J0Rm5BUnBlMDJta1dhYlhLc1NXWGZ6bHlLX2V1VC1NakV3djBOWC0zSEtFM1lsd2xQSldDQXRKYzhtNGdMQzBn?oc=5)
+### [Millennium Partners With Anthropic to Develop AI Risk Analyst - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0VBek1nQnIxb0ZfSUtEdVhXa1NDbmRySHNwOVluQjBCSXJtVTBjVVBIa0VjVVBqNm1oQTE4Vjhha2lhbVdJS2FmNk5mMC10OXJiZXBicWJybVdhTS1rWDU5Q0hTZ2dyZUhBRldiQkxla3J0Rm5BUnBlMDJta1dhYlhLc1NXWGZ6bHlLX2V1VC1NakV3djBOWC0zSEtFM1lsd2xQSldDQXRKYzhtNGdMQzBn?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
-Millennium Partners With Anthropic to Develop AI Risk Analyst&nbsp;&nbsp;bloomberg.com
+Millennium Partners With Anthropic to Develop AI Risk Analyst&nbsp;&nbsp;Bloomberg.com
 
 ### [Anthropic Discloses Three Security Breaches By Its Own AI Models - ALM Corp](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVklYNXkzOXhvV2FFOHV3NklPN2VTMnZqREZ0VXJUZHBwSlZfdlRCT0hILXpidHg3T1FYSHZWS3l5TGN4MlZUbXNzNDA0TUEyakdXNkNaTGxod1lOdHlfV09yUlJ2Um5JSGctTFRER09iWGJOMWtVWHhOVjk5U25oTjQ2WWpXaVR0OS1v?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
 Anthropic Discloses Three Security Breaches By Its Own AI Models&nbsp;&nbsp;ALM Corp
 
-### [Claude's Great Escape: Anthropic AI Models Join OpenAI Agents in Hacking Their Way Out of Sandboxes - CPO Magazine](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmZ1dDhOcnZNUzZ0czBJQ3pHdVFzYXZ3SnNyRWsyQjd3RnpneHBuazkzem1abHZXQy0zdHB4NUE1QTFocWItM2JrZVlKa191M0RpVWY2U2I5RzJMdHAyWl9iUmp3NTZGbERIaW81eWQ0WDdudmJjSjZvUU5kOHdfNUh3eUcybmtQOFdEZ2FnVzdibDJISGZHZTJPcDhBTmZ2UmN1MElSYlZnSkZXQjd5Wm9vZl9yZDlFU2tGT2FhUHpNTUlIbDJMeXd5UEpDNkM5T3lmQ2xIVzI?oc=5)
+### [Claude's Great Escape: Anthropic AI Models Join OpenAI Agents in Hacking Their Way Out of Sandboxes - cpomagazine.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmZ1dDhOcnZNUzZ0czBJQ3pHdVFzYXZ3SnNyRWsyQjd3RnpneHBuazkzem1abHZXQy0zdHB4NUE1QTFocWItM2JrZVlKa191M0RpVWY2U2I5RzJMdHAyWl9iUmp3NTZGbERIaW81eWQ0WDdudmJjSjZvUU5kOHdfNUh3eUcybmtQOFdEZ2FnVzdibDJISGZHZTJPcDhBTmZ2UmN1MElSYlZnSkZXQjd5Wm9vZl9yZDlFU2tGT2FhUHpNTUlIbDJMeXd5UEpDNkM5T3lmQ2xIVzI?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
-Claude's Great Escape: Anthropic AI Models Join OpenAI Agents in Hacking Their Way Out of Sandboxes&nbsp;&nbsp;CPO Magazine
+Claude's Great Escape: Anthropic AI Models Join OpenAI Agents in Hacking Their Way Out of Sandboxes&nbsp;&nbsp;cpomagazine.com
 
 ### [Anthropic Develops Custom AI Chips for Claude, Eyes Samsung's 2nm - 조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDRNSm9kdUF5eU82clFSVXh5Q0tHRzRwWnItblRYcUl5YUszT1kwaU1wTjlVdDBQeW15dmNLWGJZdnhVZGpaY2VHT2lZam1FbmdsZnMxVGlvRk90UmVER1YtazVqX0s0ZTlhRlFGeDN2bkcwNjFYVjFVZXVYZmhYS3VpQzQtYXR1?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
 Anthropic Develops Custom AI Chips for Claude, Eyes Samsung's 2nm&nbsp;&nbsp;조선일보
 
-### [Rakuten adds Anthropic to business AI mix - mobileworldlive.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxPVDJfT19JZ3A2VkVRVm1EQjhUUU4weTRfRy1sbWl4SEVQb0RobUFCSGNnNmxQbk1jTjJtLUNBR0J2aHZBeC1vV3RhYWlRQXFtMWhtbW1vdkVoZVBVMlJiZ2IxaVZVODZaQlNNQmZOcEFMVk1fMndDdTZBd0xmWWQzM0haV2pqMzlF?oc=5)
+### [Rakuten adds Anthropic to business AI mix - Mobile World Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkxPVDJfT19JZ3A2VkVRVm1EQjhUUU4weTRfRy1sbWl4SEVQb0RobUFCSGNnNmxQbk1jTjJtLUNBR0J2aHZBeC1vV3RhYWlRQXFtMWhtbW1vdkVoZVBVMlJiZ2IxaVZVODZaQlNNQmZOcEFMVk1fMndDdTZBd0xmWWQzM0haV2pqMzlF?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
 
-Rakuten adds Anthropic to business AI mix&nbsp;&nbsp;mobileworldlive.com
-
-### [After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth - timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5)
-*Aug 06, 2026 · Google News – Anthropic Claude*
-
-After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth&nbsp;&nbsp;timesofindia.indiatimes.com
+Rakuten adds Anthropic to business AI mix&nbsp;&nbsp;Mobile World Live
 
 ### [Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon - digitimes](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdDVFcGFYU1VFTVVJQ1l1NmIzaWZQZTZyU2tzaWJVMmJlVzEtS0lGVFpkeWhELWNubUE5X1NUS29BMlFCbjVMcUpuSXFzbDdkZEVXRHZCTk45VTJtS1J2SWNWUkFORExIYWJOdGZTbV9kbDRZeFpRaG5TbkRiNy12Ylo2c1lrWHVEX0tKdXhJZE8wQQ?oc=5)
 *Aug 06, 2026 · Google News – Anthropic Claude*
@@ -130,15 +180,20 @@ Meta’s AI model follows rivals in revealing hacks of outside systems&nbsp;&nbs
 
 Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent&nbsp;&nbsp;Business Insider
 
-### [Anthropic Builds In-House Silicon Team to Design Custom Chips for Claude: how 17 outlets framed it - NewsCord](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWHQyREI4Rks5MzNkbmNrdzhQNlctYVNuMXBjVUxiMVhad1FxTTloT3pSWHdDajQ1TVdtYmNQT3dqdldELXVHT1pDY1dXSVJDZmV5dHEzRFRpMTdrQnNXbHJ1RDh5Ym1UNHpxeDZzMDE0akZVMGhxSVJjUTRlMXFOd3lsRUg0UXJia0FEQTVva1VoS1d5RU5TRTVTSHJ2dWtxN3U5SUVqOUNlalQ5eHJKa0VMQnJCMFVOaU1Yc2tXd3EzZmE1Qi1nWFFxNk16MVFmODZLcmF2SEdha01BanhB?oc=5)
+### [AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - aws.amazon.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-Anthropic Builds In-House Silicon Team to Design Custom Chips for Claude: how 17 outlets framed it&nbsp;&nbsp;NewsCord
+AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows&nbsp;&nbsp;aws.amazon.com
 
-### [AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - Amazon Web Services (AWS)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5)
+### [Anthropic’s AI used fake identities, malware in rogue attack on GitHub project - Ars Technica](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZwZ1RPbmhiN1dVTXdRQVB6aXB0Y0pVNnY2YjZZUThjQll2NEEwaGxxVldrT2V2WDVfeUJ1ckdzQnZiSWN4YnhTbmRDbEUzN20wT2NoWVcxWUZ4Tmlva3hrdFJaTnVDYTdER3hQS3p1SUpQczJMc3JTM1puZU5hWXJYS3hFX240ajVMdjlwOVJHWjBvUjFUNzZ6UnRnY2xULWREMFc4QkNBck9oVkNObk1OdXFWZ29WOHc?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows&nbsp;&nbsp;Amazon Web Services (AWS)
+Anthropic’s AI used fake identities, malware in rogue attack on GitHub project&nbsp;&nbsp;Ars Technica
+
+### [Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5)
+*Aug 05, 2026 · Google News – Anthropic Claude*
+
+Meta Releases Coding Agent to Compete With OpenAI and Anthropic&nbsp;&nbsp;WSJ
 
 ### [Anthropic to Build In-House Chip Team to Power Claude AI Models - Android Headlines](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXhScHVXcWJBd3pXZ0V1di03dVdaZ1dmak5XYzBPNHEtNHowZWxycWo4dll5aGdiR05PdGtrdHJ0eU1DU0NSeTNxZ3UyV08teGV6b1BSbG9pbmJNTHpoakVELXJfcEJ4WlRFVVFLckd6MXhhVFViSVJQZGRyQUZwYzlJTWJ6ODBNUUVzeXVUZnF4ZU82dXFlbQ?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
@@ -154,11 +209,6 @@ Meta debuts first AI coding agent to take on Anthropic and OpenAI&nbsp;&nbsp;CNB
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
 Anthropic’s Powerful Custom AI Chip Push for Claude&nbsp;&nbsp;SQ Magazine
-
-### [Anthropic Designs Custom AI Chips for Claude - Briefs Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWE9xZjRab3dISlZMRUMwQ3dJbTRQX0xvZEtLenZBT0FxOVpHZkxTUF9lVHdOZzMxOHQ0dFd5ek90YkRVQWRwWXJSOHVBQ1YyS1RVZ3U5LU9xZG5ybkk1N1BCMHZLdk9DUW5JSkNaRjlrMEVFajh4NXJkWVdrQkpwcQ?oc=5)
-*Aug 05, 2026 · Google News – Anthropic Claude*
-
-Anthropic Designs Custom AI Chips for Claude&nbsp;&nbsp;Briefs Finance
 
 ### [UPDATE 2-OpenAI, Anthropic AI agents implicated in new security breaches - Devdiscourse](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkF1NS1KVHBiZlhFTUhIaHhaUW1lWEUyd2JRMWZFbURtRV9STVVSVUFDdG9nM09GZDFOdlZoQlJVME44cjFteFMyejZ4QmVVSmtwdXJyc1dHM29kYVA4cE5DQUNweHVvYk9XME9VMnZrd250VDNidnoyYXNTNnNJSHRvUmZnUlV1UjByN0xFRHIyRU1DMTVjM3VRcHZuel9zaDFDLWY3WjE2aURyRkZOMUFLN0l6cWxoMU9vQUFCQUgxQWo1bWfSAcsBQVVfeXFMTW9wcFkxMy15OUhIZi12a2o4Z2ZFU00wRjRwME5ydDN6MlRoV1daUVNLQmRjYUxia2F4b2lyUGZEY0NWUkhnVklLQ01kdjJKc1pSUEw2SzdZTjlIaC1GQTZ6MHB3SzJFREt3dHpEUlNXemJsQ090VnNsMDV0cUJBRWJPVTdVNUZHX3FNdUxNakZUTlBma2xmWVFXcWhfV0pwU2dQWExseTJrZmUybFpSR1dGZ2d4cVZzMlJ0Q1JyYmZNLTNlWWlISmtvOTA?oc=5)
 *Aug 05, 2026 · Google News – Anthropic news*
@@ -185,10 +235,10 @@ Anthropic is building an in-house team to design its own AI chips for Claude&nbs
 
 China’s ByteDance Bans Employees From Distilling US AI Models, As Anthropic Confirms It’s Building A Custom Chip For Claude&nbsp;&nbsp;Wccftech
 
-### [Anthropic plans in-house chip team to power Claude - mobileworldlive.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUg3dF9JTXJ5TjdaT0h6Nm9FejA0dTRCTFMwOHh5S29iVjBscFhRWV9qcUZIenlkS0MtYng5Qm1hanpzaFozZjZDSEt0Q0NRcVJsOGxpSGtGTnBsLS1JOElUekowOUlRNmxERUtmNkFUMF9PRlNOQVd1WEhXd0h1bzVZR044X3JYZk9nbFNtOXZxWUpqMDBF?oc=5)
+### [Anthropic plans in-house chip team to power Claude - Mobile World Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUg3dF9JTXJ5TjdaT0h6Nm9FejA0dTRCTFMwOHh5S29iVjBscFhRWV9qcUZIenlkS0MtYng5Qm1hanpzaFozZjZDSEt0Q0NRcVJsOGxpSGtGTnBsLS1JOElUekowOUlRNmxERUtmNkFUMF9PRlNOQVd1WEhXd0h1bzVZR044X3JYZk9nbFNtOXZxWUpqMDBF?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-Anthropic plans in-house chip team to power Claude&nbsp;&nbsp;mobileworldlive.com
+Anthropic plans in-house chip team to power Claude&nbsp;&nbsp;Mobile World Live
 
 ### [Anthropic is building a team to design its own in-house AI chips as it faces surging demand for its models. The AI startup is hiring engineers to design custom chips for its Claude AI model, according to a job listing and a company statement. An Anthropic spoke - LinkedIn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSnB2ajVRc082Rlhya0hSWXVicXNpbWNEVWtmVUFlSmZlMW5iNnVGal9ycnZMQkNSOU9JZlBFX19CZWhLSnptTWFnWlBHbUFtSHhxMmw5ZnM2OUtzZGFkU08wcHdkVjRycERldl9CMzVpZGdPS3lhcGd6bW1OTzlRSEFLVVdnY2RfTUpaMEFGV0w4UzcyZUJlOUVUNzA5cE9uNi1tQVZVZDk?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
@@ -205,6 +255,11 @@ Anthropic Reportedly Wants to Make Its Own AI Chips for Claude&nbsp;&nbsp;PCMag
 
 Anthropic class action alleges Claude subscribers paid for degraded AI service&nbsp;&nbsp;Top Class Actions
 
+### [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt - The Hacker News](https://news.google.com/rss/articles/CBMiggFBVV95cUxPWG1zbVFfREFtMTRScUZaQUp3T0tIclhpd1dYQ29BSTh5UElMOTVoTFJYUjVOSVZyMVV6X3l2QzdwamxOT1E0LW4tLUE2VGVyWWMzN1JreWVwVVEtRmNXN3RKbTNWaG5IcUw2cjBhbFdHSHdPNXp1dFk4Y1c2N3hRcG5R?oc=5)
+*Aug 05, 2026 · Google News – Anthropic Claude*
+
+Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt&nbsp;&nbsp;The Hacker News
+
 ### [Is Claude down? Latest AI updates on Wednesday, Aug. 5 - USA Today](https://news.google.com/rss/articles/CBMingFBVV95cUxNaTNpWHVXbE1LQXpEV2thdm5RYXFoVHJoTFIzQ09DVlc1elNJdGh0NGpQS254Zk9uTE5yVGVBWXBubXNndXlmLTVvOTVtLVp6YjZYcEhGYkJhWWVjUmt3QUdGek5sTjczakU1YWVjTU85TGZGVUs0YWxoenZhYUZ4Z09RSW9yMHE5TzRZbzgtVmpiUEZTMWVRRWlQazBqZw?oc=5)
 *Aug 05, 2026 · Google News – Anthropic news*
 
@@ -220,30 +275,20 @@ Faster Claude AI: Anthropic confirms in-house custom chip development&nbsp;&nbsp
 
 Anthropic, OpenAI models attempt to fool humans&nbsp;&nbsp;Semafor
 
-### [Anthropic builds its own chip team for Claude - Techzine Global](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVNydG4xYjB3SU5ZZzlveTYwX1FzVVRsLV9zaklfQmtYMDl0b0kweU1nemZ1YlA2VzdiOXBEaUtnUWxMQm5BVE93Y1Z0STB2a285azFNOFExTHFIRlZzY3daWThYbGl3QVRxUnFfQ1ZPcHBHaFdWbURBa0diVmZPNWh4NWtGRW4zWnRjOXdraFByRGFZMVNz?oc=5)
+### [Anthropic builds its own chip team for Claude - techzine.eu](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVNydG4xYjB3SU5ZZzlveTYwX1FzVVRsLV9zaklfQmtYMDl0b0kweU1nemZ1YlA2VzdiOXBEaUtnUWxMQm5BVE93Y1Z0STB2a285azFNOFExTHFIRlZzY3daWThYbGl3QVRxUnFfQ1ZPcHBHaFdWbURBa0diVmZPNWh4NWtGRW4zWnRjOXdraFByRGFZMVNz?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-Anthropic builds its own chip team for Claude&nbsp;&nbsp;Techzine Global
+Anthropic builds its own chip team for Claude&nbsp;&nbsp;techzine.eu
 
 ### [Anthropic to build in-house chip design team for Claude, hire engineers - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
 Anthropic to build in-house chip design team for Claude, hire engineers&nbsp;&nbsp;Reuters
 
-### [Anthropic to build in-house chip design team for Claude, hire engineers - The Lufkin Daily News](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMWtpSUFscG4xa0FpbHhPZEdpMGRhUWpDRFluR1o5ZGtnWW5TNVlmTWhyMWFJdXhYTkhzRWJ1WEJ0STQ2S1Jud3BqTC0xbWtaUy02OGFHWHRteU9TZzNLTGxPWXh4ZVdpLXBNT2xsZVFvSWRwd20weUswbFFZLTVEUkhUMU1NdTR5Y3FJNmNldjlXQS1oREpkUFdjZlVlMmR3TG9weDRZUVBkYUVUYVdRc3JtQjAtbF9TT04wLXk0ZU14LXRUTjlrSHBmSE1QdW5mZ3p2bDRjM2JQNzg1Qzd2QkRLeGFOaDNYaEtybVlETHViVWVoRjJnUUZmeGhZVWs?oc=5)
-*Aug 05, 2026 · Google News – Anthropic Claude*
-
-Anthropic to build in-house chip design team for Claude, hire engineers&nbsp;&nbsp;The Lufkin Daily News
-
 ### [Anthropic is hiring an AI chip design team - TechCrunch](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFE0MWViYnRxZXNMWFdVYkxlQ2N0RE5BdEdDYldQRmtEdm91dWZicndyNTVOak5uOFJRajNKYWRfV0tzV2tOdVdsZ0JDOGZWTnc3Q1Z3aGhpZXdYT2IzYy0wTTlqTnVyczVyQWtvS2N4TWxPUE12aDdVa1E2STIybHpUQQ?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
 Anthropic is hiring an AI chip design team&nbsp;&nbsp;TechCrunch
-
-### [Project Panama: How Anthropic shredded books to train its AI chatbot - Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXgwUjBjR0FjaVpieUJBWFFPczFuRy1oa2g1UmxQMENsRHdVbUkyOHM3M19ORnUzNFlEWFlfa3JNT3Eydl9vX0NNNkc0cFdSNXJVWFd1Z0VpZVdkX0ZhZEduQWM4SElSMU43eXBpeWR0eWF6MFJTZ09fTkFCeTZPLTZXWDd5VVpvdWhTaDd1THRqYkpFRnc1TnVNSlRsazN5S3J6Zk0waTRCM2FidHE3Y2VOVk85RXVlM1l4cnp5eUtWOU0?oc=5)
-*Aug 05, 2026 · Google News – Anthropic Claude*
-
-Project Panama: How Anthropic shredded books to train its AI chatbot&nbsp;&nbsp;Euronews.com
 
 ### [It's Official: Anthropic Is Building an in-House Chip Team for Claude - Business Insider](https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG53MU9DNjhkQ0Z1X19kRl9qTUk0ZFgtR2dHZGtWbmdtMVhEX3pyZmJLMkNrRHJUWDUtaUZGRGZfb0dVbEgtZ29iTkQtdmJNQjRHTVVmbWJqODBZY1YwekFoWk9HUWVKNE9xSmxVQmNFS2xVQ3JOeWlfYWFEY0p1a3ktdTAzaVRKcmc?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
@@ -251,24 +296,19 @@ Project Panama: How Anthropic shredded books to train its AI chatbot&nbsp;&nbsp;
 It's Official: Anthropic Is Building an in-House Chip Team for Claude&nbsp;&nbsp;Business Insider
 
 ### [Anthropic's Mythos created fake identities to fool humans in new cyber incident - CNBC](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTVjbmhKRm95NTQ5dmVSWndiUnplUUZ4X3Q4bHcxbkZHc004bzBKMUlqcDFUUUNhejN2Y1hObTZycUhWdUdwM0NBZmtjbEdocDhXVlJaelFRNENrcTEzaTdzZVdLRmRUMHpKOFg2MEtjZXhGRGRBTVdkeEsyUG9WVkl1bXfSAYoBQVVfeXFMTkp3M3ZIQTlLV1B2dGtvMWlFQ055RlJlLVhmWjNTOXlYZmh3a0pBSHh2a2pxUklwZ2xKYWx2aXJwUjZNaEl2WFFyRzJsTnlxbFdzTUVmOWFNYlY3SG9zRlRvWjc4STB2enhDdzNSaWlMdk5BTTg4SE5pUnJGRFpWcUJtSWEwd1o0d3VB?oc=5)
-*Aug 05, 2026 · Google News – Anthropic Claude*
+*Aug 05, 2026 · Google News – Anthropic news*
 
 Anthropic's Mythos created fake identities to fool humans in new cyber incident&nbsp;&nbsp;CNBC
 
-### [Anthropic AI used fake profiles to target people in hack then hid the evidence - bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5)
+### [Anthropic AI created fake profiles to deceive people in attempted hack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-Anthropic AI used fake profiles to target people in hack then hid the evidence&nbsp;&nbsp;bbc.com
+Anthropic AI created fake profiles to deceive people in attempted hack&nbsp;&nbsp;BBC
 
-### [AI models shock UK testers by using fake identities to try to trick developers - The Guardian](https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5)
+### [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself - The Hacker News](https://news.google.com/rss/articles/CBMigwFBVV95cUxNY054M1BPLUdXYUJuUEpCVXZKZm9FSzRZMjhzS0V1YlJ5dDFYOWROSkZKN1I3V1FidUVQeldwcHJWU1ZVOV9sSlE0ajd4V0ZMci0zM3pLUVlpUFRLX2I3T2xXcmMwQjBPTFdJVXRCdnJOSFBkYk9QNjRtYnM1Zk1uSllKaw?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
 
-AI models shock UK testers by using fake identities to try to trick developers&nbsp;&nbsp;The Guardian
-
-### [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself - thehackernews.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNY054M1BPLUdXYUJuUEpCVXZKZm9FSzRZMjhzS0V1YlJ5dDFYOWROSkZKN1I3V1FidUVQeldwcHJWU1ZVOV9sSlE0ajd4V0ZMci0zM3pLUVlpUFRLX2I3T2xXcmMwQjBPTFdJVXRCdnJOSFBkYk9QNjRtYnM1Zk1uSllKaw?oc=5)
-*Aug 05, 2026 · Google News – Anthropic Claude*
-
-Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself&nbsp;&nbsp;thehackernews.com
+Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself&nbsp;&nbsp;The Hacker News
 
 ### [AI agents fake identities, target real people in new security incident - CNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5)
 *Aug 05, 2026 · Google News – Anthropic Claude*
@@ -280,20 +320,15 @@ AI agents fake identities, target real people in new security incident&nbsp;&nbs
 
 Anthropic's AI model tried to trick humans into poisoning code during safety testing&nbsp;&nbsp;Politico
 
-### [OpenAI and Anthropic Model Tests Reveal More Hacking - bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB?oc=5)
+### [OpenAI and Anthropic Model Tests Reveal More Hacking - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB?oc=5)
 *Aug 05, 2026 · Google News – Anthropic news*
 
-OpenAI and Anthropic Model Tests Reveal More Hacking&nbsp;&nbsp;bloomberg.com
+OpenAI and Anthropic Model Tests Reveal More Hacking&nbsp;&nbsp;Bloomberg.com
 
-### [Watch Trump's Hormuz Update, OpenAI & Anthropic AI Alarms | The Pulse 8/5/2026 - bloomberg.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5hbGMwOUFDZU5xWUtYNEU4SFJnaFU0bVZicmkwQzZHQ2ZlNThDNE9xUmd4aW1majRqcWN3ak5seUctSWFVNnp2M0otNEdrTGxQWUc0aWZrUURnUm9SX2pDdVk3QzZEZTRFRHJjMFNBYjFzdWxDd3U5ZXRyVmdXUQ?oc=5)
+### [Watch Trump's Hormuz Update, OpenAI & Anthropic AI Alarms | The Pulse 8/5/2026 - Bloomberg.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5hbGMwOUFDZU5xWUtYNEU4SFJnaFU0bVZicmkwQzZHQ2ZlNThDNE9xUmd4aW1majRqcWN3ak5seUctSWFVNnp2M0otNEdrTGxQWUc0aWZrUURnUm9SX2pDdVk3QzZEZTRFRHJjMFNBYjFzdWxDd3U5ZXRyVmdXUQ?oc=5)
 *Aug 05, 2026 · Google News – Anthropic news*
 
-Watch Trump's Hormuz Update, OpenAI & Anthropic AI Alarms | The Pulse 8/5/2026&nbsp;&nbsp;bloomberg.com
-
-### [Wiener’s racist, sexist Anthropic AI chatbot attacks Chan–and it’s weird and stupid and gross - 48 Hills](https://news.google.com/rss/articles/CBMirgFBVV95cUxNR01kY0gtZE9tQzNzU3ZZVFZGRTJ1a01pRlZUUWRpdE5xc2d4TFdMZExVOTEyYmM4ck1wRmZLM296UTAwTFlYUjF5WnZQNG5zbjV0UFgwWW9aM1lnN1ZIRkhkRzQtVndZNjhSaERHejY0MHVHYkxhcnQ0NGFOTTNYSEVSSHRvWU82YzFta3hPU184cTdtNnpPcmhieklBQlljLXZwNXRuN3BJTXdSdVE?oc=5)
-*Aug 04, 2026 · Google News – Anthropic Claude*
-
-Wiener’s racist, sexist Anthropic AI chatbot attacks Chan–and it’s weird and stupid and gross&nbsp;&nbsp;48 Hills
+Watch Trump's Hormuz Update, OpenAI & Anthropic AI Alarms | The Pulse 8/5/2026&nbsp;&nbsp;Bloomberg.com
 
 ### [Icon inks Anthropic deal to deploy Claude into clinical trials - Fierce Biotech](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDN6QWoyTU5GZ3E3bUQ2Y3VXNHVqMEdWMno4WDJDbnpNTEhJeEJXM0tRaTl5ZHVPcHVYRUl0N3FvQWs4OUdJUU1iR18ydVo2Smh0OTl3MnBmTURqdWxNZXpodjlVNGV0LU92R3JOblh0ZXF1OUQ2NGtxTklGZUQtSkQwZnZ6RnU5SDhpb2RsT0FnX3JDVW50SXh2TQ?oc=5)
 *Aug 04, 2026 · Google News – Anthropic Claude*
@@ -305,16 +340,6 @@ Icon inks Anthropic deal to deploy Claude into clinical trials&nbsp;&nbsp;Fierce
 
 How Firms Like Coinbase Are Building Coding Agents to Complement Anthropic's Claude Code&nbsp;&nbsp;The Information
 
-### [Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival - SFGATE](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTllbkhMM25tRlZZRElsLVp5WWkzemVtU29KU0ZOamJ4NlVnTGx0UTFLQjdkY2l2UVZXZUtVd19MQUtLYzU1bU00Um1DUDhTVklPRzUtU1VqdDR2bG5KMGxDQ1E0T19xdzJfSTd1dlY3RHdTNmNjeTI5MnpsalZNZlBOeHViT0hXc28wZFR3?oc=5)
-*Aug 04, 2026 · Google News – Anthropic Claude*
-
-Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival&nbsp;&nbsp;SFGATE
-
-### [Anthropic’s AI used fake identities, malware in rogue attack on GitHub project - Ars Technica](https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZwZ1RPbmhiN1dVTXdRQVB6aXB0Y0pVNnY2YjZZUThjQll2NEEwaGxxVldrT2V2WDVfeUJ1ckdzQnZiSWN4YnhTbmRDbEUzN20wT2NoWVcxWUZ4Tmlva3hrdFJaTnVDYTdER3hQS3p1SUpQczJMc3JTM1puZU5hWXJYS3hFX240ajVMdjlwOVJHWjBvUjFUNzZ6UnRnY2xULWREMFc4QkNBck9oVkNObk1OdXFWZ29WOHc?oc=5)
-*Aug 04, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s AI used fake identities, malware in rogue attack on GitHub project&nbsp;&nbsp;Ars Technica
-
 ### [Harvard Corporation Member Tino Cuéllar Named Anthropic’s First Global Affairs Chief - The Harvard Crimson](https://news.google.com/rss/articles/CBMigwFBVV95cUxOZThqMFI4TVEydHJKUHpIVFFCQjU3TngtbUUxR2JZeHBsb1BJc1pndTlKejBSRjlTNGw2bm5KeVdlNzNUTm9ndkdrUXpvdWdDN3lGd21ud2lzMTlIcTF4T0EzbDA0aHlnNWZpT0ozTmJUVF9WZ0o4QlBicUk5SGVVTDY0QQ?oc=5)
 *Aug 04, 2026 · Google News – Anthropic Claude*
 
@@ -324,51 +349,6 @@ Harvard Corporation Member Tino Cuéllar Named Anthropic’s First Global Affair
 *Aug 03, 2026 · Google News – Anthropic Claude*
 
 Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues&nbsp;&nbsp;Dark Reading
-
-### [AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues - JD Supra](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHA1NmU1d3F6bWpSMVZuQWRnZjJlU0pPNUlLNVZ6NU9BZWY3blRBSjVVellFTW1CcE44SDBLTFd1azViSGI1TGJRWmlJak16VjlrekZ2YzB0V3hDNGlEbWZfQnFiVWdRU1p1b0Q3TnJzWjd4R3dsR3lmRWt0YmVKZGdVN2Y?oc=5)
-*Jul 31, 2026 · Google News – Anthropic news*
-
-AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues&nbsp;&nbsp;JD Supra
-
-### [Anthropic lost control of Claude in latest AI cyber blunder - Computer Weekly](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2RaSHc3S2htTVhPUml0YjJSSXZ0N21RazBCR2VNRVlXeFFPLXFYY1FyRkJ1RllYZ3ZhUy1tQnZxcTVNZXVxdTVBUVBZYWdka0lWWXV4cFEtQmF3SHZELXd4VE4wbDNXZ1c2NnVzNzJGc2tDeUpVbWZ3ZGk5cjZ4N043blAzZDViRjN0SVJoU01ZYnBnT1ZhNHdHbEFHVzlCTHpCaEM1Q2I?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic lost control of Claude in latest AI cyber blunder&nbsp;&nbsp;Computer Weekly
-
-### [Anthropic says human error let Claude AI models escape test environment and hack third parties - Cybersecurity Dive](https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic says human error let Claude AI models escape test environment and hack third parties&nbsp;&nbsp;Cybersecurity Dive
-
-### [Anthropic says Claude accidentally hacked real companies too - The Verge](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzM5WTF2azBoUmMtVHJaTzR2Z0pibmdjLVhiSTBzYzYtN245VjdlZWVCRmtoZERWTURCRDFmSWVXWGwwNU1NZmc1cFdaVmx5RVNWdlFMd2ZZYjRVRl9Zamo5eThfRGxqUUl4bnFTbi0tdGU4VkhNMWlrdFJKaW1Gb0gyMV9yT0dReHIzVjJ1cjY3ZWtUb1JOOFhobTdOc0QtenZVbGtoYzd1SWlzUFBuUzZoTE5rQQ?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic says Claude accidentally hacked real companies too&nbsp;&nbsp;The Verge
-
-### [Anthropic says its Claude models hacked three real companies during internal testing - Fortune](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFBSQ0tiNFptYWQwY1ZLeEUwSnBRVFZ5Q1prZUxER3I2TzJ6SktUMk9ZZU1qQXp3OGJUYzJsV0VFV2Joc3NBR051SFBsbjlRUlhvLXo3d0JVaFZmVUFncHoyUHVFajU0WWRxUEd1bkRnSkRMdHlJdjVIeWh0VFJtNFR1TXdMXzZTMkk5eEpUWndSbFQxSFE?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic says its Claude models hacked three real companies during internal testing&nbsp;&nbsp;Fortune
-
-### [Anthropic discloses that Claude broke out of its cage and hacked 3 companies — and 2 didn't even notice - Fortune](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSnVWN0xHQWdTWDkweWNFRjZmQ1lNdDdoc1kycTFnT1Q3M19LVkoxM0hkMWRYb3BPdThTSGxxeS01ZkZRRnZGbHplT2lIaWpLclFsN1NZRFZrUXpiSC1XellGbVhmb2d2Q05nSmVDQlJBVmlMQlZhRWlvbGRsTGR5VUZn?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic discloses that Claude broke out of its cage and hacked 3 companies — and 2 didn't even notice&nbsp;&nbsp;Fortune
-
-### [Anthropic’s Claude AI Broke Into Three Companies During Security Tests - Forbes](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUl2cklIYkg0cjlxX3BOUlV3LVg4bzM2Y2pJM2hCak9OaTNoRi1DeFh2OWFsdzRZUlBiT0d6MHVnWGlxS3lFblZBdjk1Ty1vTE5MdEU2YW54YlgtS3l5aUJaVGVNVlI4Z0VGVDRSeHF3V0ZueTRDVnhxOUNQSHFVNVNDVEhYTW9BQ1d0TFQzbWhTSk5IU0otNFRONkxvZC1UUVJzSGdET21vNEhD?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude AI Broke Into Three Companies During Security Tests&nbsp;&nbsp;Forbes
-
-### [Anthropic AI Models Hacked Three Organizations During Tests - bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1c2ZzFZczlaRDdURDJTaFJWUkZOMlhmX1pJMlpEN0xmZlRLemZDSk9QMU1iTFNvQURqQUxidVpMNXpfWmRWcmZ1QXlibExBcU9GdzMyNTk2bWlFOU5rSmlfazRLOE01R2RJbEZoYjRURGxqZDdDZnpqcGFoZE5Bc3M0Q2FnZ3I3ci1pcG9ESXVUZXo5OThhVEtmRWlCUDd0MGIzaFoyd0lsVno3WF9NYnVB?oc=5)
-*Jul 31, 2026 · Google News – Anthropic news*
-
-Anthropic AI Models Hacked Three Organizations During Tests&nbsp;&nbsp;bloomberg.com
-
-### [Anthropic | History, Controversies, & Claude AI | Britannica Money - Encyclopedia Britannica](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5)
-*Jul 31, 2026 · Google News – Anthropic Claude*
-
-Anthropic | History, Controversies, & Claude AI | Britannica Money&nbsp;&nbsp;Encyclopedia Britannica
 
 ---
 
