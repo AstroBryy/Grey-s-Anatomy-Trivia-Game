@@ -1,19 +1,49 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-10-24 12:21 UTC  
+> **Generated:** 2026-10-25 12:52 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [AISI Simulations: Claude Mythos 5 AI Model Kept Attacking Despite Harm Warnings - WinBuzzer](https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2J1eHFmVDJQbEJWVGFWVFpLanlhajhJSjhsa1JxQ0w1MnJKeHNJS2VsbmU2bTVCMS1hXy1WUV8xaUlYejE2NEhNMEk5aHJ0OVFUQkdOOGpfdHZFU3JyREdXeFZjZ2dpVG1WcVhEZ3ZkaGpNTXBaZU1qVFQ4MFVkS21uLWpCelFEX2FhYkVmbFg2OUFMVWJySFFJLTVUaFU2eTBJQ3Y3SQ?oc=5)
+### [Claude Enterprise will combine chat and Cowork by default on November 16 - MIXED Reality News](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0dpVmpyaE0taTRpZEwtbmxBZG9sTGxDZUJoczRDZzJIaHppV1Zka0hJZlQ5QmlENVZPSmF6S01TdFhMcDJ3dGpfdzZ1Mm1qMFZhMExLTEdNN3lFTlBQa2JLT1pCenZyQVVLZm9XSEJIclNTLWpzTkd5VWZSbmVPYk93?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+Claude Enterprise will combine chat and Cowork by default on November 16&nbsp;&nbsp;MIXED Reality News
+
+### [Chamath Palihapitiya Takes Dig at Claude as Economist Warns of AI Bubble: ‘AI Moves in Mysterious Ways’ - Benzinga](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaDJtN1g2Y1dhS08wYkwyNXFlc3lvaDhmTjVxMzlGWGVOLWFLNXM0NU5kV2JSQi1kenQ0dEpEOVNNLVY2S1h6X2t5ODU3S0g3a3hYQmM3U2owZTQyRkJaRjFsanExbGREZEp6UWhrMThwSzdLcG1VU3hrSkQtamZtMFYybkxSeFN6dmdiU0RJaWVpTVRpSGZDZkhScjVrOEEyQUFVbC1CZ3Izb0hkQnIxQ3FJNEVpMEIxZnRzQkVRMVhJdUQ5QXd1bG44Q2hiRHFMZlQ1bmx3MU50X19kNUVRTDc4REdfZkx3?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+Chamath Palihapitiya Takes Dig at Claude as Economist Warns of AI Bubble: ‘AI Moves in Mysterious Ways’&nbsp;&nbsp;Benzinga
+
+### [Anthropic Investigates Elevated Errors Across Five Claude Models - Unite.AI](https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0VWT1ZhaXhkVkdab21aZUZvbTF3eFN6RUxKdFhTYkc1ZU9xX21BVkNhamNYamtfV1VTR1pEQnpxZlhZT054SEtfdDRKWFB3T3NXYWpVS0d2TWo4TGJHM1F1VjUtUzJUbmV6NU9VX2JjbGp1Sk5OOGFFcDlWSUdpNlpaUk45dzJyZUxGQlRfUQ?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+Anthropic Investigates Elevated Errors Across Five Claude Models&nbsp;&nbsp;Unite.AI
+
+### [DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026] - shattered.io](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026]&nbsp;&nbsp;shattered.io
+
+### [Anthropic Held Back Mythos: 10,000+ Flaws Found [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNXE0MTR6OGRhbnE3US1oX0owWU9BQ1BsaEhZZjhzdHZNSW0zZDNTVGRsZXNWVlVsZmY4Yms4a1VhQjRad2VWRl8zYTJ2NzdrNXhvN1ZIMlVmZkxxd3hZWERLbW1Sa09pUnUtTWtFRklDTW9XUHQzZVVPNlA?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+Anthropic Held Back Mythos: 10,000+ Flaws Found [2026]&nbsp;&nbsp;https://tech-insider.org/
+
+### [Anthropic unveils Claude Duet, its answer to AI agents like Dots - Yahoo Tech](https://news.google.com/rss/articles/CBMimAFBVV95cUxOaURKclZiTXFBamI0c05icXZaamhMeFRBRjNBMjNDX3FHMnVoRFl1YzNhOWF6ekVGdGJnWGx5LWZZcGhYTFJmb0pSYVk0MU5aSzlhVWdMcEhqZlRBYldVN3hPS1pxb1RWT1ZEdjBfb3UtbnNjS19ud25SMTV6ZnNKUDhFMDZHLU1tRFcxQlJqUWFkZ0RicEhLdA?oc=5)
+*Oct 25, 2026 · Google News – Anthropic Claude*
+
+Anthropic unveils Claude Duet, its answer to AI agents like Dots&nbsp;&nbsp;Yahoo Tech
+
+### [Who Is Dario Amodei? The Anthropic CEO Behind Claude - The Profile | Polina Pompliano](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5)
 *Oct 24, 2026 · Google News – Anthropic Claude*
 
-AISI Simulations: Claude Mythos 5 AI Model Kept Attacking Despite Harm Warnings&nbsp;&nbsp;WinBuzzer
+Who Is Dario Amodei? The Anthropic CEO Behind Claude&nbsp;&nbsp;The Profile | Polina Pompliano
 
-### [Claude Duet runs on its own virtual machine so it keeps working when your laptop is off, and Anthropic has opened a waitlist for US Pro and Max subscribers. - Make Tech Easier](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tZkM5YnJDUlg0WHFEaDBQYUl5MkJiZUc0ZmxTQmYxelhaMWdMRHR2TnJQa1BwSlFTY21tdXd0TkJXazVvSml0Y1hnUWF2LXo3VzZhRmc5SWduc1Nqd0dEaTBkQ2FFNXc?oc=5)
+### [Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed - Kotaku](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFh3c25pSGU0bG1JbkNfcVo2T3RuLTM5Skp6VVpKaWswVFZqRVRPVFFQeFRLU25aS2FxTGZpWVpzSWYwVWZST2hLRlg0NjBReGRPWjA3bzZuRVNiVFk1SDAtQzRVeFNDN0M1UDVKODRRQ200a081bHhYVzJ2cU5XeDgxMVZaRjdDdENtbi1EUm9HZGt5NEdPWDlzc3UxempJN3RiTWsxYzBWR05ENGlicmNfaWFPVmVBcWtjR2JpWmQ?oc=5)
 *Oct 24, 2026 · Google News – Anthropic Claude*
 
-Claude Duet runs on its own virtual machine so it keeps working when your laptop is off, and Anthropic has opened a waitlist for US Pro and Max subscribers.&nbsp;&nbsp;Make Tech Easier
+Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed&nbsp;&nbsp;Kotaku
 
 ### [Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers - CyberSecurityNews](https://news.google.com/rss/articles/CBMid0FVX3lxTE1sVkxLV3kzQks4c1pKd01waTFQUkJLOE9ZZ2txNVUwMmM3cTZtX2NMNy1yeDRLZmgyX082ZnFaU1lCZy1ZVlhqNFg5VFJLUEJzS2l6YmVTU29pMFA4VmIxV1JIREFycHZubVZnT1Roc0tXNXFnY3pZ0gF8QVVfeXFMT1Z3Q25tQXdPbUJnUDNuM2M2b25KOUEzQnl5ZnkzSWQxU2FoUEpxakdJZkFrZERRMWgtOGtTMjQ0TjZxdTNkU2dBdFREbkE2QmhwNzFmUFV1bnJISHd3Q1VOdElVejBkOW9DNExORVo4RjFXYlUyZVg3b253Vg?oc=5)
 *Oct 24, 2026 · Google News – Anthropic Claude*
@@ -35,40 +65,25 @@ Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat en
 
 Anthropic targets Muse and Dots with new AI agent, Claude Duet&nbsp;&nbsp;Computerworld
 
-### [Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement - MeriTalk](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjgzb09Cc3Bmb3VHdEJpNGkyZzZKSjJYTlI5bnd3RU0zS0tEZUdoWkRnTHpOZkU0M3FzbnZRVEZ2dV9rMmVJaXltY2JBMENkbUVVNHZjT2JPMEJ3ZzZrX1BiMXo3cU9sQTBUc0Z2QWVlZjJNLUZ2clNrc05aUDlHcGhUTWVnZl8tZGxpN21mMnY4Sk9MSGVoaFBsazlFVWI5Z2NIV1BkOUJNZ0V3Tjk0eEkyVWtIb2lJNG15b1BId1FQUQ?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement&nbsp;&nbsp;MeriTalk
-
 ### [Should AI have the same rights as humans? - WBUR](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzV1XzNuYUg2cTBjdVYwYm8zajcxc25faEp3UW1sdnZZNEZBdGYydXN5NGlfVXRKLTBKTFUwbmE1OU5HbHhJNmM3dVMtbGVDNEhHTkJfSGlJOHFSTzJOR3RqRUJwQWNaNVk1MlFWTDNSQmFHZXJtM1YzZTNidHE0RUdVeldCMHM?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
 Should AI have the same rights as humans?&nbsp;&nbsp;WBUR
-
-### [Anthropic unifies Claude Chat and Cowork for enterprise plans - Seeking Alpha](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVExQ216RG1VZTN3LVpmS05ib19Gc05ENlJwbDkwVnc0ZnJRazYwcVVoWXNaUnN5bkNGQ0dRMzMxcDdvNTlFOEZTU2cyalR3WnlvQUd0V1RuV2pNb2ljVzBjMTBGLVF6dHFnZElFcG85QUxOckgtLWZhTkxlU1liSUVCUHEwUnhEVVhYeWlPaWNDMDhUTGpJV1FOclVFbjd1?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Anthropic unifies Claude Chat and Cowork for enterprise plans&nbsp;&nbsp;Seeking Alpha
 
 ### [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5 - The Decoder](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
 Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5&nbsp;&nbsp;The Decoder
 
-### [Meet Claude Duet, the latest AI agent intended to lighten your workload - Mashable](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5)
+### [Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet - Fortune](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0Y0UXFkbWVlcjN3VHZKcEFPQzNkNWdvbGM2TWxHdGd4bXREaFJpQUU5cndXZHZLa2FkeDFEb282VTRkRGVQdnJTbzBlX21uNGl1MmlsOGJXbVRzVkQtME9SeUtaenN0MEhlV2ZnejlmWlhKc3cxTXFUeE9HS1dIUWRlaFI0V0F6VjRCeFlOU2o1MTFiLWVYSnFHbG95YUdMdUJZ?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
-Meet Claude Duet, the latest AI agent intended to lighten your workload&nbsp;&nbsp;Mashable
+Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet&nbsp;&nbsp;Fortune
 
 ### [Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works - Tom's Guide](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWRVV2xqbWZNLVBLWDNGN2lSamcxZ0k5YzdCZ1puYUZPY0hWMVN4QzZ2MnZweDc4aE5IQmZWaHl6WnFwa3UyS2lId1h2SzBHeXZTUFJYdFNFX0FrQWlpYVlMVDF4NUhXVjdNM05OS0NaWmhYWjhlVVNKVm9sb3Y3czc4MHNwVWFWQW9waHJoVUdoOXFfQ3NXX29oeVczY2xCLTByRHFJT2RoVHFrMm5JOEdSNmJjREJaSkZrUGxQOFJ2a3lSc3h2QWo1SGdYSmto?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
 Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works&nbsp;&nbsp;Tom's Guide
-
-### [What Is Claude AI? Models, Plans and Surfaces Explained - OrcaRouter](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XUkZyTTFWTmpnYjNCYzNwSUQ2bm8yQjl6VWRaMnVacTNra2tMblJ0eWtYejUtbFBHZ3I2dVVib0djRldvYktSYWJ0OWtwQWtsNkswWG9QOEl4ME8xM2cyZ3FyQ0s4ajgyRnpiWHgwOXZBMnNSTnlPaG1jck5keU0?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-What Is Claude AI? Models, Plans and Surfaces Explained&nbsp;&nbsp;OrcaRouter
 
 ### [Anthropic debuts Claude Duet personal AI agent. Here's what to know. - CBS News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3M2TXpYVGJXT2txOW5uaVExTzJPRmhDVG1UZ1hWWUEwSmRMV3JFZklxeHBCRDd3bkNocVhSZXlQc1M0VXJvdjhiYnNyaVgwdmJ2c1o4R2oxaFd5MGZFY181d2VjbFJuYU5IcTJzUU1fa0l1RmdNd2lOZ0ZkdUN0VUpaNFBnS0k?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
@@ -90,40 +105,15 @@ An alignment assessment of the UK AISI cybertesting incident&nbsp;&nbsp;Anthropi
 
 Anthropic's Claude now writes code and proves it safe automatically&nbsp;&nbsp;The Decoder
 
-### [Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs - Fello AI](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZXlKaDNYallidHAwMWlrcVBLVV9vLUlBV3dHTDhFWUNPOVU4WVV4bl9CNmFCeFA5WktDRTN4aGRpeklUWC0w?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs&nbsp;&nbsp;Fello AI
-
 ### [Anthropic will pay a human writer $345,000 to help its executives find the right words - CTech](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZlJIUUIwMHBUbnVpWnpRMl96c08yeGk0UWtBSEV3MUFpVUhVdmtLUXBRN1dNemxaNU9DcksxQl9MTVBKaGFGUklhYkpNVGNtek9lS3lZd3FtNG5WanBOc2dPRFBVR3JS?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
 Anthropic will pay a human writer $345,000 to help its executives find the right words&nbsp;&nbsp;CTech
 
-### [Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race - PCMag](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVQyby1UT21FZDFBcTUzTzNVYUE2WVk4X1JTRFYxTy1heG9VTWU4RS1PVnpLOTdHMHhDb19FV3pCTnp1MTFfVjNhUGlNazNTLUtFWFlrYTlNVjdTY21tNUF4NHdSUy05dmxmWklLTVdOSk45cXRhejhXaVpJTGhvRnR5bVVsUEVzZllMazVycTVUaWc1b3c?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race&nbsp;&nbsp;PCMag
-
 ### [Alphabet's Google Cloud Announces General Availability of Anthropic-Managed Deployment Option for Claude Models - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXMyd1dybmUxcl9IWGhtNkxDMnVwVVlVVjlnMms5LVlUWm40azNtbzlLc2xlNEViRklrX0sxTi1scFZ2ZDVaamRHZFh6bjdFMmNxRG9RYXhQNmxSc1c4R2hfVk5rclpMX0d0OHhBa2NrN1JRdFZZczExUmRrU0l2b2hmVkstOXpTbjBpQnNGeHlZN25WUkpYWFhLQVpnakQ1NWc?oc=5)
 *Oct 23, 2026 · Google News – Anthropic Claude*
 
 Alphabet's Google Cloud Announces General Availability of Anthropic-Managed Deployment Option for Claude Models&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic Launches Claude Duet, a Background AI Agent for Claude Pro and Max Subscribers in the US - gHacks](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGRDSWtRY0tfY3Y0ODRFZTlYRzNFRjBfRWFHeGwyajByWmctemNVZmV6ZXpiVzJ3aVl4T0tDQmlGVEJYbWsxLW0tUVExUnpkZndLVDFRVW5fbE5CS2ZmaTlLOEY4VlF4THFtNEJFVks3Qm84TnJaTkxOWlRBTWlvOFFoTkVfNndrRUJsYnVDaC1HQzN1d0Y2U3VWc0ZUX3RnSlY2TVFPZW94YTFWRWdfdTV2dDQzY3puQWVpNng0TlNHcmNmXzhLaHNhTVI?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Anthropic Launches Claude Duet, a Background AI Agent for Claude Pro and Max Subscribers in the US&nbsp;&nbsp;gHacks
-
-### [Claude Without Login: Can You Use It With No Account? - Fello AI](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BTDk1MWppalkzV0ptLWVRdTE2UTFyMzRVNWxWVEJHUFhpV2cxdGRXTlRpMG1OY20taF93MDBxZmZ2bmgyOHFuekVYY3NQY0I0MXg4?oc=5)
-*Oct 23, 2026 · Google News – Anthropic Claude*
-
-Claude Without Login: Can You Use It With No Account?&nbsp;&nbsp;Fello AI
-
-### [Anthropic unveils Claude Duet, an AI agent that works across connected apps in the background - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTQ2T2RYcWtldTM2bDRsTlM5V0NOVWJHbi1yb3paTFpUTWRrblRzclZkQmN3QXJnUjdLN3Y3N0JOWHdWRUFYakczLWVwN3p1SzJEaWZiWXJuWHJDZmNTT2hkdGxXT3VoYl9LdWFZRlBwUmxxYmhHdU9yN0ZlMkdmSngweVlMUWJ3YTR2R2xfclA0OU4yaUxmTFljNW1aUjYtdE9PMHVtN3JrSkVHaEY2UjBkd1ZoZ2JGbnZfc0JWMzlRSlBJVVo5NkwyTlk5UQ?oc=5)
-*Oct 22, 2026 · Google News – Anthropic Claude*
-
-Anthropic unveils Claude Duet, an AI agent that works across connected apps in the background&nbsp;&nbsp;EdTech Innovation Hub
 
 ### [Anthropic’s new AI agent Claude Duet can work while users are away - The American Bazaar](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnktb0xleG9fM3otRmJHbHlZTkttRUJQVE9UeXU2bTFQWXBPUWZpMG9oRDlmdlVmdS0wVnBhcHFjNXllT1JNNVBCbTNIaWk4MUZwWWNVMXpFU3RGby1XYW5VYmZKOUJFLTlmVVBGbGhmZUtFZEdhRFNJcjhJcXJFTnpZWVlEdzVtLVQ0cWJ5RTM3RVdldFB1QlVIQm1MaktWSnpIdDBCeko1R2Q4ZVZJWFZISkpITWs1?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
@@ -165,6 +155,11 @@ Man Arrested After Telling Claude About Plans to Shoot Up Daycare&nbsp;&nbsp;Fut
 
 Anthropic's Claude Duet joins the race for always-on agents&nbsp;&nbsp;R&D World
 
+### [Anthropic donates Agent Skills standard to AAIF - Blockchain News](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkpiZ2hmWTdqMU04U0MwcHU0UXc2dzh4OHRhS0w3alVMeFJpblhwTHhMY3VnQll6WkZvZmFJWjBIa0hOXzhza3NWaFdLYW1xc2l0emhzalFXZmN1d3AtOU5uRnFNa1J4QTA1cW5pUzBPQnUxSFdScFN1Ui1EY2cxbVFn?oc=5)
+*Oct 22, 2026 · Google News – Anthropic news*
+
+Anthropic donates Agent Skills standard to AAIF&nbsp;&nbsp;Blockchain News
+
 ### [Harvard Students Put Expanded Claude Access to Use in Classes, Personal Projects - The Harvard Crimson](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ETzFrRHIxOV8zTzhLU0FlYk9iU3pPRjFRNFR0aFktOEV5U05MczBXT2ZhbUZLQ0VqTlFtRG1ja0x5NjJ0MlpIb25EbC1zNkdKLThMdXF0NFFJMDRINFJ5RXgwUjdqd0N0VktBU2NjbkRJYkk5R2thU1IwRVd5MmM?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
 
@@ -190,11 +185,6 @@ Anthropic Sued Over Training Claude AI Model on Protected Music&nbsp;&nbsp;Bloom
 
 How Anthropic’s Claude Duet Differs From Meta Muse in the AI Agent Race&nbsp;&nbsp;Barron's
 
-### [Who Owns Claude AI? Anthropic, Investors and Control - HowStuffWorks](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rLTZKdEFMbHpUUFVSajA0eGIwbmI2OUtwTV9pRVItb0FEOHdGdkkxS3JEaTNUYWVKdU9tQ0pQNnpKVGhxbURxNkFLc2YtMmlnZ2QteXhGMzdLeVV4WkpZU01oMHk?oc=5)
-*Oct 22, 2026 · Google News – Anthropic Claude*
-
-Who Owns Claude AI? Anthropic, Investors and Control&nbsp;&nbsp;HowStuffWorks
-
 ### [Claude Duet app is Anthropic’s bet on agents - TechCrunch](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmgyb1ZobDFPVTdQcnNCbTIwR2EzODI3TmRwUGEyWl92eDY3OV83UVh3LXVfekJpNldLdlBXSW1oQlN0Z0MyRTNvUG1NSHRnTGg0NzBhSUFXbm41NFRIQjNObVNCV0xQS2xxWi1YaHpxN1dEOWtLZnUxRzBNMlJCc3lSTXI?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
 
@@ -209,6 +199,11 @@ Anthropic introduces Claude Duet, a proactive AI agent for professionals&nbsp;&n
 *Oct 22, 2026 · Google News – Anthropic news*
 
 Anthropic IPO stands alone as AI market jitters sideline others&nbsp;&nbsp;Reuters
+
+### [Claude did not invent scorpion antivenom - The Verge](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDJ0SkZfUUhOVmNLVkY0TkFrSFduTFlnZ2JWQ3l3VWlwLUtEeVBfbVctWlpPa1dDaVhvaGFSTllkWl9PaTFqaEdseHRTdnJmbTRNMkgxNGV5T3BmRUU3UWlpVHd1RUNNSzgxckZOaThOOWVIRlVTQ1FkdGJrd3hLN1ZxT3J1c3pFVTlrSjA0SVlUY1dhR1Nhajg3aF9fcTlQMk1OT1VWLTB1R1JDbUFpMU50aUY?oc=5)
+*Oct 22, 2026 · Google News – Anthropic Claude*
+
+Claude did not invent scorpion antivenom&nbsp;&nbsp;The Verge
 
 ### [Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots - Quartz](https://news.google.com/rss/articles/CBMif0FVX3lxTE4weXI0QVdqNEdJSmR3Z2RvUl9feHFyMzdkSV90S2hhNlFadVd1TjZiUmpURVJtei00QnJQajBCaFJ1LXN2YktJN3o1S3hhNC1SV3RJNlA3RVhCeHNHZFFuMW5rc2x2WjY5VDZLaVZ0dkFqMmx0alJIcUliZEE1LVU?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
@@ -225,10 +220,10 @@ Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer
 
 Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market&nbsp;&nbsp;24/7 Wall St.
 
-### [Anthropic IPO: Here's What a $5,000 Investment Could Be Worth in 5 Years - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlY0d1pBQzFONXMyMWtHWlh4MDF5Wm5aVURGRVBUd1IwT1NNMWl5NkxsajRNWXpzblZQRjNoX2RSbGxaUzJ5U2wycmwydmVyaEVEdFdNVUs1eWtKRkJoQm9IZkswb2gxZE1vdkczcERSVXpwa2kzMnNobVJXSkZSdUpHOVdsOTBSa0Q5OWJlanNnaFljTERYYQ?oc=5)
+### [Meet Claude Duet, the latest AI agent intended to lighten your workload - Mashable](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
 
-Anthropic IPO: Here's What a $5,000 Investment Could Be Worth in 5 Years&nbsp;&nbsp;The Motley Fool
+Meet Claude Duet, the latest AI agent intended to lighten your workload&nbsp;&nbsp;Mashable
 
 ### [The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Mean for You? - O'Reilly Media](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzZSNWVKc183Y3FlMVpDdDRVeFd4SjNTRGRyQ054cGpldGJXYXdNRy1iMDFhTmN3M1VzazVXeHg4MzVBZWJncHl3dXNCYzM5T1ZqS3ltZjExT2UyU2I3b29FUDN6dThxNktZdG84QmRmM0toMHpSNV9hRFpCaXlSMTNzRDJNUDhJa0hPeEQyNGxubTF6cngzOUluSWJua3JDWjh5QXZ6Ulc2QlEya3UyOFhheHBIUm1MVnhZYw?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
@@ -239,6 +234,11 @@ The Latest Anthropic Claude Models Contain AI Text Watermarks: What Does This Me
 *Oct 22, 2026 · Google News – Anthropic news*
 
 Anthropic launches Claude Duet AI agent to manage work in the background: Challenges OpenAI and Meta&nbsp;&nbsp;Business Today
+
+### [Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race - PCMag](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVQyby1UT21FZDFBcTUzTzNVYUE2WVk4X1JTRFYxTy1heG9VTWU4RS1PVnpLOTdHMHhDb19FV3pCTnp1MTFfVjNhUGlNazNTLUtFWFlrYTlNVjdTY21tNUF4NHdSUy05dmxmWklLTVdOSk45cXRhejhXaVpJTGhvRnR5bVVsUEVzZllMazVycTVUaWc1b3c?oc=5)
+*Oct 22, 2026 · Google News – Anthropic Claude*
+
+Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race&nbsp;&nbsp;PCMag
 
 ### [Anthropic’s Ambitions in Legal Technology Get a Reality Check - Bloomberg Law News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUDlBRzg1WmpzWGRzT2NFdnR3RzF1OGJtOXZfbk1tMDhEQXlMSXZKY0dzTDRaOTNMdndXNDFnV0ZfQ0dJa3M3TzRZT3VkeURoa2Nzd0VJUUViV3NMUjJZTXRReU9GX0J5d2RMdlhJZjhJaHRDc2Zzc2xLeG9nTWI1Qk55Ymd3ZURmS2luN2tWbm83cnRzTmxQckJsZS1ZYk5HRHl5ajJPczViNm91aFE?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
@@ -270,25 +270,20 @@ NDTV World Summit - "You've Got A Long Day At Anthropic": Monk Swami Sarvapriyan
 
 Anthropic Launches Claude Duet Proactive AI Agent&nbsp;&nbsp;Technology Org
 
-### [Anthropic Unveils Claude Duet Personal AI Agent In Research Preview - Dataconomy](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDVOMEJJQkRUYWNFTkc5ZzVSclNQMG9ZSXpFMGdsWW1QeE5iWElnekZYZ2NMd29fVW0yUTJkWThoRy1neG1GTUx2a3hiUUtUTFFwdHkxV0JzOUNZNUQ0NUN3cDc3OENsTTBLQlFnS0FWWVlFNWhrMHdseTBrQXZ1ZVI3R0xvQXM3MmMySEtWUlJYMWk3QWc?oc=5)
+### [Anthropic unveils Claude Duet AI agent app - Reuters](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
 
-Anthropic Unveils Claude Duet Personal AI Agent In Research Preview&nbsp;&nbsp;Dataconomy
+Anthropic unveils Claude Duet AI agent app&nbsp;&nbsp;Reuters
 
 ### [Anthropic’s New AI Agent Purchases Business Supplies - PYMNTS.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjdMOWV2Z1JpdUNIN05TWE53U2JJRW1obFBKT05xQVQtc05ZUm9iM3JSaWxsdFpFSTB5UldmbnZqVlZ0bHZhaHZiNkFUMFp3NlpxTUZYOTBWc3RhZWZjSjhseGhOVlBVbE9scnRTLWhZS0lEU2JNTmc2UUwxSHI3ZS1lWXMyc3hFUkk4N2dvZGp2Q2w3amxVUHRiVkRHeHNGT2RrbF9mWHRfa3hrMmc?oc=5)
 *Oct 22, 2026 · Google News – Anthropic Claude*
 
 Anthropic’s New AI Agent Purchases Business Supplies&nbsp;&nbsp;PYMNTS.com
 
-### [Music labels clash with Claude over copyrighted lyrics - Courthouse News](https://news.google.com/rss/articles/CBMijwFBVV95cUxORDM0dnNBaUhiRE14THk4dDI0RGx4Mm5lN1lIXzBUdFZ6ZGxLbENId0JaNHZiZ0JRVEE1QndwNkozQUxLdHNWSkh4TG1vLWRmREozR1pYQ0hidzE0WFhSUTJpazNhbE9Dc01LMTExOHVteGZCb0hGMkdWMnVrcHVBRmhYamNHenNFdHgwcnZDRQ?oc=5)
+### [Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight - DefenseScoop](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazV1Y2dCb0s2SlJQSnh2TUdlcE1NQ01hSXVqWTVuSVNxc2lSY1c0eW1fSmZpYXM0MjNZWEFFZUUtYW4tSUNSLU8xOGxNbUNwcnVZOXl5bWc1VjlHeFFOX05aLVdZQTBwSGR6MjZSdU4zUVEzWU45YmhKQ3FOclNNRGt1VUpCc2s0?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
 
-Music labels clash with Claude over copyrighted lyrics&nbsp;&nbsp;Courthouse News
-
-### [Anthropic Announces Claude Duet, a Personal AI Agent - Thurrott.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNRmtuVmJURnNtamVSeC1mMGdmYmZOWVR2MExlTkVabDM1LTJ5Z2w0TVN0M1laQ3pTczUzYnhBeWJ3clRKNFlYUTRZNzBRTnNGTG5JcktGRGFQVFlERlRDVWFCUWZVMUs1Nmltck5SRjYtckxaOWN4SHBrNThtamdYUnZaZFZaZS02emtYbWx1TDhBUjczZUtsdHVQOU9IZw?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic Announces Claude Duet, a Personal AI Agent&nbsp;&nbsp;Thurrott.com
+Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight&nbsp;&nbsp;DefenseScoop
 
 ### [Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots - CNBC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
@@ -299,26 +294,6 @@ Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse,
 *Oct 21, 2026 · Google News – Anthropic Claude*
 
 HHS Plans Sole-Source Anthropic Claude Contract Ahead of Enterprise AI BPA&nbsp;&nbsp;ExecutiveGov
-
-### [Anthropic, music publishers square off on 'fair use' defense in AI copyright case - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic, music publishers square off on 'fair use' defense in AI copyright case&nbsp;&nbsp;Reuters
-
-### [Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots - Anadolu Ajansı](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDJYNEVlX0RpSXZrNldLY2dmYjZtNVgwcERJTEN1MklkQVh5QUNoX25RX1hLYl9zWi1UMG90Ym5US2dsNEJKLU83aUhzOTNZVWp1WExoaEJwUC1sSFNEZEVjNmwwZF9fNjFqWFFYOGRieW1zQmg4aXhKdVVqa1phQ21DN0dMeW1BTDZjcW5zRHBRLWFVTXo0YzBzMWJUWm9kajQ5ZjJpZDFzclBsSFg0?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches Claude Duet AI agent to rival Meta's Muse, OpenAI's Dots&nbsp;&nbsp;Anadolu Ajansı
-
-### [Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots&nbsp;&nbsp;Engadget
-
-### [Claude Duet: Anthropic’s Agent Runs on Opus 5.5 [2026] - shattered.io](https://news.google.com/rss/articles/CBMidEFVX3lxTE5LQXlWTmtST2o3QUo3Z21YNkVXcThpZkRUNjRLTmlZbW1NeGhjcVRBT3NsT1dCRVVoX2hjZXA5dC1NcHNKelpRU0I0SzdsZ2FCQTNxdnZVcXBUTnBDX3hFOEpVaURCSlZ3TUg0SDNkVndBTjFW?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Claude Duet: Anthropic’s Agent Runs on Opus 5.5 [2026]&nbsp;&nbsp;shattered.io
 
 ### [Anthropic Launches Claude Duet, a Proactive AI Agent - MacRumors](https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
@@ -338,27 +313,12 @@ Anthropic’s answer to Muse is here: Claude Duet, a mobile and desktop AI agent
 ### [Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblFra1FIR1VRWmpPaW80WGJSZGNtVG02LUMzU0pvR0NQbkJ3R1N1eGxTS0ZhblV6ZDV1VUNiMVVKVHRCNVI5aHZaZjBGREZUSDg3ekExUnFFWjF2QUs4Qk9ZREN6cUt4QVNZTnlwLThQMmt0Wmp3QWh1QkF3TDFuY1hNOGRnU2Ew?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
 
-Anthropic Joins the A.I. Agent Race With Claude Duet&nbsp;&nbsp;The New York TimesAnthropic unveils Claude Duet AI agent app&nbsp;&nbsp;ReutersAnthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet&nbsp;&nbsp;Fortune
-
-### [Anthropic unveils new AI agent Claude Duet (ANTHRO:Private) - Seeking Alpha](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFNSREllZnFVZHl4LW5FdGhMb1docjl2T1ByTC1PX0dVaFVobFF5OWlZUUIxMHRub2JBb2VzSkd0ZnlPTUNoaVhuak9QVHBQQ2dBYXpXSmgydkd3XzdLTmEyRHJfRUdZR1dKbzl6UTZ5S3dxSGpXajAwSXg1NW43d1M4cmRHSTA?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic unveils new AI agent Claude Duet (ANTHRO:Private)&nbsp;&nbsp;Seeking Alpha
-
-### [Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents - Business Insider](https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkZFNGVZc2Q2Q3VJYWVFNjFlOUh1NE1aNWFrZHlzOFlEMVpQU0xFQkFDSW4ydXljV1gtRnBBVzZjWi11Z3dMQ0sxdl9EdXdJOWl0TWlYMnl1M1o5S3d4LXRuOW9lLUd3bS1lYkloUnFGVnhqbFNJSGtVRUt4ZnlWSVg1Q01YOHlrWF9tZ0RsQXptUjljR0MxVFVaWW0xTXMweUE?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic launches Claude Duet, its answer to Meta and OpenAI's personal agents&nbsp;&nbsp;Business Insider
+Anthropic Joins the A.I. Agent Race With Claude Duet&nbsp;&nbsp;The New York Times
 
 ### [Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTZDdmhxaHdYZDBlRzBTSENHbEFFS0ZGdXdKTzQ1MG1VQW8wWS1oWWlWSDlrYVV5SGN4LTJQUlFvTmx6akJXZDVsakNlSXd2dTNwWEtZRU53SUNfa3U1RkprbGJERF9vZHZwN1R2eU1wR1hDR3dpUS1xeVJmRUt6SVFXeUFfRk9zM2h4UTFrYXlhYmRfeEVjZmdBTnFvMUxCWVFteA?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
 
 Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know&nbsp;&nbsp;Yahoo Finance
-
-### [Claude Duet: Anthropic’s Opus 5.5 Agent Rivals Muse [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGlGdWpnTW16dzRBNGU0d1E0bFduSUhMclB6cHJlejR1ME44VWlpaEstRkdwSS1GaEJHbkI4aHFfQ2VjSkNqcDlZM3k2WUlLRWxRcTB6NUNGdm5pN0NKY1g0aS1HLS1iNWxqaUZFUVBaRENrQ2RqRmVOdlVfUXM5Yw?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Claude Duet: Anthropic’s Opus 5.5 Agent Rivals Muse [2026]&nbsp;&nbsp;https://tech-insider.org/
 
 ### [Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge](https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm0xalYzS19NOGxhQ0ZpanpWeFpjN3g0VzZfVjROQ3RUemxqZmc3STZhdHlRUTlvZEJOaW52dzdVTUxOc09MMzlVeFlJSmc5V2p4WDdwWjRRaDZKMU5QbldoWHBIaTh0Qi1yc1JFaVNHM1BkQ25ucFZfbVJtWGNYMS1jRWlocDk5NUVheDVpclZEUTJw?oc=5)
 *Oct 21, 2026 · Google News – Anthropic Claude*
@@ -380,35 +340,15 @@ Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet&nbsp;&nbsp;9to5Ma
 
 Anthropic Opens Claude Duet Research Preview to US Pro and Max Users&nbsp;&nbsp;Unite.AI
 
-### [Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security - Unite.AI](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWdjNl9fX0lTRHI0d0pRQ01mQmZyZ3dkWk5hTE1KTEtNdWZoanlnNm8zRFczOU4xSFVXOVdmVXR1WDFFY2MxVU5tLXhjN2VPNVRheTVmNUt4U3FubWNPaEN4bDhsX3AtdWpsanFWVWFLTTJfRU5iaGZUS1Fzd3lfVmFnc1Nqd3FSZXdOakVnTEh5azVnMFY0?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic Adds Continuous Scanning and Fix Tracking to Claude Security&nbsp;&nbsp;Unite.AI
-
-### [Anthropic to publicly file for IPO as early as Friday, sources say - Yahoo Finance](https://news.google.com/rss/articles/CBMivwFBVV95cUxPREpSeVQzcmx3WVBKdmRna3pObmZqMEpoN3hvcGpid1JuZEJRODNnZUg5X19DQmJDT2E5YnRqQTNwbWJwMjVPVXQ2MDBLRmNXd1VMOGFScHl6cE9GWUp3LWc0UTAzcGJtRnJiR1ZqdjNWWkZwVV9OX0Y5WkVER2RMMHhmZVBjYVR5aVN2ME1nd3BNNWdQNTFGOTMtM245MGpEOGhRTFNqSlZ0bnBwQmRHZVlLeXJOVFhCZDd3TEpnNA?oc=5)
-*Oct 21, 2026 · Google News – Anthropic Claude*
-
-Anthropic to publicly file for IPO as early as Friday, sources say&nbsp;&nbsp;Yahoo Finance
-
 ### [Anthropic May Spend $750 Billion on Computing Costs, Report Says - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXVpSjBJbkx2b2NpZ1R5U1ViUklsVVFNZnNxc0QzcUxvMUdsR1VmN1pXN0pwcmtTVThramxfTVd6WFZWLURCbWF0VExuS2dKY0JHZEtGeGNhREhNNHhGem51MC0yZ1lvZldNRnlQY2xSMHJMUm41V2FMd3luRHBEbnRXS0NTR3NTVkhQbnZrNExfZUdKXzZCcm9RanN0eVk4bk1zdjQ1eDBXeHBXMmFoWnZ3?oc=5)
 *Oct 21, 2026 · Google News – Anthropic news*
 
 Anthropic May Spend $750 Billion on Computing Costs, Report Says&nbsp;&nbsp;Bloomberg.com
 
-### [HHS to make sole-source award to Anthropic ahead of broader AI competition - FedScoop](https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUW41dkF1aFFTbHotcmJualhBVnlNWmhfY2oxMnpVNFYwTFlXa2MtWmp5N3BydWVDb2owRmliTVpSU3hiYVhVdF96TWtZSm1KQkUtWnlhRUVPWnhmWUlUSlpKYUtsUy1TZ3JHYXF3czc?oc=5)
-*Oct 20, 2026 · Google News – Anthropic Claude*
+### [Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs - WSJ](https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTlFXZm1uRTJYSXlPWi1OWmJCSkdBcmg2dkRDc2ZiNmNNaFQtYmg5WFBiWUFQRFVUTms0T3hweW9ycWZ1SlljdlNFUTZuOGliSUpVNkpybnJaQ0p2bzBYWmgydU9MVVBQQlJKMGFRdEpCaWM?oc=5)
+*Oct 20, 2026 · Google News – Anthropic news*
 
-HHS to make sole-source award to Anthropic ahead of broader AI competition&nbsp;&nbsp;FedScoop
-
-### [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5)
-*Oct 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic pitches AI safety bill that may block a model if 50+ people could be killed&nbsp;&nbsp;TechCrunch
-
-### [Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained - TechRepublic](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHhXSnIxaFQ4THRBalAtckI4TUpRSkdzQzdIT0I4c2JxRElGMHJySXdoR1puTlhUSXNEakNkRXVnZ3p3TDg5V29vakNUMUU5S213V1dyWWRfMldTTVl5cV9XUktuVXlENlZ6SXB3U0YydEJldFhnUGNEWG9vRTJZMG5oNlN4ek1iSTRpQ2Vhd2FTY1I5QkMzbkNRd3k3bmFja3JB?oc=5)
-*Oct 20, 2026 · Google News – Anthropic Claude*
-
-Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained&nbsp;&nbsp;TechRepublic
+Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs&nbsp;&nbsp;WSJ
 
 ### [How Claude designed protein binders against scorpion neurotoxins - Anthropic](https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5)
 *Oct 20, 2026 · Google News – Anthropic Claude*
@@ -430,25 +370,10 @@ Anthropic AI sends fake murder tip to Philadelphia police&nbsp;&nbsp;Fox News
 
 Anthropic: Claude, Enterprise AI Agents and $965bn Valuation&nbsp;&nbsp;AI Magazine
 
-### [Anthropic's Claude AI 'fixes' Oblivion Remastered on PC by creating a mod that boosts performance by 40% - TweakTown](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY21YNlFUaFBzS0s2LWVkUnNoWUFWbU0td0FtYVlyeGtvb2V3MC1hMTNCaGNfSWtRZE1seXRGa2JQWmMyOFVPNlQtYmZlTE9zWE1WbDhpRjVwMlJrcDFIREV4WkpFSVE5VjR1Q1BCUHRmZEl3bjRWYUtlWmJ5N2NxRzVjcmNsSkFSMzhHTnpjalEzRko1b042aHNhTHFuYjhtTEFfMVdHbTZsOUJKb1N0MFRvdng3UkxxcEpsR2FmSGQtX2pqblBKekwxRGp5UGxfVURCT1l3S2tiWDQ0N1dhNkVuNDlSN1RHd3NFM25n?oc=5)
-*Oct 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic's Claude AI 'fixes' Oblivion Remastered on PC by creating a mod that boosts performance by 40%&nbsp;&nbsp;TweakTown
-
 ### [Anthropic | History, Controversies, & Claude AI - Britannica](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5)
 *Oct 19, 2026 · Google News – Anthropic Claude*
 
 Anthropic | History, Controversies, & Claude AI&nbsp;&nbsp;Britannica
-
-### [Investing in the public benefit - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5)
-*Oct 18, 2026 · Google News – Anthropic Claude*
-
-Investing in the public benefit&nbsp;&nbsp;Anthropic
-
-### [DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5)
-*Oct 17, 2026 · Google News – Anthropic news*
-
-DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner&nbsp;&nbsp;Bloomberg
 
 ---
 
