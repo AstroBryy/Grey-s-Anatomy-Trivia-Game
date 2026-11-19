@@ -1,139 +1,284 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-11-18 16:50 UTC  
+> **Generated:** 2026-11-19 16:57 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [Anthropic set for record IPO despite AI stock sell-off - City AM](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjRxOGgyTm0xaElxMGdyWktNSUVRa2N4TjJ4eHFyZ3FEN0ZwRTRBLUhKdkowOHZYUmVfdDhFQkxZSmpCd3g0SlA3ZmpRTEhCVHN0VEJmU3Nra290S2hiVm1DUWJQaGk3S24zV2Nuby1QYUc3bE9BQ3V6R2IwaGFFcHlsaHM?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
+### [US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
 
-Anthropic set for record IPO despite AI stock sell-off&nbsp;&nbsp;City AM
+US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap&nbsp;&nbsp;Bloomberg.com
 
-### [New Claude Code Mode Launched: No Model Replacement Needed, Token Consumption Reduced by Up to 77% - eu.36kr.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HZkIxdEctd3phWm00V1dKNUFZNzVLbGE2a1ViTWREN2FFemFtZFV1ckJZY2Q5SGlNMG9qcGF4clU4U2NNNk1Wb1gwQVFtQ1ltUm5B?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
+### [Anthropic’s record-breaking IPO is making headlines. But who are the women behind the AI giant? From co-founder Daniela Amodei to the woman shaping Claude’s values, Amanda Askell, and investor Yasmin Razavi. Gareema Bangad takes a closer look. # - LinkedIn](https://news.google.com/rss/articles/CBMioAFBVV95cUxObDd5OFloQTVoMGdxNkdkTGRuNklhSEIzN1hJQ3FKQWk5elZfbW9pbDQyaVdTeExvMXNpNDJySHRFUmRUZkFzSVNYenM0QlZ0Z0pGbVBkdjBNWW5jZGhFY19DTnZUOGlKZ3Azd0J5RHRNVEtNUm5xNVpyeGJOOEdMLXhCWWJfajNESWZ3UzNDY1J3WlNndE5Icl9EV1U5TVBl?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
 
-New Claude Code Mode Launched: No Model Replacement Needed, Token Consumption Reduced by Up to 77%&nbsp;&nbsp;eu.36kr.com
+Anthropic’s record-breaking IPO is making headlines. But who are the women behind the AI giant? From co-founder Daniela Amodei to the woman shaping Claude’s values, Amanda Askell, and investor Yasmin Razavi. Gareema Bangad takes a closer look. #&nbsp;&nbsp;LinkedIn
 
-### [Faye Achieves Select Partner Tier in Anthropic's Claude Partner Network - PR Newswire](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjlqaVQ1WThNNjhtS2tUbUlMZFdJU0dLeFlLQXJpMUtseWJGcHRvVnVLN1hDZ09adkVpdFBSeURqYTRIQjRwQnNwV0JFd0tCdDhacC1NQVFjVE9FS0xPMVRoS2dkOGhxTzBDVm5OaDYwcFQ5T1U3NHU0dkJNV0NJWmFLbm9ULVRSZDRac1lQcGVLTVg5LVZPU2xQcEFLbXVzOHVta04xOHo2SnVOSUlYa2Rhb01JRERRdkVQZWtrV093Y29z?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
+### [Anthropic IPO Live Updates: Shares Could Pop 25% In Debut - Forbes](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXVNQzJpZnJCSE04VXQ0MFlwYmpuSXZpbWJkcjJzbDZsU0dqQXo2c3IzNHI2ZE0zSHBrVkhoMmhXRlVJYmpJejJaWVQ0aWtfc2I5UXZ5a3Byb2poc0Q4eHE5eWRKamFNRmZrYW1BM19ub3NxU3lBMkpENHBpOUxXb1I1SnJQR0h0eGxTcG9MVURTQjBXNG9aSUpKdGcwM185N2owS3JpOEYxSS1qUEt2ZlRMT0dYWkV0VEZBYXVQOVliUkpXQ0RzeUwtekI5dw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
 
-Faye Achieves Select Partner Tier in Anthropic's Claude Partner Network&nbsp;&nbsp;PR Newswire
+Anthropic IPO Live Updates: Shares Could Pop 25% In Debut&nbsp;&nbsp;Forbes
 
-### [Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxONkZkRVdESVU1UERiQmhZWmp5cl9Vel9VQlJOOWtLM3ZfVjFVVU5rYUZVWk5UVF8xU0t3SU0ybEF4UDNBOWFNeVI3RjlGMzZVdUhMbnV4UU9JQXpqM1FxZk1reHJGbFM5Qm1VcTMwTl81SEtvWVRYNjJRa0JPZ2xkamZfR3I2elFGWnhlNUFsMWNYMW5MeWJYR3o4SFg5NWhxa0tjYzJtMVpaelVhMUREQnZJa0huN1pzSlUzdTBHWm9ackd6Q0w4?oc=5)
+### [Anthropic IPO Caps A Breakout Year For Its Claude Partner Network - CRN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1ctdTJJbnpTcGU5UkV2cjNQdHl2SU1KdTN6aFhjVUZNbDBPSUYwbjFYeWt2LWk3YmVTOW5HRnVRcGpJLVl4ZUlBeGp5TjNLZU5ESHozYjJzNVJqRTc4ZUZpUmo1bGpMeWdIOFFQSFo2M3M4WlE4SXgtRVNKbG8yT2VwWS1xZ3hnYmJ4TDhxWUE4M2dVRXl3WHd3YWQyRk0?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO Caps A Breakout Year For Its Claude Partner Network&nbsp;&nbsp;CRN
+
+### [“Claude, I Am Your Father”* - Mark Urban | Substack](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKeHEwOFU0NGkwZmQ0QTZodklvUzFTcDlEZDg5QUsyMFE0VnlPUzE4RXktWmhtZHRwWnJIVWhvZkxJd2x5WFBVRGVpMDJuT3VieFcycDlFNGlyNlJIQzlEOTV2cXJoeGc?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+“Claude, I Am Your Father”*&nbsp;&nbsp;Mark Urban | Substack
+
+### [Anthropic's IPO set for blastoff Thursday in key test for AI boom - CBS News](https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+Anthropic's IPO set for blastoff Thursday in key test for AI boom&nbsp;&nbsp;CBS News
+
+### [Anthropic IPO: 'We care as much about the people who don't use Claude' - Yahoo Finance](https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXBwOTZJU2hiQ1h4eF9BXzN6M2ZpU1pUMzRUcjRVdXJFUmUxVm5TMXJma2pXTWZkbGc3TWhDblBXZmxVWnlGV1p1blFaVlhmdWpmcjhuQUh6czJJSjRvX0xvcy13QURHZWUtYU43NWZhX0NMQ2dVT2Y0TWhuV09yaXNJVGViN0NtSU11S3AyLTFGOUJ6SXpZS3dsZjY5NTdwYjN5eFZ6TXV6aG5BeXVUUDUxMA?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO: 'We care as much about the people who don't use Claude'&nbsp;&nbsp;Yahoo Finance
+
+### [Is Wall Street all-in on AI? Anthropic goes public - AZ Family](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBLSjFqQ1JNQU5STXMwRkVwQ3AyY3JTazZFUExnTURrWXRrYWRFaF9TbjJfenkyMVFrM3VZendnN0k1Skd5M2cyVVhqdExQNVV2NDNFbVc4YjRuRGhNb015akpvTi1RWnlGc1Z3RmZmSU5nRlpkZmJrZ1hSRHRCWkxpTGdqT1pIWk1fVFFaYkFsb00?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Is Wall Street all-in on AI? Anthropic goes public&nbsp;&nbsp;AZ Family
+
+### [Claude crushes it on Wall Street - Axios](https://news.google.com/rss/articles/CBMia0FVX3lxTE1iS3pYdXdtNm44clJtTlpNZW5aQm9Sb19LS3E3c292R0g2c2RvMzZVQU9QSnJHQnA0RDNndS1wR2dwMjB1Z1NPSFJLaWU3Mk9DbGx0NE1CNnk0S2xpbXVCV0tCMmpuM1dvTVYw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Claude crushes it on Wall Street&nbsp;&nbsp;Axios
+
+### [Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day - Yahoo Finance](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BUWGhIRWx3bUhMcXMzVWNCUzNYQ0o3TVVwNE5MOHo2dWhPT1VLQ0lUbHhaYUZHOWFIajJla3o1bTBScU9VSlNuSU9WZjdFWmtmX01WNXN1XzhhUGFVNnlveFgyZWs2cEtpeXFFbW1vLVBNVHhjTW5oQ1JoVkM0X0plY3hrWXhPMk40UGdZV3czbi1mX3B5cmc0b08xV01mTnNqQ3llOERNeEloemZKUXh4V3RtZ2J0ZXNDREdoSWZIX1JacWI1d19WWVdsRzhsa0tkQ09xMTBFUG43MUh3?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day&nbsp;&nbsp;Yahoo Finance
+
+### [As Anthropic IPOs, the AI hype gets a stress test - Techzine Global](https://news.google.com/rss/articles/CBMioAFBVV95cUxNckxwZ215WVlOZDk0WXFIQTI0akZ1SnFBWlZrekc1R0ZLSGZ2S0xhcl9FdER4Mkk5dnM5Zkx5VVctbUl5bjRqSlRDY09BQ0toRXNIbWItS2FLUm5DeG9UUE9MeFZZalMya1RNWE8xVUFKZGJ4eTY1RWR2LVkxekZVelhQMGtSakpSUTBGaVR4dWFTb2ItbExPNjV1TEhral9j?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+As Anthropic IPOs, the AI hype gets a stress test&nbsp;&nbsp;Techzine Global
+
+### [Tech and AI Stocks Rise on Anthropic’s Nasdaq Debut - TipRanks](https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1dQNzNwTDEwWTAwMzBYYS14N0lQNmZMaXVzRlhfSEVMSExtTGVtY01aNWVSakxvelVxcDY1VUJwdGVDNGtGU0FISHM1bkFHVHc4VG4xTEJlQWNfUXhQcEpteXJrSE9JSHctTV83ZF9MVmJoSEdsSFJEbm5xMVkzN0swb09WNms?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Tech and AI Stocks Rise on Anthropic’s Nasdaq Debut&nbsp;&nbsp;TipRanks
+
+### [monday.com Platinum Partner Workiflow Joins Anthropic's Claude Partner Network as Select Services Partner - AiThority](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjVtTnhJT1QxZlh2S3duNHN6NUw2SkMybG1qLXo3N0QyTVFyT1NmLTNRZ0FxWEhER0prODllX1EtekJFbXZrUThMdWtTTlNacWJCY0VsRTNKRFgxZUdXTE5kZHJMSGdXdThUY2t5clpVMkp2amszTGNvVXJzOWNjOEw4M1V3UGx3NlNEWTF5cFRaelNDcVhsbFgtaWVwaGpkTGpSTGlRb0dQRmZHX2JnOVBkbjE2LUE5NzMzRjlrVzRjUEVXSm1nVkdVQlNsTGx5LVJrQl92QWhxUU5v?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+monday.com Platinum Partner Workiflow Joins Anthropic's Claude Partner Network as Select Services Partner&nbsp;&nbsp;AiThority
+
+### [Anthropic official warns state AI council of ‘tumultuous cyber era’ - Nashville Post](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR3pRSmt0X2hRUWpxcndSTExqWi1hQU9KQmxqQWNhZjhLb1phMG85MzV4OFp3akg0dE9TdTdzUjRUUGlzc3NwbV9COXRzR3BIUkFOeGNtREpHMmlacmRWakdEZGJjRnliSkxqbGpTZ09PQjV6VDNrM24xQ3VtdzVUekN0Z1ZYSVlPWlAydTR0UWJObWEzOFVEZzRLU0EyTTFnOFRPcDVXNXNhSGpOOW1ER2x1YldqMVdqUE82aVpEaHZlVVJJZEZEaU9pMENuTGN4bVA0elNib0xmX3dJNC1hd1BmNWZhNW53NXc?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic official warns state AI council of ‘tumultuous cyber era’&nbsp;&nbsp;Nashville Post
+
+### [Anthropic Raises $81 Billion in Stock Market Debut, Valuing AI Startup at $1.5 Trillion - Breitbart News](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHFHM2tuZ0JQTEpPX1k3bWJ4VmVpLTZaMmZMR1ZzdWo4TXR1NktDWl9aWG1COUpzRUtOdVlrUlVuMkNQbWVORFNVTWE3WDhoRzFqVXRwbi13dklRZ0t1bjNpaWUwcGhNQVZBaEh2Zk9VbVRwV0YzMWZjZHVXbmtqajcxVDJ5SjJzb1FzbndfY1dSdGNTU2lhOTJfWXB2UWFmSFd6RWFiYjZNejRVeVNCR2M3aUZaTEYtbzRtV0p6VjU3LVpTd1E?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic Raises $81 Billion in Stock Market Debut, Valuing AI Startup at $1.5 Trillion&nbsp;&nbsp;Breitbart News
+
+### [Anthropic IPO live: Claude maker on course to break $2 trillion valuation on market debut - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmdfTHcyUEhDWXNwV1BCNDZzYWpXWEN3RngwMWxyczVFU3dmQnJucEQ5ME1Oc1V0bktyVkZqTHREOWZ2aGhCUmNQQVM2eFlnSmlJLU1mZ2ZxZjNIdTJxZU1LZHdrTDl1a0MyQjlseGFXbkhjbzRKd1VCX3ptQl9jck1YMVcyWmQ2OEpKeEk4MUdLX2pQNTJodkZHb0JkSmhvcmhYQWJBdTZkZXhPX2xlLXJ1OFMxM1JNM2VZ?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO live: Claude maker on course to break $2 trillion valuation on market debut&nbsp;&nbsp;ReutersAnthropic’s Wall Street debut marks a new chapter for AI&nbsp;&nbsp;CNNAnthropic raises $81bn in record-breaking stock market debut&nbsp;&nbsp;BBCAnthropic investors’ shares rise ahead of Clau…
+
+### [Anthropic raises USD 81.3 Billion in record-breaking IPO, valuing Claude maker at USD 1.5 trillion - internationalfinance.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTZMdjY5NWRtbVBDel9tLXhLWnlfZ0YxNlAzU2RCOTR0c2Ytb0E1UEkxNkhleGtYcVRXWHBwbzJwNlRfTkM4ZTFLaTU1ZUE3MjRzNTdsOWh5LWt1cTAzTGR4NTZXalBjSzVFdjllQTduYXQ3ZmJCajhsQ1pRaGtQUURvbl95N05MLTFVc2tiWWtOUWh1eGJSU3pTdHRXZ19QUmFRV2ZzY0RvQnVHVjhxTnFGamdxTjZzMC1BRGhmeTlhY09PRkRDbjE4WGc0eTdJSzJaRVZueUhQUQ?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic raises USD 81.3 Billion in record-breaking IPO, valuing Claude maker at USD 1.5 trillion&nbsp;&nbsp;internationalfinance.com
+
+### [US stock futures jump on enthusiasm for Anthropic’s blockbuster IPO - The Citizens' Voice](https://news.google.com/rss/articles/CBMic0FVX3lxTE5aTWloUWltcllNYTZSNEJteGpici0zeHpEV2Vtd3lia0h3OTlMRThtMXVzdndRYW9pUkRxNkZFa0JXdTVhRHpZR00tSzNnMG13U2p1bGxFa05lb2dUMmt4ZkoyQk1TMlpqbWtjZGNlUllta2c?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+US stock futures jump on enthusiasm for Anthropic’s blockbuster IPO&nbsp;&nbsp;The Citizens' Voice
+
+### [Anthropic said it offered 956 million shares for sale, giving the maker of the Claude chatbot a valuation of $1.5 trillion, including employee stock options and restricted shares. Link to the full story in the comments section. | via ANC 24/7 - Facebook](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWE5RjJCamVNcVFuQWRmR28tbk1SbWJDWUZoTWJMWUdFVnBGQkpYb1VfcFZCS3BETWoxcHd5Mnh4cFF6QXNza2k0dTdSb1Z5dlliaGhkN2NydDZCZXNXcE53RTlvdkNUWXhHcXFtR2cxYkJkTEgzOGVSOTlaZjJuQ2h5YzhRSm54MUFGT2dnZmQzWUVfMWc0V2lWUzhlSEdiZ1JVRTUwb25qX3kxMTdFZEk0Z3RSZUZlYzdTVG5xMXNzZGRaWFMxc0syM25KejBjV2pWUEN0Yw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic said it offered 956 million shares for sale, giving the maker of the Claude chatbot a valuation of $1.5 trillion, including employee stock options and restricted shares. Link to the full story in the comments section. | via ANC 24/7&nbsp;&nbsp;Facebook
+
+### [What time does Anthropic start trading today? Not as soon as you think - Fast Company](https://news.google.com/rss/articles/CBMinwFBVV95cUxOazB0eDVuenVVTXVRNFRNRkxuenQ1T29oVHJ2c1NCNGl2TG4xTEZQWXhmQTlHYW00cW1OYXRVNWw1and4TGMtRVRKNExBV2U5NkNhbWwwdFdKdU9mREwxclNRdEZNbjg0Z3h0ajlRYkp1em1qR3BkZFZ2TVF4WFBCdE9GNGJaNEc1blpYSVYyZDM0VFdaM3JPQ3lpaWlyOEE?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+What time does Anthropic start trading today? Not as soon as you think&nbsp;&nbsp;Fast Company
+
+### [Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO - Livemint](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZDhCV0hxVmpPOGpVTXphQmQwTW8tZU1JSUp3QUVGcEhKMkk2dzVHMjhiQlRKNFRmVWFweTlvRUI1a3h5ajZZRE5ZengtX1hXX1FDb0JoQ09TY0pqT1QwQ3lqUVpDeGRGS2xqUlZsV0xOQWVLLWRQTGJMOU1mdFNaYlJvVlh5YXFUZ1NWSnFidW1JOTJyeXJ5TFZySkVhSXgxdU1lMjFxaDRIaHhYZzM0TTRxQlkwTUR3STFyZGhTLXJyX3F1bVlOWVZwczEybzE4ZHNFYnhaU24ydl9FU05qUkdVRzZMQndnb3g0X3dhRmd0UzNiR21CS1V30gH_AUFVX3lxTE41ejlqV3NSaF9YbFUxYncxZUN4anhmVVo4UWs4ZFVzRVJsUklZdFA3OWJNR3dwb0dyb2ZhY1d6Y2djVFBQdXU1MTh0cWpnOUVlVmJsclFVTDI4MXR0Z1A4YjBmZ0lGUXZCNUwxdHRUeXgwYmZTRkJpc3BIQ2lCQXhPRFJQNkZ6bVV2b3JPWTY1RlpUdXBBUnJ4czJXYmdwRHNkNkE1VzNnUG1jLWxPa2VVeXNJWHBEQ25jYmplZGRRSHBSZ1B6RzF1c1laUlZWQW5OajNXS1JuS013RXY4R0ZPQjlKekRtd3Y1X3pJMWtHTG9XVVhyRVE4R0F0YkZNZw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO&nbsp;&nbsp;Livemint
+
+### [Anthropic IPO Today as Claude AI Maker Reaches $1.5 Trillion Valuation - SoaplandTV](https://news.google.com/rss/articles/CBMifkFVX3lxTE9xNkVIcmo4QVZlN2RnMnEwcXNDcGJIcTZIb1hob2YzX2dmWDZlWEVCUkFlQm5qMkdUWDJxb2V2NFN4YlM4RjVyOWtfamxyam9LUm1JNzdzdnMyaDBab21qNXQtclFUWkdDZll3VmJZN2xkTldVYWViaDVXMXB6QQ?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO Today as Claude AI Maker Reaches $1.5 Trillion Valuation&nbsp;&nbsp;SoaplandTV
+
+### [Anthropic to smash IPO records with £1.13trn valuation - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ29MckJDS3NPa1pDblRBLUk1OTBaRXd5bDVUNVBWVE9yOXdod0pucUx3X1lZSkZJSkdHMTFERUhDWWtZeUo4Z09KMW92TTROZUJESG52QVcyQ09TNDZkVm9zemVCQmxZT3VPZlJVS25kc01vVEQySTk3QV9GQ25jMkZxQVhCMUltTzRzV1NNc3VXTVZaNUpV?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic to smash IPO records with £1.13trn valuation&nbsp;&nbsp;The Independent
+
+### [DW News. . All eyes are on Anthropic's IPO. The fast-growing AI company has finally decided to go public. But its stock market debut comes at a time when Wall Street is growing increasingly concerned about the enormous spending behind the AI boom and w - Facebook](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUYwUWFEeDB4ckFBdkNiWjR4SFhtUmtDRF90aGNpQ2VxTy1qckdmdVhIajZhUjNNLXhwQkMzM3R1ZTM4Nkx6ZndDUnZvejRFRUtpN1lrWnRINTJLb2ZxX25Yd1E3ZGl2bW45TzltS2VkcUVMdlh4dXpmcjhqVXdkUTItdFR6cDFmNzdkQ3RtdHpYYWdPWVFJcmFaZ1JKSVB5ZWVNdEl1bEhSN1ZVNjF1aVdvV3dVOFoyM0xnODJQb1BWOTNUb1U1SXlaVlVfNlY3V0d0MUFqWXlsdkZqUU9qaGpB?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+DW News. . All eyes are on Anthropic's IPO. The fast-growing AI company has finally decided to go public. But its stock market debut comes at a time when Wall Street is growing increasingly concerned about the enormous spending behind the AI boom and w&nbsp;&nbsp;Facebook
+
+### [Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWZHVTllX0Nkbzk2Mkw2X2h1QXBNa213UlBfT3B6cXNsU2VvR3VMNWppZWRMMWFMb3RRcURkWG5rZWlpOERIY0prMk90YnVfaUkxWHRySUFkTG9sM0pHYVI1RHUwVkJnbkhDbmxha3FtYVRlcVloV1dDV194ZnRQZ3ROOWxSZw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic to begin public trading at $1.5tn valuation after largest-ever IPO&nbsp;&nbsp;The Guardian
+
+### [Anthropic deepens India push with local AI infrastructure, expanded team as $1.5 trillion IPO marks global milestone - Storyboard18](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOSHJnWVJjcUdveHFqOUFKVWVxdUY5eVdPU0pkaklnMWtRRWpUMnN2dnU1Slo5OVNWTUpoQjVtZk5YckJybmZOYzRHMmtPMEtpcjZiaFQzMmN6MXJtNjNDZkVTTkQ4UTlmQXBhQUczUnpCZmlHdmhQczFDT0l4dTQwNmlDTTAtQ2lMakhJak5ZSDQwUUtxS2ljQnJyMExLVkJRS05QXzVhaXNkNlFqeDk5NkZhRmxVUElOMmFaN2p2MU1uZ29RMWpENUZtR29UcXcwYjFQeWtvMmI5Yzg5aTh4OGlqNTUtQjRaeG5JNjZBdVpSbmZUVE52YTN4cmpVYTlGemd6ZDZCTjdDWlZjbzVLcnYxa0JYNmctUTBkSkdyaktscmZwQWJzSURkM3czaUNWWUxhSXF6bkc1SWd5bk9Lb21hWFlMbXQ5dTU2UVhoZ0tqT2FuUjN0SVhRZHRGa1RGRXfSAeICQVVfeXFMTkhyZ1lSY3FHb3hxajlBSlVlcXVGOXlXT1NKZGpJZzFrUUVqVDJzdnZ1NUpaOTlTVk1KaEI1bWZOWHJCcm5mTmM0RzJrTzBLaXI2YmhUMzJjejFybTYzQ2ZFU05EOFE5ZkFwYUFHM1J6QmZpR3ZoUHMxQ09JeHU0MDZpQ00wLUNpTGpISWpOWUg0MFFLcUtpY0JycjBMS1ZCUUtOUF81YWlzZDZRang5OTZGYUZsVVBJTjJhWjdqdjFNbmdvUTFqRDVGbUdvVHF3MGIxUHlrbzJiOWM4OWk4eDhpajU1LUI0WnhuSTY2QXVaUm5mVFROdmEzeHJqVWE5RnpnemQ2Qk43Q1pWY281S3J2MWtCWDZnLVEwZEpHcmpLbHJmcEFic0lEZDN3M2lDVllMYUlxem5HNUlneW5PS29tYVhZTG10OXU1NlFYaGdLak9hblIzdElYUWR0RmtURkV3?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic deepens India push with local AI infrastructure, expanded team as $1.5 trillion IPO marks global milestone&nbsp;&nbsp;Storyboard18
+
+### [Google's New Gemini 4 Neon Outperforms Claude Opus 5.5 on Several Benchmarks - Analytics India Magazine](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0g1U2tZQ0xyQ2dSOXcwYWN2czZYc0pHcjNEeXJjMmtZU1N1ZUFobld3SzVVSWt5ZWkxTkJLM1BpTks2S1FtdUpuNEZ3YXQ4Z19SWDl6SjdZbWhnOWEzQ1MzbkV1cDVMNFYtQkQyOG9mbnVjTGtZekx4aVEyb0dBRGR4ZVA1Y3RVNlpWZS1oc0NjeXduNWVEZndsNHlMakZSR3BFZkU5S1M5UUZ2ZmZOX1RR?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Google's New Gemini 4 Neon Outperforms Claude Opus 5.5 on Several Benchmarks&nbsp;&nbsp;Analytics India Magazine
+
+### [Anthropic Raises $81.3 Billion in Largest IPO on Record - La Voce di New York](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXlGV1QwdWtLLU1HU0x5V24xcUt6Wl81T0JiVDR5a2VTOG5hWWZ3VkZaSGFhWFhJczBiVzRNeU9zN3JTcGU5bGZwcVVGRDBSVkoyYmZ0SW4xOFYxLUR5NEhKMGFIdDBmM0RhRlIwY2xlNGZ0Tkg3Y1BwN2pmODNFVF9IWk52aENUTFFaT1NacVlaOG0tMy1GLUlfWGhJakpJZDdGeDV0cy1Pdw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic Raises $81.3 Billion in Largest IPO on Record&nbsp;&nbsp;La Voce di New York
+
+### [Anthropic raises $81.3 billion in record IPO, surpasses SpaceX with $1.5 trillion valuation | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeDNYOW1vNUZQY3dZcjlqSUx5bnU4c2J2UVpKZEVxTVNFb0JSZ3VpTDRwcks3MGNUeXpnYzYweDVVMTdZdW4zWUhSUURhY01mM2JqWUVXeFNVNV81TmdKUjI5VExnTDY5R2ZVTE9kRy1YTVJZbUNocDlzNEpCWG5uRE13VWtwWnE4RnN2bXdKdEhRME5xbWZKbTE3clljazRTOHN3ajVIMGhwOVFwcUpLUUh1NngyNC1rTDYzdUtzLTFtejJ5Wk5TdmtnQWYyczVidzgxQTJhX1FtQ01tM3JfQm1Vc01ySFQtVmhmbFFkOELSAfYBQVVfeXFMTTJjdUptZEpQeG1yQjhWaXk3eHhva1RFYmJjcUdJdm9NNk5zRGtCNi1VZzNzVDk1dGRyZFVNNWRVaWlsQ2FwSUNNcXI1MzBWd0d0ZG5FYVY0alh6Skg2OTdpZWpQSExRdFhCWWNDVEFURHdzM1pONUxzQ2xCN0d6aUs5Y2M2Ri0tbkxuUXYxZEVOVDR2QTh0cnNWRHVZVTVjM0JNc0NyeVVZb1NNNldUV2w1bFlNVC1UajVJYkU0ZHNlOFhUaTRjWWd2WUNQUjVoVVphX2o5UnlCOE5ZWV9ON0F6MG1lMWdBNURQM3JsUl9lSFUxbUtn?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic raises $81.3 billion in record IPO, surpasses SpaceX with $1.5 trillion valuation | Hindustan Times&nbsp;&nbsp;Hindustan Times
+
+### [Anthropic IPO: Claude Maker Prepares for Biggest IPO in History at $1.5 Trillion Valuation - TipRanks](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkd3c25Ncmt6aW5la1VzaGJUMlBWczhkUVZGaG5FbGlCMndRLWlpQm8wMVNZZGRaUlRuY2hmeDlEb2xGcmpVOEdDTjdRbnE2RXRSM1REMnNiTTVqZ3pkbkJDY3VzSV9nVFdITHhXUEFhS1c1d0Y2R3oxdldyT1hTNEFqQXVrYmgwbk1td25sem1KeXNpb2Vxa3FuM0RHdzN5dl9pMEt4Y0RKYV9RQTlrTm1kcVpzVkFvc0E?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO: Claude Maker Prepares for Biggest IPO in History at $1.5 Trillion Valuation&nbsp;&nbsp;TipRanks
+
+### [Anthropic (Claude) valued at $1.5 trillion: The stock market bet on AI reaches a new scale - Idéal Investisseur](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaXdfV2RXUXZPamhlZXQ4eVpoTFlYWVlfZ29JVU00ckgyaXU1OGlSSEhiZ3d5cGVwLVUyQ2JlZUY3RmtqZTQ2cGxzSGZPeUNDYmpLa1dCcS13aEhfRS00YTNFZy00V1BIU3IyVlF2a01QN0tGbDZjWjRPam5lMklqalRRaFFFbHNXWndOZkM3ZUhaSno0aHRPTWRXb3FvZVQzbG5sT3ZBU0JaR1M3b0M2ZGNBeUJiWVU3UE14S0UzVnQzN2FUaVpka05fN0xYejJ1RXFqdkdLR0tPQ3lvOFFOMHRhdUxNZG5XYjQ4UVR4aw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic (Claude) valued at $1.5 trillion: The stock market bet on AI reaches a new scale&nbsp;&nbsp;Idéal Investisseur
+
+### [Investors scramble for a piece of AI giant Anthropic in blockbuster IPO - NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0doUFFYbC13ZkRzVklYaXZncGdPM0IzQUR6QnRGRmxDdXcyaGJrNnlIUWZYQWdnRXd2RnBPc3E2RUQ5RVh5aE9nYm0xYkhYLUN6SktFUFBuekVSbnhMMTNGSlBfUnFCU1B5YkRERnAwUFA5ck44ZnBNdGMxdzZtV05NMkhpTHV3ZGZBaHhB?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Investors scramble for a piece of AI giant Anthropic in blockbuster IPO&nbsp;&nbsp;NPR
+
+### [Ashton Kutcher could become billionaire after early investment in AI company Anthropic - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWE92a2hsbW1jQllGQ19kX24wbjQySTd6dE1pdHJPWjY3aHZmWDFFSFVWbXdQOW1selRNV1ZSSHZIMFlpcy0yekFKUlNhdjFmQ1RNOFllejAwdUZrZEdDUzZNdkFuOW5CakloNG4tLUhSZDZOZzZtd1JPd1RfMmUyX25oREdEeGVPRDgyVE1oeHh4dFlwMTlseFhXQ0FXMGpra19QOVlWbGZDTFFSOWc3ZThFSnRTemM?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Ashton Kutcher could become billionaire after early investment in AI company Anthropic&nbsp;&nbsp;The Independent
+
+### [Anthropic listing today: How Indian investors can buy ANT shares and what it will really cost - Livemint](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOEVUWC1XTGJNUjVqamZmd3MzVHR3T0FYSXBYVzRRbUl2WngwOEw4ODQzVklBUFdLWnN6V0loR0dsTDlnUVhTSVQ2SEhUT01OR0xnV2ItWWRTc3EwbjJ6QV9ySzNiM3dqMnEzeFJNU0NERk5CLWVGR2dTNy1oemZZQlRxSVdjbU1PVFlHOG5VSUIzTWE2cEtkeG1UeWRSaW1YVEVXQTNGczFLbDRGa2lMcndmaVM0M3laX0VfMFd6LVFZVDU0cEZmRzJ6cU1KSFdBMnduYXZzbnkwNmMxZ29WcW9acFd6OE9wekRFbllsZ9IB9AFBVV95cUxOMUQtQm9BTlJmZWw2TW9OU0FCLUNZMlFYeGhMZkttMFBnMWdxeUQ1MlY2VWFEbzR6LVdMLXhvcF9Yck5iZjZfMnBGaGhMQTBzWHFuUGNGRE5RYkNoM0t3STFCZTN6dnJvNE53c1BBYmVlVDJTUUpTNTZ5VDN4QjdtdkJFT1VKV1M1QlhhNlNRMG80Q3ZlcVB3V2YwY3Z3enlZdkxJLWxDRTdiSHJWdjYwbDhiZHE1Z0l1UlpFMWlLSVNfcEJVVExzN1F5MTE2LWdXLVkwMUlqdVZHdEFvcDZnNnpwYWNsdGpLMkZDVUo5aE9KZEEz?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic listing today: How Indian investors can buy ANT shares and what it will really cost&nbsp;&nbsp;Livemint
+
+### [Charting the world’s biggest IPOs as Anthropic overtakes SpaceX - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxORXdUdVYyRklwcFRuaUM4MVhJVTZVY3B1MERYQzJVV1pvWU9ISmFtX0ZPcGd5TVY5OUJkRzRhdnI0X1dxNm9mM0ZaNFBNNVRnVUJCTGhWRGpQZk5QYW5uRFVoZkllWW90UXlhXzUwOElLbkN5eGxvOE9GTmUtck9WcHlYZzhycjVGREtpYXpIZXpvc0FZeU02ajJaUmZTX3lFRlUxUnRvONIBrAFBVV95cUxPaGxtVDV5ZzJLYVVDdWc2OHo2bTlhYUdaN01ubWhnMEUtSTd6am9MRU5jNGVhY2YxOWlkVk1vSnhuTlRiWDRjVV9lT1RHM29pd0lQWmhhNTdXc2VDUFBxWWZpRFlMOE8ta3dJNEdBcEZBV3VyVlBxUzdnUGVtUGNucTBoUi1uU25tbWwxZk5GRWFLUDdhZklXMXllSWJtdmxRY1Z4NHZPTG1QYWR1?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Charting the world’s biggest IPOs as Anthropic overtakes SpaceX&nbsp;&nbsp;Al Jazeera
+
+### [Claude is cracking down on abusive users — and 1 in 3 Americans could be in for a surprise - Tom's Guide](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjI1VkxWRVpVeko1Qy1VM3dWX3gwUC1IeGRZM0JtdkF4ZC1lNHkzSUNTaXZKaHI5ZEVpT0lkMnQtNEN0NWo3TlpqdFl2MEI3Q09XUGhQS3RQb1plb2dLNm5YVFR1aHhSOFhTTmV4QkZfZkJkM1diYURIdkxsbFloSm5ldU5hSHFtTXB0cEc4ZUdTcTdaZUNmWjlteE9hR2lVRWNVOHBHWGtoekZLWm1XOHNxcnZOa3dN?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Claude is cracking down on abusive users — and 1 in 3 Americans could be in for a surprise&nbsp;&nbsp;Tom's Guide
+
+### [Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut - Bloomberg.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut&nbsp;&nbsp;Bloomberg.com
+
+### [The Biggest Winners in Anthropic’s Landmark Public Offering - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEROWDAyTlh0N2FsV2c0SlMxUXhIVFptMmhvZTBzaVJpMTVsLU5uMUp4UTJ2WGN5SXNDMzJtSlk2ekEzZXNKYU1uUnZpenVjcUdfSU9pNm1DVG84MnFqNUs1UlhLQWhXMnZNLTRiV2ZRa1JUSGhGSE5RamxiY3NybVhHOVhkSm5IOTMyRWhhNFRpN3I3YkJkSG9lRHE0VlFIbHVLMkoyaEMwRl9yNEZZ?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+The Biggest Winners in Anthropic’s Landmark Public Offering&nbsp;&nbsp;Bloomberg.com
+
+### [The Rocky Road From Aggregate To Per Share Value: Anthropic's IPO Update (ANT) - Seeking Alpha](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamdGeDYydmc5RDRPWXl4NUVEcFpBODJJMTQweFRYektuOTNROGdNQXBYX2x1NE53WHB6SlV3ZVNfaUszMHlFeklLdVkyMEY2dG1CTHUyanMtT0V0dms2V2xXbWh6TWFOeGxVWEhBUVFOY3V5N21vdDNwYlJvbmlCRnpRdUxTS3RfZmdzeU1wLUNLNDNIdDJya3NGMnR5N2hGenhTcWdoQUJBYU0?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+The Rocky Road From Aggregate To Per Share Value: Anthropic's IPO Update (ANT)&nbsp;&nbsp;Seeking Alpha
+
+### [Anthropic’s stock market debut marks many firsts. Will it boost a struggling AI sector? - The Indian Express](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUJOdlNZVjE3VzBlNDNmMU1iZ1I4QjVuV2h6MmhjUXRldUtnOUhmakxBVXRiQmRnaU9obERmM1RDTGZGYW5IVjNqaHJIM1pTSzJhdVJ1b0twMHhUM1NSNl9EQk5raHdma1l3VXVpclY2eElGTkhMU2twdTRHT0M5V1hUcUZHa1RreVM5OXN2YXdvZHUzX3FHcy1uTjlkdS1heXdfeHlURkt0RDlwSVVhbVNEWWVqdHJiX3ZNMNIBwwFBVV95cUxOLTVtMUhZdkZZOERSZ2wtN2tNWWh3NGJWY0hNdWQ5RUNXS0dsVDNWNkVJaGFpUnh4X0wwNHhaZjJWZEhuWUVOTkdBZDV6QmJOU21CN2FhUThFNlpvTk84ZHF5c05pc1pZY2huNGhKMHdKTWlqZkxDTUM1QnNJMVNwMmo0NVhoZFdZZXVyV0p0ZjJJUWdIMGY3Y0djeEVmekRlWFFRWHZKei1Jc3NsQlZiaTY0QTZwU3cyYWZ3UUxrbnF1b0U?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s stock market debut marks many firsts. Will it boost a struggling AI sector?&nbsp;&nbsp;The Indian Express
+
+### [Anthropic’s AI advances trigger new safety fears on eve of IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2tHUWtySlNwcXE4MXdQYTFOV2dQQ2RmTkM5Zi13ZmNMQWFVSmFsbmxBeXFyMWJwWURZSWJxZ1o0OUFnZlFWN3cwdVFtUzdwSXIxakNaUDBZeXNfWS1TaUFON2ZpSkRmbmJac0M5SFVyT0tBeXZLc2tfbFN1S3c1enBVcHc?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
+
+Anthropic’s AI advances trigger new safety fears on eve of IPO&nbsp;&nbsp;Financial Times
+
+### [QUICK TAKE | Meet Anthropic’s Seven Cofounders? Seven Things to Know About the People Behind Claude - Open Magazine](https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0VkVjM0dFlvbHhWX1dWbUR3cHliN3RaVFJ5TlN3NU96X2RLenk1QnVOS2VINnpHYmlBMlNkaDM3WkFiaFlHQnpkSDJLUjF1UER4SFVDSkU2ckN4WlNWc296bVJub3VjZnF3TjZxRWVhZTJweDEyVGlPY0hQWGthYmp2Q1EwVWFwUE9FcWZBVC02cktwN3dlcW5mTUJ6ZDViMXJ4a2xIaHJCRHY1d19mMnRHRU5qU2txQ3A2WUJhVjVZWjA4T2JLZnRhdEdOM00?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+QUICK TAKE | Meet Anthropic’s Seven Cofounders? Seven Things to Know About the People Behind Claude&nbsp;&nbsp;Open Magazine
+
+### [Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - PBS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU03SllseEF3VVN3d3BKNTdnUGlTd1o1TUZZNG5NdjNvc0dHSE1veUwxdUhMNFJGbE01QlZJZ0RZNGl5akZYNGlWVVVXLVAxdkRLVjRHWUdyQXdNYjRCa29OeGtJS2tjWUNCNEJreEtuVXptOE9BQ2hHWEwzNmgyaU1DeW5fOGJYTVFEbnNEbThSV1lKMXNzeGotazNsWHBEZk1Mc0xUXzdqcDVoaE5EWkdESUw?oc=5)
+*Nov 19, 2026 · Google News – Anthropic Claude*
+
+Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion&nbsp;&nbsp;PBS
+
+### [ANT stock update: Anthropic share price, stock trading time, and more for Claude maker’s much-hyped IPO - Fast Company](https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3RRcVVxdXkwRTYwSlg4ajFFUGlhaEpZUm5lR0RHYldlbE01ekI5dE9HVjFudHVOUi1zZldMUWRIOTR2ZDk1WFJmSTJ3M2lSamV0MjZHVzdfb2ZBSzE5M3hyY05GdGh4R0Nka2hoWVNseFlDeVNiUHdnN3diRVhXVXEtU3ktd3l5SlZRU2FCUVo4Wk9jVjlodk1hSQ?oc=5)
 *Nov 18, 2026 · Google News – Anthropic news*
 
-Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump&nbsp;&nbsp;Reuters
+ANT stock update: Anthropic share price, stock trading time, and more for Claude maker’s much-hyped IPO&nbsp;&nbsp;Fast Company
 
-### [monday.com Platinum Partner Workiflow Joins Anthropic's Claude Partner Network as Select Services Partner - EIN News](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMTlxeTBUaVA0dTZCQnNIMUsyenRrUG9SMjVPY3dzUW5qZTVhNGNDaEphOFk2UDFyb3E4VkVUaWV5cHo1TWg4dm5XWU9mS05hT09nSjNiU1BVdXRTdzVmYVpFRUVyR3pKQnN4d3JhX0hTWnp3Y053YjZya0dwdHhESzNIZTd2MXBkTUlnbzE3ajQwT1VNZzFpU2lFRGx1MW1vdmJDY3F6d0V2VUd1TDBVSVA2ZzRuX3BEQmhoVUVhY2k5ZnZDUUt0Vmx3VmgxQXk5aDdVNUVXSEdJeXRjeFVjVA?oc=5)
+### [Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - Korea JoongAng Daily](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHVUTGNxNk9xdFlEd251aVN1dzgzWjNmYl9xeFVQYmpOdzRybF9reDVUbDhOeDRmYjdZazdWNkQtR2VqNTJxVVhtcm5YazdFZnp0dXY3U1VoZG53ZG9pZGhrR1hES1Q3QnMxUEJXZUUzRXBlNllVTmdYUEZiZXlMaG8yU3dfWVJOYWNUM0c0bFZNMldXOWxZdnplYjhjYVVid0p1U2V2R1V1aTRRRHYwNlMyUVpLTF9GMUJjVy00aERJUDV2RmY4aw?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-monday.com Platinum Partner Workiflow Joins Anthropic's Claude Partner Network as Select Services Partner&nbsp;&nbsp;EIN News
-
-### [Anthropic’s Claude completes a 16-hour human research job in under 3 hours - CryptoSlate](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFlOWUxIS3NnaXBfQmo3TnRfUGtfYkQzUEhHbTEwVHZMNWtKSG9wMm4yWm53RFZKbGlUNno2X1M4V201bTlVcFBBOG1SNnktbmQ3eFFXdE9pbTdrNzVQeUxsX0ZMTXlPYWNySWxGc0xXVm1zdnh0YmJJMTFYS0JiZWdmNDFTMWNuMjV5U3VvVHZoWGRoZS1kaFFrXzA?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude completes a 16-hour human research job in under 3 hours&nbsp;&nbsp;CryptoSlate
-
-### [Claude Watermark: What It Means for Your AI-Written Text - www.techcityng.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSDVUeUZyVjdXWm5nUFMwaEJEVDJ1U190SzZfTmlrX2tfMFU4VUJlRkJyNm1NbTVoT25HV1FWWnYwdVZUeWc1YmlzeWtLYUFrbnZlWnpfMzVvMEQzR1E?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Claude Watermark: What It Means for Your AI-Written Text&nbsp;&nbsp;www.techcityng.com
-
-### [Anthropic’s IPO: What Claude must earn to justify $1.4 trillion - FXStreet](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWNjc0U5LUtHNXpHRUxBYkk4OWJNS19DVkhadzVZaS1pTWpMd0xTejNRc3EybjJnR0pzOWR6cDE4YkVjUnhLdDJ5RURvWXB1TnJKcVZwRXVlTzlNUDNFQ0gzZmdwWW4yUG9sSTlPUkhCaUV2RUFiQlY5VTZWWlNBbDJULXJNUjBQMUhQWkxRcm5nY0s3dV9iU3JuUndvdHN0aDUwQQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s IPO: What Claude must earn to justify $1.4 trillion&nbsp;&nbsp;FXStreet
-
-### [Cybersecurity: signageOS Uses Anthropic AI to Secure 180,000 Screens - Sixteen:Nine](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkQ1aFhRc1FsekFXVEJKMnlFNnFudDhwelBOT2l2eGNVaEdZSDQxWENvelBaMjN3Q1RGMlJjMkZNWHpDaUdzYU1QR09ockI1SzQxQ0tsSnk2c0ttbkFyT0dmTFB4VVUxc25TRER3Q1p1Q1lnajF1YjFxNzZOdTJfNkl5Z0pGZVB4RWs0aW00ZkNxcE5ENUJVdFdTVHAwcVhxMnc?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Cybersecurity: signageOS Uses Anthropic AI to Secure 180,000 Screens&nbsp;&nbsp;Sixteen:Nine
-
-### [When is the Anthropic IPO? Claude AI Maker Expected to List on Nasdaq November 19, 2026, Here Is the Share Price - Aktualita.co](https://news.google.com/rss/articles/CBMid0FVX3lxTE9XbkZkMDYwSkJOWVN3c1RaWXZSaDNzM2NXZ2JmS3prNkRycFJ4THR6NU1hN0ZPUC1WM2d2Q0tWVm5Zby1PRTVGVU1IaURfaHptMXhaSDFWY1BQSE51MzRsNWphNnRZcHBXaHlzeWp1WG1EbzQwNURj?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-When is the Anthropic IPO? Claude AI Maker Expected to List on Nasdaq November 19, 2026, Here Is the Share Price&nbsp;&nbsp;Aktualita.co
-
-### [Anthropic IPO Draws Record Retail Investor Demand - The Tech Buzz](https://news.google.com/rss/articles/CBMiigFBVV95cUxONFVCTlNka2hnUlhBV01XYmhFR290dUFELUNUX0s1VmFjRlVSTllPUkFIMDhUTk5RRE5jTWZiUHRRQmtnVWoxVk1zY0NjRTlxaXpqWVhDY3pycW1wN2tXdGZqOXJxN3ZXWTIzVEhIS2I4eU1nZzRNcWsxeHNhTnRBb1BxeFdrOEtBdnc?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO Draws Record Retail Investor Demand&nbsp;&nbsp;The Tech Buzz
-
-### [Anthropic updates vulnerability disclosure policy for AI flaws - MSSP Alert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmRHeEcyY01QcTVMb18tVGFNWFVxN3hrTzdnZ3hDSjVMT1RBYUNFRzBfTDRZX3ZrdHNVczhmcmJhWDRHTV9ic3NRUXY4eUZxcmtqcnpRbnlrQnREYWdrUlAwVXk2aUp0SU12QkFMVzNERnZhYkJNb0xRZ0h2MHMxSk11YU04cTI0VW5nbTFQay1LWUxzOHRXbDdYTk5WcmwyTUU5bHZSaw?oc=5)
-*Nov 18, 2026 · Google News – Anthropic news*
-
-Anthropic updates vulnerability disclosure policy for AI flaws&nbsp;&nbsp;MSSP Alert
+Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion&nbsp;&nbsp;Korea JoongAng Daily
 
 ### [The seven Anthropic founders who are about to become multi-billionaires - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE16azJRXzVWcDI4aUdNN2dJWEhRbl9xcVdQeVgyQzlsa0RaaGdYY21GQm1lNDlZaFdIMjVxOGZBTjVadVhiLVFBNHVSN2F3RG8tSllRd1NwNFhNUlk?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
 The seven Anthropic founders who are about to become multi-billionaires&nbsp;&nbsp;BBC
 
-### [Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic -- Update - marketscreener.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVJyaUdyQTNrdUk4QTZtRXhyUVVzdXdPb1pnblhMMU9UU1YyR2o5MERHdmRfSU9IdGVaNGF3bzN4d255Tm40Rkt4QjlNS3oyaU5QMTZJbGVkY2ltcmlQbmxremtpQTNNdFhkMUlhb2x3MExYcUpOTEltbmtmVUQwX3VwWlVqd25KaE9PT1dsZnVJc3dmY00yZEMzUVNET1lQOF9Sc3Q0VUw2bmswcXpWQTJGcU5WZ1ppajItSzFMTWZaZm9iM2lQUzNzVkVNUi1hajk0WkNMVTg?oc=5)
+### [Anthropic raises $81bn in record-breaking stock market debut - BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BUFZ2N3hWaXQ0ZW9RZU5vRk5fUG1nNWpKZ0tsR2Rkbi1EeXVycDNxTlNKR2E3dDVKc0NVNGNEWVJRYmZnT1ZXUlY3VmZCTU9LVUxpSzlWdzNFNHh0bWc?oc=5)
 *Nov 18, 2026 · Google News – Anthropic news*
 
-Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic -- Update&nbsp;&nbsp;marketscreener.com
+Anthropic raises $81bn in record-breaking stock market debut&nbsp;&nbsp;BBC
 
-### [The money behind Anthropic’s IPO might surprise you. You’d expect Big Tech to back Anthropic. But Hollywood? 👀 Who do you think has the most to gain from this bet? 🤔Will it be a blockbuster debut or a reality check? What do you think? 👇 Dhea Eapen | #An - LinkedIn](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXVRcG9uSm5rYU4tRzZfOWZjQXFad3ltUEdDNFc4SFc5dkRYWGlyR3NtZ2l6TTNuTXR6V2Z1NjUyMnFFVmhZNXkyZ01RcEVXNW1SMEFVVnM3U2xWNWk5d25TYXF5dzdOcURTc0tuVjhiVzlDc0l0WGNLakpDbVN3WkRZTHo5R3ZkZlYzTm9MSWZzYVVMQTRnVWFlbmJjNGdNVXc?oc=5)
+### [5 things to know about Anthropic - NBC Connecticut](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVJ4cW9PQU5GdFotM29Rd2F6YmF5SHQ0QXZwUTFFRW1lUlZ6Z0hXcTduVFBhWE9PU3lzTEc1cmZHTDFOQmVDbXp1MENFMnhOSFRZX3N2TzA0NEVkd0JMbktXVFNBVEhHUFBDN3Zhbm1zWVlsa01qeTNDVmIydmVoTWg4VGx2UXNhNEFZTFZwVFMwVWVQUlpmcmJwVDhobjVKMmdxV0hYTEoyaWPSAbMBQVVfeXFMTm9ZYzNhWjI0YnhFM1lKSVZ6cGJrWF93M0tVR0VMOVNwLVFWUWY5Yi04QTFiazNaSUJ6c29kQUN6cHVBbG5IVUM3N3owTjRqZ2JFVktyWTBCZTVkUkRQSmFMZ05KX0liSkVkM2RRWFNxZnZZWmU5Z2c5bmNraFV4RDRXdUM4d1l0U3RMVXFLT1c4VjUzUHFHekRid2lzNmp5U2dXOUVBMDZqMEdrd2VwTU0zdUk?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-The money behind Anthropic’s IPO might surprise you. You’d expect Big Tech to back Anthropic. But Hollywood? 👀 Who do you think has the most to gain from this bet? 🤔Will it be a blockbuster debut or a reality check? What do you think? 👇 Dhea Eapen | #An&nbsp;&nbsp;LinkedIn
+5 things to know about Anthropic&nbsp;&nbsp;NBC Connecticut
 
-### [The major A-list star set for billionaire status thanks to Anthropic IPO - Page Six](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkhMOVpacnpqV2hjS0dCY3kwV3RXa1R6aUI2MlhlUVBHSHJHUXFuRnYtSm9ZeENNUVJoMjZLeHgxcVEtbVMtZ1dUWTA1eXNjM2J2SGZSZDJ2S252Vzl5WnBBcUZiclhUVFNOektxRUViNWFGSmFMbDd0N2hqXy1aRFpWMTBFNWlZRU9BVXlwTi13aXJkVkJncVBSazFTanZFT2tzaWs3RUc5dw?oc=5)
+### [Anthropic valued at $1.5 trillion as IPO raises record $81 billion - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-The major A-list star set for billionaire status thanks to Anthropic IPO&nbsp;&nbsp;Page Six
+Anthropic valued at $1.5 trillion as IPO raises record $81 billion&nbsp;&nbsp;Reuters
 
-### [Nvidia to Buy $10 Billion in Anthropic Shares as AI Startup Prepares for IPO - The Mac Observer](https://news.google.com/rss/articles/CBMirgFBVV95cUxOX19nUm5FQ2RrQnA5OC1pWjZLS0ktU1NOTmlEb2g3NV84cGMwVVh5cjljdG1pc1pjdlhUbE0tZ1R3dF85STZSb1lTTjZYd0hBQ0ZWV1gxWlRHaGpWQURkRTVCeFhlZzhIY2I1akRCTWNjUmFtb3NEMGRlQWk1UnZWX09LYlBkbzZfT2g0UDl6NW5zQ251cUZsNmRzSFpCdElqSUZyREhHMlhaRGN2WUE?oc=5)
+### [Another AI company is about to be worth more than $1 trillion. What that means for the rest of us. - NBC News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVQxaWQ0RXNfTUU0d1d5bXozeFJuUVpUNWdlVmVjZkVmLW9jaW9jTkd5dVk5OVlxaHRlRFMzaWxaMkE3d2ZEbjVpeVZWRFl6QUF3bDdsVHBXLWlYYXl5eFA2MUpBckNESFY1NHZNc2RqMnc4Z1QzUlR1ZE13RzJUZGpfWGtfN0NFUkZN?oc=5)
+*Nov 18, 2026 · Google News – Anthropic news*
+
+Another AI company is about to be worth more than $1 trillion. What that means for the rest of us.&nbsp;&nbsp;NBC News
+
+### [Anthropic valued at $1.5tn as IPO raises record $81bn | Gulf Times - Gulf Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3RkTXpYQlRFem5ISUtZdWp6NnVLdDZtVjJZTjJoQkZ1TFRHRlNTZVM3ZnlHMVJnQXFtY1k5VFhueUhzZUw4VlF2bXRzWVpFTzE0SDdEaFBIU0tyVFBHRFlnYkpUN0w5Uk1ROXVKbkpDUUtGVFJqeWhLQjJRZHhWSTRORC12XzZ4ZjRhbEV0SWhESk9XSnBaV2M5ZWYzcHBJUDI00gGoAUFVX3lxTE5qN1g4WmF4cGhVeDlWTUoydTlmQ2QtLWhUWG5UbWhfZjdIc0tmTGRPaW4wWkM2Um0yTXFQSG1BOVpMSFIwWUFzZXl0c0tSOWY4eG16VW1wSFlzQktRRl8wVVd6ekdNY1RTSHdVZXQ5aVMwTFFFNWkwZGowc01hTGlkbFNlTmlUZjY5akFaUGFlQnlNelRyeUJlSmVyQzgwYW1UY0Y4OEZnNQ?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-Nvidia to Buy $10 Billion in Anthropic Shares as AI Startup Prepares for IPO&nbsp;&nbsp;The Mac Observer
+Anthropic valued at $1.5tn as IPO raises record $81bn | Gulf Times&nbsp;&nbsp;Gulf Times
 
-### [Infor integrates ERP for the manufacturing industry with Anthropic’s Claude - Techzine Global](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnB0RkM1NTd6Skg5c3FiN3VVaGc3ZzdvUWozMmVFNDhldmV3ckZCWFlTa0ZzQkJMUkNQUzJBUkxEcHZFSUZGczlPX2NhLWhkRThfaVVPbXpMTXlaS0Y0UVRzWVJ4anF0RUFoaUVQd1g0UGpfWXVfdzRuMzRxOUEyU1BQWDZFNWdNSDQxTWx3WFpETjBLTXRDSFBiTUQ1UVo3NXZQQjhIdlhpUFg2OWlrbWJNcFhrbTBWVUM2WkxyWVAzdw?oc=5)
+### [Anthropic Could Be the Real Winner in OpenAI’s Latest Model Release - Gizmodo](https://news.google.com/rss/articles/CBMingFBVV95cUxOSUhzOE1iTkY5emJlMndKMmFOcWJYUDhjTFM5TEEwaWZBclFadWRwTlpZODZZS3V6aWpPTEhTb1RNMUNVem90NjVSaDhIcVFFZmE3clZfQzVnQUFIYkNnNndPVzNlaWFteGdkalJXRFJfQVdhckYyOElhM1JmYUZNalA4dUVnSzdINzdjOC1pT3BEcWFsT2UyY0FGNWVKZw?oc=5)
+*Nov 18, 2026 · Google News – Anthropic news*
+
+Anthropic Could Be the Real Winner in OpenAI’s Latest Model Release&nbsp;&nbsp;Gizmodo
+
+### [What investors should know about Anthropic's unusual IPO - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXotRHBaOFpMdjhaN1ZjaTVUYlk5R1dVeV9peE4ydGstX1E3NnJuX3Y1Y2pRUS1DRVR6cDZwMk1XTV8xRksxdWprV3hhQUExZmJzWGtPLUhUY2s3a0VmYUItTTVZVE9nX3dCSU9iU2VfM2ZUWG93c1ZWYkp1cy1BStIBhgFBVV95cUxOc1cwUm52ZVFiNFZKQ2hWYXpaN2NVZ2ZSTG52M0NtMnZvNVN5bGxTaXM2SUhLakkyZnFTdmtNYWp3OEFzZ2NSYlFyTXppRTM1MnVlNTVXYWRhamhiR3ZnWU9RN0gyX2lqZjJDOUtMMnd5WnpZbnQyaHBUSEw5WGVrU0VEZXowdw?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-Infor integrates ERP for the manufacturing industry with Anthropic’s Claude&nbsp;&nbsp;Techzine Global
+What investors should know about Anthropic's unusual IPO&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos
 
-### [Infobip launches verified Claude connector for multi-channel messaging - Telecompaper](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVJMSUlzQUhKZkk5WG5GdktnNWwxUjFuRWxnVjdCZVBfdThRUV9BUDBydk13TmNTd3MtdFpQcndtSWJqSnlXZnpMYW05MUV6bnRULUUxT2NmQ0x0TGZFc3hzU0NIV3BPTUNuSkJTZG1PYmRLY2Jlbm1RVXlLTWp0QS0yV2p3azZrelVqekdZRi1YVUZ5cEV3bS1MTkkwTkxzcGRCMl9NQlcybGVBR05kSzdYWQ?oc=5)
+### [Anthropic Sells $81.3 Billion in Shares for a Record IPO - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-Infobip launches verified Claude connector for multi-channel messaging&nbsp;&nbsp;Telecompaper
+Anthropic Sells $81.3 Billion in Shares for a Record IPO&nbsp;&nbsp;The New York Times
 
-### ["All Humans Will Become Unemployable": Anthropic Researcher's Warning - NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmt2aHYyTVZDdDZLMWF0bHVJcEl1OVVNcVZTaV9XY2xkVzFXYnZfX1JCTzZPSGR2cGgxeTBvWndwV2ZhekJ6Tk9tb0JhR2k1Ulh3Wnl5c3hIMG1YNDBVLWR2OVFDZ19ZclFCNC1PR256dExzdFdOM3YtYW9DRkR2MDVkcjFWV2dtR3oxNEhMMlAzelBIWEd2U2dTZnU5WF95cnhTVHdTRWVCRDJKZnBZcGYxSGpCZ2xLRTlZ0gHDAUFVX3lxTFBubTlsTTBEc3djZVZZcFNZVnMyWXJQYXZrQllyNWVGZVlqdUFmZlF2czRSYjhhOTdzUkItWHN5T3EwVVdiVjhEdElTM2xtbGM0NXlDb1BGdkdTNExiekFYaG9ZU2l2a3QtTVhyOW9tOVEtUWNFa2xpZ1YteHdZRFFsSGNtQ1V3WEp1T1NBYWRMMVRQM0wwMEhrWUl4OG0wQUhfN054azBlZHBSNkhqRUJja21LQk85SnhmV0tWOEdrU29ORQ?oc=5)
+### [Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-"All Humans Will Become Unemployable": Anthropic Researcher's Warning&nbsp;&nbsp;NDTV
-
-### [Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models - Axios](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models&nbsp;&nbsp;Axios
-
-### [AI's one-model is ending even as Anthropic goes public - Quartz](https://news.google.com/rss/articles/CBMieEFVX3lxTE10cURMZjZZMW5zenlfYjY0a2sxSF8zVEZMaU91MzdLVXMtOEFIaXNObzRHQnRwOWZMZnhIaFpYRl9pdElfTmwwRHdTOVlwVk0zOHp0YTN5OXM0aVptV2IzVndOZmJFQnhmQU1vNGsxNEhfWUp5U3RGRw?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-AI's one-model is ending even as Anthropic goes public&nbsp;&nbsp;Quartz
-
-### [Malaysia wants Anthropic to explain AI use in influence campaign - The Standard (HK)](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTk4MVRpdXBqYWJUbzNReWR4cHN5MkJQRm95ZlUyOUpERUx5VTZPTDhINTdKZmx1eDZlaXNIUlI1cUdSUURUTG1JU25zaDNaVzJ0NF9qNHRSR2VVNTctX2g4VGRZVmlCNkhicnJkRFVrckJWQkRDbm5PeHZoUGdSSG5BTEcxYmc5cXJZd1BZTFE1MGdKZ1R0VldvenFlV1hCTlZZenFWMUt2X0lHek1tUDdwQTZfOTQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Malaysia wants Anthropic to explain AI use in influence campaign&nbsp;&nbsp;The Standard (HK)
-
-### [Malaysia wants Anthropic to explain AI use in influence campaign - CNA](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYlQtMHJoMnZNdEI1d0txRWxuWkFhaFY3YzJ4aHRoOUl3cVluZFdSLTFuNjU5WjFUX2FMOTRxM2NJNHlXZllUeVl6Y3lmQy1IWXhacFliWWxaUWFfMEduaVJXUng1YVdxeF96VmpUTW5FTmVOd3JSVTc0VzBmcjhSTnhWTmVTZUJiNC0yR1lTSHZwc28?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Malaysia wants Anthropic to explain AI use in influence campaign&nbsp;&nbsp;CNA
-
-### [Ashton Kutcher and Madonna's Israeli manager: The $7 billion Anthropic bet - Ynetnews](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PNzlWZTltZF9haTgwMDZJeFAwUnJ6SWpWYW9VeHNOSm4tZTRXS1kzM25FY1g5bDcwVXgtNERPX3hoU0xDYnI3NXNxUXFUZmRQQzE4d3E2VVRTN0lRYVVPaTJR?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Ashton Kutcher and Madonna's Israeli manager: The $7 billion Anthropic bet&nbsp;&nbsp;Ynetnews
-
-### [Anthropic forges ahead with its IPO even as AI fears mount - 1News](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVZKVWRaYXpWUHI1UjZEckVoVlpRb0pzUlQ5a2NidUtKX3dpalptZkNVNnc4NFN1R2t0aHJVS1VyWllUaGhyNFhPallTaF96YlRjVHBCWEdMN3VHZWNWblJrZXdFMkxTcTJOVjc4bmZmX09OQ3BTYnpEQ2dwbGtIWEwtTGdHWm9HU3R6aEVVTUFUbjBmYTIyYVln?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic forges ahead with its IPO even as AI fears mount&nbsp;&nbsp;1News
+Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX&nbsp;&nbsp;CNBC
 
 ### [New Claude Whiteboards Designed to Help You Plan and Brainstorm - Geeky Gadgets](https://news.google.com/rss/articles/CBMibkFVX3lxTE91ZFRyV2poaHRuMkxNMTV2bVpvYlJWbTgzN09GUkQxSXN5bk54ME16VDg0cGJfWlA0VHEwYjVtOXUxeFE4RC01T3lFWDYwWHBtSWJsa0czQV9HU2tIMVhpemtKLUtiSC1ueks1MG1R?oc=5)
 *Nov 18, 2026 · Google News – Claude features*
@@ -145,70 +290,10 @@ New Claude Whiteboards Designed to Help You Plan and Brainstorm&nbsp;&nbsp;Geeky
 
 Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript&nbsp;&nbsp;MarkTechPost
 
-### [What if Google Gemini, Anthropic Claude and ChatGPT face Major Data Breaches Millions of Users could fall to Risks - Cybersecurity Insiders](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQlNSMkhiRXB2aWRiV3pmZDMyOEpSLW1QcGdGOXhjUVpLdGhtMGhZSVlwR3cya01EUW9uV3d1R205T25KeTE4dlNyMWhkdEFLU2JBSGZwRmlTdmJyZWhFa2ZQZkhYVGJEYWRDWGZXQlNGbmpUcWczV3h1bFN6bWVCX1B2Umw4Y1drbHdTemtsTlZlVkhGb081WG4tMHJ6SS1KcnMtNjJZY2lNYjZET1B4NDVQZ3VNcWlxbVZsLUVxNWZrd01QM0VPaFZXbnJKUUhYVGZxclloSzlVbk1UeS1kSU5nUVpTaUFM?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
+### [Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5)
+*Nov 17, 2026 · Google News – Anthropic news*
 
-What if Google Gemini, Anthropic Claude and ChatGPT face Major Data Breaches Millions of Users could fall to Risks&nbsp;&nbsp;Cybersecurity Insiders
-
-### [After the Nvidia crisis, Anthropic’s IPO is AI’s biggest test yet - The Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeHY2SVFYaWY1ZDBETkU5Y3JVMU5KR0w3Snh6U0sxeFpIMEF1enNVeGZYSWx4OWNpRFlUSHh3V2NuRGJRZXNRX281ZFF3VUMyZlNpcFRRWVoxYXhTM2VkUWVwMXFZeDNUVlgwWEhWdTFGRU1aeWVCQVRISlQ2UldIWU4tMmpKc0VndFF0b0VoUGZIM3NHVHlXdUhVOHhHOGpXQS1YdmZVbWZhWXJPODhNNVNWaGc4S2tTc0RUdmJIeWdzSzh6UHFvb2F5Uk4?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-After the Nvidia crisis, Anthropic’s IPO is AI’s biggest test yet&nbsp;&nbsp;The Times
-
-### [Alarming study exposes AI models repeatedly misidentify civilians, schools as targets - Israel Hayom](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHJHYm5IYlJacGlUV2RMWlMzbmRoNDFDejV2a2NfZzI3eXlRLTZLYTBEUWxsX3dpeDktQUpHUDMyUzFVbHR6SUpRdnRxZGlQQ010R19vRVFMajh3YzJkZi1OTF9OTmpNeTlETFk4T0hRZXdYVm1YR1hCSTBIRndUSjVoRE84WHdUNzFFU0tJdkpuQQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Alarming study exposes AI models repeatedly misidentify civilians, schools as targets&nbsp;&nbsp;Israel Hayom
-
-### [Anthropic set to price IPO in key test for AI boom - France 24](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ00tbW1fTVBxSTJxRjREUGxVbmlSbTBtRXFXR1pEeHBIcWRFeWxDWk1IZ2JOQWREWjhsRDJNaXpVcHZuZU04VWx3akxDVkJaYmRKMmRNSlBoS3RmcncwdTV6OVNpNXFObGxQcmhQaTRZd3dja09Bem1EMk56ZXg2TDhEdWp1YkQ0emZjZEc0MnhYVXlSaFNrVWxtRkpmQQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic set to price IPO in key test for AI boom&nbsp;&nbsp;France 24
-
-### [Malaysia seeks details from Anthropic over AI influence campaign - Yahoo News Singapore](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEk2eXh1aDZ3QXlic3o5bmlYZUdKV0dNRXBhZGJYMW05WExFY3Q4eEw5amF2TnhvUWR1YTMzV1ZrRzZJMXhfRFlxNkNjb3c4R3JlU0cwczRtcV9mNEg4UHFFNTVEVlo3ajhxeDd3TTFJbmFRNEtaSUE4bEFOckdWUk5KbThpNGVTV0RqcVViYjVKdUZmSlkwVWUxUUdvMlliVlR0YXRJWUM?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Malaysia seeks details from Anthropic over AI influence campaign&nbsp;&nbsp;Yahoo News Singapore
-
-### [Malaysia seeks details from Anthropic over AI influence campaign - The Straits Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3E0bWFJQktTZlNSMDItRDNVWHp6anNoWVVhajQ5dVVfRW4tdXRlNlhmVVRtT21iRmVJUUw3d0RrT3kyb0hKcDlXQ2ZvTzl3dEhlajFpWkJnMk56NHljLUgtaDhiVkZJTlNkMmU1R3NqX1VlWTNyLUl1VmIwanFhdUs2VmlFN2hqdW1HRUJtaUFFZnJKQS1pMzlNaTQ1bEFxZlhZR0habXoyUQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Malaysia seeks details from Anthropic over AI influence campaign&nbsp;&nbsp;The Straits Times
-
-### [Dario's Most Anticipated AI Mission: A Complete Retrospective of Anthropic's Biomedical Business Layout - eu.36kr.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcmF6UWd1bU9fR0xsTXFOaWJWd21LdEI5aWp6ejN0VEhYa2NxV0ZORFl1OHNwOXVrN24tdFluOGtPdTF2VVRYalNEU0YtdmduaTFR?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Dario's Most Anticipated AI Mission: A Complete Retrospective of Anthropic's Biomedical Business Layout&nbsp;&nbsp;eu.36kr.com
-
-### [MCMC seeks details from Anthropic over alleged AI use in political manipulation targeting M’sia, Parliament told - The Star](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUXBnd3FBSU1EeVBIUDd5Snh3SndXZGFreVhFNnVsLVVhX2pvam9HMFk3NkY3bTdOWFhlOFoySTVBa1JKcldQYkN1dHQ2dDVRMmtaWGt2MU9ZbXAwQjlWM3daZENxM19ESFFabjJiaEt4VUtuWjl6UkxOcTFKM21hOG9SWDlycWpjcE5YR3JfR09qTFl6d1ZiMkVRR3pDa2o0UEpUU2VSZkxQRGRlVWxUMkxaNEw2QlZMZzRHNFFKTFhBMzFXSlBpeVI3c2dZZEdiWDdrd3JfT0ZLb3d1SlA2NlRLZGxJSFVNMEcydDNuaE5oUQ?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-MCMC seeks details from Anthropic over alleged AI use in political manipulation targeting M’sia, Parliament told&nbsp;&nbsp;The Star
-
-### [Anthropic extends free Claude for Teachers access for U.S. K-12 educators to July 2028 - EdTech Innovation Hub](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmZnN2ZxMUs1MndOUy1XS2dEMDVIUzJJSE1QaDZoV0ZVWk50QUctYmJhbTA3a3ItamZsNGU5N0VxRXJWM0Z6dkZOdEZPZ2pJY21LVEVwaTVOMU9YcEM5OXUwSHhxRkswOXhTTjFJd1NkSmQ0Z0JrTFA0a3ppM2tJYUxKakhBcWpNY24wRm5COUFFNkg0YllCSVV0UzlxaXJ4bmFjaEsyZzlOVGxDSmpIU3ZwRklkZHlnOVE3NThGUTFKTE0?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic extends free Claude for Teachers access for U.S. K-12 educators to July 2028&nbsp;&nbsp;EdTech Innovation Hub
-
-### [Anthropic IPO Live Updates: ANT Debut, Pricing and Valuation - PitchBook](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ub09jZ2g5Q2lwd3pLaXBOZTVsZFBOUWdObFpsODZCZEVsOFR3Z2d6UGktdENJMnd3MzBMeFhvc3dMVDBNdTZlTXYwZ0s1NUZSV1V5Zm1YZy1sSFpi?oc=5)
-*Nov 18, 2026 · Google News – Anthropic news*
-
-Anthropic IPO Live Updates: ANT Debut, Pricing and Valuation&nbsp;&nbsp;PitchBook
-
-### [Anthropic v OpenAI v Meta: who will win the AI race? Here’s what to watch - Switzer.com.au](https://news.google.com/rss/articles/CBMid0FVX3lxTE1CMF9BYVZTNVdGQU95UzY1SzI1dFZhQ1JaX3puU0pwRnhJY0RiUGpTTEpvX0ZIeFlFNW5RdU9tNElfYTJZNGE0MjJnRVJOZ2x4WVQyZUt6UmNKR2hEU0xObUdFaEdhTktGazVDQUJ5VUphUWNzMlhV?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic v OpenAI v Meta: who will win the AI race? Here’s what to watch&nbsp;&nbsp;Switzer.com.au
-
-### [OpenAI undercuts Claude by 95% with GPT-6.2 Astra in Anthropic's IPO week - Dealroom](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTk8wcm0wVUlrQi1WeWRQMkh1U1FZRUFPOXF3eV9pNGNiQmdpZ2JQUmxHU0xJMFRXLUJuZVI5QTlESjdJcjZfelRzM01MOHBLS3U1UzhESXkyNTdQRlJGSU5seFctQTdKWmpPSEFVeXB4NHlWQ1g0emQxSWFJZ3hIWDc3d2FJdzFaZzVjMzFkdmZ0WnliRDgxUW5iTHNhQXBIenJLeVl6YkpIQQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-OpenAI undercuts Claude by 95% with GPT-6.2 Astra in Anthropic's IPO week&nbsp;&nbsp;Dealroom
-
-### [Anthropic's IPO set for blastoff this week in key test for AI boom - CBS News](https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic's IPO set for blastoff this week in key test for AI boom&nbsp;&nbsp;CBS News
+Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap&nbsp;&nbsp;Bloomberg.com
 
 ### [Anthropic IPO: how can I buy shares, and is it worth it? - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXlrX2MzQU9hakFSTmRJM0RrYTNCYkZBQmNHc3loc3BFdjlrQUNXR2k2aWFwN3dKc1VFNGJ1YUFfc3FLMU1RSzJsc0t3dTNHd2JTZl9uMnYyQ3lEOU1sTHBNNzRiUloyRE1WaEFmMXlCa3VEY3B2dVNNa3o0YlBvX0JXRjFfY25SR1pHc2ZLREFrZzkwZ1lfTXFibzhDZ3hCQXhEUjFZdENGTmVp?oc=5)
 *Nov 17, 2026 · Google News – Anthropic Claude*
@@ -220,150 +305,25 @@ Anthropic IPO: how can I buy shares, and is it worth it?&nbsp;&nbsp;The Guardian
 
 Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own&nbsp;&nbsp;GeekWire
 
-### [Anthropic IPO: Stock price revealed tomorrow, will begin trading Nov. 19 - Yahoo Finance](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjBDQlU4NmpjQXFvb1JxSmVmeFNlYkI2eW4tWXlzVWN6UVJyYTc5NEtiWl9nSmdueEFyTEVTM3VHU0RFM2VDaFdpVWhfMzhBb2FrdXZtSW1KWmM4ZTJ3elZ4cDYyQkR1dVhlOGpDT3hiT2Y5eFhTT2pLUmkxd0g5c0JyMzBVN19iMDNCMGJwWFY2NThYa3RsQy05UHhfNGI4cVdfUXdUeVJtT3hFXzB2aGExVWlxM1hJcTY4bWVzVURrTUx0d2dPaQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic news*
-
-Anthropic IPO: Stock price revealed tomorrow, will begin trading Nov. 19&nbsp;&nbsp;Yahoo Finance
-
-### [Claude AI Predicts LIT Rebound Following Lighter Crypto Hack - Cryptonews](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMk1ZaW1uSmZXS2VJMGt6Smo0NlJsdUdHMnFVNGl2VjFKY0hyWWcxYTVNYmtuZUMtV05PTVROY2lhbWtWVkpWX0tkeml0djNPd1czLUMxLVRmUjM4R2ZJN0xXUGRERmlfWDBSanl3TnhvZDQwNF9mVGlzbGNPUXJWakpFd1p4dw?oc=5)
+### [Should You Invest in Anthropic When It Goes Public? 5 Things Investors Need to Know - Coinpedia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmdZclFtUFpaVGhiUzYzTzR0QXFldlBpN2NaQXBpaENYR2VBclJDTDYzOTdqczBIVFVseDdZQnFlaUVEV2FrUTFzWGIzZzZVY01UcWxOWDF4VWxaeExmTlBldUJaVGxwM25yNVVJSTRRQXZRbk5ibGdnUkU1Z2FGOHZiS1pGOGFlcVdmU2dDQldRV2xTbkkyTXBfSUhFNE9BYTduampUNnBCc0M5VzhseXNxdWZaYnhmV29ZemRXcG_SAcYBQVVfeXFMUEtGdUNnMTZ1dTlzMmpqOXRfWWhRTFpFQ0ZmVGFiVVg1SVhySHFSeVBTdkN4RGZheVNrc0s3aVFsS0s1UjZISFIzYlNuZUI3MFg2cnZvUGZyeTZSM0swTXVQQUkwU2xFU1pwcUlINU5RMGljZ2NWQjdKRFhkOG5SWjZWc1QwaVRWS2x6YUhteWFfc2tYdTR1UFV0cVJGNndzUEJJbXBEVHpNbmhUQ01ncXlzeWtZc2ZZVmNMMlZtVWUtQ2QwYnVB?oc=5)
 *Nov 17, 2026 · Google News – Anthropic Claude*
 
-Claude AI Predicts LIT Rebound Following Lighter Crypto Hack&nbsp;&nbsp;Cryptonews
+Should You Invest in Anthropic When It Goes Public? 5 Things Investors Need to Know&nbsp;&nbsp;Coinpedia
 
-### [Anthropic Initiated at Buy Ahead of What Could Be a Massive Test of the AI Trade - Barron's](https://news.google.com/rss/articles/CBMigAFBVV95cUxOaExDNjNqb2lLejl2OUhoOExpMG5xR0ZfX19EQjBJTXJGcmNmeVhrQ25acXNQNk0tVlNudlN3YU5HSmhmTVpSN3UxMWxjSjJhX3NsZm1uQnctYU9qRW1rZElkN3UxNy1zM1NkMVB2ejhLRXh2Y3haMVFVVWF0amU3SQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic news*
-
-Anthropic Initiated at Buy Ahead of What Could Be a Massive Test of the AI Trade&nbsp;&nbsp;Barron's
-
-### [Anthropic Launches Linked Billing Beta for Claude API Apps - Unite.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVhTbU5LdzhLaTRaSTJxUWxrRnBqOGJKdGZkZVp1Tm9aRlJTSzdzX18zSDdZYzAtT0JtSVVlTnBEOGFjTXZ2b1NIX3Z6dC00TkdWTmNiOWZmSlNMVDdlemJKZGg5M0hQODJ6YkdmUm9tcnpHZTdVZDNsczdVQlZEQmJZeGE0Vmc?oc=5)
+### [Infobip Expands Relationship With Anthropic With Verified Claude Connector for Global Messaging - STT Info](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT0RZb1VXLWJXV0pjbEE0WTR5OFhwd2FQRHZGd3piTHFmckhMNFRjZmJ5YXc3dXBuMzhXN2RZVkJSWnY5LThEVGJ5YlJwRHN6M3ZIeXVrTlBVQkJMZmt2bDE1NzNMckRpeG1kbWlUSFkxbVhCUTk4Qk9kck41R2lJaUZoUlc1dTV3Z0R4V0k5cWxaanBiWEVpMWVLNldmVVA2Z0Y1Y0ZuOVFXemNIQkhPbjgxRFB2Y1RvMUo2WVFKWHVlc3ZSQnZEdzNzYmYwLVhQMFlWVWVfOUw1NmRPRS0wMjhTamgxdHRiVmtHX2dzZU9nSC1qajV3?oc=5)
 *Nov 17, 2026 · Google News – Anthropic Claude*
 
-Anthropic Launches Linked Billing Beta for Claude API Apps&nbsp;&nbsp;Unite.AI
+Infobip Expands Relationship With Anthropic With Verified Claude Connector for Global Messaging&nbsp;&nbsp;STT Info
 
-### [Amazon and Google will own more than a quarter of Anthropic after its IPO - Los Angeles Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjJPb3hKVW9qZDIzQ0dHTjZjWC01MVR0V0NBTTFXMXJDbHEteVBwb29jRWE2LUNTS3Nna3FETm96dlNfZ2xxcUlWNDhYaUJ4QXJQdVIzZEQ2YjU5ajJ4bGszSGJQSTFyeDVrcUFLNVljQVViQjFOYk9jRFEwRVlqLUNvam94VlRZMVpKajZObXQydGlicll6aldLRC1PR1NPSzRJNmROY042S1BwNkZxWTlFZEI4ZV8x?oc=5)
+### [Claude Fable 5.2 solves two open problems in the physics of black holes - Anthropic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUGhIZlEzczZ3OTFxcjBiRFJLUDhrZjhGM1hKRHdQWnYzV05NQUh0Y19Nb2d6WHlQNWR6UkZmWEp0YlE4endwZXJTdVNwUmN3LXQxUU5MaTFaQldqZkZNZjFHZWNiZFN6LV9UdQ?oc=5)
 *Nov 17, 2026 · Google News – Anthropic Claude*
 
-Amazon and Google will own more than a quarter of Anthropic after its IPO&nbsp;&nbsp;Los Angeles Times
-
-### [Anthropic Launches Claude Sheets To Challenge Microsoft Excel - Dataconomy](https://news.google.com/rss/articles/CBMilAFBVV95cUxNd256MldXQU5Ld3JkdTdoWExsaUlaR2lXT2JZcFktZ3RpU0lFYXpiYXJlanU0cVNuTlJWV3R2UXllYWFkUzJ4YzdSU1dENEttdERnR0VVMUFnMDFfaG9uOHZFaEd3MjNURXg2bk9kVGx5aFFSTm1LR0tPNnpCR0FJaWNrUTVSN1FuZm5NUExYOHhQeDVQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic Launches Claude Sheets To Challenge Microsoft Excel&nbsp;&nbsp;Dataconomy
-
-### [Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO - The Globe and Mail](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd2ptRk5pdHFCQjZ0ZktIYTh1ZEd3VkZGQXRTZmtCQl9SeDhDU3FHZEc5WkpCaF9kdzJfajBrZTF1YmYwRHllS0d3VFdWVHRaYng1S05RbE1hNU5OX3hyLU5sWVdsY1VsemV6aUhnRERQcXdyQ3R1ck1RV0c5bC1QRjdUVEE0SHRla1VBeGtNZUg2RG81cGJ3MkNPYUFsM3RJYTRpSEZxZ2JyYzc1Yk53RWo5ZFFaZzJaUXNmSXRPTkp0Vy11SklXYi1rOVRraFhRekRjMGRwaURJX3psNXlDbE9hS3hmZ3BZcHc?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO&nbsp;&nbsp;The Globe and Mail
-
-### [MCMC seeks details from Anthropic on alleged AI-powered political manipulation targeting Malaysians - The Edge Malaysia](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wZnhFSGNtM29KcFFrNWVGdHA0ZTRnTmFSUEkzTmNaYnRzUV9ENGtXalMyWXBhVGFWQTFKdm1jSHBYVXI0VHRZV2hLeDlWMVVt?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-MCMC seeks details from Anthropic on alleged AI-powered political manipulation targeting Malaysians&nbsp;&nbsp;The Edge Malaysia
-
-### [Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests - Bloomberg.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS1jZVhGcHo5bUV2U1RFTmhhaVpURXhZSXVwcFUxYkpLcHAzUG1yclpmNmxkQVR3SS1ndWprbGdZYThiRm12b2lMWmkzaUliVWRCSUs0QkVpZGFUUVQtUm9MUzg5QkhQaDlEcmVfakwzUE5yY0xNdUZOZkVxYTltMXRWbXBCb1pjZ0V2cll3bmtYRE1HQVZzbno0UWd1Q0tkd2hYWkFhSERSUGZjaldCdldaa2FsX2gyYmFIQzFkUQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests&nbsp;&nbsp;Bloomberg.com
-
-### [Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC - CNBC](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PTUZvUHlERUszRUFVdjJSRW84TnpvQ25Ndkk1Ty1kblozSVh6VUVyTUZ1ZjBCdlFYa0s3cHhNYUM5R3ZrVEdZeVdpa2IzT0lzbWkwUzVUTjdaZXdEVTdLa3h3ZG14ODDSAWxBVV95cUxOWmU0cWFuWmtwUFZYZVRWTnd0NXVVRnBHNGh2RTlmSGRacHhXb1ZnOTQ3Si1sMUU2ZkE5MWlTRU50NnY2V2NpNnFXdEJxeW0zaHRpZk1wajRoWVp2b25IUXlDbDF5azFxX2JZMjQ?oc=5)
-*Nov 17, 2026 · Google News – Anthropic news*
-
-Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC&nbsp;&nbsp;CNBC
-
-### [Hedge Fund Coatue’s AI Bet Pays Off With $10 Billion Anthropic Stake - Bloomberg.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa09GbnFKUk1fTE9YQVhmb3o0MzFWLXVKQ19tSGVqUTFURXNQSHZXYVZISmxuSGlxRy1hQVZNU0d5bGNKVWJtcnBDQlE1N25MS2Z1dE1fZDRHdS1CTG5GR2UwYU92WjVNT2NGWnRtcUtIYW9VbmV5YTBYcHozdTZweENQU2NjS1dObFE3LU5fX3NpaWpBY0tNOG0xOWZIXy1aUGxObzdZcWNBbWZ0a1hDc3lvVXJTZndhY3Jr?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Hedge Fund Coatue’s AI Bet Pays Off With $10 Billion Anthropic Stake&nbsp;&nbsp;Bloomberg.com
-
-### [Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days - www.trendingtopics.eu](https://news.google.com/rss/articles/CBMidkFVX3lxTFAyTTVTRVFhWjB1RjB4TE8wZV96UHQ3QVNoV0JWcmZlTFhXYnh4cDZZRDNUd0hSVnhBb2ZVZ0RpYTFOZ3pLNHctWTU2Snp2OVZkb3diTjdsdWl4OXV0TGJhVlY0enRfSzNEYUNLbXUxUk1aOUJwVkE?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s A.I. Got Claude Running on AMD Chips in Three Days&nbsp;&nbsp;www.trendingtopics.eu
-
-### [Infobip Expands Relationship With Anthropic With Verified Claude Connector for Global Messaging - Business Wire](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdkQwMjU5YVNQbWFzdXJUREJweHpQakJETm9BdDJwbHd5ZkQ4cHBfZVEyNXdERlFVNFRXdjA1U0pLb2EwN0xxNGdiY1pYaE1Xb1VZa2ZqQUtrMEVxazAtZld1N21tMks2eUpCXzM2dGhtNlc5Ujh5RGt6cjl0cTF3MHRkVEdscWV5ZFBPMFMzbTVNRGZFb0F0b0tPN3A4UU1nZFRWeXA0UFZJRWVITjFpMVhoaVQ4QVNsV3ZVS1ZvSUdnTUJaZy1hdVgyNzJWdWVJZW5SRE5NNlVwWGE5M1pDRjZpb1hRVUU?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Infobip Expands Relationship With Anthropic With Verified Claude Connector for Global Messaging&nbsp;&nbsp;Business Wire
-
-### [BlackLine Launches Availability on Anthropic’s Claude Marketplace - Market.us](https://news.google.com/rss/articles/CBMingFBVV95cUxQcmM4QWdRdkdjR3NtXy1lM1NTTkpYdmlXLVp1SjM2T2Y5ZnBNa2FueHRLT0J2N3NxOWdsLUU2ZU5NejZCMjRGdDRPV21sMnhTaTZ1cU4xTkVfWl9yVWlKWG1CSnlyekR5TElPbktJSXFzaTdJaXF5cUJqLWZUR2JUVHhzTnprWjZ0RkozMFktUXFlYXVtWlZEVVlmNHAwZw?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-BlackLine Launches Availability on Anthropic’s Claude Marketplace&nbsp;&nbsp;Market.us
-
-### [BlackLine Now Available on Anthropic’s Claude Marketplace - CPA Practice Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc19JMnp5SEN4M2ktLTNWbG9JSGxqVC1BMjBXb0hiMmhjcjc0cXVBXzBqa2ZLVHdkLWIxczRzUDZsWlNUWGNpUHhTX2JhU2FyT2pkbU1WQlAwQUczU0trcm5hZXAxYTVkX1h5cTN6LXZINXhqdm1pV0ZiZlhveHY5Y0tUWlp3S2Z4ZldsQ3d5ZG9yT2Y5VWxEV2ZOQURLVTR6bm43MDJ6VXJlMXA2Ylkw?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-BlackLine Now Available on Anthropic’s Claude Marketplace&nbsp;&nbsp;CPA Practice Advisor
-
-### [BlackLine Announces Availability of Verity AI and Products on Anthropic’s Claude Marketplace - Quiver Quantitative](https://news.google.com/rss/articles/CBMizgFBVV95cUxORkg0NThQOE8tbGZZTnQyWVBGVFNYTUNDaUxlSHB2ZTNwcV9SNWRFZFVxTVJHd2hKUjhZR1k1eWxycmtPb1poTFJ5RGR2QVpOdUFFa0RBM2cwcGtna2VyQU5vM1J2a3N3VjNsSkRNRTROT0RFUEVjZ01wQkVyR1pSOTRqREtqOVc5b1FvY1RzaW43SW4wZFRzWFBtZzZzMVZRbEJCckkwOHFHZE4ySFNlbjZwMzJUOVZzemw4RTV6MDlwbEQxYlRaUERRVS1ZUQ?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-BlackLine Announces Availability of Verity AI and Products on Anthropic’s Claude Marketplace&nbsp;&nbsp;Quiver Quantitative
-
-### [BlackLine Is Now Available on Anthropic’s Claude Marketplace - GlobeNewswire](https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEJpM3FyY0g1ZVotdnNXSHJIdzRER3Z2cjBTa3M3d2FsaUgwSkJiODg2VDQ4cFlUa29Lc0J1Y3VPc3JfRE9FYnZwT3FpSlI2UVJoTnFVZkN0TGlOM21VNlZJbXYzNDBTRUpaWDhLSjJNa3FpRFlmQk51QmtfNFNnRV9lTzNFT3lXODk3WndMTVNHR3Jydkk3ZmhzWGhYX2E2b2RsU0tDNzk4Z0FPd282anBmTVFvUDJKS1RSd3hjd3pKQzh3X3lhT0VlMnE?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-BlackLine Is Now Available on Anthropic’s Claude Marketplace&nbsp;&nbsp;GlobeNewswire
-
-### [Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble? - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXE1ZjNoNUZTemUwc2ZmcFg5TzZxTjVtT1ZfeVlBNEp6bTAzU3hOb0ZkZjZHVHZGQkNaOGRaZnhBeVhuNm1IRnlobUJ1SHZmWVhhLXNkNGgyM2pGd0dRaVFjMUpESktWN2RuallwMXZjb2hQVnhMNXZrRGVjdUZ6Vi1lX0Y2RlVaVU5zMVBzNXl1amFFM0RaOVdiS01PWkFySUc3dFRjcUpTelE?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble?&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic Claude AI Predicts a Historic BTC Price Reversal - Cryptonews](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVgtSURWa0JBYVJyUm1YV0RfcDEta1dwSU5jX2NRVWM2b3Zub0I5YVFpTWxCbmpOenREZGxEUHJHeWV1V0ZpdXVpV2s5YmZCT0I2NDE0bGtURWtSOWxsQl9Ya1Y2NlUyVmltNEVkZFJhWDJsTVRSNlZ3TUtPTV9nb1cyemtoTnVX?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic Claude AI Predicts a Historic BTC Price Reversal&nbsp;&nbsp;Cryptonews
-
-### [Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlluMXIxaW5WNnczSmtqcW1GdmFsRVhUMldKQnFINmpsUUJCaWlydThINlk5MTBGM1FCbl9rWGk5ZXYySkVLQzA0SFh0N0syeXphN0x6OTN6SXhRTWZLWWV1TlR0OUN5VjdQYXpqU2tTTkRSeTVBSGl3YUl5ZDRkMHl5WWxNSUFadDN2cl9tV1dYRWstalc1Wl8xTF96bUM1cUVfemdQLTNPbkxETzVEYy1QVUZidFpmU0JEdkFR?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley&nbsp;&nbsp;The Guardian
-
-### [Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkNnck9VQ2VHNjdybmxuM1p4V1pBYmVpcEdHOW9TS1lCaGlsUmhMc3hVZHZoU3pBWFRhVkRPYjFncFRWXzJIazRJRlJhMG9yeG90X3YxYzJzWENldEVJRnBxbFZXMTZMMU4tS3NLSm9TczBqRUFpdHJ3cDdRSkRXb0RKd0ZoSEZEQzNGd1NqTVpLNjdJTm45MEoyWlE?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Tribe AI Named a Preferred Partner in Anthropic’s Claude Partner Network&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days - Tom's Hardware](https://news.google.com/rss/articles/CBMi-gJBVV95cUxPOU9Ya2ZrUXUyZExIcjU2VnhsYXBZY0cxWEplUlNTY29BTVp5ZjRtaDlzZWNHLWNUTnhRMFdJaHpsMGlUV1k0dUhDOFc5OE95MWZBYjB4eHBNa0RVaWktY3FUNFpYMm9ibGRfQW1PdE5oa1RXSm4yNTkwM0dka3dRUUlicEllMlF2Q21vcWxRRGtCNGRZRExnUUVLaXFjLWJ1M2w4NFF0X1NwMmtVUHp0ZUM3TmptcjBEZDFUOXplOXJHcTJFUXExOFpickhnNXJ0QnBNbllJajQ5cERWRjA1VzJoU2xpeHItMHZHX2VjQmp1WmR1UVBBSVlkMmFzbVc4Y2d4X0U1djF6QlBZUUhSYmRJdzZLeEVqcHhNT3d1d2ZmN3Y2dHM3dU80XzZhMVpzeEkyTlZlMWpSUERkLU80WjZuenZvMGlNbXdienBrRFRJZkFuNldZVzJid1F6NEZMVDhJTUpHZmhJaEpzSEdZblFYcEJtZzI5VFE?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days&nbsp;&nbsp;Tom's Hardware
+Claude Fable 5.2 solves two open problems in the physics of black holes&nbsp;&nbsp;Anthropic
 
 ### [Updating our coordinated vulnerability disclosure policy timelines - Anthropic](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
+*Nov 16, 2026 · Google News – Anthropic news*
 
 Updating our coordinated vulnerability disclosure policy timelines&nbsp;&nbsp;Anthropic
-
-### [Anthropic IPO guide: Everything you need to know - CNBC](https://news.google.com/rss/articles/CBMidkFVX3lxTFBLU0lVTlg1SkFpbXFSd2FtWk9CUndzSjNqV0U3TUNMazRUV0hySTJNQTl1WlB5czJXZHF0a3BGZnVzTW1vN1d2U1Zuem9sdjBvRHJDOHIyTXhYQ3hTOWlrdjI2ZmE5LXZyNTFsa3VPNW9lUTlKT1HSAXtBVV95cUxOYUstYWlKeDI0VkVkV1hRZnIyTm5UOGdfV2NMandlaTFpV2NDakFMNDJjR0RYX0pFZEtSY0dmdEJKUjRjN1JmOVFBSy1jazNBeVJ4ZUxzd3VhSHZKT0ZjZngwaHRRaDZpZTlfVGNOS3JrRkU0bEZfYW45ZFE?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO guide: Everything you need to know&nbsp;&nbsp;CNBC
-
-### [An ‘unprecedented test of gullibility’: Why Anthropic’s US$1 trillion IPO is rattling Wall Street - Malay Mail](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb0N5QU05dkVpaGU4d29PZzgwaWhGYXVvRTVoU2dJSGRUU3JvZktMeWF2aXlpRGVTOHhtNVB3SENEcm9HZl9PNnFKdWxobmEzeHdvY1hDdEpzVWNFbFZ5WHFoblMtOS1aX0hONDA5NlZGOUJEak1qZnBod2hpT2hZd2hKempNY1FGQlpDZThxSUlyRjNJX2ZRQU9wQjdnckw3S2dhYnVEd1lTMjd0bS1idmQ4OHRTTTY0MDVqRUpyXzhVcThLSF93SjJjakFFdlAyblpWYVhzVnV4VGotNzZTQdIB5gFBVV95cUxOZ1p5YVc2UHl5eFZsUG1aNkVacU9pck9nRFBxa2NmdVFCUG1wRk01UjZDekstb01DZmhjYlYzYWVHZ2JTUkFzOEVQa0ZOOTJmcXQ2QXFYVFZjRzVWUzhyXzVoX2pNa096YVJNQ2RaQmw2ZlJTZlhkT3l3NmZOWjVScXJKbVhBNWFkeTVRc2dGSVV4eHNNakphYVFHWXpvdnNyb2NkT2szRnVSV2RDaFNoSUpyTkJLdlMtZTU1MUZYa29NckpZRENJY25BM3l5VmcxMGk5dVZITmVZN2k3TWU3RG85OUt6Zw?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-An ‘unprecedented test of gullibility’: Why Anthropic’s US$1 trillion IPO is rattling Wall Street&nbsp;&nbsp;Malay Mail
-
-### [Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs - BleepingComputer](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT0JBU3lhWTZqZ0ZSVmFkb3NBTUR5eWlCRVZMaXdwckRtRFhhMm92ZlVEakl0NGxaTHk1UEI0aTJXWFpxNHREQXFWTnMwOWFKMzBTRllsc19JSFNWSzdYN09CUXdqVWl1bGdPaXZFUXlSNEIta25iTnVKX2M4bjhWUDZnVGxCYzhNNkdnX2RNMUN3a05PamFKOE1mQnFPaHItWTNZOUQ1STlPVVd3LTZIMDM4YnNmT09UX1pFWHFpRW9YVk1iYjJzcThWNzFOYkU5c2NqaEEycWtzbUxldjB6WWlyRWNEai1Hb0lBUjlsNNIB9AFBVV95cUxNZ0R6aFl2anlnalFVc19xMXBYb1k3TVBDdDBlcDYxVE9BVGJmNnR2M1NzSEMxMTd0ZTA1QW9DNkMwY3lTazUzRndZWDhITDNIbHlRYUJULVJLWmc3aGlQdklnSUhJRXdIMng4WXJFLVllZWpSQ0lVZERVS1BZV2p2Snk2LXl2WnkwMkJ4TGEyZTJUUlVJYnFqREhSX0RvdzhtTlJ4UWRfNkVpWVNGdGdHNzVKbGhLUml4YVppR0hILUhzekcwdlhnLVlDcWVUamJndTBVelpuS2o2ek1ReUtBZG9TSjA5cnM2c1ZrUi1nZDVxU3g0?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs&nbsp;&nbsp;BleepingComputer
-
-### [Anthropic IPO 2026: How International Investors Can Buy Shares of Claude AI Developer? - TradingKey](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTENGN3VBa0RrNVhMc3pIX3NsWHMybmxyWDhIVDBpWEl1d1lIWDFXOU8yMTFlaXgwclNBWHZOM05kNldfOW1Mc0dFQWJwYXpIWnR4eDhsV2lhakJuN3RnamRJbG83dUMtUUJ0Yko1LVBDR2hHVkdPa3NqbWw1eDRpUFJLSVRmZ2w1dTUwLUFaSGxPdTVnUmlibHAyV0ZGTWpVOUJ6R1lQMVE1T0diYTBWVnVaS1I3bVAyQkE2U0JDR2VzdVBsdXREcnZnSGlOQVJVMDdRTGF6RjhzRWM?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO 2026: How International Investors Can Buy Shares of Claude AI Developer?&nbsp;&nbsp;TradingKey
-
-### [Anthropic’s Claude AI Predicts a Euphoric Move for Cardano (ADA) - Coinspeaker](https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2NjbVFOMHlrVnFHSEY2bmxSbVZEblZNU2hqX0hERlhaMUV5TVNaZVhFdVRZaDlEMWtGVExZelBkRVF4ZXFoSFdqV1Y3bmV3YVFESGthQXA3VFp2RXNPbF9SN3d1d0lJNEszYTdmM0FhYW11Wjd1d0ljamlqbGNMRVpfTU5uVmxjU1FrQ3Z6R08tVFpW0gGaAUFVX3lxTE85WjlJUDBLRThOa1hFTGtKVWd5a05RSFhKb2J3VjBGSVFwN2pVUlh4SDF2NnhYdUFkaXA4S2xZYU4xandnSy1HbzB1c1lTWXZLUGhHMVF5QVZxUVFtNWVPcUplRkhJNHhrZnA3TXlISGkydTQ2LWFVWlYtOEVXOEFqbWhoT1Rya2daa05qVlNVV3BjUTkwTlJHTWc?oc=5)
-*Nov 16, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Claude AI Predicts a Euphoric Move for Cardano (ADA)&nbsp;&nbsp;Coinspeaker
-
-### [Meet the miso-making engineer behind Anthropic’s biggest hit - CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB?oc=5)
-*Nov 15, 2026 · Google News – Anthropic Claude*
-
-Meet the miso-making engineer behind Anthropic’s biggest hit&nbsp;&nbsp;CNN
 
 ---
 
