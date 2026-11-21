@@ -1,224 +1,389 @@
 # Claude & Anthropic — Daily News Digest
 
-> **Generated:** 2026-11-20 16:31 UTC  
+> **Generated:** 2026-11-21 15:49 UTC  
 > **Coverage:** Last 7 days · Auto-updated daily via GitHub Actions
 
 ## Latest Updates
 
-### [Anthropic mathematician claims Claude-assisted proof of generalized Riemann hypothesis - Digg](https://news.google.com/rss/articles/CBMiREFVX3lxTE9zLVlYSXBjblhCaDVMUkRRYzM3WGJvXzVsZ3dndUNzaXBBLVNYS3dIai02NlBGaGRnX1Q2V3NReG5mZUdL?oc=5)
+### [Anthropic official claims Claude AI solved Riemann hypothesis after 167 years - Peoples Gazette Nigeria](https://news.google.com/rss/articles/CBMiowFBVV95cUxPaFZuXzhtWU5HSGhlQkZTQlR6VWlrT2w0UUl4ZU4zaTlaOVNBSUgzYUI0VnNXRzB1VU1JREFLTGY3bUFLZ1lKcmY0Z3pQRFMxSTBha3RlNjlTNzVScWRFcnRKYTJOVDhmTEcwVWk5QlZQdDhsdW1jZXc0b1RhdHFDV2I3TmdSMmRmTW9VSnNOcEQwYkVjN1JNN25QZ3VLakVRQ0M4?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic official claims Claude AI solved Riemann hypothesis after 167 years&nbsp;&nbsp;Peoples Gazette Nigeria
+
+### [Anthropic mathematician claims Riemann proof with Claude. Hold the confetti - Digg](https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims Riemann proof with Claude. Hold the confetti&nbsp;&nbsp;Digg
+
+### [Anthropic: The ever more dizzying gamble of AI - Le Monde.fr](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWxDZ1QxdUd5eVg2RlFaZGlDUUw4SlBWRWdfWlEtcXdyc2tMb3dqWXM1N29YU1dDcDM0NXExNmxQaC1aSUZvbTQ0dDM5aU1FU2xYQ1pFUTdqZ0EySzZqV0kxVGtOMkh1ZXdaLVZZRFk0a1Q3RjBpQkVnTWFkQmdESHhfTUdIRk8wUWM3ZEpHa0s1cl9UQUQzd2t2NEE1Q05FWVBKX1VueUJVOU10VWhjenlCQWg?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic: The ever more dizzying gamble of AI&nbsp;&nbsp;Le Monde.fr
+
+### [Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR](https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FPem5vX0lZRzBlVnN0UGR3UkFUSmZXek1yY3ZmOVlIX0lOVy1kR0dWcVZoenFHSGdRS1R6MHRtenpxX2ZOVnE3UkNmOWdteXpQZUhFTHFMSTZFcG16d0hPMm9SaVlMTDdLVVpHMDljMmg3S0ZyM1hmTXotZ2w3cGhMaGNjOWFILWV4UjQ2dGxreVRGUEVrQXdSWFFMWThHLUtwVEFrWHJVLVQyQmlWdFoyX2pRRElfRm1NTnNqTnlENmQtSXNvdjZFVQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI&nbsp;&nbsp;NPR
+
+### [Claude's Riemann hypothesis proof claim looks clean early - Tbreak UAE](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVeHRDajhKSHV5TWY5LTFKNG1qSk5Md296SU9YVU1vTllUOUJBRm1mVWJpQWJidHZ6ZnRiLUlRUHpTTU03MXI3YXc4c2E4TzdMaXRLYkt0LURFODhjVEFpTWdTbi1zMnIySUI4OWdR?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Claude's Riemann hypothesis proof claim looks clean early&nbsp;&nbsp;Tbreak UAE
+
+### [How Claude became Anthropic’s $2trn king of the bots - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2MxQ3F4S2labHVnaVJQX3NSSzhRLUZ1dHVtX3Y1QjV4NHo4SHpjR0F0UnNCLWdNSTBvZktIVmFnYjlVSU1mS2J3OE1jU20wd21pNC0zT0ktUjIxS0tVOTF4V0xSNjAtNVBWdmVLYXZ1Rk1sUmVINDdXZmRQa3g1eWxLY3VmWFRrZmJqUVp0MkxqaEtjY0tYR2hsbndkTDA?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+How Claude became Anthropic’s $2trn king of the bots&nbsp;&nbsp;The Times
+
+### [Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft - The Decoder](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft&nbsp;&nbsp;The Decoder
+
+### [Anthropic engineer's warning about Claude Code explains why tech outages could get much worse - Yahoo Finance](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic engineer's warning about Claude Code explains why tech outages could get much worse&nbsp;&nbsp;Yahoo Finance
+
+### [Anthropic Researcher Claims Claude AI Helped Prove the 167-Year-Old Riemann Hypothesis - jeevanutsahnews.in](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmcyYi1lamFFNjBoRXR0eE9BZlhCc3R0VmZFZnRlTEN0WG9ZSklNNGh6elFOc0RGQVlVTm1FRkg4ZXphbXRPVTFFUEJCUHgtejFuUTU1b3JyaUhSZ1VKTzJIQkwwbkpnX2tvUF9jeVBMcVl3YUxkR2t3MzN2ZXNaRFdyVExibWRXSE9vVHRJdmVtaUQ4d1pST3dReklZT0lmbjdlbEJVUUg3WjNtQlUw?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic Researcher Claims Claude AI Helped Prove the 167-Year-Old Riemann Hypothesis&nbsp;&nbsp;jeevanutsahnews.in
+
+### [Anthropic worker claims to have solved famed maths problem using AI - Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVVnZmNQRVdZYnJSYkg3LXdEV3NrRW5ENUpwOGRBOHY2SmhZeXp0bFQ1b3ItYjlDZlNoc2VsVzZnbWhBMVBKQjkyS3RHdkpUZGVZbnNnNENHdDlRSzNkYXBwVWlpQU83cllqb3o5Tk5zbEZDZjljZ3BOUDBpOGR6MFU0Q05oNnhvSnZiM1VDaUlsTG1OTVh1QWpDREx5TWlkNmpuZUR3aTg3TE1aSy1id0hzQlpSZkl5eUNsSUQtQWM?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic worker claims to have solved famed maths problem using AI&nbsp;&nbsp;Euronews.com
+
+### [Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem - Anadolu Ajansı](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzhLSXhIeUczb2UxOHI4ZjN5bHZJODBHLWhub2hwUk9iX1hicVRXa0RRWmtFQXdtNC1jSUVUblpwRzFYSnlDWFNEYTE1X3A1eVp6eGVGdHlUdGR4MElIS01QbzlXc3N2ZTM3MVZjcUlVNXFGVEMxQTVZMmptVkhLa2pCQWJqZ0pMUDlVSERUNDc5SXgtdkdFQ3AxUWR6RHlkZEZ5cVV5Q1JSSVZEdE9LT0JWc2stSWtMRDhBTjFtdjdSaGRT?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims AI-assisted breakthrough on 167-year-old math problem&nbsp;&nbsp;Anadolu Ajansı
+
+### [Anthropic researcher says he used AI to solve math's greatest riddle - DW.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher says he used AI to solve math's greatest riddle&nbsp;&nbsp;DW.com
+
+### [Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges - PRESS Insider](https://news.google.com/rss/articles/CBMihAFBVV95cUxOelpmaWZDRHk5YzRhVGhrUEdPUmZRX3B4QTQ3c0RMbThzMHFBaWdST2s2WnI3LS1EQU0wYVhhdGpWdVlGSVVkNURrUFFvWnQtSm5iaHVfQ2IzX2k3YjN5emZWeHUzRW5iVkJ0Tjl2UXRrRHZTTGQxZmhKTGxEdTJiR0dOckM?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims Riemann hypothesis proof with Claude as rival draft emerges&nbsp;&nbsp;PRESS Insider
+
+### [Frontier breached, Anthropic mathematician claims solution of Riemann hypothesis with help from Claude AI - Public TV English](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNV91bHowdU9lb003MS1rS2RXMHVCRmpfdi1rTmtKRDVzWEJ4VnJ2RlFiQzhMZFN0Zk52SVF3UkVFUkJ1Q0Z2TmJrTFpfZjBUZHAxNDNrS1dIakRwTzl5QzlRTm5JX211Y1E1dG9ZbGp1Z1BBTTVUcy0zMGZ6N0NGaXRDamtNZjZGcTNCZDJXd1RLV21vQ0VtclZHNlRDTEN2aWVnVHdUblc4S2ZTZXN0ejFpZ1J5UGc5NVlXRmJWOVk1TzFXNDBRNk44dmxHUQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Frontier breached, Anthropic mathematician claims solution of Riemann hypothesis with help from Claude AI&nbsp;&nbsp;Public TV English
+
+### [Anthropic: Claude may have solved a 167-year-old enigma - Cointribune](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkY2RzlUdGJNdy1uWnpUaEJaRi11TWgtZkpVLUpYLVM4cjItZFN3LWJPZWtnS21tVU01RmYzc1AzZUl2aGpPUnpCMjQwUlcxRHpQRnh5YWhPVUZSSTB0NlU0VXNoNW9URW9zWl9pNTJZR0tFakVPX25QWHIxZWZYbWtOc281U0NOakJ4NkZ3?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic: Claude may have solved a 167-year-old enigma&nbsp;&nbsp;Cointribune
+
+### [Anthropic researcher says Claude solved math’s greatest riddle - The Japan Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR09KSWR0TWR3UmhtdThKcDJBdklaOWJNTFc2Nld3RlVMQU5La2tHMXJxNXR3ekZuLUl2QzJTQjdJQTJnNmx1MGxWeS04S295Wjdhd2ZldDJ5bHlEeVdnclp0dTNnaC1hNHVMbmh3WndROTNza2RjNXlKWHNzelJDUmd0VFhXV285MHpBVzRaODFZVGhaOVkxZUtFYXNxRXI3RktabWxZUHA?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher says Claude solved math’s greatest riddle&nbsp;&nbsp;The Japan Times
+
+### [Anthropic IPO - WFMZ.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGk5ZTNETU5PZnNXcVI0Mk5TMkdZRG9FbnhCdm0wZlNkVGlnUGxET3dKdEtaTFBYTFo5TmN1UU9fa2E3WTNHREZBQXNrcW5nNi1lQkJxdjhPOUZ6bkZNeF9oR3U3Z2RnR3B5UTlROHdKTk91VnVNZW80d01BeU1GWXpEYUNNNlgwU3VaZl9qanVsQTJ3QlMzbmFTWXNhcV9iUnlyeg?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic IPO&nbsp;&nbsp;WFMZ.com
+
+### [Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Using AI, mathematician claims to have solved one of math’s great mysteries&nbsp;&nbsp;The Washington Post
+
+### [Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis - New Scientist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnhwd1IyUERONU1RclBYRDZQQi1fSXg5Z1BwWENSVG9jZzZPWjRJZFlQQVlpZkFIYUlDbkljRU9VYkpWOWo1dTdqQ0lIMzBSY0laZ3hhUVFPRDIwcTRiclNjUDgxZmxZTHpjV0J0Q3IwSnpES0Q4cHR1QlBLS0pkLUVyM0luSTFYM1JDRVRRZmxpdXJiRFdELVN0R3VmUE9qTWtyenpaVjcySmJEMmttdEJUMkstMEhRQTBILQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis&nbsp;&nbsp;New Scientist
+
+### [Anthropic researcher claims to solve Riemann maths problem with Claude - The Business Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxON2JtMDZITjdlUzZHV0VUcE85eDBtNjR1YUNtLVdBWXR0Yk1BRWt1dmN6bmlwVjZsRFNBdUhVSWlLY3czVDBsUUNoZkVNaElfcWRiSW44WjgtYTNQbFpnNWFjTS1PR1k3a3ZWTVdnUGVTYXBmcEY1S0ZSTG10d1l1OEVTVEhGNmpzaHR4SW82N3M2S2kwZ2YtbjdQTFVHUW5vUW1RaWRVUnk1LVNYZktJeC1McjctTjZiajk1Mm43VlRsSVphUGU0X19tRQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher claims to solve Riemann maths problem with Claude&nbsp;&nbsp;The Business Times
+
+### [Anthropic: A Surprisingly Sane Valuation For A World Hooked On Claude - Seeking Alpha](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY21SVjJ1dmp5ZUxsODBFOWVQNEMzTXY3bENXOWozNHlZRGJ4c1BpZXhkLU9vNDNZc3BkcmFFeXd3MnJodXBxbDd3WmJBdGZLeHkwcG9kbDVwRC1NaFZYNEV1cy1mRUsybVdDNDFPSnpjdmtXMklaSzV3bzZJd2hOaHdaZ21qeVh2VktYZ2c1UmFNTy16bGV6UW5iVHdOaUN0MzdxcFVIMFFjY1U?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic: A Surprisingly Sane Valuation For A World Hooked On Claude&nbsp;&nbsp;Seeking Alpha
+
+### [Anthropic IPO fails to calm AI jitters as tech stocks plummet - Le Monde.fr](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMVhDZEFuejcwUDEwV1VmUWZRaTRaNnk3eGpkSkkzV1dlWUFMTmRlLVZwX3drSndaUVFBaFNpdU1XWUYyOXNBOGdWNHdqbG5SOTdqWHNqTGhIUVBhM1MtMzNiUm1zSkxiYk40ZGxNWmd1UUtNbHBkUkdVRTRLTnp1eEl3SmtwSFM2OTNERVJQUVNUT2pFcnNWR0xrNEx0ekh0cTJLUUh1M0gtb1Z1T0NQTHBWTFNLZ1FlQkgxUEpPMnMxNjRnVWtNSQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic news*
+
+Anthropic IPO fails to calm AI jitters as tech stocks plummet&nbsp;&nbsp;Le Monde.fr
+
+### [Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude - MLQ.ai](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude&nbsp;&nbsp;MLQ.ai
+
+### [Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it - The Indian Express](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it&nbsp;&nbsp;The Indian Express
+
+### [Anthropic’s Claude AI claims breakthrough in 150-year-old math problem - Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzlmb2tfN3Jyc0o0c1dfMjdxNUxVR2ZSR19MYmIzSWI0dkFFRmp3RDhrUlQxVFA2bURWaGhnVVdHTld0b2tpVHpEMUh0cTJtYlBka0d0YlN2SEtBNU92X1lWclA4T2hZbHE5VkhOdUEyd1RhWk96Yk9vb2RWWWVZT2k0NGdWNHhHX0JWVmI4Q3psX1p3V0ZybmsyZS1JV245d0ZpTDFWRFNvR1BOVjU2MmZtZ185MnhCR3UyT0JYSQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic’s Claude AI claims breakthrough in 150-year-old math problem&nbsp;&nbsp;Investing.com
+
+### [Anthropic Mathematician Claims Riemann Hypothesis Proven Using Claude AI - KuCoin](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHloVHFVZE9EaG5YM0NsOGZIMXhWSGhMcWtKcDRmdTVFNjBLcnV5NEdiZGZhZk1fand5ZnBqVkxvSEpyaWk1VmRmdThrcU02Zkd5bDIzV1I5UXl0dmNqWTdaV2p0TkZoeE15d1lyVXduM2VWOXVjSVotNFJMZVBYRF9WRkVKS2YxS1g2VEdfR1hUSUwyY0NzcDFzb2VqTmtUUG8tXzl6MWQ?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic Mathematician Claims Riemann Hypothesis Proven Using Claude AI&nbsp;&nbsp;KuCoin
+
+### [Anthropic mathematician says AI helped solve one of math's most famous unsolved problems - KSDK](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMTlVRl9xOUVOVGJmRWVhZnBjZDh1U3JVSzgtT2k5RE9jaHFqcWYwRzEtNDNlQ0lxemFRV0x3T21yR2RYdFZDeXlNWVQxQkRqRDEtd0xMWDByRkFJQ1ZEbjR5MUh3Zl9yWFFsU1ZuNzhTQnFVWmlFVVUxeTl4QjhQYWZTQTJGN1lJaE9paDdWeVQwUVdqeFdrR2EyMXlSdW42eVh1VTdVcHpMWVpIY09hU2EzcWV5cU8tNXpDelZrOXBQQWVodjlmbUl3VW1MMHp0WlRYTkZwdlRQOG8?oc=5)
+*Nov 21, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician says AI helped solve one of math's most famous unsolved problems&nbsp;&nbsp;KSDK
+
+### [S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5)
+*Nov 21, 2026 · Google News – Anthropic news*
+
+S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap&nbsp;&nbsp;Bloomberg.com
+
+### [Anthropic Mathematician Levent Alpöge Claims Claude Proof of Riemann Hypothesis: how 5 outlets framed it - NewsCord](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVk5SNkFGamhqUTBIaDlGVC13SXVYSDNxNUZNMUVCYjZvT0Y1T3VGRGY4a0M0OVhHdUk0WUtfRElVeTZxbXQ0MXlqT0tVTVcwNzR4VzhGS0tqbUVrQXBuMzNCaVNNZDE1NElyU3RITEVycmhxN1puQVJZRnBxZEgyVzRyb3hxYk9iMWhRZ2YtbXoyMjhZUjRObXYxcHVQQkczTU1VaVBpandtTkR1OVoyNk91dUNsZlYzeGh6WjlRWnJiblJjd1ZmRlRKM0E2Y2FXNEhpUHpXS1JSVW5TWHotS2hqWEh3R28?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
-Anthropic mathematician claims Claude-assisted proof of generalized Riemann hypothesis&nbsp;&nbsp;Digg
+Anthropic Mathematician Levent Alpöge Claims Claude Proof of Riemann Hypothesis: how 5 outlets framed it&nbsp;&nbsp;NewsCord
+
+### [Anthropic claims Claude solved 2 enduring mysteries about black holes - Mashable](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBYkVUNFdNUHY4TGo2TnhfOGpReDNjLWNydjluX2ZVd19uclJKU2NlUXhOd1F6RTBpQmRFTUFaYXlVUWt4Rnd1U0JveWFJdmtFQmdBT0oxaFVXRzRDVlozUjIzQ0tONF9xc1hMcElsNy1mZEN6eWc?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic claims Claude solved 2 enduring mysteries about black holes&nbsp;&nbsp;Mashable
+
+### [In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest - BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bb1piT1o1MksyOHJFX1Z2WXM3WVpqcDNGd0czODZyN1Iyd1JYRmlTWDFPWmxNSlFmeWRuQWFvNTBDcmRseWtHR05FMlg2XzV0Ny1iazhwdlFKaXpqQkE?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest&nbsp;&nbsp;BBC
+
+### [A Mathematician Says Claude AI Helped Solve the Most Famous Problem in Mathematics. If True, It's Historic - ZME Science](https://news.google.com/rss/articles/CBMifkFVX3lxTE50OGRPRzNEa2Y0X3hYZ1Fsc3hfd0o2TEJWandnWTBMYnVwMVVmTFZjaHNyLVllbmttR0JmWnJpdjRRTkU4a0xpQXBjalFvOG1wTkp4Rk5SQi10SU9GbmVmd0NCdlNIWDlVLUx0SEpmb2Z1UjdDWWJNdEJvdlZxQQ?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+A Mathematician Says Claude AI Helped Solve the Most Famous Problem in Mathematics. If True, It's Historic&nbsp;&nbsp;ZME Science
+
+### [Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude&nbsp;&nbsp;The New York TimesAnthropic Mathematician Says AI Has Solved the Most Famous Problem in Math&nbsp;&nbsp;WSJAnthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859&nbsp;&nbsp…
+
+### [Nasdaq wipes out 2026 gains, TSX, Dow and S&P 500 fall into correction territory - CBC](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QbmRPWjN5dEh4eGkwYXcwdkZRVmFZZjZiTWJqeTZ3cGJJcXdER1pqVDJobUV3R09wT0dQd0hWTlYtVGtpc0wwNnRiSkxOc0FuSHZQRkFYN3FTRmdDU21mUEtZYms5NGktX3o3UzVPMS1QTmJfcTlscWxn?oc=5)
+*Nov 20, 2026 · Google News – Anthropic news*
+
+Nasdaq wipes out 2026 gains, TSX, Dow and S&P 500 fall into correction territory&nbsp;&nbsp;CBC
+
+### [Anthropic stock drops 8% after rip-roaring IPO - Yahoo Finance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5)
+*Nov 20, 2026 · Google News – Anthropic news*
+
+Anthropic stock drops 8% after rip-roaring IPO&nbsp;&nbsp;Yahoo Finance
+
+### [Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5)
+*Nov 20, 2026 · Google News – Anthropic news*
+
+Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections&nbsp;&nbsp;NBC News
+
+### [Claude Claims Historic Math Breakthrough One Day After Anthropic IPO - Decrypt](https://news.google.com/rss/articles/CBMifkFVX3lxTE5BcUpoNWJPdGpzVUl6bXA1TW0zMFdycGxueDM3aEd1c2c4TmFWeGNHMzh5TGtHVkE1RGw0UXZZd2NiUmZUN2htVVZncHlZbFZ6OFV3c2lYUUdyQmlIbnVmbWtreHB3LTB6WFp5dFk4OVFmX1l1Z1IxMGp2RlNRZw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Claude Claims Historic Math Breakthrough One Day After Anthropic IPO&nbsp;&nbsp;Decrypt
+
+### [Claude Claims Historic Math Breakthrough One Day After Anthropic IPO - Yahoo Tech](https://news.google.com/rss/articles/CBMingFBVV95cUxOSTNzRC14RkdVNk9rR1NROF9ERmxoTXNVLW9NMWlyRVdqZ0diTGhlb3NMaVhOd2k3VjUta0dlZjlfb2tfYzhTQ3lfQXpCZWZfaDRIcHJLOEFqd3ItZUI0WlNXZ3NTNG1aVDN3Y0N5aFRWbUE2UXBUck1oaFU0V3ZZbHhWbm5XazctNGlfQzlodjBfX0c2bld1NFR0MVZIdw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Claude Claims Historic Math Breakthrough One Day After Anthropic IPO&nbsp;&nbsp;Yahoo Tech
+
+### [The New York Times. . Following Anthropic’s debut on public markets, our reporter explains how A.I. has become a huge piece of the U.S. economy and how it might be risky. https://nytimes.visitlink.me/eqDJxY - Facebook](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDJqdTZQRmU5RFV3alY2a3FWZnJsTmRudjhYaFNWVndCa244SUNucHBIZUltV24xc2hPeVpBOUNWOTAwRjdZRlJfbGFYOXQ4OUlOWkYzT09heHNsZnlXQUV0ZDltNEVZUk04MEFPaUtIUG5uU2tZcjhveEdFSmxMSThVOFNzZGdidjVqang2ZmhsbWpaNWdrQ2FES1VzNHhIUTFGZzQydmt4NDhuNXVNZmhnSjhIQldqUUYtSnRreWxjVG95WnlXcTJuZUxkUWo1OVJJNA?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+The New York Times. . Following Anthropic’s debut on public markets, our reporter explains how A.I. has become a huge piece of the U.S. economy and how it might be risky. https://nytimes.visitlink.me/eqDJxY&nbsp;&nbsp;Facebook
+
+### [US Stock Futures Dip as Anthropic Premiere Disappoints Investors - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnpNdWkxZGxrTWo0cjVOSUZNOHVscTlNcG5FdEdpZElURkFoUkRJcFp5VjB6NklrbG1NcjVjNmlEOG5yMlRpU2RJbGViSHVBZUIwZlgwcHp2eGQyVjhhRWtoRk1UWU5sOUM2cW5iZloyOVhtNHFBNi1DTmpYRE1KMGtPb0dDVVgyX1ZXT0VzcHFsa25YSE5xNFNmc2tPZzBCVVc1aHc3c2pjUG1DOE15MktCVV80dw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic news*
+
+US Stock Futures Dip as Anthropic Premiere Disappoints Investors&nbsp;&nbsp;Bloomberg.com
+
+### [Anthropic researcher claims to have proven Riemann hypothesis using Claude - SiliconANGLE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3djZGxrMkxtN253TUtiMXU0VU9qZDllb0dvOVVuUXNGRGhsVTZ5WmM3WktBcERoVkJvMXBKVlp2UEFuMmoybzRseHprQlE1Ym1aaTNLenFUX0U4MUljcUkyLVdlMjE2MUg0WkV4bVBjMEt4Y1p4QVR4aTQyY1VlSlk5TEhGT0k5UFVKX0p3bVYzQUp2ajg4cUs1MVZieTZsVUNDSFpORk90cFNyQWd0Xw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher claims to have proven Riemann hypothesis using Claude&nbsp;&nbsp;SiliconANGLE
+
+### [Anthropic researcher claims Claude cracked legendary $1M math problem — and left him struggling to keep up - New York Post](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHI3UFc1dlE1d1ZVWnRxellsaGtXcllPVXRfbDliNjRjNHhBQnpBMENWMnZocG9fbnpmLVd0YmNsX1dkRTNWdm9EOWZRMHlsTjJoSEswcjdoeWE3V1dMd0RPR01veENPSHh6RkhieHBlOGNFS3JISnR1VWlZM0ZuUWkydXJxdUZXLWpHWHFuV0ZRbEZLSmhwVFZ0UUk0RzBLSDNUN2lPTjZRZ0pfQ0hTVVFWRld2cE1nWGl4VElLcjFSMTVRNnFzNHZYdXJVLUotWlowUkozSlpiLVE?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher claims Claude cracked legendary $1M math problem — and left him struggling to keep up&nbsp;&nbsp;New York Post
+
+### [Anthropic is betting AI can help conquer disease and generate big bucks in the bargain - CBS News](https://news.google.com/rss/articles/CBMifkFVX3lxTE81UkNkV1FqUGFLWWU4NEp1R000MjhvVkppcTQ3UXRKMFh3d2hXbmpaUVoyT2t4SkFqNEMyNFRBcXRhLVYyX0o5eHRFQ180NUFrWnZkRzJKckVCRVFyYzA1MTFjX2RxdDNnY3VJQ3Rwdmp0VW5QVnRxVWNacHVMdw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic is betting AI can help conquer disease and generate big bucks in the bargain&nbsp;&nbsp;CBS News
+
+### [Riemann Hypothesis: New Claude Proof Claim, 167-Year Problem - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGRUZ1ZGZE5YMkdkX2VqSnJEUTNDN1ZsTFotM2FON3RpX2hRTVJvVlJfWUFCdEhHamdpdFl1X2hqOF9xWmx1Y1Fvd2V5MS1EUWpoTmlUdGpaWjF1OWtfYXFxVDRQdnRVc3BkQXhQRml2RkUtTXhDbVkxdHhrSkwwc1Z0dw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Riemann Hypothesis: New Claude Proof Claim, 167-Year Problem&nbsp;&nbsp;Quantum Zeitgeist
+
+### [Anthropic value drops after record-breaking IPO - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQUVLNFRkMm16c0xPNldrT0M3RzFNcGNzVWtJV3ZpRFdsQ0hNSUlPelcwb1Q5eDFKUWlWbGNaemROZEhSUk5fVEczQ3k4QzY2XzZFV0xfNE0xUTdmVDRBR0h1NVVQamNLa2o5Q2ZqWGd5ekJZUElrbjFPY3VOVkVLOVg0VXdPTmNEcllvaFdnV1hNSi13d2tERGU4aW8xakJfcHFKNUd4bE9Mdw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic value drops after record-breaking IPO&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation
+
+### [Is Claude creator Anthropic really worth $1.3 trillion? - The Latest - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2k1MHotX0Zkam5USm9jZmJ0NGU5Ym82RUNGVjlkRndWSnVMc1Iyc0RSaDg0OURqX1RyaEwzZmx3ZG16Rk1heVlrc0lTSlUzay00UVlNdmhKcWt5UnNyazd5emdVLUo5WGN5X3l4UHVrNVM0TDlyNkpYZjNqQkhkeGM0MUdfUUxnRl9nMEF1SEE0NmhGbHU4LWEwRDFDbnZRamVLQlJxdnl0Q0tLc3lwWUxOdVE?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Is Claude creator Anthropic really worth $1.3 trillion? - The Latest&nbsp;&nbsp;The Guardian
+
+### [Anthropic researcher says AI chatbot Claude solved maths’ greatest riddle - The Straits Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTdRZTdnbm1UUVdMeDBoYWNOdmRKRXdQTjUzSGZNNV9ZVV9wLTVoWG5wdW5zbS1ETTU1WmRrVHNLMjF0YzdBTjJqZjFQSVJ2N3hRakFlWDMzVEc4WHc1MU12S0RZaWU5VWszc2FIRnV0clYtcEcyWnMwZXUzeGNUbkxMcWxQUTZNeXlVV05RdjZnVnZHREdrZW1SM2xMTlNfYVRmWWRfWVNFSjZUWkJvZUFhQXVnSk1yeDFKMGxn?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic researcher says AI chatbot Claude solved maths’ greatest riddle&nbsp;&nbsp;The Straits Times
+
+### [Who are Anthropic’s seven co-founders, now worth $180bn? - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHB5X1lEMXMzLUlLeXViRi0zUjF2Z2doNWY4clNNUWFMZWJsMWp3MWxRaE9pMWNBQjZEbGVRQV9vTGdudm5kUkFUallkZXlKdnlMZEl6Ymxwdi15NVBSOFV0RnlwNGw4OFJ6eDFZV3FQTzUwd2dRTlUtN194ZU50N1FSMA?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Who are Anthropic’s seven co-founders, now worth $180bn?&nbsp;&nbsp;The Guardian
+
+### [Anthropic's Levent Alpöge says Claude helped prove Riemann hypothesis - Quartz](https://news.google.com/rss/articles/CBMiekFVX3lxTE51R2pQQjgwWG0xMmE0SElIcEtUQS1tNWlLcVRNc1FORWhia21aUE1JRFJRQzlMU25wRXpjYnN6QWxTblRPMnQ1X05VOW5EUDItVzU5UW9fSExNQ0EweFhlUWJyNENaUEZQQWhhaWUxNF83aGZxbWpuVWpn?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic's Levent Alpöge says Claude helped prove Riemann hypothesis&nbsp;&nbsp;Quartz
+
+### [AI solves 167-year-old maths problem, Anthropic researcher claims - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZk1nSHh5Q1V0UTZvNmZGTjVIV21Zby1DTzlxcXVJT0NGaDBFTmVsS2pZbUVQRmFCUmlkMjhxaU5VeU1oNi1tVGpFSjhvdlllUFhFcm84ZHp1U1V1enlDajhLa1VWUUtscDdBWDhxdElMUzZ5M00wdER6NVA1Ty1tR2lEQkxLNFJzdTVpOHZKNWJyYmcydWkzMGc0MXoxSUZlYkV5dExB?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+AI solves 167-year-old maths problem, Anthropic researcher claims&nbsp;&nbsp;The Telegraph
+
+### [Anthropic mathematician claims to have solved 167-year-old Riemann Hypothesis using Claude AI - The Indian Express](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTEyN0p4ay1QckFwOTZ4TXJaZWxkekdaYnFEWjdaNFZBNll1X0NIOHpCbWlGNTM1UHk1blQ5Qnk4TUV1clpsVVYxVk5udnVwVW9hU191NHNQNkxJODd3ZHQ0VU1aNUhrTl9GMjN4NGNJMWw2UGVUN1hjdWl1ZXg1djB6QjJrWFBhNjltY1VrXzBGTlVGclBJWnI0UWlrdHZSY040N3pOV08xX2Ix0gGzAUFVX3lxTE1fZWY3R3NfalhndTBncDNnMzhlQlNLUkhhb1V5QUxSQjAyQXkydmw3aFZZYk42X2dTdFVoSGZyMXJUVWNmMkkxSDRTSmpEMEFMZ1NxcE44UThMYVg3YWEyYnN1d0pCY1dDYkpXbGxtS2JldGd0aFlod2V2SHlkSXpydTlKRXJfU3F5T0hOWFJEMWh2WDc0ODl3a3hyMlJxeG10ZFBlUzExYS1UWjc4X0JreUl3?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims to have solved 167-year-old Riemann Hypothesis using Claude AI&nbsp;&nbsp;The Indian Express
+
+### [Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude - Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE9Bd1UxMkFyTWtISnY1MlZTdm9acHNucEx3dm9WcmdYOExMb0tPYXBPS2oxWW1vX080NUxVZG1PNjFtRi1PZ1B3dGtPVThTNnFpWmdxWnF4QS1vVTRjc2lmV0JVOEtRQUFsMnlMam50dnhCeVFYTkJJa21xNXZLUQ?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude&nbsp;&nbsp;Futurism
+
+### [Claude helps Anthropic mathematician solve a 'sacred object in mathematics' — the 167-year-old Riemann hypothesis may have been solved in breakthrough that could win $1 million prize - TechRadar](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQOFBFOUwwa3RvZzY0YzNMN0p5M3o3SUVWbm1vcXR0R3ZHZVFkV3Z4LWhrTmFOYldvNmIwV2IyeC1hSHA1aHJuX3NEcGRZVWdwMTZPdFZacld4emFGTTdLbENaSHRBMEJydGg3UG8xSzR1My01R3JvbDlHbWhoaDEyNDhDdWNDdndOSFlWR09LMmI4WlRJcnlTSmIwZWVpRGdpUTNFRUVhNXd6eWMwZktqQmh6WldiTGg3M2JyaXBaYWVrRW83bW1IR3oycVpVZy1fZXdRZTRJdUJuU3NfQTA5aWVzZ0JEOFo0UjFnZms2VjJLTW5EekRhTnA0aUo0dGFoV2w4YXItTUFZclk1VzBpNjVSZXZ6MEp5OUdiNXlQeVBobUhIM1drdUpyalJTY3A4UHUwT05rX2h3dGEzVzVEMQ?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Claude helps Anthropic mathematician solve a 'sacred object in mathematics' — the 167-year-old Riemann hypothesis may have been solved in breakthrough that could win $1 million prize&nbsp;&nbsp;TechRadar
+
+### [Anthropic Says Claude Solved Two Black Hole Physics Problems - eWeek](https://news.google.com/rss/articles/CBMifkFVX3lxTE42LV9oU1kzbTI1UzVQOXpqN0NTWEtscTVFemJTYjJWZ01ud1kzSTVNYVJ6ZjVTOW00NmhGc3VBSmFzS1Ezbnl4UmwtRGdBSWtYUUhhY2hEbVJBcHMwOHh6alRYa0EyVGQxN0tub19kd0tqZDhZVERnZXdkSk5rZw?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic Says Claude Solved Two Black Hole Physics Problems&nbsp;&nbsp;eWeek
+
+### [Barclays, Citadel and BNY Put Anthropic’s Claude to Work - PYMNTS.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGdDcDFGTVNMdmJjdTM3UEZITDRUa3ZONXo5RWVZZjlxaTdwUXFES19JWjBQdG1qYTBMWDRPbHFjSHZ2S0l1Q0V2dFpPU1QwUk0ydGVKeGFndUk1SkRNSDJxUUUySEIwX0cwSDYzemQxN1IxN0ZkT0s3S3lRWjdWOHVVaEloNFlWbGE1V080OG15X29KM1J5M2ZwN3NMVEZxdHdxMVBPMA?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Barclays, Citadel and BNY Put Anthropic’s Claude to Work&nbsp;&nbsp;PYMNTS.com
+
+### [Riemann Hypothesis Solved? Inside the Claude Proof Claim and What Is Still Unchecked - Fello AI](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HeFA5ZHljdVhZaFRKaFFoR3pSNFNfb19UWjRvNTNCbDRnY3E1ZVNHRjhmZW9yc3Y0OFA5ZkhKTkJjempSVVVTX0lqSTBGc0FvUVpDckxjc0NjUQ?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Riemann Hypothesis Solved? Inside the Claude Proof Claim and What Is Still Unchecked&nbsp;&nbsp;Fello AI
+
+### [Riemann hypothesis: Anthropic mathematician claims AI solved 167-year-old problem - Beinsure](https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUFJNVUwTFZvd3VXWG1kMXp3WTdXSVBOd3otck9TT2xOaTl5ekV6OEVWRmVrT0Zsa0dLek9RV05QdmNnemJ0SzRTOVE3eENNSkh2MkhmLTZIakVRRlE4SmRJY2dFbmdXdGFEVkNJeThCbUlqc19abEh6dGVSZGlPMGNB?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Riemann hypothesis: Anthropic mathematician claims AI solved 167-year-old problem&nbsp;&nbsp;Beinsure
+
+### [Who is Levent Alpöge? The Anthropic mathematician who claims he solved the Riemann hypothesis with Claude - Clarin.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHBoVzREUW9CT1J2TDlocTNHSmw5UlQ0T3dRdVIwc3Y2NjlfcmMyTW1IcmY2VVJVazBLclE3b1hPWlNGNEpRclJ0RGdic0VMUmJxUnJvN0lTOEpIOHRITTFabUxOaDdKamg5YjJuVl9FUnFpdVY1d1pvWVFIUmlWYVdsQjd6Q2FfaktFZUtIdEZZZS03TGRVN3REX2JDRUNTSkR4WWhWWmhYZ2FGYVVVbFc1dUlSVEYzVU5SUHZhRFl3dmh1TENnYWY2TUI3QVQ5OVdnUFUxMWlCWEsyZ1o5QnVPNXPSAeoBQVVfeXFMT0E0NmVSRzdrcjY5dlhCM240YlRJUDFiUzlSMnJFTWdUZ3U2VG1DM1E3MUVncU8wYzV2bmJFdjhZWnlla1d4SWRUdW1oaGpKRFVlNVltRi05V1JlNU5BR1FJMFRndnFISjc3d0NRSHM3Mk04NDZUMkt1NS15djNCcUxvWEdxT19tTC1SMkNJWmFjMEdhSXlveW9HTFJGNGJHVjdBNk9NN1d1eXRrM2xJOWkzRmdJRTFwSVJFLU9OMlY3WGdpd1FOcVJfeUNLWVkzdGpHWW1ibTgwQkpBZGRueUdPckRTM29Lbmp3?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Who is Levent Alpöge? The Anthropic mathematician who claims he solved the Riemann hypothesis with Claude&nbsp;&nbsp;Clarin.com
+
+### [Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work. - The New Stack](https://news.google.com/rss/articles/CBMiakFVX3lxTFBubFFkd0ZmODhXb3FwN2tYNTRHT2hLbTdDZ0taWDJncU1OdTBqTmJ0eDQ0UGlfSUtTb0FLdXNtcUdncnZiMW1hc1N4ejVPWVk2SkRGajRndFRkTjExMXZwU1dZQXhEaGQteUE?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work.&nbsp;&nbsp;The New Stack
+
+### [Anthropic mathematician claims a Riemann hypothesis proof made with Claude - Pasquale Pillitteri](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNlFoSjY2NEV1d3Q3RTlEQjZpWFZjOFVSa0p2NmRQYTJQWHR5X3k0MVdrRUQ1S0dXeDYxVDh2Q1dkeTFrWjFyS2s4d2ZXQkFKYkRrZkg0WGpkdUItU1JrZFJkcnREMG4xc21nVVJQS3VNYld1dlFhMmRjLW50ZDdnaVhaeVplY2tCZVE?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims a Riemann hypothesis proof made with Claude&nbsp;&nbsp;Pasquale Pillitteri
+
+### [Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed - Tom's Hardware](https://news.google.com/rss/articles/CBMiwgJBVV95cUxNQ2pfbTNIQ2pMc1c0LUhZMzl3NU1IRkJfVXItM2F1Z3dIY3lVX1RjSWoxeGh1bkl4cmh2WDNBdFpTcS1GUUxYS1NwQTdHcG1TcXNNaDNXb3FodXlSQU96dEloYVF4WUZGa0RKWVVtQ0ozbUVZRDZVT0hCX3FLZWR5ZXZjbWtIUU1CLVoyc0pEMUZ6dXpUaDRwR3Zjd2dTOTVtWlF1OWh4MDFaOVh0dmRDdDJkdDYzX0pNYmZYWHJoRGJ5MFFIQmx2endfRjdFSnh5R3c5ZUJKbkEtWkc3OGJkWWdjR0FSUWJMeUczbFNtTGNqbW1JbGktRVNyM0hIRmlMUUZ4MXBJS1lHZ1NpSkdKLVdXUDctUFhpOEhUeWpNb0xEejIyQlphOEljVmhTRjRlR1pORmJYTHk0QklaaU1laUN3?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed&nbsp;&nbsp;Tom's Hardware
+
+### [How Claude propelled Anthropic start-up to become a $1.76 trillion giant in 5 years - The Times of India](https://news.google.com/rss/articles/CBMihwJBVV95cUxOSWVPZjd1YkV2SmpyVm9NdjdDMFBqVDVWSHlrYzdDc2RzWXlSd1ZzdGVLMEg1ZDlWS2ctUmNMVS1hSXkzRTllVjdEd1hfT0pITDRwQWhlNlBGdEJ6aktTTExNTkMtVWRIV19JNGh6TDlGSEo0OEFtZER3WndqcVRfYjVFTmFPbXlBRTRMMlNVZ1JXNV81SEl0MkFHb002OWxIRzlvWUJ5XzNoMWs4V2xaUGFVb1B3SnU3WVFuNFVmRjd2dExCWlZoNVRKeHd0cHRwN0FlMER4b0JfSGpEM0VTOGRjN1BKYlY0aTBBNVlYR1dnQzYzWTZtYjIxQkJBdk1neFNUTFZOVdIBjAJBVV95cUxOUGdRSVJsSDlNOXhwLVJpM011VzlBY010NlUwNlcySTdVcGM5MzBTR25wdERQaVVVLUFIUTkzX0NfbW5kcHM5N3NodW9tVXQ3djJWZnVtT0pCcTFUdzVSVHhRT2oweVRMWV9WQVE5QXpDRGYxRUNTOEVjMzEtVU1RRnBqVTNJSE90YzI3ZWtsYUpSbTZGay1OZml2eHhHUGhzeG5XMi1YYVRiTWhsVFBoMmlTaVNrbThmMWFFM2d4M2ZaQUppLUxTT25BXzM4eExtNV8tTmhMRWZwT1VZcDU3Yk1wTlVFN1FwbUNYRnVCTnA5S1VBYnJEU296czlQU2sxSGNwTmY0YlJZSXBp?oc=5)
+*Nov 20, 2026 · Google News – Anthropic Claude*
+
+How Claude propelled Anthropic start-up to become a $1.76 trillion giant in 5 years&nbsp;&nbsp;The Times of India
 
 ### [Has the Riemann hypothesis been solved? Anthropic mathematician Levent Alpöge claims Claude cracked math’s most famous problem - Clarin.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaURwdWxxd0lGcnR2d21aMS1DTlJ4SEpESU5WekQ1cURzVU9OU3IyXzNHT0ZuMmstbWY0N2NxQVYtaFVXMWdROGxuQkJab3o4M1BmZ0hzcWFzX24tQWdkblJjLXBnWFBXbldGa3ItOHdUejl6OWVCeWU5RU13WVBWcmJFNjlVWGRkb3N4TDQ1OVFCQ0JmT245bDNLdi1YTWdNQmNQY2NYZTZwLTY0TW9wWHBmU0h5Z2txSkRYdEY4ZHNWSjdkRHdpZ3FPYnhJRHQtcWlhU1pzd1hyZXgyc3BGS3NTbk92YnFSX3dhaFpGbTJBVG9iTlVkOGVWRlBZZ9IBgwJBVV95cUxQVm8xMldubE1PQkRRSENOeVlYV3BLWU9rZFZETkJ5WjZ2TEE5SVNncExkSXJjVGZXV29XWEhFS2pLUG1naE1KYkx5dnNBTXdDNkttUjhEV2kwQXF1dzFhSHNGZ1ZQMmM2dFpmOUt3SnpBaDdLdGM5QTNSell1c3FraTkyd0lnQjdUODR0UGhkV0NGYzRBaElpZG5odnVxNF9SMDJuRHJHRE1tSmd0Yll0VHh6MmJlVmgxT3BCQXhIWTFsOW9UV0U1VFUyWF9XeV9OdXJRR1BwQzY4TXEzcjNXWkp0a2xHU0VYTURQSE1nSk5XNXFQNjV5c0xzNThYekhBdzNz?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 Has the Riemann hypothesis been solved? Anthropic mathematician Levent Alpöge claims Claude cracked math’s most famous problem&nbsp;&nbsp;Clarin.com
 
-### [Anthropic mathematician claims Riemann proof with Claude. Hold the confetti - Digg](https://news.google.com/rss/articles/CBMiQkFVX3lxTE04NVRQQTBJLVdwbGZWb0V4enhsellNRlNxdDhWX1MxdU1ITGpIYldXX3JtQzBTNk5QV2pKeEI3RkZVQQ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic mathematician claims Riemann proof with Claude. Hold the confetti&nbsp;&nbsp;Digg
-
-### [Anthropic mathematician claims Riemann hypothesis proof with Claude, pending expert checks - Superpower Daily](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTNMWWZSbGphbXlONzBkMXJ1aUlHOVRObmp2bDJlOTBuWjlvZnNQbDBtajZpTkxta1Q0YWI5OUJnUURjZ2swOEgybkN3Q05oaGpKSGo1aU5Gc3JjLU4tM0tTVWxCSkFacXRJTlFfLWRNRkdqRGtKYkVvaGw3MHY1aS1tcjVqa2x5cUM0dFlhaU5lY3pWU29RQkZHdlM1VUZWQzJFOFNnVmFNZGg1VmRGeEhZOTdGMHVTMGF0MncyZFY?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic mathematician claims Riemann hypothesis proof with Claude, pending expert checks&nbsp;&nbsp;Superpower Daily
-
-### [Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude - MLQ.ai](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGpvMEtmYWxvbXFTZlczSVdvVEtab3JhNzRDLTZlQWRHSHdQbk93d1JLSnpOR1Uxa1lseFRmeE5yX25ZM1lhcFAtbTdLQW9Ob0M3R3M0MlEtVDBmT044NHNTRGRGQkYtakxxWHkzVkhlYlkyVFlaandBQUJrc1VHMS1lUnZudHk4aWtpLURyQ3h6RVRnM0lOZXpwZWwzWFY4VWI4NmFYQUZIQUxLYmV0X1NqelZxaVN6TGZrNTk1OEs?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic mathematician Levent Alpöge posts a claimed proof of the Riemann hypothesis made with Claude&nbsp;&nbsp;MLQ.ai
-
-### [S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5)
-*Nov 20, 2026 · Google News – Anthropic news*
-
-S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap&nbsp;&nbsp;Bloomberg.com
-
-### [Has the Riemann hypothesis been proved? An Anthropic mathematician says yes, but nobody has checked it yet - Nacionale](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnNrT1NUVVJFWFZVREVFYVFnakI5cGM2MnAzQWpJbkplMDVKdF9ZeFBOT0EwMThlQVlSYkpaaWhHRzB6VEVJSFhnZHRMUks0VVAzeHN3eXZVVDJnOVNmUmNNbnl0YlU0NWdsVnNORk9Dd1plMEJiSjVadi1CNVNzblJwRVBMRkVIZ0psNnpLNVFNSUJQZVdVVFlLWC00cld4LTIxeHBjNkNRc3pnaWNxd19mSm8?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Has the Riemann hypothesis been proved? An Anthropic mathematician says yes, but nobody has checked it yet&nbsp;&nbsp;Nacionale
-
-### [Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis - New Scientist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnhwd1IyUERONU1RclBYRDZQQi1fSXg5Z1BwWENSVG9jZzZPWjRJZFlQQVlpZkFIYUlDbkljRU9VYkpWOWo1dTdqQ0lIMzBSY0laZ3hhUVFPRDIwcTRiclNjUDgxZmxZTHpjV0J0Q3IwSnpES0Q4cHR1QlBLS0pkLUVyM0luSTFYM1JDRVRRZmxpdXJiRFdELVN0R3VmUE9qTWtyenpaVjcySmJEMmttdEJUMkstMEhRQTBILQ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis&nbsp;&nbsp;New Scientist
-
-### [Stop swearing at ChatGPT — research suggests being rude to AI could be making its answers worse - TechRadar](https://news.google.com/rss/articles/CBMipgJBVV95cUxOQTFYUjZYMWU1MmFOT1dBV2dMS3YzRmMxZUNVbnJKQ21lNkZjZXk3N095QkFwTmJBX1lxaTVHbTRZX09vUFl5NUdJaUJpX1pFcUhtOUNsMVFENHZUY09pR1psTENmVnZBOWRvWklGbWo2N0FWS3lrajFUeTM4RThSMFgyc2JJWlMzWG9SQkIwSkFOS2hJSW9fem5Pd2ZyT1E5MEVTNWVVVzNHYkowdG82Q2NIakdES0pWN3R4d29jRGNPSm9kVlBOMUpLbU9RMXhYcF9BY21SMktzcExiLXNTNWE5RGdJZ3FSNm80cXJoa0xNQ1dWMmZNZ0NTNjVvUTRpYWVQc2daemxuQ3B5bmRzZElTeWhYczBUWTdHZ01NRHZTQmNRM0E?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Stop swearing at ChatGPT — research suggests being rude to AI could be making its answers worse&nbsp;&nbsp;TechRadar
-
-### [US stocks open lower as tech sell-off continues and Anthropic falls 9 percent - The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEpQT3dzd2ZwNFpSOGp4ejdsNlBfd21rUXZzNXdXMXlYc1pqNXV0MUJzMlphZGJOQzhZbEIyczhrMmM1WkpQSjc4czFmRTdSSUs2ZzBydFI1cWREcEdLbEkxVkJpOWdYVTh3cnNwLWY2UV9DRFlHOEVGWkxtRlZ1NjczVHhiNkh0WTExWUxRVkk?oc=5)
-*Nov 20, 2026 · Google News – Anthropic news*
-
-US stocks open lower as tech sell-off continues and Anthropic falls 9 percent&nbsp;&nbsp;The Boston Globe
-
-### ['We don't want to die': Protesters slam Claude creator Anthropic after IPO debut - Dawn](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDVkVWw3UFB5TkYwT1djdWJYT200cFJtNkpMb0oyd0NpelJlRzBaejZsODR3UkVaOWduZ0thcTRZMlZzanVDaVlTXy1DMm1UczUxbFoyOWdNcF9Memt0VWtmeXNZam9vQ0NVMUNzX0ljZ2EyWVVuOGs4Vy1ldE1Za3RVLS1GaDE0aEFrcUd4NGE5S0g2dWRfMHVwdlJlanA4blVHbl9SUDZZQ2MtUTUw?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-'We don't want to die': Protesters slam Claude creator Anthropic after IPO debut&nbsp;&nbsp;Dawn
-
 ### [Genius Group Updates Shareholders on Impact of Anthropic’s Record IPO on its AI Treasury - The Manila Times](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVWFKNFBlSGM3ZnVzWjNQYl9LT2FoaFdKNU9vdDB5NzFZS09FUkstYmVkamZneXFJdWJOME5va1VnWWdWRHkwYlVwY1hTWTRpTHFHVC1NdHdhejA2aHFfR2ZMMGlFNndUYzVhQ1pTTFZ2bTBlWXR6SFlhNGZVVzA1dnVobHhyc1oxWnJyQmxDeEdwbmpVMEdDUGx1RWl5VHdCM0JDcFdlR2JtaGNLVmlEcVBSUUxwSWs1ZXRaQVFGMC1HdHRtWUZnd3RaX0F1UTZQMHdhTlBwUFBjR3RCQ2pJODVvdXpTTGJyY210Vy1raDVfVTDSAfgBQVVfeXFMT08xQlhnQXBOR1BsOHZTT1BQQUNsTHNUNVF6bDVQZURFQlZtblNfdW83QnAycjZQcmZHZjdwZ3hJUWtpSlZGU3ZiNVdfTFdJZlIwUnZ1RnI0cjN6dVhIRVhfUmFYTC1MV3NBVjY1UGpGM1BEV1J5eGN3OU5rdGlkMExyS1ZESkY0OU9YTHZzek9XekNrWnVYUF9uNkl6YjZJZXhLUW1CVUdTN2pEWG45LUs1aDc3N3ZnZW5aekpXUW1idVkzTTMtd1pLUnhLbE1FYXBhOXNWeG9tclZnVkdtUWhKdEVXRURSNFhpTGtRUDJYbmtZSzE1UzU?oc=5)
 *Nov 20, 2026 · Google News – Anthropic news*
 
 Genius Group Updates Shareholders on Impact of Anthropic’s Record IPO on its AI Treasury&nbsp;&nbsp;The Manila Times
 
-### ['We don’t want to die': protesters slam Claude creator Anthropic after IPO - Yahoo](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNldzV3dDemNjOWhaLWw4c3BOVXVNZnVaWkw1M2R6MjVwUXo1YlBWV3pGRWx2ZWdhbXMtbkxPNWtQdzh2djVOWTBraWFtQllJeDBwdWVjbEIzU3RsN2xxdThMMHU5N3RLVFh2cUdJeVBscTl5RDZpMU5xVkxGQ1RpQXpxRVlrdw?oc=5)
+### [Anthropic raised about $81.3 billion in the largest IPO on record. Genius Group had pre-IPO exposure. - Stock Titan](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjY2Y3VpVkQ5d005amp6VC1NUGRJVWt2ZExkOVhJWUdMSmdYUlE2LTR3T05JRjJYRUJPLTZKRk43Wi01TVIwSlhFZ3VBcnJrb1lWNmlFN3NDWmE0UWJReDhjMl9pZmpqTmpCYUVFc09qWGRudnY1bGRHa2JWMG0yX2puQldiVWFiQTExcW82WjVOWkptaV8xS3ZVRXF1aEZlS194MTlCYVhtd0MyWTVfZi1vdVphOWtBYVFz?oc=5)
+*Nov 20, 2026 · Google News – Anthropic news*
+
+Anthropic raised about $81.3 billion in the largest IPO on record. Genius Group had pre-IPO exposure.&nbsp;&nbsp;Stock Titan
+
+### ['We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO - Barron's](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUF2VXNsQk8tUm92Nl93c0EtU1hDeERodW01ZktmcWdhRTF3UzI0UWxlaWlNdGVkOW4zeVdsdUxwRTFpMmJJenBpQXVQY1J6UzNGUE5lMmpfYUdfSUNuVDNtbWZDQTRMblJla3I0TFhYdVJJdlNkbnVrdjNPMXNSNWdPMk9nbGtvS3pjVFNzVXJZZkZ0Z3h0N2wxZlU2WGVneGsydkNIUkc1dVkt?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
-'We don’t want to die': protesters slam Claude creator Anthropic after IPO&nbsp;&nbsp;Yahoo
+'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO&nbsp;&nbsp;Barron's
 
 ### [Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math - Scientific American](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcl9DRERIZlViX1BNaFBRYU1WbjI4ejNhb2x6b2d1aXJRenVWQ3NtUUttb1VvTnRYUWNvUE5pQy1vbkpvcEpXeHU4bldwVXpfM3pwdzVtMjJyT3BvcTdyU0lZQUdtdzJEN2xoa1AtR1prQkd3Q1FDakxiZi1XRWVnSmt5aHNYTzlvRDhWcXl3emNNd2NNTTNESWF5bnFiWk5kYWZVQkdiSHFtX2RVYjlrNElMOV9lQ1c5R0dLQnN5RlRqemlIR0huTGhzMjZMb1ZRNU5r?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math&nbsp;&nbsp;Scientific American
 
-### [Anthropic shares fall as investors question AI valuations - CTech](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sRFFRWWtoYWdNdFh4YmhXS2JTRnRaVkFhSDQ5TUE4ZVJFTjBEd21PQU9heEx1cUx0a0hXdWJGbGRvbkJHak9lSk8zSUFsaEhBb1lnWGZXa3hYLXBmMUFpNW4zenp6T28?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic shares fall as investors question AI valuations&nbsp;&nbsp;CTech
-
-### [How to buy Anthropic (Claude) stocks in Kenya - The Kenyan Wallstreet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalRSdjZVaVpsTlpkZVoyUE5ITjAtMEk5Zjh0TmxTLTBVaDdBY0hFYzJySlR1eERfbENNVGE2NEQxZ2FrVzA4VjZfdWNPNmhsSWZ1YnVoRkRsMGg3VWJLWnNVZjNtLWNvMl9nZ01xa1lFeXlrdFNaczlLWDh5SjNRc1pTa1J0UmlIUFZn?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-How to buy Anthropic (Claude) stocks in Kenya&nbsp;&nbsp;The Kenyan Wallstreet
-
-### [Anthropic Claude, Claude Motion And Claude Duet Photo Illustrations - The Quad-City Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTMwRl9ueXA1dW1pamQ4RllYdEhocjVWLUFhUW5IQlM0T0xNZFYtM2t1amJmbkZOYlU5dTRFQzQ3U0hXeFRnb2lnbVpvbGJUMUF5cUZyWXFxYmt0TEtqd1ZqdXdaM2lvS3hBakRFSVVkY252bVZ3V21SZE41X3EydG5ib3VYcHRHRTdNQmpB?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic Claude, Claude Motion And Claude Duet Photo Illustrations&nbsp;&nbsp;The Quad-City Times
-
-### [AI may replace human workers across industries by 2027, warns Anthropic researcher - Education Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOV9aSlNreVVLVE9EeXplZlBZdGtfeG5qZ1pjOVJKcGVaVllMWVl4czBvZl9DMDdzNkNYZGMtaTlwMTRna2lSVkdIYjNPODJqUVhBZW5FbnRPVzVpcTJCM2ZKVUVTNmFWTzJfdzZIQVF3QmVtTWdYNUhJc1h1N3I2c3RJYTU1WXM0aUxXR1NqOHJFUXd6R083d084Q0F0c3d2Mi1KemFBU3RkNk1CVlg0UnNIeVZqemlvU21RbjZwdW9kd2hZRzYzLTdqakhiOHFaX0lCVHBpaHN2VDZ0R0s1Wg?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-AI may replace human workers across industries by 2027, warns Anthropic researcher&nbsp;&nbsp;Education Times
-
 ### [Anthropic Slumps 5% Post-Market After Record $107.3 Billion IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNU05IcE5RazNyajNodmVGbEJxU0g5U3FPc2IzMFlfdVdSbkxsUWRFYkxpc0JpOWxQNnVZSGlEVWpHSklHMGwyRzRmdjZXUFVYWDdxdTIwbmRGUVk0WGZ6RnB3MHFhSS1YR3VJSVUxeUtlcktQY1NDbUVWNXpfOVpXREFYY3k5bXpnMjEwM2drWTdMQldwWEFFVG9BX2cySUdmUUNOcFFURVNIa2dZal84?oc=5)
 *Nov 20, 2026 · Google News – Anthropic news*
 
 Anthropic Slumps 5% Post-Market After Record $107.3 Billion IPO&nbsp;&nbsp;Bloomberg.com
 
-### [Stocks slide as Anthropic IPO fails to calm AI fears - Bangkok Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjkzbnJ0N1p4aXBZb25jZ25KQ0pVYkdUbUZ1UDhVNjR3RVdVazZfa1g3VGRZVGE5SzBYN1h0eVA5bUtXbTFCRXdVSTNrS0hoZ2REYW1kMUVvbDFXb1JWSUg3d1lmYnM5VWNEd0QwOU5yZ181NW50dEoxa0JaQnBGem9JbUx0dVVEdTdSeHNhTkpCUHphZXpWZGJxQ3h1YUJzV2ludTNwU2w?oc=5)
+### [Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9yUlhjeXdQYldnSlpuMlRsWjJsLXFYUGxaM3ZVc21qbTEyUG9Ja2x1aVpZRDU4amVMaTFsZVh0dWlYLXRWV1BJbGtoTkdfUjFkVlhvTnduWGFIY1VKcGNTRWRjTTNlQ1c5Z0FrazRudjFKOFVMYXVhMGNjYmVrMEpFSnpJa09jTHNDX0xrdG95NHl3ckRDc0RLZW9SQXNnSWdF?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
-Stocks slide as Anthropic IPO fails to calm AI fears&nbsp;&nbsp;Bangkok Post
-
-### [Who are Anthropic’s 7 co-founders? Meet the former OpenAI colleagues now worth billions - The Indian Express](https://news.google.com/rss/articles/CBMingFBVV95cUxPMGhfMzRSSU9POVhWUFVnSFdMallpbU8zazJJdTk0VzBOODlURDJKbTZGT0FoYWpPcDcwdmhBMkJpQkRnX2gyT09ORkpJQVd6N1N5ZHFiZmtsN0RJUG0zc3hxcFRKN2ZvU3V0YkdSQXNfUjBCYjdIOTdOTktGV0xRbUZjNExCRlJvYldPUkF0XzN2VjFucEVsazNVdklDQdIBpAFBVV95cUxOaV8zWXA2ZTkzLTZjVE5fY0F6Nkw3QkFYLWtxR3JkdE1Qa2lMbmNGNGVkVkQwcElHeGFhTml6dzZuMEM4bE51U215LXFnWFFwLUFsZlZNOGhUNG9HT1cxV3k0QmpGNUZRU1NhbEJncmJORWVfQXBrWWhnaEViZFZVSEw5ZlI1VjVrX1hhRXl3UXc3SGI5Q2tROG9sRHlEWWlmT2d5SQ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Who are Anthropic’s 7 co-founders? Meet the former OpenAI colleagues now worth billions&nbsp;&nbsp;The Indian Express
-
-### [Anthropic IPO sparks protests and arrests: Claude maker's stock jumps 17% in record $1.76 trillion Nasdaq debut - Newsband](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkRpWmg2YXE5VENYYjhCTFBmT2hlVGtyd3hISXhqTjQ1LXVOcXgwb1RObW16eVRKRUx2UEVqQVNzNlZkdXdNR0xaRlFUZTZuRWwzRk41djUxLWIyU0d6d0lvaW43STNjTmRIelE2MnF6bUNqZ1ZuWEJDbGlER0p6OVU2aTc0SXJMd0V0TjllbWxMcXFaNEE?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO sparks protests and arrests: Claude maker's stock jumps 17% in record $1.76 trillion Nasdaq debut&nbsp;&nbsp;Newsband
+Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading&nbsp;&nbsp;The Guardian
 
 ### [Claude Code fueled Anthropic's IPO. Now the company needs to figure out what comes next. - Business Insider](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2pRQUN2T29QcDU5Q2hOc0trRVFIWUt5MmlqMHdJb0dDX1JMbVdVaEFwWWt4bmhTWENCNWNrVVVGZ3VVb1dpMG9uN0NhZEZwNTVudEJYZ1Y4dlN0dV9YbEFkSjhlME5Oc1ZfNEdtMGVrYXhRVDFERFFzdWYycEZUZXc5TnFkajg4MlR3eFhSNFdnandxSWVQMzVqZXM0UzQzZFlz?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 Claude Code fueled Anthropic's IPO. Now the company needs to figure out what comes next.&nbsp;&nbsp;Business Insider
 
-### [Anthropic shares fall 6% in pre-market trading after blockbuster debut amid global selloff over AI fears - Moneycontrol.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVFRvYjdvQmk5RGxmVmpsbTFRT3loZDlSWGREMTNNYWdFU21ybnZtbm5TdmR5U3lYdTE4akt5WGtZbEd4YjZvUXFsb0hPQVFRYV9LWU51R0FtMlZuWXFUWE1zVjhBLWRUMzRnRElFaklMN2FSWmhZSzZ2WUc2b1A1MVVPQjd1QTVHTFduazhfMGF3QVVNZnFxT2lYa2daaTFQZVdadklmbnIxdFJVUV95NGpjdzBSNXRtTHBNREhjWkhXby1KTF9qUlRkRDBTeUxIV2RDN1BLUFV4WVRieVhEdnFkcVpNbjRNYXNWbkxtRlpJdWR3WHdscUtYYUzSAYICQVVfeXFMUFdrR01RSVVjM1BFRG5mQXlwUHNVVDNuQU1OYUc0d2xWVmstMGliSWdZUVhaR2lROW9zNEd6eXV3dm45SjhYT0ZEeUdDUGNvbGZ6WDVaVUx2RjBuaU1ieXZUNUdGbUFva25VZ3ZNYnYwdTh0WTNwZGk4cHE3UW9acnNmQnZ0akNMcjJXMmsteE9sUFdDVjdzWERGaTY0NFEtV19RVlN2aUIxVWFBMml6blFDTDZQUlNVMTd0R2NpNGkyZ3dDRnlhdmdRVWZHUFpjQVJSQTdJaVczckw2RTBUWlItYWFJSkdKZ1RfNG5yZnhQSjk2emtvaGVlcFVPcmgwdWtn?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic shares fall 6% in pre-market trading after blockbuster debut amid global selloff over AI fears&nbsp;&nbsp;Moneycontrol.com
-
-### [Infor and Anthropic Partner to Bring AI Capabilities to Manufacturing Workflows - Manufacturing Management](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSC1DbVRWV3E2al91VWE1Q0NBRUdOZXZMZWhTS2hwSmdZVHJKR3RGSGZwam0yeWJES2dncnNwaFUwcUZMVmVwVF9WNG9nVlFYZEhrQVhrQnJNLS11a1hiMjZJaDZKa2d6MmRKWHM5NVpzU214cnRLQWxHYWlFbXVxellYYVZZT21tallYTEJ6Slc0U3hWNzhZOUlrU2c0aHhYRG1zVHpJUFp6MGxEbEI5OFg2UE9mcXJsYjVYVnU5aGd2WUJEWjdJZTJEQjFIUFU?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Infor and Anthropic Partner to Bring AI Capabilities to Manufacturing Workflows&nbsp;&nbsp;Manufacturing Management
-
-### [Anthropic duds Aussies and General Pants joins retail bloodbath - AFR](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmVhTUtuZWpIbU5XUjVNSjJGUG1RbW82ZEI3VlA4MFowSG1FUWR6WkFvZzM0UmtickNqRTNSdHdvTUdKUkRZdWlHZmR2NGJsN3A3NmJUZW5TRWNrQU41d2NKeGxoQnM2Z1QtdFBmb29VbG1QV21JNS01TGQ3akczT0ZmUERMNmxJUkotYXBNNHdVRXNiRVNtMnpCSmxIYUktckltSmtxRWFCd3ZYcTFWRWtJYk4?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic duds Aussies and General Pants joins retail bloodbath&nbsp;&nbsp;AFR
-
 ### [How Anthropic increased downloads of Claude by 300% in seven days - Marketing Week](https://news.google.com/rss/articles/CBMidkFVX3lxTFBMMW1lWUJkVlZkYUhIVDc0MHpONWM3Qmx0Z3Rvc2JSM0hXVzQzNGpNMXRlTXpzdllGNnhFeXVMSm5EV3BUTjFlb0RVcjh6TUUyZGF3cnExazFWUkJNSFQzMXVIZThMT1ppVkxkbENra0xMb0RkQ2c?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 How Anthropic increased downloads of Claude by 300% in seven days&nbsp;&nbsp;Marketing Week
-
-### [How to Buy Anthropic (Claude) Stock in Kenya: A Step-by-Step Guide - The Kenyan Wallstreet](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUc4NWI1U0o1dlhvWUFIX183RjNxVzJBb3NjQTVQdWY5bWJPSl82VzhJQjc5dHd6ei1hSlE5VzNsdzdZRTZJOVRyNE5pY3VSeGJ0Y3Zac3cwS1hmcnNOcm1GbFJfRFhmdEFZZ1BoS3NDQXFxN18xVWFLQ1RIMERZN01PRmYtSFpfZlkyeDJJbFJsWG5uTkhj?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-How to Buy Anthropic (Claude) Stock in Kenya: A Step-by-Step Guide&nbsp;&nbsp;The Kenyan Wallstreet
 
 ### [Why Anthropic's Claude Turned to Blackmail in AI Safety Tests - HackerNoon](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjdITnVuaFc3b21OSkdCN0UxeXJRWHBOT3hVZndLeDgyNEhaR1VyM05QQVRhS0M0aGlaMFhOMkg2U1BKOGN2M28ydFpjMkE2ZWF0UWpTM2FYYVhhUW9OV0JsWU5SLXJTR1lGdFdlRl9XQVFwb3l2WFhLZmZMTkRjWXVzWjRQaGFQNUpR?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 Why Anthropic's Claude Turned to Blackmail in AI Safety Tests&nbsp;&nbsp;HackerNoon
 
-### [No invite for China at Anthropic IPO: After SpaceX, Claude parent too shuts Chinese investors out - The Times of India](https://news.google.com/rss/articles/CBMimAJBVV95cUxPcXEtVm83eEo0VVpHUEV5U0t5dmlPMUExUmttYWtMODdqdEZYUUprQnlBMWJuNzFXelI1aGE4eUkwQXNQaGR1RVlzVHFZblRMWXM2UGpJQnpOcFNPRi1PbGZwZkhhVlhoN2h3dF9KbmZpeUQwYTd1Mzh2VzJPMVpEMjFHVVJVdG85Q2FSdzVtWjVQZV94ZkIzM05PNmNremVPNmJxZXNDX09ZRlhUWjd1S2sxRGNnSE85OXZqU3VwNVBNc0Q5M0RCT2ZUUTEwWFQ3X3g4dzVUajdrSVdwR3JsOGt5YlR5N0UtRTZjUm51VGRfYkVORzA5d3dXTlRPSzAxRXJQbFR6Mk9ZaDFpNnhPVjhmcWdnOElt0gGeAkFVX3lxTE90d2tveTl2VThWbG1ZdFZnN3Rnd1JGZU1ueTR2TVJmbVJaRnQxRmR5VWJaLXg2ZEtpUlU3eHVGdTN2QVZuSXROaE40Zk9nOTdIOHRqN3NBN3RRUjFHdDNzMVBZNGtCckNBQ1FQOFF1b2E5VDJGV3pGOWhteUkyRGlRTHZpd01yQUR0QUQ2ZnpINzhVM2ZiUGFab2N3UFlxZ1FTM1pZVklqU0FlelZOVVMtcU1FY0ZtUWt4Q3pTeTBZd0E0dUgzMkt0b1BVRTAzSDlPRlQzNUoxaVNIdVFwWmN2RThkRjlxamw4QVJMM1hVMnhScFpCT2RlU2pmMHRiXzJXWXAzNXhvZFQ4ZGNqNFQtc3NuMlhsRkpYTUhleHc?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-No invite for China at Anthropic IPO: After SpaceX, Claude parent too shuts Chinese investors out&nbsp;&nbsp;The Times of India
-
 ### [Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next? - The Conversation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamRTcG5lYW4yUGFZLVJsRDdKM0dJbjNId180bUZHbDY2UWg0MXgxWVlJSjdVWjBZd0xMWGJydXd5dnNKZmJMaVVlSjBrUU5xdklmVTNQd3g2RldnRXVCYVlhdXBTOGt0a2ptRWJZMENXRkU3eGY0MXdRVTFOUFBteHdfUW42ZEN1YTkta0hzRlFWR2VEUVRBX1BRQTYyZXBKU2FwYmZfcGZHQi1qTlh6VHEzSmVHQUtZT3NEUQ?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
 Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?&nbsp;&nbsp;The Conversation
 
-### [Anthropic shares slide as fears over AI boom dominate - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5)
+### [Anthropic shares slide as tech stocks tumble - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5)
 *Nov 20, 2026 · Google News – Anthropic Claude*
 
-Anthropic shares slide as fears over AI boom dominate&nbsp;&nbsp;Financial Times
+Anthropic shares slide as tech stocks tumble&nbsp;&nbsp;Financial Times
 
-### [Tech shares tumble worldwide despite strong debut for Claude maker Anthropic - Stuff](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEYwUXNFdm1McVBONDJaNnAyZGhUMC1DaTh1Vjlpekp2LWdzQlhlVWQ5dWZpd0pTTUp0eDZheHJpWE9EQy1kOUI5ekM0Z3pjTktnVW52c09DUlBfZGdNLVdnNXh1ZldVR3Z0dDlpTnk0NEFfUXBKTXV0SkNXc3V6ZVdDTXhTT1BNY2hSN0w4U1JFRUpDVmVod3ptM3M5U0NvWXRVTjMyZzVSb0lHWWR1SnVCRkxoUQ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Tech shares tumble worldwide despite strong debut for Claude maker Anthropic&nbsp;&nbsp;Stuff
-
-### [UPDATE: Anthropic protesters arrested outside SF headquarters - KRON4](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDQxWG5UQjNCN0RmNmgwQ2VscVNmNTZnR05XelFSZTFzcWZ6ckNwVjl3S21SWmI1c1FLT3VVV1o5bVdFVExmVkhKNS1RNDF0SE03ZVRUa1FsdndYRnA1MGxRcHgtWlhfRHlVSXd3MFJENlpFb1pINnRpNVNhaldfTDR1LWp3Zkk0MjFWQUI0RUt2ZEtZNDdLeHpxY3VuaUwwZ3dXRdIBqgFBVV95cUxNaDRjU3pwU0x6a2xZc1Z1U0RfVUVCSWZxdU1UNWgyWS1hWDAxOUoxb1hsZERHQlpEcWN0X294aEFTUWZwMzhMUDhRUTRJaGc3VzRaSFNqc2lqbHh6OGNtcVljUV9PUDB2S2tLblZERGpBUzFob3VIZmpHMWhhbDhzZmFNWlRFZnJpQ0psZ1FNLVkxdkVDR1I2NkMwOUVEdHZoZWtFeDJsZXBfdw?oc=5)
+### [Anthropic protesters arrested outside SF headquarters - KRON4](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDQxWG5UQjNCN0RmNmgwQ2VscVNmNTZnR05XelFSZTFzcWZ6ckNwVjl3S21SWmI1c1FLT3VVV1o5bVdFVExmVkhKNS1RNDF0SE03ZVRUa1FsdndYRnA1MGxRcHgtWlhfRHlVSXd3MFJENlpFb1pINnRpNVNhaldfTDR1LWp3Zkk0MjFWQUI0RUt2ZEtZNDdLeHpxY3VuaUwwZ3dXRdIBqgFBVV95cUxNaDRjU3pwU0x6a2xZc1Z1U0RfVUVCSWZxdU1UNWgyWS1hWDAxOUoxb1hsZERHQlpEcWN0X294aEFTUWZwMzhMUDhRUTRJaGc3VzRaSFNqc2lqbHh6OGNtcVljUV9PUDB2S2tLblZERGpBUzFob3VIZmpHMWhhbDhzZmFNWlRFZnJpQ0psZ1FNLVkxdkVDR1I2NkMwOUVEdHZoZWtFeDJsZXBfdw?oc=5)
 *Nov 20, 2026 · Google News – Anthropic news*
 
-UPDATE: Anthropic protesters arrested outside SF headquarters&nbsp;&nbsp;KRON4
+Anthropic protesters arrested outside SF headquarters&nbsp;&nbsp;KRON4
 
-### [AI giant Anthropic has record IPO - NHKニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNFJMeGFDaWpKbl84WE5XLTVwOGpTQzJNUG5XNFRZOC1FMjFJZWV0V2Y3TURORVRXX1gtLWdFY05CVEN2UjI0WFBoMjE4VDBkVmNCUnFuTFdwdHh1OWxLSGkxOA?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-AI giant Anthropic has record IPO&nbsp;&nbsp;NHKニュース
-
-### [‘IPO and beyond’: GIC to stay invested in Anthropic following Nasdaq debut - The Business Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWh0ZTg5UlR4MEJzTjZyaWN5dV83TzdfYlFIYk5uWkNDQnJxZm0wVnBaaElORnMtM09GQ1VYUjBQYjlzVWdSVHRmeHg5eUhXOHlDbWF5dTFxVDkzYnliczBpcnRCXzJ5Z0N3VWdrTVhvUXBYYkRmdFc0N0ppN3VManVEYVJBSzBOVmxKUDdXZWpCRHNKWnJLRElKeXVwNXJDd0dLWWFDdjNoM1ExaFBCa1hIbU5NQnVsYmxr?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-‘IPO and beyond’: GIC to stay invested in Anthropic following Nasdaq debut&nbsp;&nbsp;The Business Times
-
-### [Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say - Fox Business](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVM0ams5ZktGWERYUzFCUzA0RV9QQ1dVaTMxSUxWckc5ajhvYzN3M1hHdndzTTZmbGhlR0h1QmN5bzlBSHJZanJ2U0psNzNWb3VvS0UzYjduZjE1b3R2SUgtXzlZTXpTT0tXNndUQkpNNU9rZm1aV2E4bm1sRzFUMTJUUnl5V3ViQTlkYzM4RjJQQUtqUzVKVDdFLUlTQVFkaWdNWGZHTjM1ZXpQMlhBOVVaZ9IBuAFBVV95cUxOZDgwUXlYS0RFaGNtVHRobkcxcEs5WHRJSWtUaEZMNU9GVVcxNXFoM3Fpckk3NHhhZUdXYmkxYzdEM0w5d29QQnVEUzVvdkh5QnliSF9JeEpnTE9ZX01lNnM3MzA1SlFxU2tEQmVEdEJIV3RqSGZzVmUtSWh2VEVyb3RuclZONFF6RlZzeGoxUE04UnZRek1JUWlqZGFQYmFVR2hkX3N6NGg1bmxkQnRNV0RmcXZjbHBJ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO turns thousands of tech workers into overnight millionaires, reports say&nbsp;&nbsp;Fox Business
-
-### [Riemann Hypothesis Proof Claim: Claimed vs Verified - explainx.ai](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3NjNEZvRUZoRTlFOFlRczdKZ3V2bDB3WjFVMmVaQWJJOVVnOU9lUjFmNUoteEhWdXFnWUdacHFaSk9ONGl5WHRtOUQxLUNUaFFQZ2NGanJoZEZ1R050LTVUaTk4cVkxc2RvLVFUMUYzUkp1ZkJSY3dNWnpJeU5tU09xN3ZBYWZJa2YxWHZDbGpsX2hKbWZjQ3pTX29hSmNFbmVWcnl5Rm55aC1OUTlZ?oc=5)
-*Nov 20, 2026 · Google News – Anthropic Claude*
-
-Riemann Hypothesis Proof Claim: Claimed vs Verified&nbsp;&nbsp;explainx.ai
-
-### [Anthropic trading tests investors' appetite for AI - DW.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnZ0WTVLTnNETEJvVjdTeWU1YlZXQmpMV3lqdnRyaGEyLVUwaFlGNlRNWWpDMElsWm5ydXBabm5CU2xWWkZkZ1NiZmlPMEZYX2dCVmZhRzZJZk82WGhWU3ZUNGFvdFo1enV2UWsxR25QbUh3aG1qelYwU3R2bUZCX3ZfdVpDbFJFbnfSAYoBQVVfeXFMT09NLUVzMlBNR2V5NEpic1c1X2tmeWJBMUhyUlhzbEtwaWVWeDR0UmU0a3U4ZzhqVEw0NTFoYzQxWTBRTUdvbHNzd2hLYmM5YTJIdjlqbzdwV183clNPcnFwUWprZWtQZTBvOFNxc3FVUlViallaS0syS0Fxb0lBanJRdUI2c25MX3pB?oc=5)
+### [Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T - FOX 5 New York](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HRG5qclY2MnFjRll5a2xiWGdfYW1fZ3hXT3o3eEVPTHk5MUpLVUw5MW5rQ2lHVzZVd0pJelYzLWxfeXJ6Njc5MDFjTXZyN2g2djhLMVJiVWZ3U1FMcXfSAWNBVV95cUxOVm94cVRXQzNwNU9BbElkSUtRdnB4TXhJc1hxdk9PUkhfdVI3MnlvTFJTanQxZHRuUWExRXQwbUtMVUVFTEN5aFIteHU2RlRBYlZIY2N3NVFrbGtDS21BLXBTaVk?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
 
-Anthropic trading tests investors' appetite for AI&nbsp;&nbsp;DW.com
-
-### [Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zckUxSEg1ZjlDTjU5cUN3cW5Sd1NqaktmSm84eU4ybDRrSHNKbU42SEI0dUZVZmEyVXlVOWVFSGJXMzhCTkRhTHZLME16UEhmbHNkWHVoUEF6U0E?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO&nbsp;&nbsp;BBC
-
-### [Anthropic begins public trading in major test for promise and risk of AI - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMickFVX3lxTFBtUHR5dHdaR1ZLSms0c0VBMk90dlY4MHNFSlhGT3ltWVJMelJhcGoxQ3Q5cFZsSDNLY3lRcVp1OEVPUU8ydFY3U1RUc1R2QzV3emVhQ0lhQl9OTUo3bllqeE5PaDBqVE9HWWxOVW5SSHVKQdIBd0FVX3lxTFBXYVMxTHdtTFVEemJoTWNEZEhGZnkwQ3pmTnQwSmFxWGVzM3dDcm1qRmkzbUJUb24zM24tQ19hNWJjd0hvTFZ6WUV0d2FaUlNJZFoxM05sNG1GM0hobzhzMEVuNWV3WEVUaXNOYjlvVm5KWWxCOENv?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic begins public trading in major test for promise and risk of AI&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos
-
-### [Anthropic IPO: Iconiq, GIC Among Biggest Winners in Landmark Public Offering - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEROWDAyTlh0N2FsV2c0SlMxUXhIVFptMmhvZTBzaVJpMTVsLU5uMUp4UTJ2WGN5SXNDMzJtSlk2ekEzZXNKYU1uUnZpenVjcUdfSU9pNm1DVG84MnFqNUs1UlhLQWhXMnZNLTRiV2ZRa1JUSGhGSE5RamxiY3NybVhHOVhkSm5IOTMyRWhhNFRpN3I3YkJkSG9lRHE0VlFIbHVLMkoyaEMwRl9yNEZZ?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic IPO: Iconiq, GIC Among Biggest Winners in Landmark Public Offering&nbsp;&nbsp;Bloomberg.com
-
-### [Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T - Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmxDQ3djbV91aHBTN3l6R01zSUxINEJpV3YwQXpFanhmY2tuZ2k2LXFzbldqN21ILXV1UGhrVkhCUFBvZGdSUG9nNEJBMHAzb3k4S044T2JnVHpTbXZHTjFYTUF4RFRqVU1qZDV0X0lHOXhTSFl6MUdyM2NBRVo3dEF5NDk1VFF6RVdWdw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T&nbsp;&nbsp;Yahoo
+Anthropic IPO breaks records on Nasdaq debut: Claude AI service valued near $1.8T&nbsp;&nbsp;FOX 5 New York
 
 ### [Anthropic passed the IPO test. Now comes the hard part. - CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRzBTbHlpNUt0RElJNUNOQnNfLWxmcjZjV1E2anlJODJ6LXVGbHJQcjN0NFFYRlVBZ21TMnhoeUR0LVdDR09TQmN5QnJuTmd0ZXVEZkloZTBOOVU3MXo3SEExN19HQXl3LV9kVi1GUXhDWkl0VGc?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
@@ -235,10 +400,10 @@ Anthropic IPO Live Updates: Company Value Surges in Stock Market Debut&nbsp;&nbs
 
 Apple Working on Own AI Agent to Rival OpenAI and Anthropic&nbsp;&nbsp;Bloomberg.com
 
-### [Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur - Facebook](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3loOXEyak1QRFdSMjRXMEFUVkRFX3RZQi1PdHMyWUpTUkZkZW1iSEZ3b2UtZmhzT0ZYc0prcUtUQVBxVy1rb2h0M3FpMkNQTlBFRmRucEtlNUdwc1JNSkRLbi1HcFRyVGpZTVlZOHczc2pKRGZKTEo2TjZtV183WG1kYlRQVy01WHY2Wk8wUXhNU29WWFh3V0ZQTnZwWnNYY1FNdjRDRG1NZ1BEeTBqdUJvTldWamgzRU1FcUw2UnRzZ1YyWFpJc1lHcGkwQXV2WEVz?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
+### [Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5)
+*Nov 19, 2026 · Google News – Anthropic news*
 
-Anthropic instantly became one of the world’s most valuable public companies after its stock market debut on Thursday. Take a closer look at the company’s valuation compared to other tech IPOs. https://nyti.ms/4zYR5Ur&nbsp;&nbsp;Facebook
+Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com
 
 ### [Anthropic stock closes 17% higher on its first trading day as Nasdaq sputters - Fast Company](https://news.google.com/rss/articles/CBMinwFBVV95cUxOazB0eDVuenVVTXVRNFRNRkxuenQ1T29oVHJ2c1NCNGl2TG4xTEZQWXhmQTlHYW00cW1OYXRVNWw1and4TGMtRVRKNExBV2U5NkNhbWwwdFdKdU9mREwxclNRdEZNbjg0Z3h0ajlRYkp1em1qR3BkZFZ2TVF4WFBCdE9GNGJaNEc1blpYSVYyZDM0VFdaM3JPQ3lpaWlyOEE?oc=5)
 *Nov 19, 2026 · Google News – Anthropic news*
@@ -255,113 +420,18 @@ Anthropic starts trading in the US after blockbuster IPO&nbsp;&nbsp;Al Jazeera
 
 Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%&nbsp;&nbsp;Forbes
 
-### [Anthropic soars past $3 trillion valuation as it begins trading in the biggest IPO on record - Nine.com.au](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSE54YThiU1JvaGNoZXNncnVUN3p3b1pEWFBjdmNsb2FXcmFJQVp0V0VCdGpHTTAweUExa1pzRV9LTHlWZVNUMzBDU2lTTXZDQU1CdUs5VGwtMnFKblRpV1J5SV9BWFA3ZWFxX0JGSWQ2ejBvbEVocnhERU1NVGhZQkhwUl9RTGl4c1hsaEVNNFJaeXBDUTNkZmYyT18wOGFuNndiLTNDaElOMV8wdm5Sby0yNFZuYmREaWJ1Sw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic soars past $3 trillion valuation as it begins trading in the biggest IPO on record&nbsp;&nbsp;Nine.com.au
-
-### [Anthropic tops SpaceX in epic market debut - Deseret News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSzFveTFJRkg3Tkx5eExDeXBiUWttd1RRdXNCYjZ2ZDRUQVdybUkxVGY3SVZENU12ZXlPdnFFUUFUbHc2bjBoRVdJOXE3ZHU5eWpWcHN1MG1aTkdRWXdBS2JIaUxnZ1JEaVhSdEhFYzB1aUF6V0hzdkJzZFA3R0J6YVpkb2xtbV95UXUtM2dzV3F2LXp1SU9POEFYNXJxOHZLSUxqMUtDbVo2RlFYenFNLVJ4emZLcGtsc0xFTThPcURlMi1xVDVlNjhzYXFmWHlIVDJvUzJPRlN0SjU2NDVuSVVn?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic tops SpaceX in epic market debut&nbsp;&nbsp;Deseret News
-
-### [AI company lists at $111 a share in record-breaking float - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWQwaEd1ZGR1VDZCTHRVdUxpQU5rM2tGRWxpWUU0RHk1dThhUTI4TGlOcGlrc1JVWDFLR3E1ZmRoeVlfeWRhTVBNSjhkSkxqeXBPMXVSdU5IanhOUXB6bDd5RW1GaXZ6a1RWTDFwSXV6MEVTQjkwZGh6dlJmSENmU0hnZw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-AI company lists at $111 a share in record-breaking float&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation
-
-### [Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE80WHlsODFJRVA2MEVaNG5DZnZVTkg3c0ZxNGJjUC1nUnl3X25hNVpkVnp3QU9ZU0tiN21aLVpRaVNpT1FJd0xDSzVQOEF3OXV6TS1Ia3ZwbEVZWFl3SFZtOWItQUVGX3k1ZVFEbVFOa2RkeXNFTmdWWEg1UdIBe0FVX3lxTE5pV0htV3ZDa2ZOWHd5Q3N2YXdLVVJhajdrQmNCOUhZNVNTMzl1U2lDSjNBZFl4cmNMaHlqYlFfWjNyVWFsY0MzdE5nVjdLbU5sbnNaTVU2eVRMQWtWeGlXRS16dGJ6SVBoSE1MdS1ramJlNlh5T0lSdHRMOA?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com
-
-### [Anthropic, company behind Claude AI, goes public with record-breaking $81 billion IPO - WHAS11](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd3lGZXhxZTMwTDJsRnBXR3VWNlk4Nmw0dmdzSXBOcjNicHlpcTJkMXdyR1VqendQVnJjRzdLaUt1cE5MRU1MNTY0aDIzeG1oM0l1cTBpM1dEMWRSUW1VODFvX25UamJyVFQtaHBzSHdkdzlkYkRNc0JIMzRVMDVaOHNGTFdWR1NwOXhxX2lVV0pUajh2dV9IVmd4Y0tONUdsdHBuZV85SzZHeHQtTWM4V0NuS2ZaUDg2MGJrMFV1RTRjTXFFR081V1dROEpWanhneHNVbnVMcDNfUUtyYmFRWWk4U1M3N1ZhaGF5Q0VmNA?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic, company behind Claude AI, goes public with record-breaking $81 billion IPO&nbsp;&nbsp;WHAS11
-
-### [Amazon’s $18B bet on Anthropic tops $200B, for a moment, in the Claude maker’s historic market debut - GeekWire](https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0hadXpsX0QyNnNhb3RxbElnaTdTaDVIN18tY2xYWUQzOVZTbk9PNURNS1pBVTF5alo4WEFuMGtHdlUydXRydVhhS2ZlamFHZFRfVW42MVo0VEQzQmtleFdtVGNvMDdIdEFHN25hMDVORll5T196MzRqaEFkX1BJU1JLb1R5eTN5NnJvbThZMWRYczA0b253dUV1bnBzZTRJMERsaUFPZEpfOWktRlYxRkt3?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Amazon’s $18B bet on Anthropic tops $200B, for a moment, in the Claude maker’s historic market debut&nbsp;&nbsp;GeekWire
-
-### [Brighton Anthropic founder to become billionaire - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUGNCMzZ0MWhXZndWTDhIeUxyX3Q5eWNWQWo5UHZPVjlJQjh2TFMzbnNFa1RhZmg2bzFFSFlacUlsUnh0VEoyaTExQjV2cDRmaVpGdVV3clRITHc?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Brighton Anthropic founder to become billionaire&nbsp;&nbsp;BBC
-
-### [Should You Buy Anthropic Stock Now That It's Public? - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUFFOEVwdllvLWRkWm5mYUNFM0xtemZfUExmSlVuRkp2UnNrV2kzMzFmY0ZEcWpCX1YzLXI3VWRzY0pCcElmUFZXOUhHdHU5UVF3cWlZQ0tpc3pyQVhQUjhDRUQzdGxJR2RQc3czbmxHQ3dLbW15Mk84QV9NeDdLQWJ2QndLMEZaZ1hZYWRKa0twVWJXTmp1Sk56WQ?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Should You Buy Anthropic Stock Now That It's Public?&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic shares list at 34% premium on Nasdaq, valuation surges to $2 trillion - Moneycontrol.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnB2X1dIZjNhSHg2cHFxYnhxMWYzbWtGTVdqdkVicjZpeDBKWUxXcWpqX1h0NEplN3VIZnZYV19HaVJJQm9IVG80eDgzT3JvZERwUmdrdU55ak5LWE9VQ0pDSzJic21nOUpLNzM0OTdvVlNXSDB4RGhpQUhoS0gyY000UzRITGRvamxKY1BhOGVzR1NsMVNpdWplSkZHNENEaFFOamJmd09rMk9sVHd2TUkzbW5ZWlJhcGd4V2VFWEUzYm52dm9LcEFNUzN3bDdoVHZ4RGExN1bSAd4BQVVfeXFMT2h3bUVjbEprMkhBaUxKVHlaTlVwcjAyLTRQdjF5VDJhZS1VZ2RXb0NnRUdRU18tLWk5TlN1bm9RTENqRnNxeGRSS2NCSENkRmtDWHREZzhLa1RtOUhQQVliMHd5cG1MNVhIQURTUnd6RWdaTlRWY1FtQVdwNzZVUWhoYWZMbW82b0xNSEh3RFhyRWV5TTEtV25FNGtQbGdvRVR0bk5kSWh1am9LWDNVdHYtMFhOaXYwLVVOMFNOVXRHLUJCMUJHNU5DdDdRdDYwdEp0U2hNQmIwdGJZS1R3?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic shares list at 34% premium on Nasdaq, valuation surges to $2 trillion&nbsp;&nbsp;Moneycontrol.com
-
-### [Anthropic Researcher Says Pretty Much All Humans Will Become "Permanently Unemployable" After Its IPO - Futurism](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ21oVzY1SHRTMnlmSEdubklYRGlkdmEzVE5TT012WEI5NFJpaDNtODlQbzVMOXJsazlGR1Nibk12N2x2OWhaamxmVUNqaFRwY3AxTE82cVRzU0xic2xmODhoUWdUTXo4NHhQanpfREJUcllLNHdhRWlMNElCVmtIMm5ZUnBxdw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic Researcher Says Pretty Much All Humans Will Become "Permanently Unemployable" After Its IPO&nbsp;&nbsp;Futurism
-
-### [Anthropic Official Warns State AI Council of ‘Tumultuous Cyber Era’ - Nashville Scene](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ0hRNjlzTXdNQ1dhYmxCQUpBZFQwQ1NLbU5iam1CRXAtTXphSFM4VFEtNzNMd25DY05yTDdPOU56NlB1NFZocndSWTdQdmxFekp6ZlRGUjROc2pKSHNkQTJQWHJtUFJjS1UwUkVqWlJtWHllektfUExVVWlGU1RpYXVtNmVwVG5MNGR1VllMM3BiVFliR3V2Nzcwc3BmV3gtWHhHYkRydXpzUnpwb0hKUmhVRGROLXJmcEFmNW9NZVpUbnFKWjY2NHhqdVgzd0hyVGlqT0NXMV9udy05WDR1bEd3?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic Official Warns State AI Council of ‘Tumultuous Cyber Era’&nbsp;&nbsp;Nashville Scene
-
-### [$107B isn’t enough? Anthropic CEO eyes debt binge just hours after blockbuster IPO - New York Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXZtUmw0X3U1WjkzemdKbUcxejRyby02SHZmbHE0bkEtUHBtZzE2VFlDT2NLaVBFbjZBZjBodFBYQ1BxMl9oUWwwemtxS2ZRdjBrc1ZyNXUzTlZ2WklKR2hTSDBGWkFucElhT3RkZ04zUEJOS0UxSXpNMXQxeW53eFF6enBpRnRaWlBCOHJKVGZkM2JWTXRvbWFDMVN5Zkd3dmdZYk5qVjlYb2llUnlRZTJnSEZFNEh4NVUw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-$107B isn’t enough? Anthropic CEO eyes debt binge just hours after blockbuster IPO&nbsp;&nbsp;New York Post
-
-### [Anthropic IPO Caps A Breakout Year For Its Claude Partner Network - CRN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1ctdTJJbnpTcGU5UkV2cjNQdHl2SU1KdTN6aFhjVUZNbDBPSUYwbjFYeWt2LWk3YmVTOW5HRnVRcGpJLVl4ZUlBeGp5TjNLZU5ESHozYjJzNVJqRTc4ZUZpUmo1bGpMeWdIOFFQSFo2M3M4WlE4SXgtRVNKbG8yT2VwWS1xZ3hnYmJ4TDhxWUE4M2dVRXl3WHd3YWQyRk0?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO Caps A Breakout Year For Its Claude Partner Network&nbsp;&nbsp;CRN
-
-### [Anthropic Shares Open at $111.50, Up 34%, in Nasdaq Debut (Update) - www.trendingtopics.eu](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QWFdpUWNWZEdrWHF5MXZ0WTRXeGNpZ1p1RXgzNGRyN2Fjc1BTNlJEdzVQTVNkZ2xWekMya21ZMjFDdW9fbDdIUUFmdmF0U2lSTWlBMXZqVmUycklQVFRmWnJjYWRtX0RCZEN0YzBYalZzU3R4OFQ3S2szTkw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic Shares Open at $111.50, Up 34%, in Nasdaq Debut (Update)&nbsp;&nbsp;www.trendingtopics.eu
-
-### [Anthropic's IPO set for blastoff Thursday in key test for AI boom - CBS News](https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic's IPO set for blastoff Thursday in key test for AI boom&nbsp;&nbsp;CBS News
-
-### [Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day - Yahoo Finance](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BUWGhIRWx3bUhMcXMzVWNCUzNYQ0o3TVVwNE5MOHo2dWhPT1VLQ0lUbHhaYUZHOWFIajJla3o1bTBScU9VSlNuSU9WZjdFWmtmX01WNXN1XzhhUGFVNnlveFgyZWs2cEtpeXFFbW1vLVBNVHhjTW5oQ1JoVkM0X0plY3hrWXhPMk40UGdZV3czbi1mX3B5cmc0b08xV01mTnNqQ3llOERNeEloemZKUXh4V3RtZ2J0ZXNDREdoSWZIX1JacWI1d19WWVdsRzhsa0tkQ09xMTBFUG43MUh3?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day&nbsp;&nbsp;Yahoo Finance
-
-### [Anthropic raises USD 81.3 billion in record-breaking IPO, valuing Claude maker at USD 1.5 trillion - https://internationalfinance.com/](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcTZMdjY5NWRtbVBDel9tLXhLWnlfZ0YxNlAzU2RCOTR0c2Ytb0E1UEkxNkhleGtYcVRXWHBwbzJwNlRfTkM4ZTFLaTU1ZUE3MjRzNTdsOWh5LWt1cTAzTGR4NTZXalBjSzVFdjllQTduYXQ3ZmJCajhsQ1pRaGtQUURvbl95N05MLTFVc2tiWWtOUWh1eGJSU3pTdHRXZ19QUmFRV2ZzY0RvQnVHVjhxTnFGamdxTjZzMC1BRGhmeTlhY09PRkRDbjE4WGc0eTdJSzJaRVZueUhQUQ?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic raises USD 81.3 billion in record-breaking IPO, valuing Claude maker at USD 1.5 trillion&nbsp;&nbsp;https://internationalfinance.com/
-
 ### [Anthropic shares gain 17% on first day of trading after record IPO - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTE5zaXRWT25VRVcyM1NtbmRta1dHZWJZcHlKS1NPWUNmemJLZGxPd3lPRVlxc1ZfY0VuZXNuRm14Y015Vl9IMWNfc2Nsb0gxckNXR2UwcGRPN1RtTXZYWklKeWNIWEhtbUV5SUxpelJFYzc0eWZh?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
 
 Anthropic shares gain 17% on first day of trading after record IPO&nbsp;&nbsp;CBS News
-
-### [Maximum Acceleration: Anthropic’s Claude speeds up its own development - ForkLog](https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0hkb2ZVOHNacWNfNEFtOUJTNXRtLVVrUm4xSWM5WGZRX0Jvb3pnUFVwNUJPNDl5YWR3WmNkZFFjdWRXRkV1eVpvX0hIUnlPWXllc1ZaQUgweHJKSXJXRHVETEVLTXp1OFEtZlhJemgxMDZaei1HazZTN2lXRWhaVFIxNm9peURwdFRGczBHMFhQY2ZfbERz?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Maximum Acceleration: Anthropic’s Claude speeds up its own development&nbsp;&nbsp;ForkLog
 
 ### [Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWZHVTllX0Nkbzk2Mkw2X2h1QXBNa213UlBfT3B6cXNsU2VvR3VMNWppZWRMMWFMb3RRcURkWG5rZWlpOERIY0prMk90YnVfaUkxWHRySUFkTG9sM0pHYVI1RHUwVkJnbkhDbmxha3FtYVRlcVloV1dDV194ZnRQZ3ROOWxSZw?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
 
 Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO&nbsp;&nbsp;The Guardian
 
-### [Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself - WIRED](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHhPb0tnUFlCVGFncjFTaDdocHdGdXJ1MkdGODRJOVVSMms5SXExRTJ6Um5uR25Tc1dTbDBFU1QwRWgtZ0szM3RhSDJfaWhoVzQ0dEpqZ0swZUY0SWk5VEl4M3JJTklkZ0I5ZEVCTHN2c1J1S3dDdWJZeDdkQmhzbWFUeVVlVlkyeWxMM2x6TzA1Mjg0M1l5NEZUdEx1eXJEMTVWT21n?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself&nbsp;&nbsp;WIRED
-
 ### [Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
+*Nov 19, 2026 · Google News – Anthropic news*
 
 Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Reuters
 
@@ -370,85 +440,35 @@ Anthropic's blockbuster debut tests Wall Street's faith in AI boom&nbsp;&nbsp;Re
 
 Investors scramble for a piece of AI giant Anthropic in blockbuster IPO&nbsp;&nbsp;NPR
 
-### [Charting the world’s biggest IPOs as Anthropic overtakes SpaceX - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxORXdUdVYyRklwcFRuaUM4MVhJVTZVY3B1MERYQzJVV1pvWU9ISmFtX0ZPcGd5TVY5OUJkRzRhdnI0X1dxNm9mM0ZaNFBNNVRnVUJCTGhWRGpQZk5QYW5uRFVoZkllWW90UXlhXzUwOElLbkN5eGxvOE9GTmUtck9WcHlYZzhycjVGREtpYXpIZXpvc0FZeU02ajJaUmZTX3lFRlUxUnRvONIBrAFBVV95cUxPaGxtVDV5ZzJLYVVDdWc2OHo2bTlhYUdaN01ubWhnMEUtSTd6am9MRU5jNGVhY2YxOWlkVk1vSnhuTlRiWDRjVV9lT1RHM29pd0lQWmhhNTdXc2VDUFBxWWZpRFlMOE8ta3dJNEdBcEZBV3VyVlBxUzdnUGVtUGNucTBoUi1uU25tbWwxZk5GRWFLUDdhZklXMXllSWJtdmxRY1Z4NHZPTG1QYWR1?oc=5)
+### [Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE80WHlsODFJRVA2MEVaNG5DZnZVTkg3c0ZxNGJjUC1nUnl3X25hNVpkVnp3QU9ZU0tiN21aLVpRaVNpT1FJd0xDSzVQOEF3OXV6TS1Ia3ZwbEVZWFl3SFZtOWItQUVGX3k1ZVFEbVFOa2RkeXNFTmdWWEg1UdIBe0FVX3lxTE5pV0htV3ZDa2ZOWHd5Q3N2YXdLVVJhajdrQmNCOUhZNVNTMzl1U2lDSjNBZFl4cmNMaHlqYlFfWjNyVWFsY0MzdE5nVjdLbU5sbnNaTVU2eVRMQWtWeGlXRS16dGJ6SVBoSE1MdS1ramJlNlh5T0lSdHRMOA?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
 
-Charting the world’s biggest IPOs as Anthropic overtakes SpaceX&nbsp;&nbsp;Al Jazeera
+Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com
 
-### [Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut - Bloomberg.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut&nbsp;&nbsp;Bloomberg.com
-
-### [Claude is cracking down on abusive users — and 1 in 3 Americans could be in for a surprise - Tom's Guide](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjI1VkxWRVpVeko1Qy1VM3dWX3gwUC1IeGRZM0JtdkF4ZC1lNHkzSUNTaXZKaHI5ZEVpT0lkMnQtNEN0NWo3TlpqdFl2MEI3Q09XUGhQS3RQb1plb2dLNm5YVFR1aHhSOFhTTmV4QkZfZkJkM1diYURIdkxsbFloSm5ldU5hSHFtTXB0cEc4ZUdTcTdaZUNmWjlteE9hR2lVRWNVOHBHWGtoekZLWm1XOHNxcnZOa3dN?oc=5)
+### [Anthropic Claude AI Predicts a Wild Chainlink Crash for 2027 - 99Bitcoins](https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1czVjVSMmdDM0YyeE02elk4dzg2NUU4MllDYVVXZWN2QW5aZUxFeTktUk1WWm81Zzd4VUhpSGFDMVBZcjFMakhUVm8zajBUS2tia2RXUHNlX0hmZjJlUTRxdk9EWUFLRkNWUUFtVjJVbGpvT0gwdjc4Q1FuRjVad3BkZGZiRElPeGpvdnlyc2poS1hFRGMweG9vNHVvV0E?oc=5)
 *Nov 19, 2026 · Google News – Anthropic Claude*
 
-Claude is cracking down on abusive users — and 1 in 3 Americans could be in for a surprise&nbsp;&nbsp;Tom's Guide
-
-### [Anthropic’s AI advances trigger new safety fears on eve of IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2tHUWtySlNwcXE4MXdQYTFOV2dQQ2RmTkM5Zi13ZmNMQWFVSmFsbmxBeXFyMWJwWURZSWJxZ1o0OUFnZlFWN3cwdVFtUzdwSXIxakNaUDBZeXNfWS1TaUFON2ZpSkRmbmJac0M5SFVyT0tBeXZLc2tfbFN1S3c1enBVcHc?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-Anthropic’s AI advances trigger new safety fears on eve of IPO&nbsp;&nbsp;Financial Times
-
-### [Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - PBS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU03SllseEF3VVN3d3BKNTdnUGlTd1o1TUZZNG5NdjNvc0dHSE1veUwxdUhMNFJGbE01QlZJZ0RZNGl5akZYNGlWVVVXLVAxdkRLVjRHWUdyQXdNYjRCa29OeGtJS2tjWUNCNEJreEtuVXptOE9BQ2hHWEwzNmgyaU1DeW5fOGJYTVFEbnNEbThSV1lKMXNzeGotazNsWHBEZk1Mc0xUXzdqcDVoaE5EWkdESUw?oc=5)
-*Nov 19, 2026 · Google News – Anthropic Claude*
-
-Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion&nbsp;&nbsp;PBS
-
-### [The Rocky Road from Aggregate to Per Share Value: Anthropic's IPO update - Musings on Markets](https://news.google.com/rss/articles/CBMijwFBVV95cUxPX29xbHNIU1I3Q0FhNmVKazY3alJVZ0tGeFQ5bU5FNWRneDV1LXFZYXJqUmNyM3BVcVFVYmxXTDlLOWpGOGVnTkYtTzNSeGVaRF9fdnRMeUlxYnpzVnJtSUgyN3BpTnk5blExSW1wem4xRl9sMGxreWZnUHlkN2pETnFtTW1BbWctdTZlTHVCSQ?oc=5)
-*Nov 19, 2026 · Google News – Anthropic news*
-
-The Rocky Road from Aggregate to Per Share Value: Anthropic's IPO update&nbsp;&nbsp;Musings on Markets
-
-### [The seven Anthropic founders who are about to become multi-billionaires - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE16azJRXzVWcDI4aUdNN2dJWEhRbl9xcVdQeVgyQzlsa0RaaGdYY21GQm1lNDlZaFdIMjVxOGZBTjVadVhiLVFBNHVSN2F3RG8tSllRd1NwNFhNUlk?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-The seven Anthropic founders who are about to become multi-billionaires&nbsp;&nbsp;BBC
+Anthropic Claude AI Predicts a Wild Chainlink Crash for 2027&nbsp;&nbsp;99Bitcoins
 
 ### [Anthropic raises $81bn in record-breaking stock market debut - BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BUFZ2N3hWaXQ0ZW9RZU5vRk5fUG1nNWpKZ0tsR2Rkbi1EeXVycDNxTlNKR2E3dDVKc0NVNGNEWVJRYmZnT1ZXUlY3VmZCTU9LVUxpSzlWdzNFNHh0bWc?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
 Anthropic raises $81bn in record-breaking stock market debut&nbsp;&nbsp;BBC
 
-### [Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5)
-*Nov 18, 2026 · Google News – Anthropic news*
-
-Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap&nbsp;&nbsp;Bloomberg.com
-
-### [What investors should know about Anthropic's unusual IPO - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXotRHBaOFpMdjhaN1ZjaTVUYlk5R1dVeV9peE4ydGstX1E3NnJuX3Y1Y2pRUS1DRVR6cDZwMk1XTV8xRksxdWprV3hhQUExZmJzWGtPLUhUY2s3a0VmYUItTTVZVE9nX3dCSU9iU2VfM2ZUWG93c1ZWYkp1cy1BStIBhgFBVV95cUxOc1cwUm52ZVFiNFZKQ2hWYXpaN2NVZ2ZSTG52M0NtMnZvNVN5bGxTaXM2SUhLakkyZnFTdmtNYWp3OEFzZ2NSYlFyTXppRTM1MnVlNTVXYWRhamhiR3ZnWU9RN0gyX2lqZjJDOUtMMnd5WnpZbnQyaHBUSEw5WGVrU0VEZXowdw?oc=5)
+### [Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time - Yahoo Finance](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNklqMVdMV1diTGxyS2QtOVlIZWtVZk9TcXEtVFk5Y0hvMW9NR3hXMzlIWDc0d1hBWjQzVUV4Vnk5Z1VWNlpVdjcxcFZUam42OFF2Wl96a0VYbG9iSnRpeExKYU4ySWNKekVfMW52aDMzcUdJZVRIM3JTV2ZPRERieExJMDg3cmo0dzRHX0J0SHVmb1lQZ2ZV?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-What investors should know about Anthropic's unusual IPO&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos
+Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time&nbsp;&nbsp;Yahoo Finance
 
-### [Anthropic Sells $81.3 Billion in Shares for a Record IPO - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5)
+### [Anthropic’s Wall Street debut marks a new chapter for AI | CNN Business - CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwN3RZUUlsZ2xnX2REUk5uSEh0RTdScHBHQVd5X1J2dk1Eams5c1pDaHlWM3pJNkl3MXR0ZzR3QzRIOWY3a24zbTZpb21qVlRZMHlVYjMtTTNyOWs1cmozWHNEYXpLS1Z6RWtYOElVRmI1NFA0MGpVYw?oc=5)
 *Nov 18, 2026 · Google News – Anthropic Claude*
 
-Anthropic Sells $81.3 Billion in Shares for a Record IPO&nbsp;&nbsp;The New York Times
-
-### [Anthropic’s Wall Street debut marks a new chapter for AI - CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwN3RZUUlsZ2xnX2REUk5uSEh0RTdScHBHQVd5X1J2dk1Eams5c1pDaHlWM3pJNkl3MXR0ZzR3QzRIOWY3a24zbTZpb21qVlRZMHlVYjMtTTNyOWs1cmozWHNEYXpLS1Z6RWtYOElVRmI1NFA0MGpVYw?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic’s Wall Street debut marks a new chapter for AI&nbsp;&nbsp;CNN
+Anthropic’s Wall Street debut marks a new chapter for AI | CNN Business&nbsp;&nbsp;CNN
 
 ### [Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE5fN2ZOWVZ6YkV0emdTaWU3MGlkTzhwcFNGRl9pYXN2d2kwcnRoZW9HS0luWlp4clhWSXk3eExTeEljd1N4SklrZ3lTVkdRUzRCZE9sUFpOaDFyYTNYa19kTHNZSzVKaEV0RXl5YmJwQk9NRnRxR08w0gF8QVVfeXFMTlZsNHk0MjhxNTE4MVdnY1M5clBUYkJkX1ZONlRRZExmbF9LeU5JN3JSWk83Zkc1QUVUNlZCRDVFeExRQW1ZUUlWeVE0NVVvVGJ1MEtUYWFhSVNXX2I5bGlfb0lCSzlkaExmeXNnSVpFLTdpU0ozN0VpTmdXNA?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX&nbsp;&nbsp;CNBC
-
-### [Opinion | I Spent a Year Talking to Anthropic Employees. Here’s What They Believe. - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1hR0p1eTMya0NpcWxrVWhoRFFfQTF4S3pqaWdrc0xNei1rSGdmNFhoSThIaXc4cW1vaW5sTnpGYTlMdGxPeWZIeHBvMGt6TlNLcUQwby1BRDI2Z0JyU2dmZFU5bm9USkVJM1lyQnZjeUFqMndRQVE?oc=5)
 *Nov 18, 2026 · Google News – Anthropic news*
 
-Opinion | I Spent a Year Talking to Anthropic Employees. Here’s What They Believe.&nbsp;&nbsp;The New York Times
-
-### [Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript - MarkTechPost](https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1Jhd1ZQUE1lQWhlRkZFcDB5d18zeUpyS0o3ZWFlRnVwOXhFcG5IXzVITlZwcXN6ZTFDc1hIYmd2Wldwd01mYTdOR2preXpFUnBEdlJfQi1IMElxNGVaNUEwQUtxcER5NEQwcWR2Sk1zS1NETl9nc2MyNVI4bHhPTHdrUk9LM2YtUzRHZXJ2M2FuZy13LUlVS3Nn0gGaAUFVX3lxTE9TUmF3VlBQTWVBaGVGRkVwMHl3XzN5SnJLSjdlYWVGdXA5eEVwbkhfNUhOVnBxc3plMUNzWEhiZ3ZaV3B3TWZhN05Hamt5ekVScER2Ul9CLUgwSXE0ZVo1QTBBS3FwRHk0RDBxZHZKTXNLU0ROX2dzYzI1UjhseE9Md2tST0szZi1TNEdlcnYzYW5nLXctSVVLc2c?oc=5)
-*Nov 18, 2026 · Google News – Anthropic Claude*
-
-Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript&nbsp;&nbsp;MarkTechPost
-
-### [Anthropic IPO: how can I buy shares, and is it worth it? - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXlrX2MzQU9hakFSTmRJM0RrYTNCYkZBQmNHc3loc3BFdjlrQUNXR2k2aWFwN3dKc1VFNGJ1YUFfc3FLMU1RSzJsc0t3dTNHd2JTZl9uMnYyQ3lEOU1sTHBNNzRiUloyRE1WaEFmMXlCa3VEY3B2dVNNa3o0YlBvX0JXRjFfY25SR1pHc2ZLREFrZzkwZ1lfTXFibzhDZ3hCQXhEUjFZdENGTmVp?oc=5)
-*Nov 17, 2026 · Google News – Anthropic Claude*
-
-Anthropic IPO: how can I buy shares, and is it worth it?&nbsp;&nbsp;The Guardian
+Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX&nbsp;&nbsp;CNBC
 
 ### [Claude Fable 5.2 solves two open problems in the physics of black holes - Anthropic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUGhIZlEzczZ3OTFxcjBiRFJLUDhrZjhGM1hKRHdQWnYzV05NQUh0Y19Nb2d6WHlQNWR6UkZmWEp0YlE4endwZXJTdVNwUmN3LXQxUU5MaTFaQldqZkZNZjFHZWNiZFN6LV9UdQ?oc=5)
 *Nov 17, 2026 · Google News – Anthropic Claude*
